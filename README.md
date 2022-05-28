@@ -2,17 +2,17 @@
 
 ![nvchecker](https://github.com/guizai/nvchecker/workflows/nvchecker/badge.svg) ![Build Docker Image](https://github.com/guizai/nvchecker/workflows/Build%20Docker%20Image/badge.svg)
 
-使用 [nvchecker](https://github.com/lilydjwg/nvchecker) + GitHub Actions 定期检查软件/包新版本并通过邮件进行通知。
+Use [nvchecker] (https://github.com/lilydjwg/nvchecker) + GitHub Actions to regularly check for new versions of software/packages and notify them by email.
 
-## 说明
+## Illustrate
 
-平时使用/关注的一些软件/包有新版本时，没有好的办法第一时间得知，试过一些服务，也很难满足各种情况，因此自己写了一个，获取版本变更与 Changelog 并邮件通知，但是只适配了 GitHub 和 PyPi。
+Usually use / attention to some of the software / packages have a new version, there is no good way to learn at the first time, tried some services, it is difficult to meet various situations, so I wrote one, get the version change and Changelog and email notification, but only adapted to GitHub and PyPi.
 
-后来发现了 [nvchecker](https://github.com/lilydjwg/nvchecker)，很灵活，大部分情况都能满足，因此基于 GitHub Actions 实现了定期检查软件/包新版本并通过邮件进行通知，但是 nvchecker 目前只能检查版本变更，无法获取 Changelog，不过也够用了。
+It was later discovered that [nvchecker] (https://github.com/lilydjwg/nvchecker) was flexible and most of the time, so based on GitHub Actions, it was implemented to regularly check for new versions of software/packages and notify them by email, but nvchecker can only check for version changes at present, and cannot get Changelog, but it is enough.
 
-## 使用
+## Usage
 
-在仓库 `Settings - Secrets` 中添加：
+Settings - Secrets：
 
 - EMAIL_TO
 - MAILGUN_API_KEY
