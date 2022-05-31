@@ -55,7 +55,7 @@ jobs:
           TITLE="nvchecker Updates" \
           PRIORITY=5 \
           URL="${{ secrets.GOTIFY_SERVER }}/message?token=${{ secrets.GOTIFY_TOKEN }}" \
-          && [ ! -z $LOG ] || [ ! -z $RESULT ] \
+          && [[ ! -z $LOG ]] || [[ ! -z $RESULT ]] \
           && curl -s -S --data '{"message": "'"${RESULT}"'", "title": "'"${TITLE}"'", "priority": '${PRIORITY}'}' \
             -X POST -H Content-Type:application/json "$URL" \
             || echo "No new versions"
