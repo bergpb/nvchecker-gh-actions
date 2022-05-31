@@ -12,3 +12,18 @@ use_max_tag = true
 source = "github"
 github = "antares-sql/antares"
 use_latest_release = true
+
+[compose]
+source = "github"
+github = "docker/compose"
+use_latest_release = true
+
+[insomnia]
+source = "github"
+github = "Kong/insomnia"
+use_latest_release = true
+
+[gotify]
+source = "github"
+github = "gotify/server"
+use_latest_release = true
