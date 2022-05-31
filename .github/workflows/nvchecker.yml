@@ -55,7 +55,7 @@ jobs:
           TITLE="nvchecker Updates" \
           PRIORITY=5 \
           && [[ ! -z $LOG ]] || [[ ! -z $RESULT ]] \
-          && curl -s -S --data '{"message": "'"${RESULT}"'", "title": "'"${TITLE}"'", "priority":'"${PRIORITY}"'}' \
+          && curl -s -S --data '{"message": "'"${RESULT}"'", "title": "'"${TITLE}"'", "priority": "'"${PRIORITY}"'"}' \
             -X POST -H Content-Type:application/json "${{ secrets.GOTIFY_SERVER }}/message?token=${{ secrets.GOTIFY_TOKEN }}" \
             || echo "No new versions"
           rm -f result.tmp ${{ env.LOG_FILE }}
