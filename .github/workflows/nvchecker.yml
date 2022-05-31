@@ -52,7 +52,7 @@ jobs:
           LOG=$(cat ${{ env.LOG_FILE }}) \
           RESULT=$(cat result.tmp) \
           DATE=$(date +"%Y-%m-%d") \
-          TITLE="nvchecker Updates"
+          TITLE="nvchecker Updates" \
           PRIORITY=5 \
           URL="${{ secrets.GOTIFY_SERVER }}/message?token=${{ secrets.GOTIFY_TOKEN }}"
           && [[ ! -z $LOG ]] || [[ ! -z $RESULT ]] \
