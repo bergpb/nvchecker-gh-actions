@@ -9,7 +9,7 @@ RUN pip3 install nvchecker
 
 FROM python:3.9.13-alpine3.15 as build-image
 
-RUN apk add --no-cache bash curl
+RUN apk add --no-cache bash curl git
 
 COPY --from=compile-image /opt/venv /opt/venv
 
