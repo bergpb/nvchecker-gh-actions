@@ -2,7 +2,7 @@
 
 ![nvchecker](https://github.com/guizai/nvchecker/workflows/nvchecker/badge.svg) ![Build Docker Image](https://github.com/guizai/nvchecker/workflows/Build%20Docker%20Image/badge.svg)
 
-Use [nvchecker](https://github.com/lilydjwg/nvchecker) + GitHub Actions to regularly check for new versions of software/packages and notify them by email.
+Use [nvchecker](https://github.com/lilydjwg/nvchecker) + GitHub Actions to regularly check for new versions of software/packages and notify using Gotify service.
 
 ## Illustrate
 
@@ -14,6 +14,5 @@ It was later discovered that [nvchecker](https://github.com/lilydjwg/nvchecker) 
 
 Settings - Secrets：
 
-- EMAIL_TO
-- MAILGUN_API_KEY
-- MAILGUN_DOMAIN_NAME
+- GOTIFY_SERVER
+- GOTIFY_TOKEN
