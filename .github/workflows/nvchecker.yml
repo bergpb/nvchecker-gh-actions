@@ -26,7 +26,6 @@ jobs:
     name: Check New Versions
     runs-on: ubuntu-latest
     container:
-      # image: ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}
       image: ghcr.io/bergpb/nvchecker-github-actions
       credentials:
         username: ${{ github.actor }}
