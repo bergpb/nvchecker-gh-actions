@@ -50,7 +50,7 @@ jobs:
         shell: bash
         run: |
           LOG=$(cat ${{ env.LOG_FILE }}) \
-          RESULT=$(cat result.tmp | sed -z 's/\n/ | /g') \
+          RESULT=$(cat result.tmp | tr '\n' ' | ') \
           DATE=$(date +"%Y-%m-%d") \
           TITLE="nvchecker Updates" \
           PRIORITY=5 \
