@@ -1,6 +1,6 @@
 # nvchecker
 
-![nvchecker](https://github.com/guizai/nvchecker/workflows/nvchecker/badge.svg) ![Build Docker Image](https://github.com/guizai/nvchecker/workflows/Build%20Docker%20Image/badge.svg)
+![nvchecker](https://github.com/bergpb/nvchecker-github-actions/workflows/nvchecker/badge.svg) ![Build Docker Image](https://github.com/bergpb/nvchecker-github-actions/workflows/Build%20Docker%20Image/badge.svg)
 
 Use [nvchecker](https://github.com/lilydjwg/nvchecker) + GitHub Actions to regularly check for new versions of software/packages and notify using Gotify service.
 
