@@ -4,5 +4,6 @@
   "compose": "v2.6.0",
   "gotify": "v2.1.4",
   "insomnia": "lib@3.0.0",
-  "nvchecker": "v2.8"
+  "nvchecker": "v2.8",
+  "uptime-kuma": "1.16.1"
 }
