@@ -13,19 +13,9 @@ source = "github"
 github = "antares-sql/antares"
 use_latest_release = true
 
-[compose]
-source = "github"
-github = "docker/compose"
-use_latest_release = true
-
 [insomnia]
 source = "github"
 github = "Kong/insomnia"
-use_latest_release = true
-
-[gotify]
-source = "github"
-github = "gotify/server"
 use_latest_release = true
 
 [balena-engine]
@@ -33,7 +23,168 @@ source = "github"
 github = "balena-os/balena-engine"
 use_max_tag = true
 
+# --------------------------------------------------
+# CLI tools
+
+[bat]
+source = "github"
+github = "sharkdp/bat"
+use_latest_release = true
+
+[fzf]
+source = "github"
+github = "junegunn/fzf"
+use_latest_release = true
+
+[fd]
+source = "github"
+github = "sharkdp/fd"
+use_latest_release = true
+
+[jq]
+source = "github"
+github = "stedolan/jq"
+use_latest_release = true
+
+[zsh]
+source = "github"
+github = "zsh-users/zsh"
+use_max_tag = true
+
+[zoxide]
+source = "github"
+github = "ajeetdsouza/zoxide"
+use_latest_release = true
+
+[youtube-dl]
+source = "github"
+github = "ytdl-org/youtube-dl"
+use_latest_release = true
+
+[docker-cli]
+source = "github"
+github = "docker/cli"
+use_max_tag = true
+
+[compose]
+source = "github"
+github = "docker/compose"
+use_latest_release = true
+
+[webhook]
+source = "github"
+github = "adnanh/webhook"
+use_latest_release = true
+
+[terraform]
+source = "github"
+github = "hashicorp/terraform"
+use_latest_release = true
+
+[bottom]
+source = "github"
+github = "clementtsang/bottom"
+use_latest_release = true
+
+# --------------------------------------------------
+# Self-Hosted tools
+
+[gotify]
+source = "github"
+github = "gotify/server"
+use_latest_release = true
+
 [uptime-kuma]
 source = "github"
 github = "louislam/uptime-kuma"
 use_latest_release = true
+
+[vaultwarden]
+source = "github"
+github = "dani-garcia/vaultwarden"
+use_latest_release = true
+
+[bitwarden-desktop]
+source = "github"
+github = "bitwarden/desktop"
+use_latest_release = true
+
+[bitwarden-mobile]
+source = "github"
+github = "bitwarden/mobile"
+use_latest_release = true
+
+[grafana]
+source = "github"
+github = "grafana/grafana"
+use_latest_release = true
+
+[prometheus]
+source = "github"
+github = "prometheus/prometheus"
+use_latest_release = true
+
+[prometheus-node_exporter]
+source = "github"
+github = "prometheus/node_exporter"
+use_latest_release = true
+
+[prometheus-blackbox_exporter]
+source = "github"
+github = "prometheus/blackbox_exporter"
+use_latest_release = true
+
+[pulumi]
+source = "github"
+github = "pulumi/pulumi"
+use_latest_release = true
+
+[sentry]
+source = "github"
+github = "getsentry/self-hosted"
+use_latest_release = true
+
+[YOURLS]
+source = "github"
+github = "YOURLS/YOURLS"
+use_latest_release = true
+
+[headscale]
+source = "github"
+github = "juanfont/headscale"
+use_latest_release = true
+
+# --------------------------------------------------
+# Python packages
+
+[django]
+source = "pypi"
+pypi = "Django"
+
+[flask]
+source = "pypi"
+pypi = "Flask"
+
+[tornado]
+source = "pypi"
+pypi = "tornado"
+
+[borgbackup]
+source = "pypi"
+pypi = "borgbackup"
+
+[Beancount]
+source = "pypi"
+pypi = "beancount"
+
+[Celery]
+source = "pypi"
+pypi = "celery"
+
+[kombu]
+source = "pypi"
+pypi = "kombu"
+
+[ansible]
+source = "pypi"
+pypi = "ansible"
