@@ -27,3 +27,8 @@ use_latest_release = true
 source = "github"
 github = "gotify/server"
 use_latest_release = true
+
+[balena-engine]
+source = "github"
+github = "balena-os/balena-engine"
+use_max_tag = true
