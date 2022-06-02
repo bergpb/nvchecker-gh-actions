@@ -1,5 +1,6 @@
 {
-  "Antares": "v0.5.5",
+  "Antares": "v0.5.6",
+  "balena-engine": "v20.10.17",
   "compose": "v2.6.0",
   "gotify": "v2.1.4",
   "insomnia": "lib@3.0.0",
