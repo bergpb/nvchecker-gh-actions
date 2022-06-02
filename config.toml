@@ -32,3 +32,8 @@ use_latest_release = true
 source = "github"
 github = "balena-os/balena-engine"
 use_max_tag = true
+
+[uptime-kuma]
+source = "github"
+github = "louislam/uptime-kuma"
+use_latest_release = true
