@@ -23,6 +23,21 @@ source = "github"
 github = "balena-os/balena-engine"
 use_max_tag = true
 
+[podman]
+source = "github"
+github = "containers/podman"
+use_latest_release = true
+
+[buildah]
+source = "github"
+github = "containers/buildah"
+use_latest_release = true
+
+[skopeo]
+source = "github"
+github = "containers/skopeo"
+use_latest_release = true
+
 # --------------------------------------------------
 # CLI tools
 
