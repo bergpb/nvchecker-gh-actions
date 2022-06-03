@@ -101,6 +101,11 @@ source = "github"
 github = "clementtsang/bottom"
 use_latest_release = true
 
+[hatch]
+source = "github"
+github = "pypa/hatch"
+use_latest_release = true
+
 # --------------------------------------------------
 # Self-Hosted tools
 
