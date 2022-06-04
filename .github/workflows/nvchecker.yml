@@ -49,7 +49,7 @@ jobs:
         shell: bash
         run: |
           LOG=$(cat ${{ env.LOG_FILE }}) \
-          RESULT=$(cat result.tmp | tr '\n' ' | ') \
+          RESULT=$(cat result.tmp) \
           DATE=$(date +"%Y-%m-%d") \
           TITLE="nvchecker Updates" \
           PRIORITY=5 \
