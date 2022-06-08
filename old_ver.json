@@ -6,7 +6,7 @@
   "ansible": "5.9.0",
   "balena-engine": "v20.10.18",
   "bat": "v0.21.0",
-  "bitwarden-desktop": "v1.33.0",
+  "bitwarden-desktop": "v2022.5.1",
   "bitwarden-mobile": "v2022.05.0",
   "borgbackup": "1.2.1",
   "bottom": "0.6.8",
