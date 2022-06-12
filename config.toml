@@ -38,6 +38,11 @@ source = "github"
 github = "containers/skopeo"
 use_latest_release = true
 
+[vscodium]
+source = "github"
+github = "VSCodium/vscodium"
+use_latest_release = true
+
 # --------------------------------------------------
 # CLI tools
 
