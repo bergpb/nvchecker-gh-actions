@@ -111,6 +111,11 @@ source = "github"
 github = "pypa/hatch"
 use_latest_release = true
 
+[nala]
+source = "gitlab"
+gitlab = "volian/nala"
+branch = "main"
+
 # --------------------------------------------------
 # Self-Hosted tools
 
