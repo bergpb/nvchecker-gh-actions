@@ -114,7 +114,7 @@ use_latest_release = true
 [nala]
 source = "gitlab"
 gitlab = "volian/nala"
-branch = "main"
+use_max_tag = true
 
 # --------------------------------------------------
 # Self-Hosted tools
