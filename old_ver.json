@@ -35,7 +35,7 @@
   "skopeo": "v1.8.0",
   "terraform": "v1.2.3",
   "tornado": "6.1",
-  "uptime-kuma": "1.16.1",
+  "uptime-kuma": "1.17.0",
   "vaultwarden": "1.25.0",
   "vscodium": "1.68.1",
   "webhook": "2.8.0",
