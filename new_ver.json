@@ -25,7 +25,7 @@
   "jq": "jq-1.6",
   "kombu": "5.2.4",
   "nala": "v0.9.1",
-  "nvchecker": "v2.8",
+  "nvchecker": "v2.9",
   "podman": "v4.1.1",
   "prometheus": "v2.36.2",
   "prometheus-blackbox_exporter": "v0.21.1",
