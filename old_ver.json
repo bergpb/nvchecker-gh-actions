@@ -1,5 +1,5 @@
 {
-  "Antares": "v0.5.10",
+  "Antares": "v0.5.11",
   "Beancount": "2.3.5",
   "Celery": "5.2.7",
   "YOURLS": "1.9.1",
@@ -24,7 +24,7 @@
   "insomnia": "lib@3.3.0",
   "jq": "jq-1.6",
   "kombu": "5.2.4",
-  "nala": "v0.9.1",
+  "nala": "v0.10.0",
   "nvchecker": "v2.9",
   "podman": "v4.1.1",
   "prometheus": "v2.37.0",
