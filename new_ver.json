@@ -20,7 +20,7 @@
   "gotify": "v2.1.4",
   "grafana": "v9.0.4",
   "hatch": "hatchling-v1.6.0",
-  "headscale": "v0.15.0",
+  "headscale": "v0.16.0",
   "insomnia": "lib@3.3.0",
   "jq": "jq-1.6",
   "kombu": "5.2.4",
