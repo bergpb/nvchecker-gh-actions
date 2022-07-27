@@ -1,5 +1,5 @@
 {
-  "Antares": "v0.5.11",
+  "Antares": "v0.5.12",
   "Beancount": "2.3.5",
   "Celery": "5.2.7",
   "YOURLS": "1.9.1",
@@ -18,7 +18,7 @@
   "flask": "2.1.3",
   "fzf": "0.31.0",
   "gotify": "v2.1.4",
-  "grafana": "v9.0.4",
+  "grafana": "v9.0.5",
   "hatch": "hatchling-v1.6.0",
   "headscale": "v0.16.0",
   "insomnia": "lib@3.3.0",
