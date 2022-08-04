@@ -21,7 +21,7 @@
   "grafana": "v9.0.6",
   "hatch": "hatchling-v1.6.0",
   "headscale": "v0.16.0",
-  "insomnia": "lib@3.3.0",
+  "insomnia": "lib@3.4.0",
   "jq": "jq-1.6",
   "kombu": "5.2.4",
   "nala": "v0.11.1",
