@@ -10,7 +10,7 @@
   "bitwarden-mobile": "v2022.8.0",
   "borgbackup": "1.2.1",
   "bottom": "0.6.8",
-  "buildah": "v1.27.0",
+  "buildah": "v1.11.7",
   "compose": "v2.9.0",
   "django": "4.1",
   "docker-cli": "v22.06.0-beta.0",
