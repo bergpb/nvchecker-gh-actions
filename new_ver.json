@@ -1,5 +1,5 @@
 {
-  "Antares": "v0.5.15",
+  "Antares": "v0.5.16",
   "Beancount": "2.3.5",
   "Celery": "5.2.7",
   "YOURLS": "1.9.1",
@@ -11,7 +11,7 @@
   "borgbackup": "1.2.2",
   "bottom": "0.6.8",
   "buildah": "v1.11.7",
-  "compose": "v2.10.1",
+  "compose": "v2.10.2",
   "django": "4.1",
   "docker-cli": "v22.06.0-beta.0",
   "fd": "v8.4.0",
