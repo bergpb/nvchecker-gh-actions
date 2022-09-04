@@ -24,6 +24,7 @@
   "insomnia": "lib@3.5.0",
   "jq": "jq-1.6",
   "kombu": "5.2.4",
+  "nala": "v0.11.1",
   "nvchecker": "v2.9",
   "podman": "v4.2.0",
   "prometheus": "v2.38.0",
