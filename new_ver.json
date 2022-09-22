@@ -33,7 +33,7 @@
   "pulumi": "v3.40.1",
   "sentry": "22.9.0",
   "skopeo": "v1.9.2",
-  "terraform": "v1.2.9",
+  "terraform": "v1.3.0",
   "tornado": "6.2",
   "uptime-kuma": "1.18.0",
   "vaultwarden": "1.25.2",
