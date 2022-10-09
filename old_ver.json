@@ -19,7 +19,7 @@
   "fzf": "0.34.0",
   "gotify": "v2.1.7",
   "grafana": "v9.1.7",
-  "hatch": "hatchling-v1.10.0",
+  "hatch": "hatch-v1.6.0",
   "headscale": "v0.16.4",
   "insomnia": "lib@3.6.0",
   "jq": "jq-1.6",
