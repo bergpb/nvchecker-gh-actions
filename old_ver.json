@@ -1,5 +1,5 @@
 {
-  "Antares": "v0.5.19",
+  "Antares": "v0.6.0",
   "Beancount": "2.3.5",
   "Celery": "5.2.7",
   "YOURLS": "1.9.1",
@@ -30,7 +30,7 @@
   "prometheus": "v2.40.2",
   "prometheus-blackbox_exporter": "v0.22.0",
   "prometheus-node_exporter": "v1.4.0",
-  "pulumi": "v3.46.1",
+  "pulumi": "v3.47.1",
   "sentry": "22.11.0",
   "skopeo": "v1.9.3",
   "terraform": "v1.3.5",
