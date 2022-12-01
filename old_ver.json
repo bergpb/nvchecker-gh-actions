@@ -1,5 +1,5 @@
 {
-  "Antares": "v0.6.0",
+  "Antares": "v0.7.0",
   "Beancount": "2.3.5",
   "Celery": "5.2.7",
   "YOURLS": "1.9.1",
@@ -33,7 +33,7 @@
   "pulumi": "v3.48.0",
   "sentry": "22.11.0",
   "skopeo": "v1.9.3",
-  "terraform": "v1.3.5",
+  "terraform": "v1.3.6",
   "tornado": "6.2",
   "uptime-kuma": "1.18.5",
   "vaultwarden": "1.26.0",
