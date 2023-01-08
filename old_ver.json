@@ -37,9 +37,9 @@
   "tornado": "6.2",
   "uptime-kuma": "1.19.3",
   "vaultwarden": "1.27.0",
-  "vscodium": "1.74.2.22355",
+  "vscodium": "1.74.2.23007",
   "webhook": "2.8.0",
   "youtube-dl": "2021.12.17",
-  "zoxide": "v0.8.3",
+  "zoxide": "v0.9.0",
   "zsh": "5.4.1"
 }
