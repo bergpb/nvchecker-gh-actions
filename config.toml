@@ -184,6 +184,11 @@ source = "github"
 github = "juanfont/headscale"
 use_latest_release = true
 
+[jellyfin-media-player]
+source = "github"
+github = "jellyfin/jellyfin-media-player"
+use_latest_release = true
+
 # --------------------------------------------------
 # Python packages
 
