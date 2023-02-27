@@ -189,6 +189,11 @@ source = "github"
 github = "jellyfin/jellyfin-media-player"
 use_latest_release = true
 
+[umami]
+source = "github"
+github = "umami-software/umami"
+use_latest_release = true
+
 # --------------------------------------------------
 # Python packages
 
