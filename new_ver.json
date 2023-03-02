@@ -18,7 +18,7 @@
   "flask": "2.2.3",
   "fzf": "0.38.0",
   "gotify": "v2.2.4",
-  "grafana": "v9.4.1",
+  "grafana": "v9.4.2",
   "hatch": "hatch-v1.6.3",
   "headscale": "v0.20.0",
   "insomnia": "lib@3.12.0",
