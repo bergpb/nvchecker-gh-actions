@@ -17,6 +17,7 @@
   "fd": "v8.7.0",
   "flask": "2.2.3",
   "fzf": "0.39.0",
+  "gitlab-ci-local": "4.39.1",
   "gotify": "v2.2.4",
   "grafana": "v9.4.7",
   "hatch": "hatch-v1.7.0",
