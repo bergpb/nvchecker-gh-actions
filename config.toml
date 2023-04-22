@@ -116,6 +116,11 @@ source = "gitlab"
 gitlab = "volian/nala"
 use_max_tag = true
 
+[gitlab-ci-local]
+source = "github"
+github = "firecow/gitlab-ci-local"
+use_latest_release = true
+
 # --------------------------------------------------
 # Self-Hosted tools
 
