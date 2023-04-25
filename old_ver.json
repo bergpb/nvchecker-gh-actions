@@ -4,7 +4,7 @@
   "Celery": "5.2.7",
   "YOURLS": "1.9.2",
   "ansible": "7.4.0",
-  "balena-engine": "v20.10.34",
+  "balena-engine": "v20.10.35",
   "bat": "v0.23.0",
   "bitwarden-desktop": "v2022.5.1",
   "bitwarden-mobile": "v2023.3.2",
