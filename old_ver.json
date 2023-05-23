@@ -3,7 +3,7 @@
   "Beancount": "2.3.5",
   "Celery": "5.2.7",
   "YOURLS": "1.9.2",
-  "ansible": "7.5.0",
+  "ansible": "7.6.0",
   "balena-engine": "v20.10.36",
   "bat": "v0.23.0",
   "bitwarden-desktop": "v2022.5.1",
