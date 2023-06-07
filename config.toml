@@ -204,6 +204,11 @@ source = "github"
 github = "woodpecker-ci/woodpecker"
 use_latest_release = true
 
+[ansible-semaphore]
+source = "github"
+github = "ansible-semaphore/semaphore"
+use_latest_release = true
+
 # --------------------------------------------------
 # Python packages
 
