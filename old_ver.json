@@ -30,7 +30,7 @@
   "nala": "v0.13.0",
   "nvchecker": "v2.12",
   "podman": "v4.5.1",
-  "prometheus": "v2.44.0",
+  "prometheus": "v2.45.0",
   "prometheus-blackbox_exporter": "v0.24.0",
   "prometheus-node_exporter": "v1.6.0",
   "pulumi": "v3.73.0",
