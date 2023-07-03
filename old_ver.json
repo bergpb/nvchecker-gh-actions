@@ -1,5 +1,5 @@
 {
-  "Antares": "v0.7.11",
+  "Antares": "v0.7.12",
   "Beancount": "2.3.5",
   "Celery": "5.3.1",
   "YOURLS": "1.9.2",
@@ -13,7 +13,7 @@
   "bottom": "0.9.3",
   "buildah": "v1.31.0",
   "compose": "v2.19.1",
-  "django": "4.2.2",
+  "django": "4.2.3",
   "docker-cli": "v24.0.2",
   "fd": "v8.7.0",
   "flask": "2.3.2",
