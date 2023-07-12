@@ -12,7 +12,7 @@
   "borgbackup": "1.2.4",
   "bottom": "0.9.3",
   "buildah": "v1.31.0",
-  "compose": "v2.19.1",
+  "compose": "v2.20.0",
   "django": "4.2.3",
   "docker-cli": "v24.0.4",
   "fd": "v8.7.0",
