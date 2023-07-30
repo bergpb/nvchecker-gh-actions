@@ -43,7 +43,7 @@
   "vaultwarden": "1.29.1",
   "vscodium": "1.80.2.23209",
   "webhook": "2.8.1",
-  "woodpecker-ci": "v0.15.11",
+  "woodpecker-ci": "v1.0.0",
   "youtube-dl": "2021.12.17",
   "zoxide": "v0.9.1",
   "zsh": "5.4.1"
