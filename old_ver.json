@@ -13,7 +13,7 @@
   "bottom": "0.9.3",
   "buildah": "v1.31.0",
   "compose": "v2.20.2",
-  "django": "4.2.3",
+  "django": "4.2.4",
   "docker-cli": "v24.0.5",
   "fd": "v8.7.0",
   "flask": "2.3.2",
