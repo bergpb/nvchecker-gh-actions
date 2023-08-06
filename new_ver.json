@@ -10,7 +10,7 @@
   "bitwarden-desktop": "v2022.5.1",
   "bitwarden-mobile": "v2023.7.0",
   "borgbackup": "1.2.4",
-  "bottom": "0.9.3",
+  "bottom": "0.9.4",
   "buildah": "v1.31.0",
   "compose": "v2.20.2",
   "django": "4.2.4",
