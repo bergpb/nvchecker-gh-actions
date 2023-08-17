@@ -23,7 +23,7 @@
   "grafana": "v10.0.3",
   "hatch": "hatch-v1.7.0",
   "headscale": "v0.22.3",
-  "insomnia": "lib@2023.5.2",
+  "insomnia": "lib@2023.5.3",
   "jellyfin-media-player": "v1.9.1",
   "jq": "jq-1.6",
   "kombu": "5.3.1",
@@ -43,7 +43,7 @@
   "vaultwarden": "1.29.1",
   "vscodium": "1.81.1.23222",
   "webhook": "2.8.1",
-  "woodpecker-ci": "v1.0.1",
+  "woodpecker-ci": "v1.0.2",
   "youtube-dl": "2021.12.17",
   "zoxide": "v0.9.2",
   "zsh": "5.4.1"
