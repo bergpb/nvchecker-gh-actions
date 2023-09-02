@@ -1,7 +1,7 @@
 {
   "Antares": "v0.7.16",
   "Beancount": "2.3.5",
-  "Celery": "5.3.3",
+  "Celery": "5.3.1",
   "YOURLS": "1.9.2",
   "ansible": "8.3.0",
   "ansible-semaphore": "v2.8.90",
