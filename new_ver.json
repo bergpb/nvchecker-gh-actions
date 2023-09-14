@@ -36,7 +36,7 @@
   "pulumi": "v3.82.1",
   "sentry": "23.8.0",
   "skopeo": "v1.13.3",
-  "terraform": "v1.5.7",
+  "terraform": "v1.4.7",
   "tornado": "6.3.3",
   "umami": "v2.6.2",
   "uptime-kuma": "1.23.1",
