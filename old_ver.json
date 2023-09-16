@@ -33,7 +33,7 @@
   "prometheus": "v2.47.0",
   "prometheus-blackbox_exporter": "v0.24.0",
   "prometheus-node_exporter": "v1.6.1",
-  "pulumi": "v3.82.1",
+  "pulumi": "v3.83.0",
   "sentry": "23.8.0",
   "skopeo": "v1.13.3",
   "terraform": "v1.5.7",
