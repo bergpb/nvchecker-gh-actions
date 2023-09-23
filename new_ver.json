@@ -38,7 +38,7 @@
   "skopeo": "v1.13.3",
   "terraform": "v1.5.7",
   "tornado": "6.3.3",
-  "umami": "v2.6.2",
+  "umami": "v2.7.0",
   "uptime-kuma": "1.23.2",
   "vaultwarden": "1.29.2",
   "vscodium": "1.82.2.23257",
