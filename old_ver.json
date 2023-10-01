@@ -16,7 +16,7 @@
   "django": "4.2.5",
   "docker-cli": "v24.0.6",
   "fd": "v8.7.0",
-  "flask": "2.3.3",
+  "flask": "3.0.0",
   "fzf": "0.42.0",
   "gitlab-ci-local": "4.43.0",
   "gotify": "v2.4.0",
