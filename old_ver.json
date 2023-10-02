@@ -1,5 +1,5 @@
 {
-  "Antares": "v0.7.16",
+  "Antares": "v0.7.17",
   "Beancount": "2.3.5",
   "Celery": "5.3.4",
   "YOURLS": "1.9.2",
@@ -18,7 +18,7 @@
   "fd": "v8.7.0",
   "flask": "3.0.0",
   "fzf": "0.42.0",
-  "gitlab-ci-local": "4.43.0",
+  "gitlab-ci-local": "4.44.0",
   "gotify": "v2.4.0",
   "grafana": "v10.1.4",
   "hatch": "hatch-v1.7.0",
