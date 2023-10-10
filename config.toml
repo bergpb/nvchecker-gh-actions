@@ -121,6 +121,11 @@ source = "github"
 github = "firecow/gitlab-ci-local"
 use_latest_release = true
 
+[pyinfra]
+source = "github"
+github = "pyinfra-dev/pyinfra"
+use_latest_release = true
+
 # --------------------------------------------------
 # Self-Hosted tools
 
