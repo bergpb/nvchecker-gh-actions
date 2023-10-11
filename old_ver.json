@@ -15,6 +15,7 @@
   "compose": "v2.22.0",
   "django": "4.2.6",
   "docker-cli": "v24.0.6",
+  "docker-pi-hole": "2023.05.2",
   "fd": "v8.7.0",
   "flask": "3.0.0",
   "fzf": "0.42.0",
