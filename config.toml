@@ -219,6 +219,11 @@ source = "github"
 github = "pi-hole/pi-hole"
 use_latest_release = true
 
+[docker-pi-hole]
+source = "github"
+github = "pi-hole/docker-pi-hole"
+use_latest_release = true
+
 # --------------------------------------------------
 # Python packages
 
