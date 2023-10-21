@@ -40,7 +40,7 @@
   "pulumi": "v3.89.0",
   "pyinfra": "v2.8",
   "radarr": "v5.0.3.8127",
-  "sentry": "23.10.0",
+  "sentry": "23.10.1",
   "skopeo": "v1.13.3",
   "terraform": "v1.6.2",
   "tornado": "6.3.3",
