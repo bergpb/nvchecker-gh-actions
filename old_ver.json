@@ -17,7 +17,7 @@
   "django": "4.2.6",
   "docker-cli": "v24.0.6",
   "docker-pi-hole": "2023.10.0",
-  "fd": "v8.7.0",
+  "fd": "v8.7.1",
   "flask": "3.0.0",
   "fzf": "0.43.0",
   "gitlab-ci-local": "4.44.0",
