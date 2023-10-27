@@ -20,7 +20,7 @@
   "fd": "v8.7.1",
   "flask": "3.0.0",
   "fzf": "0.43.0",
-  "gitlab-ci-local": "4.45.0",
+  "gitlab-ci-local": "4.45.1",
   "gotify": "v2.4.0",
   "grafana": "v10.2.0",
   "hatch": "hatch-v1.7.0",
