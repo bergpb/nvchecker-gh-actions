@@ -46,7 +46,7 @@
   "tornado": "6.3.3",
   "umami": "v2.8.0",
   "uptime-kuma": "1.23.3",
-  "vaultwarden": "1.29.2",
+  "vaultwarden": "1.30.0",
   "vscodium": "1.84.0.23306",
   "webhook": "2.8.1",
   "woodpecker-ci": "v1.0.4",
