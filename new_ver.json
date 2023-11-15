@@ -22,7 +22,7 @@
   "fzf": "0.44.0",
   "gitlab-ci-local": "4.45.1",
   "gotify": "v2.4.0",
-  "grafana": "v10.2.0",
+  "grafana": "v10.2.1",
   "hatch": "hatch-v1.7.0",
   "headscale": "v0.22.3",
   "insomnia": "lib@8.4.1",
