@@ -46,7 +46,7 @@
   "terraform": "v1.6.4",
   "tornado": "6.3.3",
   "umami": "v2.8.0",
-  "uptime-kuma": "1.23.5",
+  "uptime-kuma": "1.23.6",
   "vaultwarden": "1.30.0",
   "vscodium": "1.84.2.23319",
   "webhook": "2.8.1",
