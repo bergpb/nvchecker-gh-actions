@@ -23,7 +23,7 @@
   "gitlab-ci-local": "4.45.2",
   "gotify": "v2.4.0",
   "grafana": "v10.2.2",
-  "hatch": "hatch-v1.7.0",
+  "hatch": "hatchling-v1.19.0",
   "headscale": "v0.22.3",
   "homarr": "v0.14.2",
   "insomnia": "core@8.4.5",
