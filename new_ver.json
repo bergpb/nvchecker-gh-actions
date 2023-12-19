@@ -26,7 +26,7 @@
   "hatch": "hatch-v1.8.1",
   "headscale": "v0.22.3",
   "homarr": "v0.14.2",
-  "insomnia": "core@8.4.5",
+  "insomnia": "lib@8.4.5",
   "jellyfin-media-player": "v1.9.1",
   "jq": "jq-1.7.1",
   "kombu": "5.3.4",
