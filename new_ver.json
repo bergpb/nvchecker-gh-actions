@@ -32,7 +32,7 @@
   "kombu": "5.3.4",
   "nala": "v0.14.0",
   "nvchecker": "v2.13.1",
-  "pi-hole": "v5.17.2",
+  "pi-hole": "v5.17.3",
   "podman": "v4.8.3",
   "prometheus": "v2.48.1",
   "prometheus-blackbox_exporter": "v0.24.0",
