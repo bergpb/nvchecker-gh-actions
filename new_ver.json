@@ -33,7 +33,7 @@
   "nala": "v0.15.1",
   "nvchecker": "v2.13.1",
   "pi-hole": "v5.17.3",
-  "podman": "v4.9.2",
+  "podman": "v4.9.3",
   "prometheus": "v2.49.1",
   "prometheus-blackbox_exporter": "v0.24.0",
   "prometheus-node_exporter": "v1.7.0",
