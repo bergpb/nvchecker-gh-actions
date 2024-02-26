@@ -39,7 +39,7 @@
   "prometheus-node_exporter": "v1.7.0",
   "prowlarr": "v1.13.3.4273",
   "pulumi": "v3.107.0",
-  "pyinfra": "v2.9",
+  "pyinfra": "v2.9.2",
   "radarr": "v5.3.6.8612",
   "sentry": "24.2.0",
   "skopeo": "v1.14.2",
