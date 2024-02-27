@@ -244,6 +244,11 @@ source = "github"
 github = "ajnart/homarr"
 use_latest_release = true
 
+[jellyseerr]
+source = "github"
+github = "Fallenbagel/jellyseerr"
+use_latest_release = true
+
 # --------------------------------------------------
 # Python packages
 
