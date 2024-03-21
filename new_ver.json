@@ -15,7 +15,7 @@
   "buildah": "v1.35.1",
   "compose": "v2.25.0",
   "django": "5.0.3",
-  "docker-cli": "v26.0.0-rc3",
+  "docker-cli": "v26.0.0",
   "docker-pi-hole": "2024.02.2",
   "fd": "v9.0.0",
   "flaresolverr": "v3.3.16",
@@ -54,7 +54,7 @@
   "vaultwarden": "1.30.5",
   "vscodium": "1.87.2.24072",
   "webhook": "2.8.1",
-  "woodpecker-ci": "v2.4.0",
+  "woodpecker-ci": "v2.4.1",
   "youtube-dl": "2021.12.17",
   "zoxide": "v0.9.4",
   "zsh": "5.4.1"
