@@ -19,7 +19,7 @@
   "docker-pi-hole": "2024.03.2",
   "fd": "v9.0.0",
   "flaresolverr": "v3.3.16",
-  "flask": "3.0.2",
+  "flask": "3.0.3",
   "fzf": "0.49.0",
   "gitlab-ci-local": "4.47.0",
   "gotify": "v2.4.0",
