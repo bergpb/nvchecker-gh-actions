@@ -31,7 +31,7 @@
   "jellyfin-media-player": "v1.9.1",
   "jellyseerr": "v1.7.0",
   "jq": "jq-1.7.1",
-  "kombu": "5.3.6",
+  "kombu": "5.3.7",
   "nala": "v0.15.1",
   "nvchecker": "v2.13.1",
   "pi-hole": "v5.18.2",
