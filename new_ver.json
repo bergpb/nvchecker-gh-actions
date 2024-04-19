@@ -33,7 +33,7 @@
   "jq": "jq-1.7.1",
   "kombu": "5.3.7",
   "nala": "v0.15.1",
-  "nvchecker": "v2.14",
+  "nvchecker": "v2.14.1",
   "pi-hole": "v5.18.2",
   "podman": "v5.0.2",
   "prometheus": "v2.51.2",
