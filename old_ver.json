@@ -38,7 +38,7 @@
   "podman": "v5.0.3",
   "prometheus": "v2.52.0",
   "prometheus-blackbox_exporter": "v0.25.0",
-  "prometheus-node_exporter": "v1.8.0",
+  "prometheus-node_exporter": "v1.8.1",
   "prowlarr": "v1.17.2.4511",
   "pulumi": "v3.116.1",
   "pyinfra": "v2.9.2",
