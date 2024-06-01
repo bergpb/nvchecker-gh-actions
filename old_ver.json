@@ -33,7 +33,7 @@
   "jq": "jq-1.7.1",
   "kombu": "5.3.7",
   "nala": "v0.15.2",
-  "nvchecker": "v2.15",
+  "nvchecker": "v2.15.1",
   "pi-hole": "v5.18.2",
   "podman": "v5.1.0",
   "prometheus": "v2.52.0",
@@ -54,7 +54,7 @@
   "vaultwarden": "1.30.5",
   "vscodium": "1.89.1.24130",
   "webhook": "2.8.1",
-  "woodpecker-ci": "v2.4.1",
+  "woodpecker-ci": "v2.5.0",
   "youtube-dl": "2021.12.17",
   "zoxide": "v0.9.4",
   "zsh": "5.4.1"
