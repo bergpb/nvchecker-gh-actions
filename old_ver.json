@@ -32,7 +32,7 @@
   "jellyseerr": "v1.9.0",
   "jq": "jq-1.7.1",
   "kombu": "5.3.7",
-  "nala": "v0.15.2",
+  "nala": "v0.15.3",
   "nvchecker": "v2.15.1",
   "pi-hole": "v5.18.2",
   "podman": "v5.1.0",
