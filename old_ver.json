@@ -21,7 +21,7 @@
   "flaresolverr": "v3.3.19",
   "flask": "3.0.3",
   "fzf": "0.52.1",
-  "gitlab-ci-local": "4.50.0",
+  "gitlab-ci-local": "4.50.1",
   "gotify": "v2.4.0",
   "grafana": "v11.0.0",
   "hatch": "hatch-v1.12.0",
