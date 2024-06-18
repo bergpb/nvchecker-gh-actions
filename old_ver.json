@@ -3,7 +3,7 @@
   "Beancount": "3.0.0",
   "Celery": "5.4.0",
   "YOURLS": "1.9.2",
-  "ansible": "10.0.1",
+  "ansible": "10.1.0",
   "ansible-semaphore": "v2.9.112",
   "balena-engine": "v20.10.44",
   "bat": "v0.24.0",
