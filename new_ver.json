@@ -16,7 +16,7 @@
   "buildah": "v1.36.0",
   "compose": "v2.28.1",
   "django": "5.0.6",
-  "docker-cli": "v27.0.2",
+  "docker-cli": "v27.0.3",
   "docker-pi-hole": "2024.06.0",
   "fd": "v10.1.0",
   "flaresolverr": "v3.3.21",
