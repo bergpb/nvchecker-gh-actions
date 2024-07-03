@@ -5,7 +5,7 @@
   "YOURLS": "1.9.2",
   "ansible": "10.1.0",
   "ansible-semaphore": "v2.10.11",
-  "argocd": "v2.11.3",
+  "argocd": "v2.9.18",
   "balena-engine": "v20.10.44",
   "bat": "v0.24.0",
   "bazarr": "v1.4.3",
