@@ -40,7 +40,7 @@
   "prometheus": "v2.53.0",
   "prometheus-blackbox_exporter": "v0.25.0",
   "prometheus-node_exporter": "v1.8.1",
-  "prowlarr": "v1.19.0.4568",
+  "prowlarr": "v1.20.1.4603",
   "pulumi": "v3.122.0",
   "pyinfra": "v2.9.2",
   "radarr": "v5.7.0.8882",
