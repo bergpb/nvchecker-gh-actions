@@ -1,5 +1,5 @@
 {
-  "Antares": "v0.7.25",
+  "Antares": "v0.7.26",
   "Beancount": "3.0.0",
   "Celery": "5.4.0",
   "YOURLS": "1.9.2",
@@ -42,7 +42,7 @@
   "prometheus-node_exporter": "v1.8.2",
   "prowlarr": "v1.20.1.4603",
   "pulumi": "v3.124.0",
-  "pyinfra": "v2.9.2",
+  "pyinfra": "v3.0",
   "radarr": "v5.7.0.8882",
   "sentry": "24.6.0",
   "skopeo": "v1.15.2",
