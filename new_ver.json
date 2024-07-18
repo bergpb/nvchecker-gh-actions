@@ -4,7 +4,7 @@
   "Celery": "5.4.0",
   "YOURLS": "1.9.2",
   "ansible": "10.2.0",
-  "ansible-semaphore": "v2.10.18",
+  "ansible-semaphore": "v2.10.19",
   "argocd": "v2.11.5",
   "balena-engine": "v20.10.44",
   "bat": "v0.24.0",
