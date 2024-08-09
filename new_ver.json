@@ -47,7 +47,7 @@
   "sentry": "24.7.1",
   "skopeo": "v1.16.0",
   "sonarr": "v4.0.8.1874",
-  "speedtest-tracker": "v0.20.9",
+  "speedtest-tracker": "v0.21.0",
   "terraform": "v1.9.4",
   "tornado": "6.4.1",
   "umami": "v2.12.1",
