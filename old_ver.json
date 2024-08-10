@@ -37,7 +37,7 @@
   "nvchecker": "v2.15.1",
   "pi-hole": "v5.18.3",
   "podman": "v5.2.0",
-  "prometheus": "v2.53.1",
+  "prometheus": "v2.54.0",
   "prometheus-blackbox_exporter": "v0.25.0",
   "prometheus-node_exporter": "v1.8.2",
   "prowlarr": "v1.21.2.4649",
