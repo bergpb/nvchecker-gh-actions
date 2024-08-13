@@ -3,7 +3,7 @@
   "Beancount": "3.0.0",
   "Celery": "5.4.0",
   "YOURLS": "1.9.2",
-  "ansible": "10.2.0",
+  "ansible": "10.3.0",
   "ansible-semaphore": "v2.10.22",
   "argocd": "v2.12.0",
   "balena-engine": "v20.10.44",
