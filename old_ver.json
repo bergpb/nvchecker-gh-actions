@@ -33,6 +33,7 @@
   "jellyseerr": "v1.9.2",
   "jq": "jq-1.7.1",
   "kombu": "5.4.0",
+  "metallb": "v0.14.8",
   "nala": "v0.15.3",
   "nvchecker": "v2.15.1",
   "pi-hole": "v5.18.3",
