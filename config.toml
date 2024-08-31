@@ -127,7 +127,7 @@ github = "pyinfra-dev/pyinfra"
 use_latest_release = true
 
 # --------------------------------------------------
-# Self-Hosted tools
+# Self-Hosted / Homelab tools
 
 [gotify]
 source = "github"
@@ -267,6 +267,11 @@ use_latest_release = true
 [argocd]
 source = "github"
 github = "argoproj/argo-cd"
+use_latest_release = true
+
+[metallb]
+source = "github"
+github = "metallb/metallb"
 use_latest_release = true
 
 # --------------------------------------------------
