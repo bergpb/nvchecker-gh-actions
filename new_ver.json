@@ -14,7 +14,7 @@
   "borgbackup": "1.4.0",
   "bottom": "0.10.2",
   "buildah": "v1.37.2",
-  "compose": "v2.29.2",
+  "compose": "v2.29.3",
   "django": "5.1.1",
   "docker-cli": "v27.2.1",
   "docker-pi-hole": "2024.07.0",
@@ -54,10 +54,10 @@
   "umami": "v2.13.2",
   "uptime-kuma": "1.23.13",
   "vaultwarden": "1.32.0",
-  "vscodium": "1.93.0.24253",
+  "vscodium": "1.93.1.24256",
   "webhook": "2.8.1",
   "woodpecker-ci": "v2.7.1",
   "youtube-dl": "2021.12.17",
-  "zoxide": "v0.9.4",
+  "zoxide": "v0.9.5",
   "zsh": "5.4.1"
 }
