@@ -32,7 +32,7 @@
   "jellyfin-media-player": "v1.11.1",
   "jellyseerr": "v1.9.2",
   "jq": "jq-1.7.1",
-  "kombu": "5.4.1",
+  "kombu": "5.4.2",
   "metallb": "v0.14.8",
   "nala": "v0.15.4",
   "nvchecker": "v2.15.1",
@@ -58,6 +58,6 @@
   "webhook": "2.8.1",
   "woodpecker-ci": "v2.7.1",
   "youtube-dl": "2021.12.17",
-  "zoxide": "v0.9.5",
+  "zoxide": "v0.9.6",
   "zsh": "5.4.1"
 }
