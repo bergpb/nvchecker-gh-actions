@@ -30,7 +30,7 @@
   "homarr": "v0.15.4",
   "insomnia": "core@10.0.0",
   "jellyfin-media-player": "v1.11.1",
-  "jellyseerr": "v1.9.2",
+  "jellyseerr": "v2.0.0",
   "jq": "jq-1.7.1",
   "kombu": "5.4.2",
   "metallb": "v0.14.8",
