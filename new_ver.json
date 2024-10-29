@@ -24,7 +24,7 @@
   "fzf": "v0.56.0",
   "gitlab-ci-local": "4.55.0",
   "gotify": "v2.5.0",
-  "grafana": "v11.2.2+security-01",
+  "grafana": "v11.3.0",
   "hatch": "hatch-v1.13.0",
   "headscale": "v0.23.0",
   "homarr": "v0.15.6",
