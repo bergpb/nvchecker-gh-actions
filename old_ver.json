@@ -14,7 +14,7 @@
   "borgbackup": "1.4.0",
   "bottom": "0.10.2",
   "buildah": "v1.37.5",
-  "compose": "v2.29.7",
+  "compose": "v2.30.0",
   "django": "5.1.2",
   "docker-cli": "v27.3.1",
   "docker-pi-hole": "2024.07.0",
