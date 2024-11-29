@@ -38,7 +38,7 @@
   "nvchecker": "v2.15.1",
   "pi-hole": "v5.18.3",
   "podman": "v5.3.1",
-  "prometheus": "v3.0.0",
+  "prometheus": "v3.0.1",
   "prometheus-blackbox_exporter": "v0.25.0",
   "prometheus-node_exporter": "v1.8.2",
   "prowlarr": "v1.27.0.4852",
@@ -56,7 +56,7 @@
   "vaultwarden": "1.32.5",
   "vscodium": "1.95.3.24321",
   "webhook": "2.8.2",
-  "woodpecker-ci": "v2.7.3",
+  "woodpecker-ci": "v2.8.0",
   "youtube-dl": "2021.12.17",
   "zoxide": "v0.9.6",
   "zsh": "5.4.1"
