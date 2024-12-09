@@ -27,7 +27,7 @@
   "grafana": "v11.4.0",
   "hatch": "hatch-v1.13.0",
   "headscale": "v0.23.0",
-  "homarr": "v0.15.7",
+  "homarr": "v0.15.9",
   "insomnia": "core@10.2.0",
   "jellyfin-media-player": "v1.11.1",
   "jellyseerr": "v2.1.0",
