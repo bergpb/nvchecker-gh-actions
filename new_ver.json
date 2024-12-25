@@ -8,7 +8,7 @@
   "argocd": "v2.13.2",
   "balena-engine": "v20.10.44",
   "bat": "v0.24.0",
-  "bazarr": "v1.4.5",
+  "bazarr": "v1.5.0",
   "bitwarden-desktop": "v2022.5.1",
   "bitwarden-mobile": "v2024.10.0",
   "borgbackup": "1.4.0",
