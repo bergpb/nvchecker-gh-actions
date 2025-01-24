@@ -28,6 +28,11 @@ source = "github"
 github = "containers/podman"
 use_latest_release = true
 
+[podman-compose]
+source = "github"
+github = "containers/podman-compose"
+use_latest_release = true
+
 [buildah]
 source = "github"
 github = "containers/buildah"
