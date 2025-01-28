@@ -1,59 +1,286 @@
 {
-  "Antares": "v0.7.30",
-  "Beancount": "3.1.0",
-  "Celery": "5.4.0",
-  "FlareSolverr": "v3.3.21",
-  "Prowlarr": "v1.30.2.4939",
-  "Radarr": "v5.17.2.9580",
-  "Sonarr": "v4.0.12.2823",
-  "YOURLS": "1.9.2",
-  "ansible": "11.1.0",
-  "balena-engine": "v20.10.44",
-  "bat": "v0.25.0",
-  "bazarr": "v1.5.1",
-  "bitwarden-desktop": "v2022.5.1",
-  "bitwarden-mobile": "v2024.10.0",
-  "borgbackup": "1.4.0",
-  "bottom": "0.10.2",
-  "buildah": "v1.38.1",
-  "compose": "v2.32.4",
-  "django": "5.1.5",
-  "docker-cli": "v27.5.1",
-  "fastapi": "0.115.7",
-  "fd": "v10.2.0",
-  "flask": "3.1.0",
-  "fzf": "v0.58.0",
-  "gotify": "v2.6.1",
-  "grafana": "v11.4.0",
-  "hatch": "hatch-v1.14.0",
-  "headscale": "v0.24.1",
-  "home-assistant": "2025.1.4",
-  "insomnia": "core@10.3.0",
-  "jellyfin": "v10.10.5",
-  "jellyseerr": "v2.3.0",
-  "jq": "jq-1.7.1",
-  "kombu": "5.4.2",
-  "lunasea": "v10.2.6",
-  "nvchecker": "v2.16",
-  "podman": "v5.3.2",
-  "podman-compose": "v1.3.0",
-  "portainer": "2.21.5",
-  "prometheus": "v3.1.0",
-  "prometheus-blackbox_exporter": "v0.25.0",
-  "prometheus-node_exporter": "v1.8.2",
-  "pulumi": "v3.147.0",
-  "qBittorrent": "release-5.1.0beta1",
-  "semaphore": "v2.11.3",
-  "sentry": "25.1.0",
-  "skopeo": "v1.17.0",
-  "speedtest-tracker": "v1.2.0",
-  "terraform": "v1.10.5",
-  "tornado": "6.4.2",
-  "traefik": "v3.3.2",
-  "uptime-kuma": "1.23.16",
-  "vaultwarden": "1.33.0",
-  "webhook": "2.8.2",
-  "youtube-dl": "2021.12.17",
-  "zoxide": "v0.9.6",
-  "zsh": "5.4.1"
+  "version": 2,
+  "data": {
+    "Antares": {
+      "version": "v0.7.30",
+      "gitref": "refs/tags/v0.7.30",
+      "url": "https://github.com/antares-sql/antares/releases/tag/v0.7.30"
+    },
+    "Beancount": {
+      "version": "3.1.0",
+      "url": "https://pypi.org/project/beancount/3.1.0/"
+    },
+    "Celery": {
+      "version": "5.4.0",
+      "url": "https://pypi.org/project/celery/5.4.0/"
+    },
+    "FlareSolverr": {
+      "version": "v3.3.21",
+      "gitref": "refs/tags/v3.3.21",
+      "url": "https://github.com/FlareSolverr/FlareSolverr/releases/tag/v3.3.21"
+    },
+    "Prowlarr": {
+      "version": "v1.30.2.4939",
+      "gitref": "refs/tags/v1.30.2.4939",
+      "url": "https://github.com/Prowlarr/Prowlarr/releases/tag/v1.30.2.4939"
+    },
+    "Radarr": {
+      "version": "v5.17.2.9580",
+      "gitref": "refs/tags/v5.17.2.9580",
+      "url": "https://github.com/Radarr/Radarr/releases/tag/v5.17.2.9580"
+    },
+    "Sonarr": {
+      "version": "v4.0.12.2823",
+      "gitref": "refs/tags/v4.0.12.2823",
+      "url": "https://github.com/Sonarr/Sonarr/releases/tag/v4.0.12.2823"
+    },
+    "YOURLS": {
+      "version": "1.9.2",
+      "gitref": "refs/tags/1.9.2",
+      "url": "https://github.com/YOURLS/YOURLS/releases/tag/1.9.2"
+    },
+    "ansible": {
+      "version": "11.1.0",
+      "url": "https://pypi.org/project/ansible/11.1.0/"
+    },
+    "balena-engine": {
+      "version": "v20.10.44",
+      "gitref": "refs/tags/v20.10.44",
+      "revision": "ab9a6c313445b40c39ca244167d57c765c4412dc",
+      "url": "https://github.com/balena-os/balena-engine/releases/tag/v20.10.44"
+    },
+    "bat": {
+      "version": "v0.25.0",
+      "gitref": "refs/tags/v0.25.0",
+      "url": "https://github.com/sharkdp/bat/releases/tag/v0.25.0"
+    },
+    "bazarr": {
+      "version": "v1.5.1",
+      "gitref": "refs/tags/v1.5.1",
+      "url": "https://github.com/morpheus65535/bazarr/releases/tag/v1.5.1"
+    },
+    "bitwarden-desktop": {
+      "version": "v2022.5.1",
+      "gitref": "refs/tags/v2022.5.1",
+      "url": "https://github.com/bitwarden/desktop/releases/tag/v2022.5.1"
+    },
+    "bitwarden-mobile": {
+      "version": "v2024.10.0",
+      "gitref": "refs/tags/v2024.10.0",
+      "url": "https://github.com/bitwarden/mobile/releases/tag/v2024.10.0"
+    },
+    "borgbackup": {
+      "version": "1.4.0",
+      "url": "https://pypi.org/project/borgbackup/1.4.0/"
+    },
+    "bottom": {
+      "version": "0.10.2",
+      "gitref": "refs/tags/0.10.2",
+      "url": "https://github.com/ClementTsang/bottom/releases/tag/0.10.2"
+    },
+    "buildah": {
+      "version": "v1.38.1",
+      "gitref": "refs/tags/v1.38.1",
+      "url": "https://github.com/containers/buildah/releases/tag/v1.38.1"
+    },
+    "compose": {
+      "version": "v2.32.4",
+      "gitref": "refs/tags/v2.32.4",
+      "url": "https://github.com/docker/compose/releases/tag/v2.32.4"
+    },
+    "django": {
+      "version": "5.1.5",
+      "url": "https://pypi.org/project/Django/5.1.5/"
+    },
+    "docker-cli": {
+      "version": "v27.5.1",
+      "gitref": "refs/tags/v27.5.1",
+      "revision": "cab968b3b2b49307e0cfea2bf4553b67d41bb324",
+      "url": "https://github.com/docker/cli/releases/tag/v27.5.1"
+    },
+    "fastapi": {
+      "version": "0.115.7",
+      "url": "https://pypi.org/project/fastapi/0.115.7/"
+    },
+    "fd": {
+      "version": "v10.2.0",
+      "gitref": "refs/tags/v10.2.0",
+      "url": "https://github.com/sharkdp/fd/releases/tag/v10.2.0"
+    },
+    "flask": {
+      "version": "3.1.0",
+      "url": "https://pypi.org/project/Flask/3.1.0/"
+    },
+    "fzf": {
+      "version": "v0.58.0",
+      "gitref": "refs/tags/v0.58.0",
+      "url": "https://github.com/junegunn/fzf/releases/tag/v0.58.0"
+    },
+    "gotify": {
+      "version": "v2.6.1",
+      "gitref": "refs/tags/v2.6.1",
+      "url": "https://github.com/gotify/server/releases/tag/v2.6.1"
+    },
+    "grafana": {
+      "version": "v11.4.0",
+      "gitref": "refs/tags/v11.4.0",
+      "url": "https://github.com/grafana/grafana/releases/tag/v11.4.0"
+    },
+    "hatch": {
+      "version": "hatch-v1.14.0",
+      "gitref": "refs/tags/hatch-v1.14.0",
+      "url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.14.0"
+    },
+    "headscale": {
+      "version": "v0.24.1",
+      "gitref": "refs/tags/v0.24.1",
+      "url": "https://github.com/juanfont/headscale/releases/tag/v0.24.1"
+    },
+    "home-assistant": {
+      "version": "2025.1.4",
+      "gitref": "refs/tags/2025.1.4",
+      "url": "https://github.com/home-assistant/core/releases/tag/2025.1.4"
+    },
+    "insomnia": {
+      "version": "core@10.3.0",
+      "gitref": "refs/tags/core@10.3.0",
+      "url": "https://github.com/Kong/insomnia/releases/tag/core%4010.3.0"
+    },
+    "jellyfin": {
+      "version": "v10.10.5",
+      "gitref": "refs/tags/v10.10.5",
+      "url": "https://github.com/jellyfin/jellyfin/releases/tag/v10.10.5"
+    },
+    "jellyseerr": {
+      "version": "v2.3.0",
+      "gitref": "refs/tags/v2.3.0",
+      "url": "https://github.com/fallenbagel/jellyseerr/releases/tag/v2.3.0"
+    },
+    "jq": {
+      "version": "jq-1.7.1",
+      "gitref": "refs/tags/jq-1.7.1",
+      "url": "https://github.com/jqlang/jq/releases/tag/jq-1.7.1"
+    },
+    "kombu": {
+      "version": "5.4.2",
+      "url": "https://pypi.org/project/kombu/5.4.2/"
+    },
+    "lunasea": {
+      "version": "v10.2.6",
+      "gitref": "refs/tags/v10.2.6",
+      "url": "https://github.com/JagandeepBrar/lunasea/releases/tag/v10.2.6"
+    },
+    "nvchecker": {
+      "version": "v2.16",
+      "gitref": "refs/tags/v2.16",
+      "revision": "fb4e73ae72c2c9acbff4aafb588ab3a430f59560",
+      "url": "https://github.com/lilydjwg/nvchecker/releases/tag/v2.16"
+    },
+    "podman": {
+      "version": "v5.3.2",
+      "gitref": "refs/tags/v5.3.2",
+      "url": "https://github.com/containers/podman/releases/tag/v5.3.2"
+    },
+    "podman-compose": {
+      "version": "v1.3.0",
+      "gitref": "refs/tags/v1.3.0",
+      "url": "https://github.com/containers/podman-compose/releases/tag/v1.3.0"
+    },
+    "portainer": {
+      "version": "2.21.5",
+      "gitref": "refs/tags/2.21.5",
+      "url": "https://github.com/portainer/portainer/releases/tag/2.21.5"
+    },
+    "prometheus": {
+      "version": "v3.1.0",
+      "gitref": "refs/tags/v3.1.0",
+      "url": "https://github.com/prometheus/prometheus/releases/tag/v3.1.0"
+    },
+    "prometheus-blackbox_exporter": {
+      "version": "v0.25.0",
+      "gitref": "refs/tags/v0.25.0",
+      "url": "https://github.com/prometheus/blackbox_exporter/releases/tag/v0.25.0"
+    },
+    "prometheus-node_exporter": {
+      "version": "v1.8.2",
+      "gitref": "refs/tags/v1.8.2",
+      "url": "https://github.com/prometheus/node_exporter/releases/tag/v1.8.2"
+    },
+    "pulumi": {
+      "version": "v3.147.0",
+      "gitref": "refs/tags/v3.147.0",
+      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.147.0"
+    },
+    "qBittorrent": {
+      "version": "release-5.1.0beta1",
+      "gitref": "refs/tags/release-5.1.0beta1",
+      "revision": "aa979226e35cdb5446e086ec27014f98bd2ab9c8",
+      "url": "https://github.com/qbittorrent/qBittorrent/releases/tag/release-5.1.0beta1"
+    },
+    "semaphore": {
+      "version": "v2.11.3",
+      "gitref": "refs/tags/v2.11.3",
+      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.11.3"
+    },
+    "sentry": {
+      "version": "25.1.0",
+      "gitref": "refs/tags/25.1.0",
+      "url": "https://github.com/getsentry/self-hosted/releases/tag/25.1.0"
+    },
+    "skopeo": {
+      "version": "v1.17.0",
+      "gitref": "refs/tags/v1.17.0",
+      "url": "https://github.com/containers/skopeo/releases/tag/v1.17.0"
+    },
+    "speedtest-tracker": {
+      "version": "v1.2.0",
+      "gitref": "refs/tags/v1.2.0",
+      "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.2.0"
+    },
+    "terraform": {
+      "version": "v1.10.5",
+      "gitref": "refs/tags/v1.10.5",
+      "url": "https://github.com/hashicorp/terraform/releases/tag/v1.10.5"
+    },
+    "tornado": {
+      "version": "6.4.2",
+      "url": "https://pypi.org/project/tornado/6.4.2/"
+    },
+    "traefik": {
+      "version": "v3.3.2",
+      "gitref": "refs/tags/v3.3.2",
+      "url": "https://github.com/traefik/traefik/releases/tag/v3.3.2"
+    },
+    "uptime-kuma": {
+      "version": "1.23.16",
+      "gitref": "refs/tags/1.23.16",
+      "url": "https://github.com/louislam/uptime-kuma/releases/tag/1.23.16"
+    },
+    "vaultwarden": {
+      "version": "1.33.0",
+      "gitref": "refs/tags/1.33.0",
+      "url": "https://github.com/dani-garcia/vaultwarden/releases/tag/1.33.0"
+    },
+    "webhook": {
+      "version": "2.8.2",
+      "gitref": "refs/tags/2.8.2",
+      "url": "https://github.com/adnanh/webhook/releases/tag/2.8.2"
+    },
+    "youtube-dl": {
+      "version": "2021.12.17",
+      "gitref": "refs/tags/2021.12.17",
+      "url": "https://github.com/ytdl-org/youtube-dl/releases/tag/2021.12.17"
+    },
+    "zoxide": {
+      "version": "v0.9.6",
+      "gitref": "refs/tags/v0.9.6",
+      "url": "https://github.com/ajeetdsouza/zoxide/releases/tag/v0.9.6"
+    },
+    "zsh": {
+      "version": "5.4.1",
+      "gitref": "refs/tags/5.4.1",
+      "revision": "e19583f201de2cc9a37686e198751cab9d735ed8",
+      "url": "https://github.com/zsh-users/zsh/releases/tag/5.4.1"
+    }
+  }
 }
