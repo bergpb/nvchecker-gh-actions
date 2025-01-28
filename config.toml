@@ -204,6 +204,11 @@ source = "github"
 github = "alexjustesen/speedtest-tracker"
 use_latest_release = true
 
+[awx]
+source = "github"
+github = "ansible/awx"
+use_latest_release = true
+
 [jellyfin]
 source = "github"
 github = "jellyfin/jellyfin"
