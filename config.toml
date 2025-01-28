@@ -179,6 +179,76 @@ source = "github"
 github = "juanfont/headscale"
 use_latest_release = true
 
+[traefik]
+source = "github"
+github = "traefik/traefik"
+use_latest_release = true
+
+[portainer]
+source = "github"
+github = "portainer/portainer"
+use_latest_release = true
+
+[semaphore]
+source = "github"
+github = "semaphoreui/semaphore"
+use_latest_release = true
+
+[home-assistant]
+source = "github"
+github = "home-assistant/core"
+use_latest_release = true
+
+[speedtest-tracker]
+source = "github"
+github = "alexjustesen/speedtest-tracker"
+use_latest_release = true
+
+[jellyfin]
+source = "github"
+github = "jellfin/jellyfin"
+use_latest_release = true
+
+[jellyseerr]
+source = "github"
+github = "fallenbagel/jellyseerr"
+use_latest_release = true
+
+[Radarr]
+source = "github"
+github = "Radarr/Radarr"
+use_latest_release = true
+
+[Sonarr]
+source = "github"
+github = "Sonarr/Sonarr"
+use_latest_release = true
+
+[bazarr]
+source = "github"
+github = "morpheus65535/bazarr"
+use_latest_release = true
+
+[Prowlarr]
+source = "github"
+github = "Prowlarr/Prowlarr"
+use_latest_release = true
+
+[FlareSolverr]
+source = "github"
+github = "FlareSolverr/FlareSolverr"
+use_latest_release = true
+
+[qBittorrent]
+source = "github"
+github = "qbittorrent/qBittorrent"
+use_max_tag = true
+
+[lunasea]
+source = "github"
+github = "JagandeepBrar/lunasea"
+use_latest_release = true
+
 # --------------------------------------------------
 # Python packages
 
@@ -213,3 +283,7 @@ pypi = "kombu"
 [ansible]
 source = "pypi"
 pypi = "ansible"
+
+[fastapi]
+source = "pypi"
+pypi = "fastapi"
