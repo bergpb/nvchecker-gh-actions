@@ -43,6 +43,11 @@
       "version": "11.1.0",
       "url": "https://pypi.org/project/ansible/11.1.0/"
     },
+    "awx": {
+      "version": "24.6.1",
+      "gitref": "refs/tags/24.6.1",
+      "url": "https://github.com/ansible/awx/releases/tag/24.6.1"
+    },
     "balena-engine": {
       "version": "v20.10.44",
       "gitref": "refs/tags/v20.10.44",
