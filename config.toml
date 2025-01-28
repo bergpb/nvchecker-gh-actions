@@ -206,7 +206,7 @@ use_latest_release = true
 
 [jellyfin]
 source = "github"
-github = "jellfin/jellyfin"
+github = "jellyfin/jellyfin"
 use_latest_release = true
 
 [jellyseerr]
