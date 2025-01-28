@@ -307,6 +307,7 @@
   "headscale": "v0.24.1",
   "home-assistant": "2025.1.4",
   "insomnia": "core@10.3.0",
+  "jellyfin": "v10.10.5",
   "jellyseerr": "v2.3.0",
   "jq": "jq-1.7.1",
   "kombu": "5.4.2",
