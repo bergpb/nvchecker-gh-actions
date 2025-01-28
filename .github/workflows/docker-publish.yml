@@ -5,6 +5,7 @@ on:
   push:
     branches:
       - main
+    tags: ['v*']
     paths:
       - "Dockerfile"
       - ".github/workflows/docker-publish.yml"
@@ -53,3 +54,4 @@ jobs:
           push: true
           tags: ${{ steps.meta.outputs.tags }}
           labels: ${{ steps.meta.outputs.labels }}
+
