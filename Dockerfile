@@ -1,4 +1,4 @@
-FROM python:3.12-alpine3.20 AS base
+FROM python:3.12-alpine3.19 AS base
 
 RUN apk update \
     && apk add \
