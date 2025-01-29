@@ -40,8 +40,8 @@
       "url": "https://github.com/YOURLS/YOURLS/releases/tag/1.9.2"
     },
     "ansible": {
-      "version": "11.1.0",
-      "url": "https://pypi.org/project/ansible/11.1.0/"
+      "version": "11.2.0",
+      "url": "https://pypi.org/project/ansible/11.2.0/"
     },
     "awx": {
       "version": "24.6.1",
@@ -127,9 +127,9 @@
       "url": "https://github.com/gotify/server/releases/tag/v2.6.1"
     },
     "grafana": {
-      "version": "v11.4.0",
-      "gitref": "refs/tags/v11.4.0",
-      "url": "https://github.com/grafana/grafana/releases/tag/v11.4.0"
+      "version": "v11.5.0",
+      "gitref": "refs/tags/v11.5.0",
+      "url": "https://github.com/grafana/grafana/releases/tag/v11.5.0"
     },
     "hatch": {
       "version": "hatch-v1.14.0",
