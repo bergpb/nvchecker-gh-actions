@@ -223,9 +223,9 @@
       "url": "https://github.com/qbittorrent/qBittorrent/releases/tag/release-5.1.0beta1"
     },
     "semaphore": {
-      "version": "v2.11.3",
-      "gitref": "refs/tags/v2.11.3",
-      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.11.3"
+      "version": "v2.12.3",
+      "gitref": "refs/tags/v2.12.3",
+      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.12.3"
     },
     "sentry": {
       "version": "25.1.0",
