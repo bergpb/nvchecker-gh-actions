@@ -3,15 +3,7 @@ name: Build Docker Image
 on:
   workflow_dispatch:
   push:
-    branches:
-      - main
     tags: ['v*']
-    paths:
-      - "Dockerfile"
-      - ".github/workflows/docker-publish.yml"
-  pull_request:
-    branches:
-      - main
     paths:
       - "Dockerfile"
       - ".github/workflows/docker-publish.yml"
@@ -24,6 +16,7 @@ jobs:
   build-docker-image:
     name: Build Docker Image
     runs-on: ubuntu-latest
+
     permissions:
       contents: read
       packages: write
@@ -54,4 +47,3 @@ jobs:
           push: true
           tags: ${{ steps.meta.outputs.tags }}
           labels: ${{ steps.meta.outputs.labels }}
-
