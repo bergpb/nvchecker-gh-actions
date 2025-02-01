@@ -25,6 +25,10 @@ jobs:
   check-new-versions:
     name: Check New Versions
     runs-on: ubuntu-24.04
+
+    permissions:
+      contents: write
+
     container:
       image: ghcr.io/bergpb/nvchecker-gh-actions
       credentials:
