@@ -254,6 +254,11 @@ source = "github"
 github = "JagandeepBrar/lunasea"
 use_latest_release = true
 
+[gatus]
+source = "github"
+github = "TwiN/gatus"
+use_latest_release = true
+
 # --------------------------------------------------
 # Python packages
 
