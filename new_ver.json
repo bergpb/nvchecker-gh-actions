@@ -25,9 +25,9 @@
       "url": "https://github.com/Prowlarr/Prowlarr/releases/tag/v1.30.2.4939"
     },
     "Radarr": {
-      "version": "v5.17.2.9580",
-      "gitref": "refs/tags/v5.17.2.9580",
-      "url": "https://github.com/Radarr/Radarr/releases/tag/v5.17.2.9580"
+      "version": "v5.18.4.9674",
+      "gitref": "refs/tags/v5.18.4.9674",
+      "url": "https://github.com/Radarr/Radarr/releases/tag/v5.18.4.9674"
     },
     "Sonarr": {
       "version": "v4.0.12.2823",
@@ -84,9 +84,9 @@
       "url": "https://github.com/ClementTsang/bottom/releases/tag/0.10.2"
     },
     "buildah": {
-      "version": "v1.38.1",
-      "gitref": "refs/tags/v1.38.1",
-      "url": "https://github.com/containers/buildah/releases/tag/v1.38.1"
+      "version": "v1.39.0",
+      "gitref": "refs/tags/v1.39.0",
+      "url": "https://github.com/containers/buildah/releases/tag/v1.39.0"
     },
     "compose": {
       "version": "v2.32.4",
@@ -127,9 +127,9 @@
       "url": "https://github.com/gotify/server/releases/tag/v2.6.1"
     },
     "grafana": {
-      "version": "v11.5.0",
-      "gitref": "refs/tags/v11.5.0",
-      "url": "https://github.com/grafana/grafana/releases/tag/v11.5.0"
+      "version": "v11.5.1",
+      "gitref": "refs/tags/v11.5.1",
+      "url": "https://github.com/grafana/grafana/releases/tag/v11.5.1"
     },
     "hatch": {
       "version": "hatch-v1.14.0",
@@ -223,9 +223,9 @@
       "url": "https://github.com/qbittorrent/qBittorrent/releases/tag/release-5.1.0beta1"
     },
     "semaphore": {
-      "version": "v2.12.3",
-      "gitref": "refs/tags/v2.12.3",
-      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.12.3"
+      "version": "v2.12.4",
+      "gitref": "refs/tags/v2.12.4",
+      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.12.4"
     },
     "sentry": {
       "version": "25.1.0",
@@ -238,9 +238,9 @@
       "url": "https://github.com/containers/skopeo/releases/tag/v1.17.0"
     },
     "speedtest-tracker": {
-      "version": "v1.2.1",
-      "gitref": "refs/tags/v1.2.1",
-      "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.2.1"
+      "version": "v1.2.2",
+      "gitref": "refs/tags/v1.2.2",
+      "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.2.2"
     },
     "terraform": {
       "version": "v1.10.5",
@@ -262,9 +262,9 @@
       "url": "https://github.com/louislam/uptime-kuma/releases/tag/1.23.16"
     },
     "vaultwarden": {
-      "version": "1.33.0",
-      "gitref": "refs/tags/1.33.0",
-      "url": "https://github.com/dani-garcia/vaultwarden/releases/tag/1.33.0"
+      "version": "1.33.1",
+      "gitref": "refs/tags/1.33.1",
+      "url": "https://github.com/dani-garcia/vaultwarden/releases/tag/1.33.1"
     },
     "webhook": {
       "version": "2.8.2",
