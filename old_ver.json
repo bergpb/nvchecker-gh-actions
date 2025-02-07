@@ -98,10 +98,10 @@
       "url": "https://pypi.org/project/Django/5.1.6/"
     },
     "docker-cli": {
-      "version": "v27.5.1",
-      "gitref": "refs/tags/v27.5.1",
-      "revision": "cab968b3b2b49307e0cfea2bf4553b67d41bb324",
-      "url": "https://github.com/docker/cli/releases/tag/v27.5.1"
+      "version": "v28.0.0-rc.1",
+      "gitref": "refs/tags/v28.0.0-rc.1",
+      "revision": "ac4df6eb2ac241ca198b084d874e7c46a1c28cbb",
+      "url": "https://github.com/docker/cli/releases/tag/v28.0.0-rc.1"
     },
     "fastapi": {
       "version": "0.115.8",
@@ -142,9 +142,9 @@
       "url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.14.0"
     },
     "headscale": {
-      "version": "v0.24.2",
-      "gitref": "refs/tags/v0.24.2",
-      "url": "https://github.com/juanfont/headscale/releases/tag/v0.24.2"
+      "version": "v0.24.3",
+      "gitref": "refs/tags/v0.24.3",
+      "url": "https://github.com/juanfont/headscale/releases/tag/v0.24.3"
     },
     "home-assistant": {
       "version": "2025.2.0",
@@ -243,9 +243,9 @@
       "url": "https://github.com/containers/skopeo/releases/tag/v1.17.0"
     },
     "speedtest-tracker": {
-      "version": "v1.2.2",
-      "gitref": "refs/tags/v1.2.2",
-      "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.2.2"
+      "version": "v1.2.3",
+      "gitref": "refs/tags/v1.2.3",
+      "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.2.3"
     },
     "terraform": {
       "version": "v1.10.5",
