@@ -142,19 +142,19 @@
       "url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.14.0"
     },
     "headscale": {
-      "version": "v0.24.3",
-      "gitref": "refs/tags/v0.24.3",
-      "url": "https://github.com/juanfont/headscale/releases/tag/v0.24.3"
+      "version": "v0.25.0",
+      "gitref": "refs/tags/v0.25.0",
+      "url": "https://github.com/juanfont/headscale/releases/tag/v0.25.0"
     },
     "home-assistant": {
-      "version": "2025.2.1",
-      "gitref": "refs/tags/2025.2.1",
-      "url": "https://github.com/home-assistant/core/releases/tag/2025.2.1"
+      "version": "2025.2.2",
+      "gitref": "refs/tags/2025.2.2",
+      "url": "https://github.com/home-assistant/core/releases/tag/2025.2.2"
     },
     "insomnia": {
-      "version": "core@10.3.0",
-      "gitref": "refs/tags/core@10.3.0",
-      "url": "https://github.com/Kong/insomnia/releases/tag/core%4010.3.0"
+      "version": "core@10.3.1",
+      "gitref": "refs/tags/core@10.3.1",
+      "url": "https://github.com/Kong/insomnia/releases/tag/core%4010.3.1"
     },
     "jellyfin": {
       "version": "v10.10.5",
@@ -222,15 +222,15 @@
       "url": "https://github.com/pulumi/pulumi/releases/tag/v3.149.0"
     },
     "qBittorrent": {
-      "version": "release-5.1.0beta1",
-      "gitref": "refs/tags/release-5.1.0beta1",
-      "revision": "aa979226e35cdb5446e086ec27014f98bd2ab9c8",
-      "url": "https://github.com/qbittorrent/qBittorrent/releases/tag/release-5.1.0beta1"
+      "version": "release-5.1.0rc1",
+      "gitref": "refs/tags/release-5.1.0rc1",
+      "revision": "cc820e1e1c4d180051af3cda1d3113f685cfe8be",
+      "url": "https://github.com/qbittorrent/qBittorrent/releases/tag/release-5.1.0rc1"
     },
     "semaphore": {
-      "version": "v2.12.5",
-      "gitref": "refs/tags/v2.12.5",
-      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.12.5"
+      "version": "v2.12.8",
+      "gitref": "refs/tags/v2.12.8",
+      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.12.8"
     },
     "sentry": {
       "version": "25.1.0",
