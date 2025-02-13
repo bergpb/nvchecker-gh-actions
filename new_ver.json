@@ -117,9 +117,9 @@
       "url": "https://pypi.org/project/Flask/3.1.0/"
     },
     "fzf": {
-      "version": "v0.59.0",
-      "gitref": "refs/tags/v0.59.0",
-      "url": "https://github.com/junegunn/fzf/releases/tag/v0.59.0"
+      "version": "v0.60.0",
+      "gitref": "refs/tags/v0.60.0",
+      "url": "https://github.com/junegunn/fzf/releases/tag/v0.60.0"
     },
     "gatus": {
       "version": "v5.15.0",
@@ -147,9 +147,9 @@
       "url": "https://github.com/juanfont/headscale/releases/tag/v0.25.0"
     },
     "home-assistant": {
-      "version": "2025.2.2",
-      "gitref": "refs/tags/2025.2.2",
-      "url": "https://github.com/home-assistant/core/releases/tag/2025.2.2"
+      "version": "2025.2.3",
+      "gitref": "refs/tags/2025.2.3",
+      "url": "https://github.com/home-assistant/core/releases/tag/2025.2.3"
     },
     "insomnia": {
       "version": "core@10.3.1",
@@ -228,9 +228,9 @@
       "url": "https://github.com/qbittorrent/qBittorrent/releases/tag/release-5.1.0rc1"
     },
     "semaphore": {
-      "version": "v2.12.8",
-      "gitref": "refs/tags/v2.12.8",
-      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.12.8"
+      "version": "v2.12.11",
+      "gitref": "refs/tags/v2.12.11",
+      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.12.11"
     },
     "sentry": {
       "version": "25.1.0",
@@ -238,9 +238,9 @@
       "url": "https://github.com/getsentry/self-hosted/releases/tag/25.1.0"
     },
     "skopeo": {
-      "version": "v1.17.0",
-      "gitref": "refs/tags/v1.17.0",
-      "url": "https://github.com/containers/skopeo/releases/tag/v1.17.0"
+      "version": "v1.18.0",
+      "gitref": "refs/tags/v1.18.0",
+      "url": "https://github.com/containers/skopeo/releases/tag/v1.18.0"
     },
     "speedtest-tracker": {
       "version": "v1.2.3",
