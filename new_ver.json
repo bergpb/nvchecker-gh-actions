@@ -2,9 +2,9 @@
   "version": 2,
   "data": {
     "Antares": {
-      "version": "v0.7.31",
-      "gitref": "refs/tags/v0.7.31",
-      "url": "https://github.com/antares-sql/antares/releases/tag/v0.7.31"
+      "version": "v0.7.32",
+      "gitref": "refs/tags/v0.7.32",
+      "url": "https://github.com/antares-sql/antares/releases/tag/v0.7.32"
     },
     "Beancount": {
       "version": "3.1.0",
