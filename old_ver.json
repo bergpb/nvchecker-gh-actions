@@ -98,10 +98,10 @@
       "url": "https://pypi.org/project/Django/5.1.6/"
     },
     "docker-cli": {
-      "version": "v28.0.0-rc.2",
-      "gitref": "refs/tags/v28.0.0-rc.2",
-      "revision": "a8c055ea0d5f190b978a512e9cfa4fce00fb9774",
-      "url": "https://github.com/docker/cli/releases/tag/v28.0.0-rc.2"
+      "version": "v28.0.0-rc.3",
+      "gitref": "refs/tags/v28.0.0-rc.3",
+      "revision": "18b2edc80341a0f2ef7599f78e507e65547f6a2c",
+      "url": "https://github.com/docker/cli/releases/tag/v28.0.0-rc.3"
     },
     "fastapi": {
       "version": "0.115.8",
@@ -132,9 +132,9 @@
       "url": "https://github.com/gotify/server/releases/tag/v2.6.1"
     },
     "grafana": {
-      "version": "v11.5.1",
-      "gitref": "refs/tags/v11.5.1",
-      "url": "https://github.com/grafana/grafana/releases/tag/v11.5.1"
+      "version": "v11.5.2",
+      "gitref": "refs/tags/v11.5.2",
+      "url": "https://github.com/grafana/grafana/releases/tag/v11.5.2"
     },
     "hatch": {
       "version": "hatch-v1.14.0",
@@ -233,9 +233,9 @@
       "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.12.14"
     },
     "sentry": {
-      "version": "25.1.0",
-      "gitref": "refs/tags/25.1.0",
-      "url": "https://github.com/getsentry/self-hosted/releases/tag/25.1.0"
+      "version": "25.2.0",
+      "gitref": "refs/tags/25.2.0",
+      "url": "https://github.com/getsentry/self-hosted/releases/tag/25.2.0"
     },
     "skopeo": {
       "version": "v1.18.0",
