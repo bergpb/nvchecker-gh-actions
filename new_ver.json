@@ -117,9 +117,9 @@
       "url": "https://pypi.org/project/Flask/3.1.0/"
     },
     "fzf": {
-      "version": "v0.60.0",
-      "gitref": "refs/tags/v0.60.0",
-      "url": "https://github.com/junegunn/fzf/releases/tag/v0.60.0"
+      "version": "v0.60.1",
+      "gitref": "refs/tags/v0.60.1",
+      "url": "https://github.com/junegunn/fzf/releases/tag/v0.60.1"
     },
     "gatus": {
       "version": "v5.16.0",
