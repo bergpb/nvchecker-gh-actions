@@ -259,6 +259,11 @@ source = "github"
 github = "TwiN/gatus"
 use_latest_release = true
 
+[pi-hole]
+source = "github"
+github = "pi-hole/pi-hole"
+use_latest_release = true
+
 # --------------------------------------------------
 # Python packages
 
