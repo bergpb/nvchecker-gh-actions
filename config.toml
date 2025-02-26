@@ -264,6 +264,11 @@ source = "github"
 github = "pi-hole/pi-hole"
 use_latest_release = true
 
+[argocd]
+source = "github"
+github = "argoproj/argo-cd"
+use_latest_release = true
+
 # --------------------------------------------------
 # Python packages
 
