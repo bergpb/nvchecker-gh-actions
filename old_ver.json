@@ -43,6 +43,11 @@
       "version": "11.3.0",
       "url": "https://pypi.org/project/ansible/11.3.0/"
     },
+    "argocd": {
+      "version": "v2.14.2",
+      "gitref": "refs/tags/v2.14.2",
+      "url": "https://github.com/argoproj/argo-cd/releases/tag/v2.14.2"
+    },
     "awx": {
       "version": "24.6.1",
       "gitref": "refs/tags/24.6.1",
@@ -98,10 +103,10 @@
       "url": "https://pypi.org/project/Django/5.1.6/"
     },
     "docker-cli": {
-      "version": "v28.0.0",
-      "gitref": "refs/tags/v28.0.0",
-      "revision": "8eb41f34cb24dd0dec31e57220b39389f691355b",
-      "url": "https://github.com/docker/cli/releases/tag/v28.0.0"
+      "version": "v28.0.1",
+      "gitref": "refs/tags/v28.0.1",
+      "revision": "b231b0320ecf6b1a4b38ad4586830e3e3105889e",
+      "url": "https://github.com/docker/cli/releases/tag/v28.0.1"
     },
     "fastapi": {
       "version": "0.115.8",
@@ -212,9 +217,9 @@
       "url": "https://github.com/prometheus/prometheus/releases/tag/v3.2.1"
     },
     "prometheus-blackbox_exporter": {
-      "version": "v0.25.0",
-      "gitref": "refs/tags/v0.25.0",
-      "url": "https://github.com/prometheus/blackbox_exporter/releases/tag/v0.25.0"
+      "version": "v0.26.0",
+      "gitref": "refs/tags/v0.26.0",
+      "url": "https://github.com/prometheus/blackbox_exporter/releases/tag/v0.26.0"
     },
     "prometheus-node_exporter": {
       "version": "v1.9.0",
