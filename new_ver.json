@@ -25,9 +25,9 @@
       "url": "https://github.com/Prowlarr/Prowlarr/releases/tag/v1.31.2.4975"
     },
     "Radarr": {
-      "version": "v5.18.4.9674",
-      "gitref": "refs/tags/v5.18.4.9674",
-      "url": "https://github.com/Radarr/Radarr/releases/tag/v5.18.4.9674"
+      "version": "v5.19.3.9730",
+      "gitref": "refs/tags/v5.19.3.9730",
+      "url": "https://github.com/Radarr/Radarr/releases/tag/v5.19.3.9730"
     },
     "Sonarr": {
       "version": "v4.0.13.2932",
@@ -40,8 +40,8 @@
       "url": "https://github.com/YOURLS/YOURLS/releases/tag/1.9.2"
     },
     "ansible": {
-      "version": "11.2.0",
-      "url": "https://pypi.org/project/ansible/11.2.0/"
+      "version": "11.3.0",
+      "url": "https://pypi.org/project/ansible/11.3.0/"
     },
     "awx": {
       "version": "24.6.1",
@@ -142,9 +142,9 @@
       "url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.14.0"
     },
     "headscale": {
-      "version": "v0.25.0",
-      "gitref": "refs/tags/v0.25.0",
-      "url": "https://github.com/juanfont/headscale/releases/tag/v0.25.0"
+      "version": "v0.25.1",
+      "gitref": "refs/tags/v0.25.1",
+      "url": "https://github.com/juanfont/headscale/releases/tag/v0.25.1"
     },
     "home-assistant": {
       "version": "2025.2.5",
@@ -207,9 +207,9 @@
       "url": "https://github.com/portainer/portainer/releases/tag/2.27.0"
     },
     "prometheus": {
-      "version": "v3.2.0",
-      "gitref": "refs/tags/v3.2.0",
-      "url": "https://github.com/prometheus/prometheus/releases/tag/v3.2.0"
+      "version": "v3.2.1",
+      "gitref": "refs/tags/v3.2.1",
+      "url": "https://github.com/prometheus/prometheus/releases/tag/v3.2.1"
     },
     "prometheus-blackbox_exporter": {
       "version": "v0.25.0",
