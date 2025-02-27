@@ -89,9 +89,9 @@
       "url": "https://github.com/ClementTsang/bottom/releases/tag/0.10.2"
     },
     "buildah": {
-      "version": "v1.39.0",
-      "gitref": "refs/tags/v1.39.0",
-      "url": "https://github.com/containers/buildah/releases/tag/v1.39.0"
+      "version": "v1.39.1",
+      "gitref": "refs/tags/v1.39.1",
+      "url": "https://github.com/containers/buildah/releases/tag/v1.39.1"
     },
     "compose": {
       "version": "v2.33.1",
@@ -207,9 +207,9 @@
       "url": "https://github.com/containers/podman-compose/releases/tag/v1.3.0"
     },
     "portainer": {
-      "version": "2.27.0",
-      "gitref": "refs/tags/2.27.0",
-      "url": "https://github.com/portainer/portainer/releases/tag/2.27.0"
+      "version": "2.27.1",
+      "gitref": "refs/tags/2.27.1",
+      "url": "https://github.com/portainer/portainer/releases/tag/2.27.1"
     },
     "prometheus": {
       "version": "v3.2.1",
@@ -227,9 +227,9 @@
       "url": "https://github.com/prometheus/node_exporter/releases/tag/v1.9.0"
     },
     "pulumi": {
-      "version": "v3.152.0",
-      "gitref": "refs/tags/v3.152.0",
-      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.152.0"
+      "version": "v3.153.0",
+      "gitref": "refs/tags/v3.153.0",
+      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.153.0"
     },
     "qBittorrent": {
       "version": "release-5.1.0rc1",
