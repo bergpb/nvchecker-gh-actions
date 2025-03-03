@@ -44,9 +44,9 @@
       "url": "https://pypi.org/project/ansible/11.3.0/"
     },
     "argocd": {
-      "version": "v2.14.2",
-      "gitref": "refs/tags/v2.14.2",
-      "url": "https://github.com/argoproj/argo-cd/releases/tag/v2.14.2"
+      "version": "v2.14.3",
+      "gitref": "refs/tags/v2.14.3",
+      "url": "https://github.com/argoproj/argo-cd/releases/tag/v2.14.3"
     },
     "awx": {
       "version": "24.6.1",
@@ -109,8 +109,8 @@
       "url": "https://github.com/docker/cli/releases/tag/v28.0.1"
     },
     "fastapi": {
-      "version": "0.115.9",
-      "url": "https://pypi.org/project/fastapi/0.115.9/"
+      "version": "0.115.11",
+      "url": "https://pypi.org/project/fastapi/0.115.11/"
     },
     "fd": {
       "version": "v10.2.0",
@@ -122,9 +122,9 @@
       "url": "https://pypi.org/project/Flask/3.1.0/"
     },
     "fzf": {
-      "version": "v0.60.2",
-      "gitref": "refs/tags/v0.60.2",
-      "url": "https://github.com/junegunn/fzf/releases/tag/v0.60.2"
+      "version": "v0.60.3",
+      "gitref": "refs/tags/v0.60.3",
+      "url": "https://github.com/junegunn/fzf/releases/tag/v0.60.3"
     },
     "gatus": {
       "version": "v5.16.0",
@@ -227,9 +227,9 @@
       "url": "https://github.com/prometheus/node_exporter/releases/tag/v1.9.0"
     },
     "pulumi": {
-      "version": "v3.153.0",
-      "gitref": "refs/tags/v3.153.0",
-      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.153.0"
+      "version": "v3.153.1",
+      "gitref": "refs/tags/v3.153.1",
+      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.153.1"
     },
     "qBittorrent": {
       "version": "release-5.1.0rc1",
