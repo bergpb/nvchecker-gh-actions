@@ -44,9 +44,9 @@
       "url": "https://pypi.org/project/ansible/11.3.0/"
     },
     "argocd": {
-      "version": "v2.14.3",
-      "gitref": "refs/tags/v2.14.3",
-      "url": "https://github.com/argoproj/argo-cd/releases/tag/v2.14.3"
+      "version": "v2.14.4",
+      "gitref": "refs/tags/v2.14.4",
+      "url": "https://github.com/argoproj/argo-cd/releases/tag/v2.14.4"
     },
     "awx": {
       "version": "24.6.1",
@@ -89,9 +89,9 @@
       "url": "https://github.com/ClementTsang/bottom/releases/tag/0.10.2"
     },
     "buildah": {
-      "version": "v1.39.1",
-      "gitref": "refs/tags/v1.39.1",
-      "url": "https://github.com/containers/buildah/releases/tag/v1.39.1"
+      "version": "v1.39.2",
+      "gitref": "refs/tags/v1.39.2",
+      "url": "https://github.com/containers/buildah/releases/tag/v1.39.2"
     },
     "compose": {
       "version": "v2.33.1",
@@ -192,9 +192,9 @@
       "url": "https://github.com/lilydjwg/nvchecker/releases/tag/v2.16"
     },
     "pi-hole": {
-      "version": "v6.0.4",
-      "gitref": "refs/tags/v6.0.4",
-      "url": "https://github.com/pi-hole/pi-hole/releases/tag/v6.0.4"
+      "version": "v6.0.5",
+      "gitref": "refs/tags/v6.0.5",
+      "url": "https://github.com/pi-hole/pi-hole/releases/tag/v6.0.5"
     },
     "podman": {
       "version": "v5.4.0",
