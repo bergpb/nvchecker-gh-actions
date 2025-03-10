@@ -152,9 +152,9 @@
       "url": "https://github.com/juanfont/headscale/releases/tag/v0.25.1"
     },
     "home-assistant": {
-      "version": "2025.3.0",
-      "gitref": "refs/tags/2025.3.0",
-      "url": "https://github.com/home-assistant/core/releases/tag/2025.3.0"
+      "version": "2025.3.1",
+      "gitref": "refs/tags/2025.3.1",
+      "url": "https://github.com/home-assistant/core/releases/tag/2025.3.1"
     },
     "insomnia": {
       "version": "core@10.3.1",
@@ -227,9 +227,9 @@
       "url": "https://github.com/prometheus/node_exporter/releases/tag/v1.9.0"
     },
     "pulumi": {
-      "version": "v3.153.1",
-      "gitref": "refs/tags/v3.153.1",
-      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.153.1"
+      "version": "v3.154.0",
+      "gitref": "refs/tags/v3.154.0",
+      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.154.0"
     },
     "qBittorrent": {
       "version": "release-5.1.0rc1",
