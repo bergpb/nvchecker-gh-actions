@@ -44,9 +44,9 @@
       "url": "https://pypi.org/project/ansible/11.3.0/"
     },
     "argocd": {
-      "version": "v2.14.4",
-      "gitref": "refs/tags/v2.14.4",
-      "url": "https://github.com/argoproj/argo-cd/releases/tag/v2.14.4"
+      "version": "v2.14.5",
+      "gitref": "refs/tags/v2.14.5",
+      "url": "https://github.com/argoproj/argo-cd/releases/tag/v2.14.5"
     },
     "awx": {
       "version": "24.6.1",
@@ -167,9 +167,9 @@
       "url": "https://github.com/jellyfin/jellyfin/releases/tag/v10.10.6"
     },
     "jellyseerr": {
-      "version": "v2.3.0",
-      "gitref": "refs/tags/v2.3.0",
-      "url": "https://github.com/fallenbagel/jellyseerr/releases/tag/v2.3.0"
+      "version": "v2.5.0",
+      "gitref": "refs/tags/v2.5.0",
+      "url": "https://github.com/fallenbagel/jellyseerr/releases/tag/v2.5.0"
     },
     "jq": {
       "version": "jq-1.7.1",
@@ -238,9 +238,9 @@
       "url": "https://github.com/qbittorrent/qBittorrent/releases/tag/release-5.1.0rc1"
     },
     "semaphore": {
-      "version": "v2.12.14",
-      "gitref": "refs/tags/v2.12.14",
-      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.12.14"
+      "version": "v2.12.17",
+      "gitref": "refs/tags/v2.12.17",
+      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.12.17"
     },
     "sentry": {
       "version": "25.2.0",
