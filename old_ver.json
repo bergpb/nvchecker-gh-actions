@@ -152,9 +152,9 @@
       "url": "https://github.com/juanfont/headscale/releases/tag/v0.25.1"
     },
     "home-assistant": {
-      "version": "2025.3.1",
-      "gitref": "refs/tags/2025.3.1",
-      "url": "https://github.com/home-assistant/core/releases/tag/2025.3.1"
+      "version": "2025.3.2",
+      "gitref": "refs/tags/2025.3.2",
+      "url": "https://github.com/home-assistant/core/releases/tag/2025.3.2"
     },
     "insomnia": {
       "version": "core@10.3.1",
@@ -197,9 +197,9 @@
       "url": "https://github.com/pi-hole/pi-hole/releases/tag/v6.0.5"
     },
     "podman": {
-      "version": "v5.4.0",
-      "gitref": "refs/tags/v5.4.0",
-      "url": "https://github.com/containers/podman/releases/tag/v5.4.0"
+      "version": "v5.4.1",
+      "gitref": "refs/tags/v5.4.1",
+      "url": "https://github.com/containers/podman/releases/tag/v5.4.1"
     },
     "podman-compose": {
       "version": "v1.3.0",
