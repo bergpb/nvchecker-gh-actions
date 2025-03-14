@@ -94,9 +94,9 @@
       "url": "https://github.com/containers/buildah/releases/tag/v1.39.2"
     },
     "compose": {
-      "version": "v2.33.1",
-      "gitref": "refs/tags/v2.33.1",
-      "url": "https://github.com/docker/compose/releases/tag/v2.33.1"
+      "version": "v2.34.0",
+      "gitref": "refs/tags/v2.34.0",
+      "url": "https://github.com/docker/compose/releases/tag/v2.34.0"
     },
     "django": {
       "version": "5.1.7",
@@ -152,9 +152,9 @@
       "url": "https://github.com/juanfont/headscale/releases/tag/v0.25.1"
     },
     "home-assistant": {
-      "version": "2025.3.2",
-      "gitref": "refs/tags/2025.3.2",
-      "url": "https://github.com/home-assistant/core/releases/tag/2025.3.2"
+      "version": "2025.3.3",
+      "gitref": "refs/tags/2025.3.3",
+      "url": "https://github.com/home-assistant/core/releases/tag/2025.3.3"
     },
     "insomnia": {
       "version": "core@10.3.1",
@@ -177,8 +177,8 @@
       "url": "https://github.com/jqlang/jq/releases/tag/jq-1.7.1"
     },
     "kombu": {
-      "version": "5.4.2",
-      "url": "https://pypi.org/project/kombu/5.4.2/"
+      "version": "5.5.0",
+      "url": "https://pypi.org/project/kombu/5.5.0/"
     },
     "lunasea": {
       "version": "v10.2.6",
@@ -227,9 +227,9 @@
       "url": "https://github.com/prometheus/node_exporter/releases/tag/v1.9.0"
     },
     "pulumi": {
-      "version": "v3.155.0",
-      "gitref": "refs/tags/v3.155.0",
-      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.155.0"
+      "version": "v3.156.0",
+      "gitref": "refs/tags/v3.156.0",
+      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.156.0"
     },
     "qBittorrent": {
       "version": "release-5.1.0rc1",
