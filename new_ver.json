@@ -20,9 +20,9 @@
       "url": "https://github.com/FlareSolverr/FlareSolverr/releases/tag/v3.3.21"
     },
     "Prowlarr": {
-      "version": "v1.31.2.4975",
-      "gitref": "refs/tags/v1.31.2.4975",
-      "url": "https://github.com/Prowlarr/Prowlarr/releases/tag/v1.31.2.4975"
+      "version": "v1.32.2.4987",
+      "gitref": "refs/tags/v1.32.2.4987",
+      "url": "https://github.com/Prowlarr/Prowlarr/releases/tag/v1.32.2.4987"
     },
     "Radarr": {
       "version": "v5.19.3.9730",
@@ -167,9 +167,9 @@
       "url": "https://github.com/jellyfin/jellyfin/releases/tag/v10.10.6"
     },
     "jellyseerr": {
-      "version": "v2.5.0",
-      "gitref": "refs/tags/v2.5.0",
-      "url": "https://github.com/fallenbagel/jellyseerr/releases/tag/v2.5.0"
+      "version": "v2.5.1",
+      "gitref": "refs/tags/v2.5.1",
+      "url": "https://github.com/fallenbagel/jellyseerr/releases/tag/v2.5.1"
     },
     "jq": {
       "version": "jq-1.7.1",
@@ -186,10 +186,10 @@
       "url": "https://github.com/JagandeepBrar/lunasea/releases/tag/v10.2.6"
     },
     "nvchecker": {
-      "version": "v2.16",
-      "gitref": "refs/tags/v2.16",
-      "revision": "fb4e73ae72c2c9acbff4aafb588ab3a430f59560",
-      "url": "https://github.com/lilydjwg/nvchecker/releases/tag/v2.16"
+      "version": "v2.17",
+      "gitref": "refs/tags/v2.17",
+      "revision": "c2dbbe173976859c2a2cee9e123bfdb64308aa20",
+      "url": "https://github.com/lilydjwg/nvchecker/releases/tag/v2.17"
     },
     "pi-hole": {
       "version": "v6.0.5",
