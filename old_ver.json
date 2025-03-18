@@ -25,14 +25,14 @@
       "url": "https://github.com/Prowlarr/Prowlarr/releases/tag/v1.32.2.4987"
     },
     "Radarr": {
-      "version": "v5.19.3.9730",
-      "gitref": "refs/tags/v5.19.3.9730",
-      "url": "https://github.com/Radarr/Radarr/releases/tag/v5.19.3.9730"
+      "version": "v5.20.2.9777",
+      "gitref": "refs/tags/v5.20.2.9777",
+      "url": "https://github.com/Radarr/Radarr/releases/tag/v5.20.2.9777"
     },
     "Sonarr": {
-      "version": "v4.0.13.2932",
-      "gitref": "refs/tags/v4.0.13.2932",
-      "url": "https://github.com/Sonarr/Sonarr/releases/tag/v4.0.13.2932"
+      "version": "v4.0.14.2939",
+      "gitref": "refs/tags/v4.0.14.2939",
+      "url": "https://github.com/Sonarr/Sonarr/releases/tag/v4.0.14.2939"
     },
     "YOURLS": {
       "version": "1.9.2",
@@ -157,9 +157,9 @@
       "url": "https://github.com/home-assistant/core/releases/tag/2025.3.3"
     },
     "insomnia": {
-      "version": "core@10.3.1",
-      "gitref": "refs/tags/core@10.3.1",
-      "url": "https://github.com/Kong/insomnia/releases/tag/core%4010.3.1"
+      "version": "core@11.0.0",
+      "gitref": "refs/tags/core@11.0.0",
+      "url": "https://github.com/Kong/insomnia/releases/tag/core%4011.0.0"
     },
     "jellyfin": {
       "version": "v10.10.6",
@@ -238,14 +238,14 @@
       "url": "https://github.com/qbittorrent/qBittorrent/releases/tag/release-5.1.0rc1"
     },
     "semaphore": {
-      "version": "v2.12.17",
-      "gitref": "refs/tags/v2.12.17",
-      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.12.17"
+      "version": "v2.13.0",
+      "gitref": "refs/tags/v2.13.0",
+      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.13.0"
     },
     "sentry": {
-      "version": "25.2.0",
-      "gitref": "refs/tags/25.2.0",
-      "url": "https://github.com/getsentry/self-hosted/releases/tag/25.2.0"
+      "version": "25.3.0",
+      "gitref": "refs/tags/25.3.0",
+      "url": "https://github.com/getsentry/self-hosted/releases/tag/25.3.0"
     },
     "skopeo": {
       "version": "v1.18.0",
