@@ -109,8 +109,8 @@
       "url": "https://github.com/docker/cli/releases/tag/v28.0.2"
     },
     "fastapi": {
-      "version": "0.115.11",
-      "url": "https://pypi.org/project/fastapi/0.115.11/"
+      "version": "0.115.12",
+      "url": "https://pypi.org/project/fastapi/0.115.12/"
     },
     "fd": {
       "version": "v10.2.0",
@@ -127,9 +127,9 @@
       "url": "https://github.com/junegunn/fzf/releases/tag/v0.60.3"
     },
     "gatus": {
-      "version": "v5.16.0",
-      "gitref": "refs/tags/v5.16.0",
-      "url": "https://github.com/TwiN/gatus/releases/tag/v5.16.0"
+      "version": "v5.17.0",
+      "gitref": "refs/tags/v5.17.0",
+      "url": "https://github.com/TwiN/gatus/releases/tag/v5.17.0"
     },
     "gotify": {
       "version": "v2.6.1",
@@ -152,9 +152,9 @@
       "url": "https://github.com/juanfont/headscale/releases/tag/v0.25.1"
     },
     "home-assistant": {
-      "version": "2025.3.3",
-      "gitref": "refs/tags/2025.3.3",
-      "url": "https://github.com/home-assistant/core/releases/tag/2025.3.3"
+      "version": "2025.3.4",
+      "gitref": "refs/tags/2025.3.4",
+      "url": "https://github.com/home-assistant/core/releases/tag/2025.3.4"
     },
     "insomnia": {
       "version": "core@11.0.0",
@@ -238,9 +238,9 @@
       "url": "https://github.com/qbittorrent/qBittorrent/releases/tag/release-5.1.0rc1"
     },
     "semaphore": {
-      "version": "v2.13.0",
-      "gitref": "refs/tags/v2.13.0",
-      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.13.0"
+      "version": "v2.13.1",
+      "gitref": "refs/tags/v2.13.1",
+      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.13.1"
     },
     "sentry": {
       "version": "25.3.0",
