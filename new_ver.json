@@ -157,9 +157,9 @@
       "url": "https://github.com/home-assistant/core/releases/tag/2025.3.4"
     },
     "insomnia": {
-      "version": "core@11.0.0",
-      "gitref": "refs/tags/core@11.0.0",
-      "url": "https://github.com/Kong/insomnia/releases/tag/core%4011.0.0"
+      "version": "core@11.0.1",
+      "gitref": "refs/tags/core@11.0.1",
+      "url": "https://github.com/Kong/insomnia/releases/tag/core%4011.0.1"
     },
     "jellyfin": {
       "version": "v10.10.6",
@@ -238,9 +238,9 @@
       "url": "https://github.com/qbittorrent/qBittorrent/releases/tag/release-5.1.0rc1"
     },
     "semaphore": {
-      "version": "v2.13.1",
-      "gitref": "refs/tags/v2.13.1",
-      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.13.1"
+      "version": "v2.13.2",
+      "gitref": "refs/tags/v2.13.2",
+      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.13.2"
     },
     "sentry": {
       "version": "25.3.0",
@@ -258,9 +258,9 @@
       "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.3.0"
     },
     "terraform": {
-      "version": "v1.11.2",
-      "gitref": "refs/tags/v1.11.2",
-      "url": "https://github.com/hashicorp/terraform/releases/tag/v1.11.2"
+      "version": "v1.11.3",
+      "gitref": "refs/tags/v1.11.3",
+      "url": "https://github.com/hashicorp/terraform/releases/tag/v1.11.3"
     },
     "tornado": {
       "version": "6.4.2",
