@@ -122,9 +122,9 @@
       "url": "https://pypi.org/project/Flask/3.1.0/"
     },
     "fzf": {
-      "version": "v0.60.3",
-      "gitref": "refs/tags/v0.60.3",
-      "url": "https://github.com/junegunn/fzf/releases/tag/v0.60.3"
+      "version": "v0.61.0",
+      "gitref": "refs/tags/v0.61.0",
+      "url": "https://github.com/junegunn/fzf/releases/tag/v0.61.0"
     },
     "gatus": {
       "version": "v5.17.0",
@@ -177,8 +177,8 @@
       "url": "https://github.com/jqlang/jq/releases/tag/jq-1.7.1"
     },
     "kombu": {
-      "version": "5.5.1",
-      "url": "https://pypi.org/project/kombu/5.5.1/"
+      "version": "5.5.2",
+      "url": "https://pypi.org/project/kombu/5.5.2/"
     },
     "lunasea": {
       "version": "v10.2.6",
@@ -192,9 +192,9 @@
       "url": "https://github.com/lilydjwg/nvchecker/releases/tag/v2.17"
     },
     "pi-hole": {
-      "version": "v6.0.5",
-      "gitref": "refs/tags/v6.0.5",
-      "url": "https://github.com/pi-hole/pi-hole/releases/tag/v6.0.5"
+      "version": "v6.0.6",
+      "gitref": "refs/tags/v6.0.6",
+      "url": "https://github.com/pi-hole/pi-hole/releases/tag/v6.0.6"
     },
     "podman": {
       "version": "v5.4.1",
@@ -238,9 +238,9 @@
       "url": "https://github.com/qbittorrent/qBittorrent/releases/tag/release-5.1.0rc1"
     },
     "semaphore": {
-      "version": "v2.13.2",
-      "gitref": "refs/tags/v2.13.2",
-      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.13.2"
+      "version": "v2.13.5",
+      "gitref": "refs/tags/v2.13.5",
+      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.13.5"
     },
     "sentry": {
       "version": "25.3.0",
@@ -267,9 +267,9 @@
       "url": "https://pypi.org/project/tornado/6.4.2/"
     },
     "traefik": {
-      "version": "v3.3.4",
-      "gitref": "refs/tags/v3.3.4",
-      "url": "https://github.com/traefik/traefik/releases/tag/v3.3.4"
+      "version": "v3.3.5",
+      "gitref": "refs/tags/v3.3.5",
+      "url": "https://github.com/traefik/traefik/releases/tag/v3.3.5"
     },
     "uptime-kuma": {
       "version": "1.23.16",
