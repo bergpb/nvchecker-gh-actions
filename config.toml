@@ -111,6 +111,11 @@ source = "github"
 github = "pypa/hatch"
 use_latest_release = true
 
+[k9s]
+source = "github"
+github = "derailed/k9s"
+use_latest_release = true
+
 # --------------------------------------------------
 # Self-Hosted tools
 
