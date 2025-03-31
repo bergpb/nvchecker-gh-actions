@@ -176,6 +176,11 @@
       "gitref": "refs/tags/jq-1.7.1",
       "url": "https://github.com/jqlang/jq/releases/tag/jq-1.7.1"
     },
+    "k9s": {
+      "version": "v0.40.10",
+      "gitref": "refs/tags/v0.40.10",
+      "url": "https://github.com/derailed/k9s/releases/tag/v0.40.10"
+    },
     "kombu": {
       "version": "5.5.2",
       "url": "https://pypi.org/project/kombu/5.5.2/"
