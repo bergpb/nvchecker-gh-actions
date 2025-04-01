@@ -11,8 +11,8 @@
       "url": "https://pypi.org/project/beancount/3.1.0/"
     },
     "Celery": {
-      "version": "5.4.0",
-      "url": "https://pypi.org/project/celery/5.4.0/"
+      "version": "5.5.0",
+      "url": "https://pypi.org/project/celery/5.5.0/"
     },
     "FlareSolverr": {
       "version": "v3.3.21",
@@ -243,9 +243,9 @@
       "url": "https://github.com/qbittorrent/qBittorrent/releases/tag/release-5.1.0rc1"
     },
     "semaphore": {
-      "version": "v2.13.5",
-      "gitref": "refs/tags/v2.13.5",
-      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.13.5"
+      "version": "v2.13.7",
+      "gitref": "refs/tags/v2.13.7",
+      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.13.7"
     },
     "sentry": {
       "version": "25.3.0",
