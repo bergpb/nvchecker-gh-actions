@@ -99,8 +99,8 @@
       "url": "https://github.com/docker/compose/releases/tag/v2.34.0"
     },
     "django": {
-      "version": "5.1.7",
-      "url": "https://pypi.org/project/Django/5.1.7/"
+      "version": "5.1.8",
+      "url": "https://pypi.org/project/Django/5.1.8/"
     },
     "docker-cli": {
       "version": "v28.0.4",
@@ -188,7 +188,7 @@
     "lunasea": {
       "version": "v10.2.6",
       "gitref": "refs/tags/v10.2.6",
-      "url": "https://github.com/JagandeepBrar/lunasea/releases/tag/v10.2.6"
+      "url": "https://github.com/jagandeepbrar/lunasea/releases/tag/v10.2.6"
     },
     "nvchecker": {
       "version": "v2.17",
@@ -227,14 +227,14 @@
       "url": "https://github.com/prometheus/blackbox_exporter/releases/tag/v0.26.0"
     },
     "prometheus-node_exporter": {
-      "version": "v1.9.0",
-      "gitref": "refs/tags/v1.9.0",
-      "url": "https://github.com/prometheus/node_exporter/releases/tag/v1.9.0"
+      "version": "v1.9.1",
+      "gitref": "refs/tags/v1.9.1",
+      "url": "https://github.com/prometheus/node_exporter/releases/tag/v1.9.1"
     },
     "pulumi": {
-      "version": "v3.159.0",
-      "gitref": "refs/tags/v3.159.0",
-      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.159.0"
+      "version": "v3.160.0",
+      "gitref": "refs/tags/v3.160.0",
+      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.160.0"
     },
     "qBittorrent": {
       "version": "release-5.1.0rc1",
