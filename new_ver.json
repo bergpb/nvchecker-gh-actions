@@ -44,9 +44,9 @@
       "url": "https://pypi.org/project/ansible/11.4.0/"
     },
     "argocd": {
-      "version": "v2.14.8",
-      "gitref": "refs/tags/v2.14.8",
-      "url": "https://github.com/argoproj/argo-cd/releases/tag/v2.14.8"
+      "version": "v2.14.9",
+      "gitref": "refs/tags/v2.14.9",
+      "url": "https://github.com/argoproj/argo-cd/releases/tag/v2.14.9"
     },
     "awx": {
       "version": "24.6.1",
@@ -99,8 +99,8 @@
       "url": "https://github.com/docker/compose/releases/tag/v2.34.0"
     },
     "django": {
-      "version": "5.1.8",
-      "url": "https://pypi.org/project/Django/5.1.8/"
+      "version": "5.2",
+      "url": "https://pypi.org/project/Django/5.2/"
     },
     "docker-cli": {
       "version": "v28.0.4",
@@ -157,9 +157,9 @@
       "url": "https://github.com/home-assistant/core/releases/tag/2025.3.4"
     },
     "insomnia": {
-      "version": "core@11.0.1",
-      "gitref": "refs/tags/core@11.0.1",
-      "url": "https://github.com/Kong/insomnia/releases/tag/core%4011.0.1"
+      "version": "core@11.0.2",
+      "gitref": "refs/tags/core@11.0.2",
+      "url": "https://github.com/Kong/insomnia/releases/tag/core%4011.0.2"
     },
     "jellyfin": {
       "version": "v10.10.6",
@@ -186,9 +186,9 @@
       "url": "https://pypi.org/project/kombu/5.5.2/"
     },
     "lunasea": {
-      "version": "v10.2.6",
-      "gitref": "refs/tags/v10.2.6",
-      "url": "https://github.com/jagandeepbrar/lunasea/releases/tag/v10.2.6"
+      "version": "v11.0.0",
+      "gitref": "refs/tags/v11.0.0",
+      "url": "https://github.com/jagandeepbrar/lunasea/releases/tag/v11.0.0"
     },
     "nvchecker": {
       "version": "v2.17",
@@ -202,9 +202,9 @@
       "url": "https://github.com/pi-hole/pi-hole/releases/tag/v6.0.6"
     },
     "podman": {
-      "version": "v5.4.1",
-      "gitref": "refs/tags/v5.4.1",
-      "url": "https://github.com/containers/podman/releases/tag/v5.4.1"
+      "version": "v5.4.2",
+      "gitref": "refs/tags/v5.4.2",
+      "url": "https://github.com/containers/podman/releases/tag/v5.4.2"
     },
     "podman-compose": {
       "version": "v1.3.0",
