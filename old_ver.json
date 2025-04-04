@@ -35,9 +35,9 @@
       "url": "https://github.com/Sonarr/Sonarr/releases/tag/v4.0.14.2939"
     },
     "YOURLS": {
-      "version": "1.9.2",
-      "gitref": "refs/tags/1.9.2",
-      "url": "https://github.com/YOURLS/YOURLS/releases/tag/1.9.2"
+      "version": "1.10.0",
+      "gitref": "refs/tags/1.10.0",
+      "url": "https://github.com/YOURLS/YOURLS/releases/tag/1.10.0"
     },
     "ansible": {
       "version": "11.4.0",
@@ -167,9 +167,9 @@
       "url": "https://github.com/jellyfin/jellyfin/releases/tag/v10.10.6"
     },
     "jellyseerr": {
-      "version": "v2.5.1",
-      "gitref": "refs/tags/v2.5.1",
-      "url": "https://github.com/fallenbagel/jellyseerr/releases/tag/v2.5.1"
+      "version": "v2.5.2",
+      "gitref": "refs/tags/v2.5.2",
+      "url": "https://github.com/fallenbagel/jellyseerr/releases/tag/v2.5.2"
     },
     "jq": {
       "version": "jq-1.7.1",
