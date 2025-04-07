@@ -122,9 +122,9 @@
       "url": "https://pypi.org/project/Flask/3.1.0/"
     },
     "fzf": {
-      "version": "v0.61.0",
-      "gitref": "refs/tags/v0.61.0",
-      "url": "https://github.com/junegunn/fzf/releases/tag/v0.61.0"
+      "version": "v0.61.1",
+      "gitref": "refs/tags/v0.61.1",
+      "url": "https://github.com/junegunn/fzf/releases/tag/v0.61.1"
     },
     "gatus": {
       "version": "v5.17.0",
@@ -142,9 +142,9 @@
       "url": "https://github.com/grafana/grafana/releases/tag/v11.6.0"
     },
     "hatch": {
-      "version": "hatch-v1.14.0",
-      "gitref": "refs/tags/hatch-v1.14.0",
-      "url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.14.0"
+      "version": "hatch-v1.14.1",
+      "gitref": "refs/tags/hatch-v1.14.1",
+      "url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.14.1"
     },
     "headscale": {
       "version": "v0.25.1",
@@ -152,9 +152,9 @@
       "url": "https://github.com/juanfont/headscale/releases/tag/v0.25.1"
     },
     "home-assistant": {
-      "version": "2025.3.4",
-      "gitref": "refs/tags/2025.3.4",
-      "url": "https://github.com/home-assistant/core/releases/tag/2025.3.4"
+      "version": "2025.4.1",
+      "gitref": "refs/tags/2025.4.1",
+      "url": "https://github.com/home-assistant/core/releases/tag/2025.4.1"
     },
     "insomnia": {
       "version": "core@11.0.2",
@@ -162,9 +162,9 @@
       "url": "https://github.com/Kong/insomnia/releases/tag/core%4011.0.2"
     },
     "jellyfin": {
-      "version": "v10.10.6",
-      "gitref": "refs/tags/v10.10.6",
-      "url": "https://github.com/jellyfin/jellyfin/releases/tag/v10.10.6"
+      "version": "v10.10.7",
+      "gitref": "refs/tags/v10.10.7",
+      "url": "https://github.com/jellyfin/jellyfin/releases/tag/v10.10.7"
     },
     "jellyseerr": {
       "version": "v2.5.2",
@@ -243,9 +243,9 @@
       "url": "https://github.com/qbittorrent/qBittorrent/releases/tag/release-5.1.0rc1"
     },
     "semaphore": {
-      "version": "v2.13.7",
-      "gitref": "refs/tags/v2.13.7",
-      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.13.7"
+      "version": "v2.13.10",
+      "gitref": "refs/tags/v2.13.10",
+      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.13.10"
     },
     "sentry": {
       "version": "25.3.0",
