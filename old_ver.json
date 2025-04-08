@@ -11,8 +11,8 @@
       "url": "https://pypi.org/project/beancount/3.1.0/"
     },
     "Celery": {
-      "version": "5.5.0",
-      "url": "https://pypi.org/project/celery/5.5.0/"
+      "version": "5.5.1",
+      "url": "https://pypi.org/project/celery/5.5.1/"
     },
     "FlareSolverr": {
       "version": "v3.3.21",
