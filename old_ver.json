@@ -20,9 +20,9 @@
       "url": "https://github.com/FlareSolverr/FlareSolverr/releases/tag/v3.3.21"
     },
     "Prowlarr": {
-      "version": "v1.32.2.4987",
-      "gitref": "refs/tags/v1.32.2.4987",
-      "url": "https://github.com/Prowlarr/Prowlarr/releases/tag/v1.32.2.4987"
+      "version": "v1.33.3.5008",
+      "gitref": "refs/tags/v1.33.3.5008",
+      "url": "https://github.com/Prowlarr/Prowlarr/releases/tag/v1.33.3.5008"
     },
     "Radarr": {
       "version": "v5.21.1.9799",
@@ -177,9 +177,9 @@
       "url": "https://github.com/jqlang/jq/releases/tag/jq-1.7.1"
     },
     "k9s": {
-      "version": "v0.50.0",
-      "gitref": "refs/tags/v0.50.0",
-      "url": "https://github.com/derailed/k9s/releases/tag/v0.50.0"
+      "version": "v0.50.1",
+      "gitref": "refs/tags/v0.50.1",
+      "url": "https://github.com/derailed/k9s/releases/tag/v0.50.1"
     },
     "kombu": {
       "version": "5.5.2",
@@ -232,9 +232,9 @@
       "url": "https://github.com/prometheus/node_exporter/releases/tag/v1.9.1"
     },
     "pulumi": {
-      "version": "v3.161.0",
-      "gitref": "refs/tags/v3.161.0",
-      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.161.0"
+      "version": "v3.162.0",
+      "gitref": "refs/tags/v3.162.0",
+      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.162.0"
     },
     "qBittorrent": {
       "version": "release-5.1.0rc1",
@@ -258,14 +258,14 @@
       "url": "https://github.com/containers/skopeo/releases/tag/v1.18.0"
     },
     "speedtest-tracker": {
-      "version": "v1.3.0",
-      "gitref": "refs/tags/v1.3.0",
-      "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.3.0"
+      "version": "v1.4.0",
+      "gitref": "refs/tags/v1.4.0",
+      "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.4.0"
     },
     "terraform": {
-      "version": "v1.11.3",
-      "gitref": "refs/tags/v1.11.3",
-      "url": "https://github.com/hashicorp/terraform/releases/tag/v1.11.3"
+      "version": "v1.11.4",
+      "gitref": "refs/tags/v1.11.4",
+      "url": "https://github.com/hashicorp/terraform/releases/tag/v1.11.4"
     },
     "tornado": {
       "version": "6.4.2",
