@@ -94,9 +94,9 @@
       "url": "https://github.com/containers/buildah/releases/tag/v1.39.2"
     },
     "compose": {
-      "version": "v2.34.0",
-      "gitref": "refs/tags/v2.34.0",
-      "url": "https://github.com/docker/compose/releases/tag/v2.34.0"
+      "version": "v2.35.0",
+      "gitref": "refs/tags/v2.35.0",
+      "url": "https://github.com/docker/compose/releases/tag/v2.35.0"
     },
     "django": {
       "version": "5.2",
@@ -177,9 +177,9 @@
       "url": "https://github.com/jqlang/jq/releases/tag/jq-1.7.1"
     },
     "k9s": {
-      "version": "v0.50.1",
-      "gitref": "refs/tags/v0.50.1",
-      "url": "https://github.com/derailed/k9s/releases/tag/v0.50.1"
+      "version": "v0.50.2",
+      "gitref": "refs/tags/v0.50.2",
+      "url": "https://github.com/derailed/k9s/releases/tag/v0.50.2"
     },
     "kombu": {
       "version": "5.5.2",
