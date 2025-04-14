@@ -103,10 +103,10 @@
       "url": "https://pypi.org/project/Django/5.2/"
     },
     "docker-cli": {
-      "version": "v28.0.4",
-      "gitref": "refs/tags/v28.0.4",
-      "revision": "f1dd3499480213671632801f5f9ba05dac5385e2",
-      "url": "https://github.com/docker/cli/releases/tag/v28.0.4"
+      "version": "v28.1.0-rc.1",
+      "gitref": "refs/tags/v28.1.0-rc.1",
+      "revision": "484770693a1b64d2f2bbedf0334b6007f060965e",
+      "url": "https://github.com/docker/cli/releases/tag/v28.1.0-rc.1"
     },
     "fastapi": {
       "version": "0.115.12",
@@ -152,9 +152,9 @@
       "url": "https://github.com/juanfont/headscale/releases/tag/v0.25.1"
     },
     "home-assistant": {
-      "version": "2025.4.1",
-      "gitref": "refs/tags/2025.4.1",
-      "url": "https://github.com/home-assistant/core/releases/tag/2025.4.1"
+      "version": "2025.4.2",
+      "gitref": "refs/tags/2025.4.2",
+      "url": "https://github.com/home-assistant/core/releases/tag/2025.4.2"
     },
     "insomnia": {
       "version": "core@11.0.2",
@@ -177,9 +177,9 @@
       "url": "https://github.com/jqlang/jq/releases/tag/jq-1.7.1"
     },
     "k9s": {
-      "version": "v0.50.2",
-      "gitref": "refs/tags/v0.50.2",
-      "url": "https://github.com/derailed/k9s/releases/tag/v0.50.2"
+      "version": "v0.50.3",
+      "gitref": "refs/tags/v0.50.3",
+      "url": "https://github.com/derailed/k9s/releases/tag/v0.50.3"
     },
     "kombu": {
       "version": "5.5.2",
