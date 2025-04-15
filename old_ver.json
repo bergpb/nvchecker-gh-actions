@@ -44,9 +44,9 @@
       "url": "https://pypi.org/project/ansible/11.4.0/"
     },
     "argocd": {
-      "version": "v2.14.9",
-      "gitref": "refs/tags/v2.14.9",
-      "url": "https://github.com/argoproj/argo-cd/releases/tag/v2.14.9"
+      "version": "v2.14.10",
+      "gitref": "refs/tags/v2.14.10",
+      "url": "https://github.com/argoproj/argo-cd/releases/tag/v2.14.10"
     },
     "awx": {
       "version": "24.6.1",
@@ -212,9 +212,9 @@
       "url": "https://github.com/containers/podman-compose/releases/tag/v1.3.0"
     },
     "portainer": {
-      "version": "2.27.3",
-      "gitref": "refs/tags/2.27.3",
-      "url": "https://github.com/portainer/portainer/releases/tag/2.27.3"
+      "version": "2.27.4",
+      "gitref": "refs/tags/2.27.4",
+      "url": "https://github.com/portainer/portainer/releases/tag/2.27.4"
     },
     "prometheus": {
       "version": "v3.2.1",
