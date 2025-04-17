@@ -103,10 +103,10 @@
       "url": "https://pypi.org/project/Django/5.2/"
     },
     "docker-cli": {
-      "version": "v28.1.0-rc.1",
-      "gitref": "refs/tags/v28.1.0-rc.1",
-      "revision": "484770693a1b64d2f2bbedf0334b6007f060965e",
-      "url": "https://github.com/docker/cli/releases/tag/v28.1.0-rc.1"
+      "version": "v28.1.0-rc.2",
+      "gitref": "refs/tags/v28.1.0-rc.2",
+      "revision": "9cdeea52ef1bed868348ddc8002c23cdbb6ec7e7",
+      "url": "https://github.com/docker/cli/releases/tag/v28.1.0-rc.2"
     },
     "fastapi": {
       "version": "0.115.12",
@@ -182,8 +182,8 @@
       "url": "https://github.com/derailed/k9s/releases/tag/v0.50.3"
     },
     "kombu": {
-      "version": "5.5.2",
-      "url": "https://pypi.org/project/kombu/5.5.2/"
+      "version": "5.5.3",
+      "url": "https://pypi.org/project/kombu/5.5.3/"
     },
     "lunasea": {
       "version": "v11.0.0",
@@ -232,9 +232,9 @@
       "url": "https://github.com/prometheus/node_exporter/releases/tag/v1.9.1"
     },
     "pulumi": {
-      "version": "v3.162.0",
-      "gitref": "refs/tags/v3.162.0",
-      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.162.0"
+      "version": "v3.163.0",
+      "gitref": "refs/tags/v3.163.0",
+      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.163.0"
     },
     "qBittorrent": {
       "version": "release-5.1.0rc1",
@@ -258,9 +258,9 @@
       "url": "https://github.com/containers/skopeo/releases/tag/v1.18.0"
     },
     "speedtest-tracker": {
-      "version": "v1.4.1",
-      "gitref": "refs/tags/v1.4.1",
-      "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.4.1"
+      "version": "v1.4.2",
+      "gitref": "refs/tags/v1.4.2",
+      "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.4.2"
     },
     "terraform": {
       "version": "v1.11.4",
