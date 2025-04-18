@@ -94,19 +94,19 @@
       "url": "https://github.com/containers/buildah/releases/tag/v1.39.2"
     },
     "compose": {
-      "version": "v2.35.0",
-      "gitref": "refs/tags/v2.35.0",
-      "url": "https://github.com/docker/compose/releases/tag/v2.35.0"
+      "version": "v2.35.1",
+      "gitref": "refs/tags/v2.35.1",
+      "url": "https://github.com/docker/compose/releases/tag/v2.35.1"
     },
     "django": {
       "version": "5.2",
       "url": "https://pypi.org/project/Django/5.2/"
     },
     "docker-cli": {
-      "version": "v28.1.0-rc.2",
-      "gitref": "refs/tags/v28.1.0-rc.2",
-      "revision": "9cdeea52ef1bed868348ddc8002c23cdbb6ec7e7",
-      "url": "https://github.com/docker/cli/releases/tag/v28.1.0-rc.2"
+      "version": "v28.1.1",
+      "gitref": "refs/tags/v28.1.1",
+      "revision": "8a8ca7aae8685e1ca7bed1aaf3e23c9e539f450e",
+      "url": "https://github.com/docker/cli/releases/tag/v28.1.1"
     },
     "fastapi": {
       "version": "0.115.12",
@@ -272,9 +272,9 @@
       "url": "https://pypi.org/project/tornado/6.4.2/"
     },
     "traefik": {
-      "version": "v3.3.5",
-      "gitref": "refs/tags/v3.3.5",
-      "url": "https://github.com/traefik/traefik/releases/tag/v3.3.5"
+      "version": "v3.3.6",
+      "gitref": "refs/tags/v3.3.6",
+      "url": "https://github.com/traefik/traefik/releases/tag/v3.3.6"
     },
     "uptime-kuma": {
       "version": "1.23.16",
