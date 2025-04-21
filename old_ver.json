@@ -20,9 +20,9 @@
       "url": "https://github.com/FlareSolverr/FlareSolverr/releases/tag/v3.3.21"
     },
     "Prowlarr": {
-      "version": "v1.33.3.5008",
-      "gitref": "refs/tags/v1.33.3.5008",
-      "url": "https://github.com/Prowlarr/Prowlarr/releases/tag/v1.33.3.5008"
+      "version": "v1.34.1.5021",
+      "gitref": "refs/tags/v1.34.1.5021",
+      "url": "https://github.com/Prowlarr/Prowlarr/releases/tag/v1.34.1.5021"
     },
     "Radarr": {
       "version": "v5.21.1.9799",
@@ -80,8 +80,8 @@
       "url": "https://github.com/bitwarden/mobile/releases/tag/v2024.10.0"
     },
     "borgbackup": {
-      "version": "1.4.0",
-      "url": "https://pypi.org/project/borgbackup/1.4.0/"
+      "version": "1.4.1",
+      "url": "https://pypi.org/project/borgbackup/1.4.1/"
     },
     "bottom": {
       "version": "0.10.2",
@@ -122,9 +122,9 @@
       "url": "https://pypi.org/project/Flask/3.1.0/"
     },
     "fzf": {
-      "version": "v0.61.1",
-      "gitref": "refs/tags/v0.61.1",
-      "url": "https://github.com/junegunn/fzf/releases/tag/v0.61.1"
+      "version": "v0.61.2",
+      "gitref": "refs/tags/v0.61.2",
+      "url": "https://github.com/junegunn/fzf/releases/tag/v0.61.2"
     },
     "gatus": {
       "version": "v5.17.0",
@@ -152,9 +152,9 @@
       "url": "https://github.com/juanfont/headscale/releases/tag/v0.25.1"
     },
     "home-assistant": {
-      "version": "2025.4.2",
-      "gitref": "refs/tags/2025.4.2",
-      "url": "https://github.com/home-assistant/core/releases/tag/2025.4.2"
+      "version": "2025.4.3",
+      "gitref": "refs/tags/2025.4.3",
+      "url": "https://github.com/home-assistant/core/releases/tag/2025.4.3"
     },
     "insomnia": {
       "version": "core@11.0.2",
@@ -177,9 +177,9 @@
       "url": "https://github.com/jqlang/jq/releases/tag/jq-1.7.1"
     },
     "k9s": {
-      "version": "v0.50.3",
-      "gitref": "refs/tags/v0.50.3",
-      "url": "https://github.com/derailed/k9s/releases/tag/v0.50.3"
+      "version": "v0.50.4",
+      "gitref": "refs/tags/v0.50.4",
+      "url": "https://github.com/derailed/k9s/releases/tag/v0.50.4"
     },
     "kombu": {
       "version": "5.5.3",
@@ -217,9 +217,9 @@
       "url": "https://github.com/portainer/portainer/releases/tag/2.27.4"
     },
     "prometheus": {
-      "version": "v3.2.1",
-      "gitref": "refs/tags/v3.2.1",
-      "url": "https://github.com/prometheus/prometheus/releases/tag/v3.2.1"
+      "version": "v3.3.0",
+      "gitref": "refs/tags/v3.3.0",
+      "url": "https://github.com/prometheus/prometheus/releases/tag/v3.3.0"
     },
     "prometheus-blackbox_exporter": {
       "version": "v0.26.0",
@@ -243,9 +243,9 @@
       "url": "https://github.com/qbittorrent/qBittorrent/releases/tag/release-5.1.0rc1"
     },
     "semaphore": {
-      "version": "v2.13.12",
-      "gitref": "refs/tags/v2.13.12",
-      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.13.12"
+      "version": "v2.13.14",
+      "gitref": "refs/tags/v2.13.14",
+      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.13.14"
     },
     "sentry": {
       "version": "25.4.0",
