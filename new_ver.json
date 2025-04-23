@@ -40,13 +40,13 @@
       "url": "https://github.com/YOURLS/YOURLS/releases/tag/1.10.0"
     },
     "ansible": {
-      "version": "11.4.0",
-      "url": "https://pypi.org/project/ansible/11.4.0/"
+      "version": "11.5.0",
+      "url": "https://pypi.org/project/ansible/11.5.0/"
     },
     "argocd": {
-      "version": "v2.14.10",
-      "gitref": "refs/tags/v2.14.10",
-      "url": "https://github.com/argoproj/argo-cd/releases/tag/v2.14.10"
+      "version": "v2.14.11",
+      "gitref": "refs/tags/v2.14.11",
+      "url": "https://github.com/argoproj/argo-cd/releases/tag/v2.14.11"
     },
     "awx": {
       "version": "24.6.1",
@@ -122,9 +122,9 @@
       "url": "https://pypi.org/project/Flask/3.1.0/"
     },
     "fzf": {
-      "version": "v0.61.2",
-      "gitref": "refs/tags/v0.61.2",
-      "url": "https://github.com/junegunn/fzf/releases/tag/v0.61.2"
+      "version": "v0.61.3",
+      "gitref": "refs/tags/v0.61.3",
+      "url": "https://github.com/junegunn/fzf/releases/tag/v0.61.3"
     },
     "gatus": {
       "version": "v5.17.0",
