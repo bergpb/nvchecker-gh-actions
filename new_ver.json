@@ -25,9 +25,9 @@
       "url": "https://github.com/Prowlarr/Prowlarr/releases/tag/v1.34.1.5021"
     },
     "Radarr": {
-      "version": "v5.21.1.9799",
-      "gitref": "refs/tags/v5.21.1.9799",
-      "url": "https://github.com/Radarr/Radarr/releases/tag/v5.21.1.9799"
+      "version": "v5.22.4.9896",
+      "gitref": "refs/tags/v5.22.4.9896",
+      "url": "https://github.com/Radarr/Radarr/releases/tag/v5.22.4.9896"
     },
     "Sonarr": {
       "version": "v4.0.14.2939",
@@ -137,9 +137,9 @@
       "url": "https://github.com/gotify/server/releases/tag/v2.6.1"
     },
     "grafana": {
-      "version": "v11.6.0",
-      "gitref": "refs/tags/v11.6.0",
-      "url": "https://github.com/grafana/grafana/releases/tag/v11.6.0"
+      "version": "v11.6.1",
+      "gitref": "refs/tags/v11.6.1",
+      "url": "https://github.com/grafana/grafana/releases/tag/v11.6.1"
     },
     "hatch": {
       "version": "hatch-v1.14.1",
