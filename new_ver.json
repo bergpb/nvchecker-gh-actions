@@ -11,8 +11,8 @@
       "url": "https://pypi.org/project/beancount/3.1.0/"
     },
     "Celery": {
-      "version": "5.5.1",
-      "url": "https://pypi.org/project/celery/5.5.1/"
+      "version": "5.5.2",
+      "url": "https://pypi.org/project/celery/5.5.2/"
     },
     "FlareSolverr": {
       "version": "v3.3.21",
@@ -132,9 +132,9 @@
       "url": "https://github.com/TwiN/gatus/releases/tag/v5.17.0"
     },
     "gotify": {
-      "version": "v2.6.1",
-      "gitref": "refs/tags/v2.6.1",
-      "url": "https://github.com/gotify/server/releases/tag/v2.6.1"
+      "version": "v2.6.3",
+      "gitref": "refs/tags/v2.6.3",
+      "url": "https://github.com/gotify/server/releases/tag/v2.6.3"
     },
     "grafana": {
       "version": "v11.6.1",
@@ -237,15 +237,15 @@
       "url": "https://github.com/pulumi/pulumi/releases/tag/v3.165.0"
     },
     "qBittorrent": {
-      "version": "release-5.1.0rc1",
-      "gitref": "refs/tags/release-5.1.0rc1",
-      "revision": "cc820e1e1c4d180051af3cda1d3113f685cfe8be",
-      "url": "https://github.com/qbittorrent/qBittorrent/releases/tag/release-5.1.0rc1"
+      "version": "release-5.1.0",
+      "gitref": "refs/tags/release-5.1.0",
+      "revision": "e04b2af4ee0b08a2de4db15bf87945c0ffb299b7",
+      "url": "https://github.com/qbittorrent/qBittorrent/releases/tag/release-5.1.0"
     },
     "semaphore": {
-      "version": "v2.13.14",
-      "gitref": "refs/tags/v2.13.14",
-      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.13.14"
+      "version": "v2.14.1",
+      "gitref": "refs/tags/v2.14.1",
+      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.14.1"
     },
     "sentry": {
       "version": "25.4.0",
