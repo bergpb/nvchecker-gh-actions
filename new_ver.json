@@ -122,9 +122,9 @@
       "url": "https://pypi.org/project/Flask/3.1.0/"
     },
     "fzf": {
-      "version": "v0.61.3",
-      "gitref": "refs/tags/v0.61.3",
-      "url": "https://github.com/junegunn/fzf/releases/tag/v0.61.3"
+      "version": "v0.62.0",
+      "gitref": "refs/tags/v0.62.0",
+      "url": "https://github.com/junegunn/fzf/releases/tag/v0.62.0"
     },
     "gatus": {
       "version": "v5.17.0",
@@ -217,9 +217,9 @@
       "url": "https://github.com/portainer/portainer/releases/tag/2.27.5"
     },
     "prometheus": {
-      "version": "v3.3.0",
-      "gitref": "refs/tags/v3.3.0",
-      "url": "https://github.com/prometheus/prometheus/releases/tag/v3.3.0"
+      "version": "v3.3.1",
+      "gitref": "refs/tags/v3.3.1",
+      "url": "https://github.com/prometheus/prometheus/releases/tag/v3.3.1"
     },
     "prometheus-blackbox_exporter": {
       "version": "v0.26.0",
@@ -243,9 +243,9 @@
       "url": "https://github.com/qbittorrent/qBittorrent/releases/tag/release-5.1.0"
     },
     "semaphore": {
-      "version": "v2.14.7",
-      "gitref": "refs/tags/v2.14.7",
-      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.14.7"
+      "version": "v2.14.9",
+      "gitref": "refs/tags/v2.14.9",
+      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.14.9"
     },
     "sentry": {
       "version": "25.4.0",
@@ -272,9 +272,9 @@
       "url": "https://pypi.org/project/tornado/6.4.2/"
     },
     "traefik": {
-      "version": "v3.3.6",
-      "gitref": "refs/tags/v3.3.6",
-      "url": "https://github.com/traefik/traefik/releases/tag/v3.3.6"
+      "version": "v3.3.7",
+      "gitref": "refs/tags/v3.3.7",
+      "url": "https://github.com/traefik/traefik/releases/tag/v3.3.7"
     },
     "uptime-kuma": {
       "version": "1.23.16",
