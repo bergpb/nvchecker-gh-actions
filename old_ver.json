@@ -44,9 +44,9 @@
       "url": "https://pypi.org/project/ansible/11.5.0/"
     },
     "argocd": {
-      "version": "v2.14.11",
-      "gitref": "refs/tags/v2.14.11",
-      "url": "https://github.com/argoproj/argo-cd/releases/tag/v2.14.11"
+      "version": "v3.0.0",
+      "gitref": "refs/tags/v3.0.0",
+      "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.0.0"
     },
     "awx": {
       "version": "24.6.1",
@@ -137,9 +137,9 @@
       "url": "https://github.com/gotify/server/releases/tag/v2.6.3"
     },
     "grafana": {
-      "version": "v11.6.1",
-      "gitref": "refs/tags/v11.6.1",
-      "url": "https://github.com/grafana/grafana/releases/tag/v11.6.1"
+      "version": "v12.0.0",
+      "gitref": "refs/tags/v12.0.0",
+      "url": "https://github.com/grafana/grafana/releases/tag/v12.0.0"
     },
     "hatch": {
       "version": "hatch-v1.14.1",
@@ -157,9 +157,9 @@
       "url": "https://github.com/home-assistant/core/releases/tag/2025.4.4"
     },
     "insomnia": {
-      "version": "core@11.0.2",
-      "gitref": "refs/tags/core@11.0.2",
-      "url": "https://github.com/Kong/insomnia/releases/tag/core%4011.0.2"
+      "version": "core@11.1.0",
+      "gitref": "refs/tags/core@11.1.0",
+      "url": "https://github.com/Kong/insomnia/releases/tag/core%4011.1.0"
     },
     "jellyfin": {
       "version": "v10.10.7",
@@ -272,9 +272,9 @@
       "url": "https://pypi.org/project/tornado/6.4.2/"
     },
     "traefik": {
-      "version": "v3.3.7",
-      "gitref": "refs/tags/v3.3.7",
-      "url": "https://github.com/traefik/traefik/releases/tag/v3.3.7"
+      "version": "v3.4.0",
+      "gitref": "refs/tags/v3.4.0",
+      "url": "https://github.com/traefik/traefik/releases/tag/v3.4.0"
     },
     "uptime-kuma": {
       "version": "1.23.16",
