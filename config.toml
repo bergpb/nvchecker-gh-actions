@@ -274,6 +274,11 @@ source = "github"
 github = "argoproj/argo-cd"
 use_latest_release = true
 
+[homarr]
+source = "github"
+github = "homarr-labs/homarr"
+use_latest_release = true
+
 # --------------------------------------------------
 # Python packages
 
