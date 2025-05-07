@@ -94,9 +94,9 @@
       "url": "https://github.com/containers/buildah/releases/tag/v1.40.0"
     },
     "compose": {
-      "version": "v2.35.1",
-      "gitref": "refs/tags/v2.35.1",
-      "url": "https://github.com/docker/compose/releases/tag/v2.35.1"
+      "version": "v2.36.0",
+      "gitref": "refs/tags/v2.36.0",
+      "url": "https://github.com/docker/compose/releases/tag/v2.36.0"
     },
     "django": {
       "version": "5.2",
