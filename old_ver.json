@@ -99,8 +99,8 @@
       "url": "https://github.com/docker/compose/releases/tag/v2.36.0"
     },
     "django": {
-      "version": "5.2",
-      "url": "https://pypi.org/project/Django/5.2/"
+      "version": "5.2.1",
+      "url": "https://pypi.org/project/Django/5.2.1/"
     },
     "docker-cli": {
       "version": "v28.1.1",
@@ -157,9 +157,9 @@
       "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.19.0"
     },
     "home-assistant": {
-      "version": "2025.4.4",
-      "gitref": "refs/tags/2025.4.4",
-      "url": "https://github.com/home-assistant/core/releases/tag/2025.4.4"
+      "version": "2025.5.0",
+      "gitref": "refs/tags/2025.5.0",
+      "url": "https://github.com/home-assistant/core/releases/tag/2025.5.0"
     },
     "insomnia": {
       "version": "core@11.1.0",
@@ -182,9 +182,9 @@
       "url": "https://github.com/jqlang/jq/releases/tag/jq-1.7.1"
     },
     "k9s": {
-      "version": "v0.50.4",
-      "gitref": "refs/tags/v0.50.4",
-      "url": "https://github.com/derailed/k9s/releases/tag/v0.50.4"
+      "version": "v0.50.5",
+      "gitref": "refs/tags/v0.50.5",
+      "url": "https://github.com/derailed/k9s/releases/tag/v0.50.5"
     },
     "kombu": {
       "version": "5.5.3",
@@ -237,9 +237,9 @@
       "url": "https://github.com/prometheus/node_exporter/releases/tag/v1.9.1"
     },
     "pulumi": {
-      "version": "v3.167.0",
-      "gitref": "refs/tags/v3.167.0",
-      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.167.0"
+      "version": "v3.169.0",
+      "gitref": "refs/tags/v3.169.0",
+      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.169.0"
     },
     "qBittorrent": {
       "version": "release-5.1.0",
@@ -248,9 +248,9 @@
       "url": "https://github.com/qbittorrent/qBittorrent/releases/tag/release-5.1.0"
     },
     "semaphore": {
-      "version": "v2.14.9",
-      "gitref": "refs/tags/v2.14.9",
-      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.14.9"
+      "version": "v2.14.10",
+      "gitref": "refs/tags/v2.14.10",
+      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.14.10"
     },
     "sentry": {
       "version": "25.4.0",
