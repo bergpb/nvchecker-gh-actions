@@ -217,9 +217,9 @@
       "url": "https://github.com/containers/podman-compose/releases/tag/v1.3.0"
     },
     "portainer": {
-      "version": "2.27.5",
-      "gitref": "refs/tags/2.27.5",
-      "url": "https://github.com/portainer/portainer/releases/tag/2.27.5"
+      "version": "2.27.6",
+      "gitref": "refs/tags/2.27.6",
+      "url": "https://github.com/portainer/portainer/releases/tag/2.27.6"
     },
     "prometheus": {
       "version": "v3.3.1",
