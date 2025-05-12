@@ -65,9 +65,9 @@
       "url": "https://github.com/sharkdp/bat/releases/tag/v0.25.0"
     },
     "bazarr": {
-      "version": "v1.5.1",
-      "gitref": "refs/tags/v1.5.1",
-      "url": "https://github.com/morpheus65535/bazarr/releases/tag/v1.5.1"
+      "version": "v1.5.2",
+      "gitref": "refs/tags/v1.5.2",
+      "url": "https://github.com/morpheus65535/bazarr/releases/tag/v1.5.2"
     },
     "bitwarden-desktop": {
       "version": "v2022.5.1",
@@ -152,14 +152,14 @@
       "url": "https://github.com/juanfont/headscale/releases/tag/v0.25.1"
     },
     "homarr": {
-      "version": "v1.19.0",
-      "gitref": "refs/tags/v1.19.0",
-      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.19.0"
+      "version": "v1.19.1",
+      "gitref": "refs/tags/v1.19.1",
+      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.19.1"
     },
     "home-assistant": {
-      "version": "2025.5.0",
-      "gitref": "refs/tags/2025.5.0",
-      "url": "https://github.com/home-assistant/core/releases/tag/2025.5.0"
+      "version": "2025.5.1",
+      "gitref": "refs/tags/2025.5.1",
+      "url": "https://github.com/home-assistant/core/releases/tag/2025.5.1"
     },
     "insomnia": {
       "version": "core@11.1.0",
@@ -182,9 +182,9 @@
       "url": "https://github.com/jqlang/jq/releases/tag/jq-1.7.1"
     },
     "k9s": {
-      "version": "v0.50.5",
-      "gitref": "refs/tags/v0.50.5",
-      "url": "https://github.com/derailed/k9s/releases/tag/v0.50.5"
+      "version": "v0.50.6",
+      "gitref": "refs/tags/v0.50.6",
+      "url": "https://github.com/derailed/k9s/releases/tag/v0.50.6"
     },
     "kombu": {
       "version": "5.5.3",
@@ -212,9 +212,9 @@
       "url": "https://github.com/containers/podman/releases/tag/v5.4.2"
     },
     "podman-compose": {
-      "version": "v1.3.0",
-      "gitref": "refs/tags/v1.3.0",
-      "url": "https://github.com/containers/podman-compose/releases/tag/v1.3.0"
+      "version": "v1.4.0",
+      "gitref": "refs/tags/v1.4.0",
+      "url": "https://github.com/containers/podman-compose/releases/tag/v1.4.0"
     },
     "portainer": {
       "version": "2.27.6",
