@@ -118,8 +118,8 @@
       "url": "https://github.com/sharkdp/fd/releases/tag/v10.2.0"
     },
     "flask": {
-      "version": "3.1.0",
-      "url": "https://pypi.org/project/Flask/3.1.0/"
+      "version": "3.1.1",
+      "url": "https://pypi.org/project/Flask/3.1.1/"
     },
     "fzf": {
       "version": "v0.62.0",
