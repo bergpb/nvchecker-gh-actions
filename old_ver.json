@@ -44,9 +44,9 @@
       "url": "https://pypi.org/project/ansible/11.5.0/"
     },
     "argocd": {
-      "version": "v3.0.0",
-      "gitref": "refs/tags/v3.0.0",
-      "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.0.0"
+      "version": "v3.0.1",
+      "gitref": "refs/tags/v3.0.1",
+      "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.0.1"
     },
     "awx": {
       "version": "24.6.1",
@@ -147,9 +147,9 @@
       "url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.14.1"
     },
     "headscale": {
-      "version": "v0.25.1",
-      "gitref": "refs/tags/v0.25.1",
-      "url": "https://github.com/juanfont/headscale/releases/tag/v0.25.1"
+      "version": "v0.26.0",
+      "gitref": "refs/tags/v0.26.0",
+      "url": "https://github.com/juanfont/headscale/releases/tag/v0.26.0"
     },
     "homarr": {
       "version": "v1.19.1",
@@ -207,9 +207,9 @@
       "url": "https://github.com/pi-hole/pi-hole/releases/tag/v6.0.6"
     },
     "podman": {
-      "version": "v5.4.2",
-      "gitref": "refs/tags/v5.4.2",
-      "url": "https://github.com/containers/podman/releases/tag/v5.4.2"
+      "version": "v5.5.0",
+      "gitref": "refs/tags/v5.5.0",
+      "url": "https://github.com/containers/podman/releases/tag/v5.5.0"
     },
     "podman-compose": {
       "version": "v1.4.0",
@@ -268,9 +268,9 @@
       "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.5.0"
     },
     "terraform": {
-      "version": "v1.11.4",
-      "gitref": "refs/tags/v1.11.4",
-      "url": "https://github.com/hashicorp/terraform/releases/tag/v1.11.4"
+      "version": "v1.12.0",
+      "gitref": "refs/tags/v1.12.0",
+      "url": "https://github.com/hashicorp/terraform/releases/tag/v1.12.0"
     },
     "tornado": {
       "version": "6.4.2",
