@@ -44,9 +44,9 @@
       "url": "https://pypi.org/project/ansible/11.5.0/"
     },
     "argocd": {
-      "version": "v3.0.1",
-      "gitref": "refs/tags/v3.0.1",
-      "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.0.1"
+      "version": "v3.0.2",
+      "gitref": "refs/tags/v3.0.2",
+      "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.0.2"
     },
     "awx": {
       "version": "24.6.1",
@@ -94,19 +94,19 @@
       "url": "https://github.com/containers/buildah/releases/tag/v1.40.0"
     },
     "compose": {
-      "version": "v2.36.0",
-      "gitref": "refs/tags/v2.36.0",
-      "url": "https://github.com/docker/compose/releases/tag/v2.36.0"
+      "version": "v2.36.1",
+      "gitref": "refs/tags/v2.36.1",
+      "url": "https://github.com/docker/compose/releases/tag/v2.36.1"
     },
     "django": {
       "version": "5.2.1",
       "url": "https://pypi.org/project/Django/5.2.1/"
     },
     "docker-cli": {
-      "version": "v28.1.1",
-      "gitref": "refs/tags/v28.1.1",
-      "revision": "8a8ca7aae8685e1ca7bed1aaf3e23c9e539f450e",
-      "url": "https://github.com/docker/cli/releases/tag/v28.1.1"
+      "version": "v28.2.0-rc.1",
+      "gitref": "refs/tags/v28.2.0-rc.1",
+      "revision": "069c8a5b8ea07ca2bdf7cde5d2a7e588cfeee47a",
+      "url": "https://github.com/docker/cli/releases/tag/v28.2.0-rc.1"
     },
     "fastapi": {
       "version": "0.115.12",
@@ -263,9 +263,9 @@
       "url": "https://github.com/containers/skopeo/releases/tag/v1.18.0"
     },
     "speedtest-tracker": {
-      "version": "v1.5.0",
-      "gitref": "refs/tags/v1.5.0",
-      "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.5.0"
+      "version": "v1.6.0",
+      "gitref": "refs/tags/v1.6.0",
+      "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.6.0"
     },
     "terraform": {
       "version": "v1.12.0",
