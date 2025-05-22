@@ -44,9 +44,9 @@
       "url": "https://pypi.org/project/ansible/11.6.0/"
     },
     "argocd": {
-      "version": "v2.14.12",
-      "gitref": "refs/tags/v2.14.12",
-      "url": "https://github.com/argoproj/argo-cd/releases/tag/v2.14.12"
+      "version": "v3.0.3",
+      "gitref": "refs/tags/v3.0.3",
+      "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.0.3"
     },
     "awx": {
       "version": "24.6.1",
@@ -237,9 +237,9 @@
       "url": "https://github.com/prometheus/node_exporter/releases/tag/v1.9.1"
     },
     "pulumi": {
-      "version": "v3.170.0",
-      "gitref": "refs/tags/v3.170.0",
-      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.170.0"
+      "version": "v3.171.0",
+      "gitref": "refs/tags/v3.171.0",
+      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.171.0"
     },
     "qBittorrent": {
       "version": "release-5.1.0",
@@ -253,9 +253,9 @@
       "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.14.10"
     },
     "sentry": {
-      "version": "25.5.0",
-      "gitref": "refs/tags/25.5.0",
-      "url": "https://github.com/getsentry/self-hosted/releases/tag/25.5.0"
+      "version": "25.5.1",
+      "gitref": "refs/tags/25.5.1",
+      "url": "https://github.com/getsentry/self-hosted/releases/tag/25.5.1"
     },
     "skopeo": {
       "version": "v1.18.0",
@@ -268,9 +268,9 @@
       "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.6.0"
     },
     "terraform": {
-      "version": "v1.12.0",
-      "gitref": "refs/tags/v1.12.0",
-      "url": "https://github.com/hashicorp/terraform/releases/tag/v1.12.0"
+      "version": "v1.12.1",
+      "gitref": "refs/tags/v1.12.1",
+      "url": "https://github.com/hashicorp/terraform/releases/tag/v1.12.1"
     },
     "tornado": {
       "version": "6.5",
