@@ -137,9 +137,9 @@
       "url": "https://github.com/gotify/server/releases/tag/v2.6.3"
     },
     "grafana": {
-      "version": "v12.0.0",
-      "gitref": "refs/tags/v12.0.0",
-      "url": "https://github.com/grafana/grafana/releases/tag/v12.0.0"
+      "version": "v12.0.1",
+      "gitref": "refs/tags/v12.0.1",
+      "url": "https://github.com/grafana/grafana/releases/tag/v12.0.1"
     },
     "hatch": {
       "version": "hatch-v1.14.1",
@@ -258,9 +258,9 @@
       "url": "https://github.com/getsentry/self-hosted/releases/tag/25.5.1"
     },
     "skopeo": {
-      "version": "v1.18.0",
-      "gitref": "refs/tags/v1.18.0",
-      "url": "https://github.com/containers/skopeo/releases/tag/v1.18.0"
+      "version": "v1.19.0",
+      "gitref": "refs/tags/v1.19.0",
+      "url": "https://github.com/containers/skopeo/releases/tag/v1.19.0"
     },
     "speedtest-tracker": {
       "version": "v1.6.0",
@@ -273,8 +273,8 @@
       "url": "https://github.com/hashicorp/terraform/releases/tag/v1.12.1"
     },
     "tornado": {
-      "version": "6.5",
-      "url": "https://pypi.org/project/tornado/6.5/"
+      "version": "6.5.1",
+      "url": "https://pypi.org/project/tornado/6.5.1/"
     },
     "traefik": {
       "version": "v3.4.0",
