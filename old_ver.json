@@ -20,14 +20,14 @@
       "url": "https://github.com/FlareSolverr/FlareSolverr/releases/tag/v3.3.21"
     },
     "Prowlarr": {
-      "version": "v1.35.1.5034",
-      "gitref": "refs/tags/v1.35.1.5034",
-      "url": "https://github.com/Prowlarr/Prowlarr/releases/tag/v1.35.1.5034"
+      "version": "v1.36.3.5071",
+      "gitref": "refs/tags/v1.36.3.5071",
+      "url": "https://github.com/Prowlarr/Prowlarr/releases/tag/v1.36.3.5071"
     },
     "Radarr": {
-      "version": "v5.23.3.9987",
-      "gitref": "refs/tags/v5.23.3.9987",
-      "url": "https://github.com/Radarr/Radarr/releases/tag/v5.23.3.9987"
+      "version": "v5.24.1.10017",
+      "gitref": "refs/tags/v5.24.1.10017",
+      "url": "https://github.com/Radarr/Radarr/releases/tag/v5.24.1.10017"
     },
     "Sonarr": {
       "version": "v4.0.14.2939",
@@ -94,19 +94,19 @@
       "url": "https://github.com/containers/buildah/releases/tag/v1.40.0"
     },
     "compose": {
-      "version": "v2.36.1",
-      "gitref": "refs/tags/v2.36.1",
-      "url": "https://github.com/docker/compose/releases/tag/v2.36.1"
+      "version": "v2.36.2",
+      "gitref": "refs/tags/v2.36.2",
+      "url": "https://github.com/docker/compose/releases/tag/v2.36.2"
     },
     "django": {
       "version": "5.2.1",
       "url": "https://pypi.org/project/Django/5.2.1/"
     },
     "docker-cli": {
-      "version": "v28.2.0-rc.1",
-      "gitref": "refs/tags/v28.2.0-rc.1",
-      "revision": "069c8a5b8ea07ca2bdf7cde5d2a7e588cfeee47a",
-      "url": "https://github.com/docker/cli/releases/tag/v28.2.0-rc.1"
+      "version": "v28.2.0-rc.2",
+      "gitref": "refs/tags/v28.2.0-rc.2",
+      "revision": "b0301534622018ffb27c4a21d1fb854d4c49014f",
+      "url": "https://github.com/docker/cli/releases/tag/v28.2.0-rc.2"
     },
     "fastapi": {
       "version": "0.115.12",
@@ -152,14 +152,14 @@
       "url": "https://github.com/juanfont/headscale/releases/tag/v0.26.0"
     },
     "homarr": {
-      "version": "v1.20.0",
-      "gitref": "refs/tags/v1.20.0",
-      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.20.0"
+      "version": "v1.21.0",
+      "gitref": "refs/tags/v1.21.0",
+      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.21.0"
     },
     "home-assistant": {
-      "version": "2025.5.2",
-      "gitref": "refs/tags/2025.5.2",
-      "url": "https://github.com/home-assistant/core/releases/tag/2025.5.2"
+      "version": "2025.5.3",
+      "gitref": "refs/tags/2025.5.3",
+      "url": "https://github.com/home-assistant/core/releases/tag/2025.5.3"
     },
     "insomnia": {
       "version": "core@11.1.0",
