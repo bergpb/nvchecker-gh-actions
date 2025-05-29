@@ -44,9 +44,9 @@
       "url": "https://pypi.org/project/ansible/11.6.0/"
     },
     "argocd": {
-      "version": "v3.0.3",
-      "gitref": "refs/tags/v3.0.3",
-      "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.0.3"
+      "version": "v3.0.4",
+      "gitref": "refs/tags/v3.0.4",
+      "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.0.4"
     },
     "awx": {
       "version": "24.6.1",
@@ -103,10 +103,10 @@
       "url": "https://pypi.org/project/Django/5.2.1/"
     },
     "docker-cli": {
-      "version": "v28.2.0-rc.2",
-      "gitref": "refs/tags/v28.2.0-rc.2",
-      "revision": "b0301534622018ffb27c4a21d1fb854d4c49014f",
-      "url": "https://github.com/docker/cli/releases/tag/v28.2.0-rc.2"
+      "version": "v28.2.1",
+      "gitref": "refs/tags/v28.2.1",
+      "revision": "5da7fe2fe048edb525e41982be135f090b545b34",
+      "url": "https://github.com/docker/cli/releases/tag/v28.2.1"
     },
     "fastapi": {
       "version": "0.115.12",
