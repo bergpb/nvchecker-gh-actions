@@ -11,8 +11,8 @@
       "url": "https://pypi.org/project/beancount/3.1.0/"
     },
     "Celery": {
-      "version": "5.5.2",
-      "url": "https://pypi.org/project/celery/5.5.2/"
+      "version": "5.5.3",
+      "url": "https://pypi.org/project/celery/5.5.3/"
     },
     "FlareSolverr": {
       "version": "v3.3.21",
@@ -103,10 +103,10 @@
       "url": "https://pypi.org/project/Django/5.2.1/"
     },
     "docker-cli": {
-      "version": "v28.2.1",
-      "gitref": "refs/tags/v28.2.1",
-      "revision": "5da7fe2fe048edb525e41982be135f090b545b34",
-      "url": "https://github.com/docker/cli/releases/tag/v28.2.1"
+      "version": "v28.2.2",
+      "gitref": "refs/tags/v28.2.2",
+      "revision": "30f3721b61dd08568704a616068c6f05586462fd",
+      "url": "https://github.com/docker/cli/releases/tag/v28.2.2"
     },
     "fastapi": {
       "version": "0.115.12",
@@ -127,9 +127,9 @@
       "url": "https://github.com/junegunn/fzf/releases/tag/v0.62.0"
     },
     "gatus": {
-      "version": "v5.17.0",
-      "gitref": "refs/tags/v5.17.0",
-      "url": "https://github.com/TwiN/gatus/releases/tag/v5.17.0"
+      "version": "v5.18.1",
+      "gitref": "refs/tags/v5.18.1",
+      "url": "https://github.com/TwiN/gatus/releases/tag/v5.18.1"
     },
     "gotify": {
       "version": "v2.6.3",
@@ -152,9 +152,9 @@
       "url": "https://github.com/juanfont/headscale/releases/tag/v0.26.0"
     },
     "homarr": {
-      "version": "v1.21.0",
-      "gitref": "refs/tags/v1.21.0",
-      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.21.0"
+      "version": "v1.22.0",
+      "gitref": "refs/tags/v1.22.0",
+      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.22.0"
     },
     "home-assistant": {
       "version": "2025.5.3",
@@ -177,9 +177,9 @@
       "url": "https://github.com/fallenbagel/jellyseerr/releases/tag/v2.5.2"
     },
     "jq": {
-      "version": "jq-1.7.1",
-      "gitref": "refs/tags/jq-1.7.1",
-      "url": "https://github.com/jqlang/jq/releases/tag/jq-1.7.1"
+      "version": "jq-1.8.0",
+      "gitref": "refs/tags/jq-1.8.0",
+      "url": "https://github.com/jqlang/jq/releases/tag/jq-1.8.0"
     },
     "k9s": {
       "version": "v0.50.6",
@@ -187,8 +187,8 @@
       "url": "https://github.com/derailed/k9s/releases/tag/v0.50.6"
     },
     "kombu": {
-      "version": "5.5.3",
-      "url": "https://pypi.org/project/kombu/5.5.3/"
+      "version": "5.5.4",
+      "url": "https://pypi.org/project/kombu/5.5.4/"
     },
     "lunasea": {
       "version": "v11.0.0",
@@ -196,15 +196,15 @@
       "url": "https://github.com/jagandeepbrar/lunasea/releases/tag/v11.0.0"
     },
     "nvchecker": {
-      "version": "v2.17",
-      "gitref": "refs/tags/v2.17",
-      "revision": "c2dbbe173976859c2a2cee9e123bfdb64308aa20",
-      "url": "https://github.com/lilydjwg/nvchecker/releases/tag/v2.17"
+      "version": "v2.18",
+      "gitref": "refs/tags/v2.18",
+      "revision": "9aad68bbda4d719b0e395e9a5763b1e2ca8d948d",
+      "url": "https://github.com/lilydjwg/nvchecker/releases/tag/v2.18"
     },
     "pi-hole": {
-      "version": "v6.0.6",
-      "gitref": "refs/tags/v6.0.6",
-      "url": "https://github.com/pi-hole/pi-hole/releases/tag/v6.0.6"
+      "version": "v6.1.1",
+      "gitref": "refs/tags/v6.1.1",
+      "url": "https://github.com/pi-hole/pi-hole/releases/tag/v6.1.1"
     },
     "podman": {
       "version": "v5.5.0",
@@ -222,9 +222,9 @@
       "url": "https://github.com/portainer/portainer/releases/tag/2.27.6"
     },
     "prometheus": {
-      "version": "v3.4.0",
-      "gitref": "refs/tags/v3.4.0",
-      "url": "https://github.com/prometheus/prometheus/releases/tag/v3.4.0"
+      "version": "v3.4.1",
+      "gitref": "refs/tags/v3.4.1",
+      "url": "https://github.com/prometheus/prometheus/releases/tag/v3.4.1"
     },
     "prometheus-blackbox_exporter": {
       "version": "v0.26.0",
