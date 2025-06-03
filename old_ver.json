@@ -15,9 +15,9 @@
       "url": "https://pypi.org/project/celery/5.5.3/"
     },
     "FlareSolverr": {
-      "version": "v3.3.21",
-      "gitref": "refs/tags/v3.3.21",
-      "url": "https://github.com/FlareSolverr/FlareSolverr/releases/tag/v3.3.21"
+      "version": "v3.3.22",
+      "gitref": "refs/tags/v3.3.22",
+      "url": "https://github.com/FlareSolverr/FlareSolverr/releases/tag/v3.3.22"
     },
     "Prowlarr": {
       "version": "v1.36.3.5071",
