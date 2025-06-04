@@ -20,9 +20,9 @@
       "url": "https://github.com/FlareSolverr/FlareSolverr/releases/tag/v3.3.22"
     },
     "Prowlarr": {
-      "version": "v1.36.3.5071",
-      "gitref": "refs/tags/v1.36.3.5071",
-      "url": "https://github.com/Prowlarr/Prowlarr/releases/tag/v1.36.3.5071"
+      "version": "v1.37.0.5076",
+      "gitref": "refs/tags/v1.37.0.5076",
+      "url": "https://github.com/Prowlarr/Prowlarr/releases/tag/v1.37.0.5076"
     },
     "Radarr": {
       "version": "v5.25.0.10024",
