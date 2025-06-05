@@ -15,9 +15,9 @@
       "url": "https://pypi.org/project/celery/5.5.3/"
     },
     "FlareSolverr": {
-      "version": "v3.3.22",
-      "gitref": "refs/tags/v3.3.22",
-      "url": "https://github.com/FlareSolverr/FlareSolverr/releases/tag/v3.3.22"
+      "version": "v3.3.24",
+      "gitref": "refs/tags/v3.3.24",
+      "url": "https://github.com/FlareSolverr/FlareSolverr/releases/tag/v3.3.24"
     },
     "Prowlarr": {
       "version": "v1.37.0.5076",
@@ -89,9 +89,9 @@
       "url": "https://github.com/ClementTsang/bottom/releases/tag/0.10.2"
     },
     "buildah": {
-      "version": "v1.40.0",
-      "gitref": "refs/tags/v1.40.0",
-      "url": "https://github.com/containers/buildah/releases/tag/v1.40.0"
+      "version": "v1.40.1",
+      "gitref": "refs/tags/v1.40.1",
+      "url": "https://github.com/containers/buildah/releases/tag/v1.40.1"
     },
     "compose": {
       "version": "v2.36.2",
@@ -99,8 +99,8 @@
       "url": "https://github.com/docker/compose/releases/tag/v2.36.2"
     },
     "django": {
-      "version": "5.2.1",
-      "url": "https://pypi.org/project/Django/5.2.1/"
+      "version": "5.2.2",
+      "url": "https://pypi.org/project/Django/5.2.2/"
     },
     "docker-cli": {
       "version": "v28.2.2",
@@ -202,9 +202,9 @@
       "url": "https://github.com/lilydjwg/nvchecker/releases/tag/v2.18"
     },
     "pi-hole": {
-      "version": "v6.1.1",
-      "gitref": "refs/tags/v6.1.1",
-      "url": "https://github.com/pi-hole/pi-hole/releases/tag/v6.1.1"
+      "version": "v6.1.2",
+      "gitref": "refs/tags/v6.1.2",
+      "url": "https://github.com/pi-hole/pi-hole/releases/tag/v6.1.2"
     },
     "podman": {
       "version": "v5.5.0",
@@ -237,9 +237,9 @@
       "url": "https://github.com/prometheus/node_exporter/releases/tag/v1.9.1"
     },
     "pulumi": {
-      "version": "v3.173.0",
-      "gitref": "refs/tags/v3.173.0",
-      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.173.0"
+      "version": "v3.174.0",
+      "gitref": "refs/tags/v3.174.0",
+      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.174.0"
     },
     "qBittorrent": {
       "version": "release-5.1.0",
