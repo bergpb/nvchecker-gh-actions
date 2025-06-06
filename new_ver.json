@@ -94,9 +94,9 @@
       "url": "https://github.com/containers/buildah/releases/tag/v1.40.1"
     },
     "compose": {
-      "version": "v2.36.2",
-      "gitref": "refs/tags/v2.36.2",
-      "url": "https://github.com/docker/compose/releases/tag/v2.36.2"
+      "version": "v2.37.0",
+      "gitref": "refs/tags/v2.37.0",
+      "url": "https://github.com/docker/compose/releases/tag/v2.37.0"
     },
     "django": {
       "version": "5.2.2",
@@ -147,9 +147,9 @@
       "url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.14.1"
     },
     "headscale": {
-      "version": "v0.26.0",
-      "gitref": "refs/tags/v0.26.0",
-      "url": "https://github.com/juanfont/headscale/releases/tag/v0.26.0"
+      "version": "v0.26.1",
+      "gitref": "refs/tags/v0.26.1",
+      "url": "https://github.com/juanfont/headscale/releases/tag/v0.26.1"
     },
     "homarr": {
       "version": "v1.22.0",
@@ -162,9 +162,9 @@
       "url": "https://github.com/home-assistant/core/releases/tag/2025.5.3"
     },
     "insomnia": {
-      "version": "core@11.1.0",
-      "gitref": "refs/tags/core@11.1.0",
-      "url": "https://github.com/Kong/insomnia/releases/tag/core%4011.1.0"
+      "version": "core@11.2.0",
+      "gitref": "refs/tags/core@11.2.0",
+      "url": "https://github.com/Kong/insomnia/releases/tag/core%4011.2.0"
     },
     "jellyfin": {
       "version": "v10.10.7",
@@ -207,14 +207,14 @@
       "url": "https://github.com/pi-hole/pi-hole/releases/tag/v6.1.2"
     },
     "podman": {
-      "version": "v5.5.0",
-      "gitref": "refs/tags/v5.5.0",
-      "url": "https://github.com/containers/podman/releases/tag/v5.5.0"
+      "version": "v5.5.1",
+      "gitref": "refs/tags/v5.5.1",
+      "url": "https://github.com/containers/podman/releases/tag/v5.5.1"
     },
     "podman-compose": {
-      "version": "v1.4.0",
-      "gitref": "refs/tags/v1.4.0",
-      "url": "https://github.com/containers/podman-compose/releases/tag/v1.4.0"
+      "version": "v1.4.1",
+      "gitref": "refs/tags/v1.4.1",
+      "url": "https://github.com/containers/podman-compose/releases/tag/v1.4.1"
     },
     "portainer": {
       "version": "2.27.6",
@@ -237,9 +237,9 @@
       "url": "https://github.com/prometheus/node_exporter/releases/tag/v1.9.1"
     },
     "pulumi": {
-      "version": "v3.174.0",
-      "gitref": "refs/tags/v3.174.0",
-      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.174.0"
+      "version": "v3.175.0",
+      "gitref": "refs/tags/v3.175.0",
+      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.175.0"
     },
     "qBittorrent": {
       "version": "release-5.1.0",
