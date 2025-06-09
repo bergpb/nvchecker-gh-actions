@@ -152,9 +152,9 @@
       "url": "https://github.com/juanfont/headscale/releases/tag/v0.26.1"
     },
     "homarr": {
-      "version": "v1.22.0",
-      "gitref": "refs/tags/v1.22.0",
-      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.22.0"
+      "version": "v1.23.0",
+      "gitref": "refs/tags/v1.23.0",
+      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.23.0"
     },
     "home-assistant": {
       "version": "2025.5.3",
