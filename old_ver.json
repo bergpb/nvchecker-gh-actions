@@ -44,9 +44,9 @@
       "url": "https://pypi.org/project/ansible/11.6.0/"
     },
     "argocd": {
-      "version": "v3.0.5",
-      "gitref": "refs/tags/v3.0.5",
-      "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.0.5"
+      "version": "v3.0.6",
+      "gitref": "refs/tags/v3.0.6",
+      "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.0.6"
     },
     "awx": {
       "version": "24.6.1",
@@ -99,8 +99,8 @@
       "url": "https://github.com/docker/compose/releases/tag/v2.37.0"
     },
     "django": {
-      "version": "5.2.2",
-      "url": "https://pypi.org/project/Django/5.2.2/"
+      "version": "5.2.3",
+      "url": "https://pypi.org/project/Django/5.2.3/"
     },
     "docker-cli": {
       "version": "v28.2.2",
@@ -172,9 +172,9 @@
       "url": "https://github.com/jellyfin/jellyfin/releases/tag/v10.10.7"
     },
     "jellyseerr": {
-      "version": "v2.5.2",
-      "gitref": "refs/tags/v2.5.2",
-      "url": "https://github.com/fallenbagel/jellyseerr/releases/tag/v2.5.2"
+      "version": "v2.6.0",
+      "gitref": "refs/tags/v2.6.0",
+      "url": "https://github.com/fallenbagel/jellyseerr/releases/tag/v2.6.0"
     },
     "jq": {
       "version": "jq-1.8.0",
