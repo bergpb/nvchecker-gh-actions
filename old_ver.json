@@ -25,9 +25,9 @@
       "url": "https://github.com/Prowlarr/Prowlarr/releases/tag/v1.37.0.5076"
     },
     "Radarr": {
-      "version": "v5.25.0.10024",
-      "gitref": "refs/tags/v5.25.0.10024",
-      "url": "https://github.com/Radarr/Radarr/releases/tag/v5.25.0.10024"
+      "version": "v5.26.2.10099",
+      "gitref": "refs/tags/v5.26.2.10099",
+      "url": "https://github.com/Radarr/Radarr/releases/tag/v5.26.2.10099"
     },
     "Sonarr": {
       "version": "v4.0.14.2939",
@@ -94,9 +94,9 @@
       "url": "https://github.com/containers/buildah/releases/tag/v1.40.1"
     },
     "compose": {
-      "version": "v2.37.0",
-      "gitref": "refs/tags/v2.37.0",
-      "url": "https://github.com/docker/compose/releases/tag/v2.37.0"
+      "version": "v2.37.1",
+      "gitref": "refs/tags/v2.37.1",
+      "url": "https://github.com/docker/compose/releases/tag/v2.37.1"
     },
     "django": {
       "version": "5.2.3",
@@ -157,9 +157,9 @@
       "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.23.0"
     },
     "home-assistant": {
-      "version": "2025.5.3",
-      "gitref": "refs/tags/2025.5.3",
-      "url": "https://github.com/home-assistant/core/releases/tag/2025.5.3"
+      "version": "2025.6.0",
+      "gitref": "refs/tags/2025.6.0",
+      "url": "https://github.com/home-assistant/core/releases/tag/2025.6.0"
     },
     "insomnia": {
       "version": "core@11.2.0",
@@ -237,9 +237,9 @@
       "url": "https://github.com/prometheus/node_exporter/releases/tag/v1.9.1"
     },
     "pulumi": {
-      "version": "v3.175.0",
-      "gitref": "refs/tags/v3.175.0",
-      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.175.0"
+      "version": "v3.176.0",
+      "gitref": "refs/tags/v3.176.0",
+      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.176.0"
     },
     "qBittorrent": {
       "version": "release-5.1.0",
@@ -263,9 +263,9 @@
       "url": "https://github.com/containers/skopeo/releases/tag/v1.19.0"
     },
     "speedtest-tracker": {
-      "version": "v1.6.0",
-      "gitref": "refs/tags/v1.6.0",
-      "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.6.0"
+      "version": "v1.6.1",
+      "gitref": "refs/tags/v1.6.1",
+      "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.6.1"
     },
     "terraform": {
       "version": "v1.12.2",
