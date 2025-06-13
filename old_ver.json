@@ -137,9 +137,9 @@
       "url": "https://github.com/gotify/server/releases/tag/v2.6.3"
     },
     "grafana": {
-      "version": "v12.0.1",
-      "gitref": "refs/tags/v12.0.1",
-      "url": "https://github.com/grafana/grafana/releases/tag/v12.0.1"
+      "version": "v12.0.1+security-01",
+      "gitref": "refs/tags/v12.0.1+security-01",
+      "url": "https://github.com/grafana/grafana/releases/tag/v12.0.1%2Bsecurity-01"
     },
     "hatch": {
       "version": "hatch-v1.14.1",
@@ -237,9 +237,9 @@
       "url": "https://github.com/prometheus/node_exporter/releases/tag/v1.9.1"
     },
     "pulumi": {
-      "version": "v3.176.0",
-      "gitref": "refs/tags/v3.176.0",
-      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.176.0"
+      "version": "v3.177.0",
+      "gitref": "refs/tags/v3.177.0",
+      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.177.0"
     },
     "qBittorrent": {
       "version": "release-5.1.0",
