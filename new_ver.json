@@ -15,9 +15,9 @@
       "url": "https://pypi.org/project/celery/5.5.3/"
     },
     "FlareSolverr": {
-      "version": "v3.3.24",
-      "gitref": "refs/tags/v3.3.24",
-      "url": "https://github.com/FlareSolverr/FlareSolverr/releases/tag/v3.3.24"
+      "version": "v3.3.25",
+      "gitref": "refs/tags/v3.3.25",
+      "url": "https://github.com/FlareSolverr/FlareSolverr/releases/tag/v3.3.25"
     },
     "Prowlarr": {
       "version": "v1.37.0.5076",
@@ -152,14 +152,14 @@
       "url": "https://github.com/juanfont/headscale/releases/tag/v0.26.1"
     },
     "homarr": {
-      "version": "v1.23.0",
-      "gitref": "refs/tags/v1.23.0",
-      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.23.0"
+      "version": "v1.24.0",
+      "gitref": "refs/tags/v1.24.0",
+      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.24.0"
     },
     "home-assistant": {
-      "version": "2025.6.0",
-      "gitref": "refs/tags/2025.6.0",
-      "url": "https://github.com/home-assistant/core/releases/tag/2025.6.0"
+      "version": "2025.6.1",
+      "gitref": "refs/tags/2025.6.1",
+      "url": "https://github.com/home-assistant/core/releases/tag/2025.6.1"
     },
     "insomnia": {
       "version": "core@11.2.0",
@@ -248,9 +248,9 @@
       "url": "https://github.com/qbittorrent/qBittorrent/releases/tag/release-5.1.0"
     },
     "semaphore": {
-      "version": "v2.14.12",
-      "gitref": "refs/tags/v2.14.12",
-      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.14.12"
+      "version": "v2.15.0",
+      "gitref": "refs/tags/v2.15.0",
+      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.15.0"
     },
     "sentry": {
       "version": "25.5.1",
