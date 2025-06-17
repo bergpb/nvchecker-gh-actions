@@ -103,14 +103,14 @@
       "url": "https://pypi.org/project/Django/5.2.3/"
     },
     "docker-cli": {
-      "version": "v28.2.2",
-      "gitref": "refs/tags/v28.2.2",
-      "revision": "30f3721b61dd08568704a616068c6f05586462fd",
-      "url": "https://github.com/docker/cli/releases/tag/v28.2.2"
+      "version": "v28.3.0-rc.1",
+      "gitref": "refs/tags/v28.3.0-rc.1",
+      "revision": "6e9ab59c78cd96ce2116e0b267f5b2ea109b3574",
+      "url": "https://github.com/docker/cli/releases/tag/v28.3.0-rc.1"
     },
     "fastapi": {
-      "version": "0.115.12",
-      "url": "https://pypi.org/project/fastapi/0.115.12/"
+      "version": "0.115.13",
+      "url": "https://pypi.org/project/fastapi/0.115.13/"
     },
     "fd": {
       "version": "v10.2.0",
@@ -217,9 +217,9 @@
       "url": "https://github.com/containers/podman-compose/releases/tag/v1.4.1"
     },
     "portainer": {
-      "version": "2.27.6",
-      "gitref": "refs/tags/2.27.6",
-      "url": "https://github.com/portainer/portainer/releases/tag/2.27.6"
+      "version": "2.27.7",
+      "gitref": "refs/tags/2.27.7",
+      "url": "https://github.com/portainer/portainer/releases/tag/2.27.7"
     },
     "prometheus": {
       "version": "v3.4.1",
