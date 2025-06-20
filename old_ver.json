@@ -2,9 +2,9 @@
   "version": 2,
   "data": {
     "Antares": {
-      "version": "v0.7.34",
-      "gitref": "refs/tags/v0.7.34",
-      "url": "https://github.com/antares-sql/antares/releases/tag/v0.7.34"
+      "version": "v0.7.35",
+      "gitref": "refs/tags/v0.7.35",
+      "url": "https://github.com/antares-sql/antares/releases/tag/v0.7.35"
     },
     "Beancount": {
       "version": "3.1.0",
@@ -237,9 +237,9 @@
       "url": "https://github.com/prometheus/node_exporter/releases/tag/v1.9.1"
     },
     "pulumi": {
-      "version": "v3.177.0",
-      "gitref": "refs/tags/v3.177.0",
-      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.177.0"
+      "version": "v3.178.0",
+      "gitref": "refs/tags/v3.178.0",
+      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.178.0"
     },
     "qBittorrent": {
       "version": "release-5.1.0",
