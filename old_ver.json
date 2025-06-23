@@ -30,9 +30,9 @@
       "url": "https://github.com/Radarr/Radarr/releases/tag/v5.26.2.10099"
     },
     "Sonarr": {
-      "version": "v4.0.14.2939",
-      "gitref": "refs/tags/v4.0.14.2939",
-      "url": "https://github.com/Sonarr/Sonarr/releases/tag/v4.0.14.2939"
+      "version": "v4.0.15.2941",
+      "gitref": "refs/tags/v4.0.15.2941",
+      "url": "https://github.com/Sonarr/Sonarr/releases/tag/v4.0.15.2941"
     },
     "YOURLS": {
       "version": "1.10.1",
@@ -94,19 +94,19 @@
       "url": "https://github.com/containers/buildah/releases/tag/v1.40.1"
     },
     "compose": {
-      "version": "v2.37.1",
-      "gitref": "refs/tags/v2.37.1",
-      "url": "https://github.com/docker/compose/releases/tag/v2.37.1"
+      "version": "v2.37.2",
+      "gitref": "refs/tags/v2.37.2",
+      "url": "https://github.com/docker/compose/releases/tag/v2.37.2"
     },
     "django": {
       "version": "5.2.3",
       "url": "https://pypi.org/project/Django/5.2.3/"
     },
     "docker-cli": {
-      "version": "v28.3.0-rc.1",
-      "gitref": "refs/tags/v28.3.0-rc.1",
-      "revision": "6e9ab59c78cd96ce2116e0b267f5b2ea109b3574",
-      "url": "https://github.com/docker/cli/releases/tag/v28.3.0-rc.1"
+      "version": "v28.3.0-rc.2",
+      "gitref": "refs/tags/v28.3.0-rc.2",
+      "revision": "78f9eb338eb63ad2c85d4fd4a9db2718a3e57c25",
+      "url": "https://github.com/docker/cli/releases/tag/v28.3.0-rc.2"
     },
     "fastapi": {
       "version": "0.115.13",
@@ -152,9 +152,9 @@
       "url": "https://github.com/juanfont/headscale/releases/tag/v0.26.1"
     },
     "homarr": {
-      "version": "v1.24.0",
-      "gitref": "refs/tags/v1.24.0",
-      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.24.0"
+      "version": "v1.25.0",
+      "gitref": "refs/tags/v1.25.0",
+      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.25.0"
     },
     "home-assistant": {
       "version": "2025.6.1",
@@ -172,9 +172,9 @@
       "url": "https://github.com/jellyfin/jellyfin/releases/tag/v10.10.7"
     },
     "jellyseerr": {
-      "version": "v2.6.0",
-      "gitref": "refs/tags/v2.6.0",
-      "url": "https://github.com/fallenbagel/jellyseerr/releases/tag/v2.6.0"
+      "version": "v2.7.0",
+      "gitref": "refs/tags/v2.7.0",
+      "url": "https://github.com/fallenbagel/jellyseerr/releases/tag/v2.7.0"
     },
     "jq": {
       "version": "jq-1.8.0",
@@ -242,10 +242,10 @@
       "url": "https://github.com/pulumi/pulumi/releases/tag/v3.178.0"
     },
     "qBittorrent": {
-      "version": "release-5.1.0",
-      "gitref": "refs/tags/release-5.1.0",
-      "revision": "e04b2af4ee0b08a2de4db15bf87945c0ffb299b7",
-      "url": "https://github.com/qbittorrent/qBittorrent/releases/tag/release-5.1.0"
+      "version": "release-5.1.1",
+      "gitref": "refs/tags/release-5.1.1",
+      "revision": "0843886dc972bb4170154614b1062bb6429fd62f",
+      "url": "https://github.com/qbittorrent/qBittorrent/releases/tag/release-5.1.1"
     },
     "semaphore": {
       "version": "v2.15.0",
@@ -253,9 +253,9 @@
       "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.15.0"
     },
     "sentry": {
-      "version": "25.6.0",
-      "gitref": "refs/tags/25.6.0",
-      "url": "https://github.com/getsentry/self-hosted/releases/tag/25.6.0"
+      "version": "25.6.1",
+      "gitref": "refs/tags/25.6.1",
+      "url": "https://github.com/getsentry/self-hosted/releases/tag/25.6.1"
     },
     "skopeo": {
       "version": "v1.19.0",
