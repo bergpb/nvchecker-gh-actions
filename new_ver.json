@@ -94,19 +94,19 @@
       "url": "https://github.com/containers/buildah/releases/tag/v1.40.1"
     },
     "compose": {
-      "version": "v2.37.2",
-      "gitref": "refs/tags/v2.37.2",
-      "url": "https://github.com/docker/compose/releases/tag/v2.37.2"
+      "version": "v2.37.3",
+      "gitref": "refs/tags/v2.37.3",
+      "url": "https://github.com/docker/compose/releases/tag/v2.37.3"
     },
     "django": {
       "version": "5.2.3",
       "url": "https://pypi.org/project/Django/5.2.3/"
     },
     "docker-cli": {
-      "version": "v28.3.0-rc.2",
-      "gitref": "refs/tags/v28.3.0-rc.2",
-      "revision": "78f9eb338eb63ad2c85d4fd4a9db2718a3e57c25",
-      "url": "https://github.com/docker/cli/releases/tag/v28.3.0-rc.2"
+      "version": "v28.3.0",
+      "gitref": "refs/tags/v28.3.0",
+      "revision": "2524ea44c066dfa4d73049e46e127bb65e582304",
+      "url": "https://github.com/docker/cli/releases/tag/v28.3.0"
     },
     "fastapi": {
       "version": "0.115.13",
@@ -157,9 +157,9 @@
       "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.25.0"
     },
     "home-assistant": {
-      "version": "2025.6.2",
-      "gitref": "refs/tags/2025.6.2",
-      "url": "https://github.com/home-assistant/core/releases/tag/2025.6.2"
+      "version": "2025.6.3",
+      "gitref": "refs/tags/2025.6.3",
+      "url": "https://github.com/home-assistant/core/releases/tag/2025.6.3"
     },
     "insomnia": {
       "version": "core@11.2.0",
@@ -207,9 +207,9 @@
       "url": "https://github.com/pi-hole/pi-hole/releases/tag/v6.1.2"
     },
     "podman": {
-      "version": "v5.5.1",
-      "gitref": "refs/tags/v5.5.1",
-      "url": "https://github.com/containers/podman/releases/tag/v5.5.1"
+      "version": "v5.5.2",
+      "gitref": "refs/tags/v5.5.2",
+      "url": "https://github.com/containers/podman/releases/tag/v5.5.2"
     },
     "podman-compose": {
       "version": "v1.4.1",
@@ -217,9 +217,9 @@
       "url": "https://github.com/containers/podman-compose/releases/tag/v1.4.1"
     },
     "portainer": {
-      "version": "2.27.7",
-      "gitref": "refs/tags/2.27.7",
-      "url": "https://github.com/portainer/portainer/releases/tag/2.27.7"
+      "version": "2.27.8",
+      "gitref": "refs/tags/2.27.8",
+      "url": "https://github.com/portainer/portainer/releases/tag/2.27.8"
     },
     "prometheus": {
       "version": "v3.4.1",
