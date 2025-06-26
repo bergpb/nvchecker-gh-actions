@@ -277,9 +277,9 @@
       "url": "https://pypi.org/project/tornado/6.5.1/"
     },
     "traefik": {
-      "version": "v3.4.1",
-      "gitref": "refs/tags/v3.4.1",
-      "url": "https://github.com/traefik/traefik/releases/tag/v3.4.1"
+      "version": "v3.4.2",
+      "gitref": "refs/tags/v3.4.2",
+      "url": "https://github.com/traefik/traefik/releases/tag/v3.4.2"
     },
     "uptime-kuma": {
       "version": "1.23.16",
