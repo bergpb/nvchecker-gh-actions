@@ -122,9 +122,9 @@
       "url": "https://pypi.org/project/Flask/3.1.1/"
     },
     "fzf": {
-      "version": "v0.62.0",
-      "gitref": "refs/tags/v0.62.0",
-      "url": "https://github.com/junegunn/fzf/releases/tag/v0.62.0"
+      "version": "v0.63.0",
+      "gitref": "refs/tags/v0.63.0",
+      "url": "https://github.com/junegunn/fzf/releases/tag/v0.63.0"
     },
     "gatus": {
       "version": "v5.18.1",
@@ -152,9 +152,9 @@
       "url": "https://github.com/juanfont/headscale/releases/tag/v0.26.1"
     },
     "homarr": {
-      "version": "v1.25.0",
-      "gitref": "refs/tags/v1.25.0",
-      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.25.0"
+      "version": "v1.26.0",
+      "gitref": "refs/tags/v1.26.0",
+      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.26.0"
     },
     "home-assistant": {
       "version": "2025.6.3",
