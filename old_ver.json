@@ -94,9 +94,9 @@
       "url": "https://github.com/containers/buildah/releases/tag/v1.40.1"
     },
     "compose": {
-      "version": "v2.37.3",
-      "gitref": "refs/tags/v2.37.3",
-      "url": "https://github.com/docker/compose/releases/tag/v2.37.3"
+      "version": "v2.38.1",
+      "gitref": "refs/tags/v2.38.1",
+      "url": "https://github.com/docker/compose/releases/tag/v2.38.1"
     },
     "django": {
       "version": "5.2.3",
@@ -177,9 +177,9 @@
       "url": "https://github.com/fallenbagel/jellyseerr/releases/tag/v2.7.0"
     },
     "jq": {
-      "version": "jq-1.8.0",
-      "gitref": "refs/tags/jq-1.8.0",
-      "url": "https://github.com/jqlang/jq/releases/tag/jq-1.8.0"
+      "version": "jq-1.8.1",
+      "gitref": "refs/tags/jq-1.8.1",
+      "url": "https://github.com/jqlang/jq/releases/tag/jq-1.8.1"
     },
     "k9s": {
       "version": "v0.50.6",
@@ -227,9 +227,9 @@
       "url": "https://github.com/prometheus/prometheus/releases/tag/v3.4.2"
     },
     "prometheus-blackbox_exporter": {
-      "version": "v0.26.0",
-      "gitref": "refs/tags/v0.26.0",
-      "url": "https://github.com/prometheus/blackbox_exporter/releases/tag/v0.26.0"
+      "version": "v0.27.0",
+      "gitref": "refs/tags/v0.27.0",
+      "url": "https://github.com/prometheus/blackbox_exporter/releases/tag/v0.27.0"
     },
     "prometheus-node_exporter": {
       "version": "v1.9.1",
@@ -253,9 +253,9 @@
       "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.15.0"
     },
     "sentry": {
-      "version": "25.6.1",
-      "gitref": "refs/tags/25.6.1",
-      "url": "https://github.com/getsentry/self-hosted/releases/tag/25.6.1"
+      "version": "25.6.2",
+      "gitref": "refs/tags/25.6.2",
+      "url": "https://github.com/getsentry/self-hosted/releases/tag/25.6.2"
     },
     "skopeo": {
       "version": "v1.19.0",
