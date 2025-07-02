@@ -127,9 +127,9 @@
       "url": "https://github.com/junegunn/fzf/releases/tag/v0.63.0"
     },
     "gatus": {
-      "version": "v5.18.1",
-      "gitref": "refs/tags/v5.18.1",
-      "url": "https://github.com/TwiN/gatus/releases/tag/v5.18.1"
+      "version": "v5.19.0",
+      "gitref": "refs/tags/v5.19.0",
+      "url": "https://github.com/TwiN/gatus/releases/tag/v5.19.0"
     },
     "gotify": {
       "version": "v2.6.3",
@@ -217,9 +217,9 @@
       "url": "https://github.com/containers/podman-compose/releases/tag/v1.4.1"
     },
     "portainer": {
-      "version": "2.27.8",
-      "gitref": "refs/tags/2.27.8",
-      "url": "https://github.com/portainer/portainer/releases/tag/2.27.8"
+      "version": "2.27.9",
+      "gitref": "refs/tags/2.27.9",
+      "url": "https://github.com/portainer/portainer/releases/tag/2.27.9"
     },
     "prometheus": {
       "version": "v3.4.2",
@@ -242,10 +242,10 @@
       "url": "https://github.com/pulumi/pulumi/releases/tag/v3.181.0"
     },
     "qBittorrent": {
-      "version": "release-5.1.1",
-      "gitref": "refs/tags/release-5.1.1",
-      "revision": "0843886dc972bb4170154614b1062bb6429fd62f",
-      "url": "https://github.com/qbittorrent/qBittorrent/releases/tag/release-5.1.1"
+      "version": "release-5.1.2",
+      "gitref": "refs/tags/release-5.1.2",
+      "revision": "ee65e00351dece0075381ed8f0c91953a93f158f",
+      "url": "https://github.com/qbittorrent/qBittorrent/releases/tag/release-5.1.2"
     },
     "semaphore": {
       "version": "v2.15.0",
