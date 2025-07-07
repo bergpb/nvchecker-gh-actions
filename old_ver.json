@@ -122,9 +122,9 @@
       "url": "https://pypi.org/project/Flask/3.1.1/"
     },
     "fzf": {
-      "version": "v0.63.0",
-      "gitref": "refs/tags/v0.63.0",
-      "url": "https://github.com/junegunn/fzf/releases/tag/v0.63.0"
+      "version": "v0.64.0",
+      "gitref": "refs/tags/v0.64.0",
+      "url": "https://github.com/junegunn/fzf/releases/tag/v0.64.0"
     },
     "gatus": {
       "version": "v5.19.0",
@@ -152,14 +152,14 @@
       "url": "https://github.com/juanfont/headscale/releases/tag/v0.26.1"
     },
     "homarr": {
-      "version": "v1.26.0",
-      "gitref": "refs/tags/v1.26.0",
-      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.26.0"
+      "version": "v1.27.0",
+      "gitref": "refs/tags/v1.27.0",
+      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.27.0"
     },
     "home-assistant": {
-      "version": "2025.7.0",
-      "gitref": "refs/tags/2025.7.0",
-      "url": "https://github.com/home-assistant/core/releases/tag/2025.7.0"
+      "version": "2025.7.1",
+      "gitref": "refs/tags/2025.7.1",
+      "url": "https://github.com/home-assistant/core/releases/tag/2025.7.1"
     },
     "insomnia": {
       "version": "core@11.2.0",
@@ -182,9 +182,9 @@
       "url": "https://github.com/jqlang/jq/releases/tag/jq-1.8.1"
     },
     "k9s": {
-      "version": "v0.50.6",
-      "gitref": "refs/tags/v0.50.6",
-      "url": "https://github.com/derailed/k9s/releases/tag/v0.50.6"
+      "version": "v0.50.7",
+      "gitref": "refs/tags/v0.50.7",
+      "url": "https://github.com/derailed/k9s/releases/tag/v0.50.7"
     },
     "kombu": {
       "version": "5.5.4",
