@@ -94,9 +94,9 @@
       "url": "https://github.com/containers/buildah/releases/tag/v1.40.1"
     },
     "compose": {
-      "version": "v2.38.1",
-      "gitref": "refs/tags/v2.38.1",
-      "url": "https://github.com/docker/compose/releases/tag/v2.38.1"
+      "version": "v2.38.2",
+      "gitref": "refs/tags/v2.38.2",
+      "url": "https://github.com/docker/compose/releases/tag/v2.38.2"
     },
     "django": {
       "version": "5.2.4",
@@ -109,8 +109,8 @@
       "url": "https://github.com/docker/cli/releases/tag/v28.3.1"
     },
     "fastapi": {
-      "version": "0.115.14",
-      "url": "https://pypi.org/project/fastapi/0.115.14/"
+      "version": "0.116.0",
+      "url": "https://pypi.org/project/fastapi/0.116.0/"
     },
     "fd": {
       "version": "v10.2.0",
@@ -212,9 +212,9 @@
       "url": "https://github.com/containers/podman/releases/tag/v5.5.2"
     },
     "podman-compose": {
-      "version": "v1.4.1",
-      "gitref": "refs/tags/v1.4.1",
-      "url": "https://github.com/containers/podman-compose/releases/tag/v1.4.1"
+      "version": "v1.5.0",
+      "gitref": "refs/tags/v1.5.0",
+      "url": "https://github.com/containers/podman-compose/releases/tag/v1.5.0"
     },
     "portainer": {
       "version": "2.27.9",
@@ -263,9 +263,9 @@
       "url": "https://github.com/containers/skopeo/releases/tag/v1.19.0"
     },
     "speedtest-tracker": {
-      "version": "v1.6.1",
-      "gitref": "refs/tags/v1.6.1",
-      "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.6.1"
+      "version": "v1.6.2",
+      "gitref": "refs/tags/v1.6.2",
+      "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.6.2"
     },
     "terraform": {
       "version": "v1.12.2",
