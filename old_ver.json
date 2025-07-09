@@ -127,9 +127,9 @@
       "url": "https://github.com/junegunn/fzf/releases/tag/v0.64.0"
     },
     "gatus": {
-      "version": "v5.19.0",
-      "gitref": "refs/tags/v5.19.0",
-      "url": "https://github.com/TwiN/gatus/releases/tag/v5.19.0"
+      "version": "v5.20.0",
+      "gitref": "refs/tags/v5.20.0",
+      "url": "https://github.com/TwiN/gatus/releases/tag/v5.20.0"
     },
     "gotify": {
       "version": "v2.6.3",
@@ -263,9 +263,9 @@
       "url": "https://github.com/containers/skopeo/releases/tag/v1.19.0"
     },
     "speedtest-tracker": {
-      "version": "v1.6.2",
-      "gitref": "refs/tags/v1.6.2",
-      "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.6.2"
+      "version": "v1.6.3",
+      "gitref": "refs/tags/v1.6.3",
+      "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.6.3"
     },
     "terraform": {
       "version": "v1.12.2",
