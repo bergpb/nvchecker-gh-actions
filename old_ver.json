@@ -44,9 +44,9 @@
       "url": "https://pypi.org/project/ansible/11.7.0/"
     },
     "argocd": {
-      "version": "v3.0.6",
-      "gitref": "refs/tags/v3.0.6",
-      "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.0.6"
+      "version": "v3.0.11",
+      "gitref": "refs/tags/v3.0.11",
+      "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.0.11"
     },
     "awx": {
       "version": "24.6.1",
@@ -162,9 +162,9 @@
       "url": "https://github.com/home-assistant/core/releases/tag/2025.7.1"
     },
     "insomnia": {
-      "version": "core@11.2.0",
-      "gitref": "refs/tags/core@11.2.0",
-      "url": "https://github.com/Kong/insomnia/releases/tag/core%4011.2.0"
+      "version": "core@11.3.0",
+      "gitref": "refs/tags/core@11.3.0",
+      "url": "https://github.com/Kong/insomnia/releases/tag/core%4011.3.0"
     },
     "jellyfin": {
       "version": "v10.10.7",
@@ -277,9 +277,9 @@
       "url": "https://pypi.org/project/tornado/6.5.1/"
     },
     "traefik": {
-      "version": "v3.4.3",
-      "gitref": "refs/tags/v3.4.3",
-      "url": "https://github.com/traefik/traefik/releases/tag/v3.4.3"
+      "version": "v3.4.4",
+      "gitref": "refs/tags/v3.4.4",
+      "url": "https://github.com/traefik/traefik/releases/tag/v3.4.4"
     },
     "uptime-kuma": {
       "version": "1.23.16",
