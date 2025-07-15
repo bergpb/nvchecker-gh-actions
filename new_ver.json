@@ -202,9 +202,9 @@
       "url": "https://github.com/lilydjwg/nvchecker/releases/tag/v2.18"
     },
     "pi-hole": {
-      "version": "v6.1.2",
-      "gitref": "refs/tags/v6.1.2",
-      "url": "https://github.com/pi-hole/pi-hole/releases/tag/v6.1.2"
+      "version": "v6.1.4",
+      "gitref": "refs/tags/v6.1.4",
+      "url": "https://github.com/pi-hole/pi-hole/releases/tag/v6.1.4"
     },
     "podman": {
       "version": "v5.5.2",
@@ -222,9 +222,9 @@
       "url": "https://github.com/portainer/portainer/releases/tag/2.27.9"
     },
     "prometheus": {
-      "version": "v3.4.2",
-      "gitref": "refs/tags/v3.4.2",
-      "url": "https://github.com/prometheus/prometheus/releases/tag/v3.4.2"
+      "version": "v3.5.0",
+      "gitref": "refs/tags/v3.5.0",
+      "url": "https://github.com/prometheus/prometheus/releases/tag/v3.5.0"
     },
     "prometheus-blackbox_exporter": {
       "version": "v0.27.0",
@@ -237,9 +237,9 @@
       "url": "https://github.com/prometheus/node_exporter/releases/tag/v1.9.1"
     },
     "pulumi": {
-      "version": "v3.181.0",
-      "gitref": "refs/tags/v3.181.0",
-      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.181.0"
+      "version": "v3.182.0",
+      "gitref": "refs/tags/v3.182.0",
+      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.182.0"
     },
     "qBittorrent": {
       "version": "release-5.1.2",
