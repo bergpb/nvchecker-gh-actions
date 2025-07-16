@@ -172,9 +172,9 @@
       "url": "https://github.com/jellyfin/jellyfin/releases/tag/v10.10.7"
     },
     "jellyseerr": {
-      "version": "v2.7.0",
-      "gitref": "refs/tags/v2.7.0",
-      "url": "https://github.com/fallenbagel/jellyseerr/releases/tag/v2.7.0"
+      "version": "v2.7.1",
+      "gitref": "refs/tags/v2.7.1",
+      "url": "https://github.com/fallenbagel/jellyseerr/releases/tag/v2.7.1"
     },
     "jq": {
       "version": "jq-1.8.1",
@@ -182,9 +182,9 @@
       "url": "https://github.com/jqlang/jq/releases/tag/jq-1.8.1"
     },
     "k9s": {
-      "version": "v0.50.7",
-      "gitref": "refs/tags/v0.50.7",
-      "url": "https://github.com/derailed/k9s/releases/tag/v0.50.7"
+      "version": "v0.50.8",
+      "gitref": "refs/tags/v0.50.8",
+      "url": "https://github.com/derailed/k9s/releases/tag/v0.50.8"
     },
     "kombu": {
       "version": "5.5.4",
@@ -253,9 +253,9 @@
       "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.15.0"
     },
     "sentry": {
-      "version": "25.6.2",
-      "gitref": "refs/tags/25.6.2",
-      "url": "https://github.com/getsentry/self-hosted/releases/tag/25.6.2"
+      "version": "25.7.0",
+      "gitref": "refs/tags/25.7.0",
+      "url": "https://github.com/getsentry/self-hosted/releases/tag/25.7.0"
     },
     "skopeo": {
       "version": "v1.19.0",
