@@ -40,8 +40,8 @@
       "url": "https://github.com/YOURLS/YOURLS/releases/tag/1.10.1"
     },
     "ansible": {
-      "version": "11.7.0",
-      "url": "https://pypi.org/project/ansible/11.7.0/"
+      "version": "11.8.0",
+      "url": "https://pypi.org/project/ansible/11.8.0/"
     },
     "argocd": {
       "version": "v3.0.11",
@@ -182,9 +182,9 @@
       "url": "https://github.com/jqlang/jq/releases/tag/jq-1.8.1"
     },
     "k9s": {
-      "version": "v0.50.8",
-      "gitref": "refs/tags/v0.50.8",
-      "url": "https://github.com/derailed/k9s/releases/tag/v0.50.8"
+      "version": "v0.50.9",
+      "gitref": "refs/tags/v0.50.9",
+      "url": "https://github.com/derailed/k9s/releases/tag/v0.50.9"
     },
     "kombu": {
       "version": "5.5.4",
@@ -237,9 +237,9 @@
       "url": "https://github.com/prometheus/node_exporter/releases/tag/v1.9.1"
     },
     "pulumi": {
-      "version": "v3.182.0",
-      "gitref": "refs/tags/v3.182.0",
-      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.182.0"
+      "version": "v3.183.0",
+      "gitref": "refs/tags/v3.183.0",
+      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.183.0"
     },
     "qBittorrent": {
       "version": "release-5.1.2",
