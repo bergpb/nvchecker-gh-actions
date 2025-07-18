@@ -237,9 +237,9 @@
       "url": "https://github.com/prometheus/node_exporter/releases/tag/v1.9.1"
     },
     "pulumi": {
-      "version": "v3.183.0",
-      "gitref": "refs/tags/v3.183.0",
-      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.183.0"
+      "version": "v3.184.0",
+      "gitref": "refs/tags/v3.184.0",
+      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.184.0"
     },
     "qBittorrent": {
       "version": "release-5.1.2",
