@@ -152,9 +152,9 @@
       "url": "https://github.com/juanfont/headscale/releases/tag/v0.26.1"
     },
     "homarr": {
-      "version": "v1.28.1",
-      "gitref": "refs/tags/v1.28.1",
-      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.28.1"
+      "version": "v1.30.0",
+      "gitref": "refs/tags/v1.30.0",
+      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.30.0"
     },
     "home-assistant": {
       "version": "2025.7.2",
@@ -263,9 +263,9 @@
       "url": "https://github.com/containers/skopeo/releases/tag/v1.19.0"
     },
     "speedtest-tracker": {
-      "version": "v1.6.4",
-      "gitref": "refs/tags/v1.6.4",
-      "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.6.4"
+      "version": "v1.6.5",
+      "gitref": "refs/tags/v1.6.5",
+      "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.6.5"
     },
     "terraform": {
       "version": "v1.12.2",
