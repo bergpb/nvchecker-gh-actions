@@ -89,9 +89,9 @@
       "url": "https://github.com/ClementTsang/bottom/releases/tag/0.10.2"
     },
     "buildah": {
-      "version": "v1.40.1",
-      "gitref": "refs/tags/v1.40.1",
-      "url": "https://github.com/containers/buildah/releases/tag/v1.40.1"
+      "version": "v1.41.0",
+      "gitref": "refs/tags/v1.41.0",
+      "url": "https://github.com/containers/buildah/releases/tag/v1.41.0"
     },
     "compose": {
       "version": "v2.38.2",
@@ -157,9 +157,9 @@
       "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.30.0"
     },
     "home-assistant": {
-      "version": "2025.7.2",
-      "gitref": "refs/tags/2025.7.2",
-      "url": "https://github.com/home-assistant/core/releases/tag/2025.7.2"
+      "version": "2025.7.3",
+      "gitref": "refs/tags/2025.7.3",
+      "url": "https://github.com/home-assistant/core/releases/tag/2025.7.3"
     },
     "insomnia": {
       "version": "core@11.3.0",
@@ -172,9 +172,9 @@
       "url": "https://github.com/jellyfin/jellyfin/releases/tag/v10.10.7"
     },
     "jellyseerr": {
-      "version": "v2.7.1",
-      "gitref": "refs/tags/v2.7.1",
-      "url": "https://github.com/fallenbagel/jellyseerr/releases/tag/v2.7.1"
+      "version": "v2.7.2",
+      "gitref": "refs/tags/v2.7.2",
+      "url": "https://github.com/fallenbagel/jellyseerr/releases/tag/v2.7.2"
     },
     "jq": {
       "version": "jq-1.8.1",
@@ -237,9 +237,9 @@
       "url": "https://github.com/prometheus/node_exporter/releases/tag/v1.9.1"
     },
     "pulumi": {
-      "version": "v3.184.0",
-      "gitref": "refs/tags/v3.184.0",
-      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.184.0"
+      "version": "v3.185.0",
+      "gitref": "refs/tags/v3.185.0",
+      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.185.0"
     },
     "qBittorrent": {
       "version": "release-5.1.2",
