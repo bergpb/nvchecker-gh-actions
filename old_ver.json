@@ -94,9 +94,9 @@
       "url": "https://github.com/containers/buildah/releases/tag/v1.41.0"
     },
     "compose": {
-      "version": "v2.38.2",
-      "gitref": "refs/tags/v2.38.2",
-      "url": "https://github.com/docker/compose/releases/tag/v2.38.2"
+      "version": "v2.39.0",
+      "gitref": "refs/tags/v2.39.0",
+      "url": "https://github.com/docker/compose/releases/tag/v2.39.0"
     },
     "django": {
       "version": "5.2.4",
@@ -137,9 +137,9 @@
       "url": "https://github.com/gotify/server/releases/tag/v2.6.3"
     },
     "grafana": {
-      "version": "v12.0.2",
-      "gitref": "refs/tags/v12.0.2",
-      "url": "https://github.com/grafana/grafana/releases/tag/v12.0.2"
+      "version": "v12.1.0",
+      "gitref": "refs/tags/v12.1.0",
+      "url": "https://github.com/grafana/grafana/releases/tag/v12.1.0"
     },
     "hatch": {
       "version": "hatch-v1.14.1",
@@ -248,9 +248,9 @@
       "url": "https://github.com/qbittorrent/qBittorrent/releases/tag/release-5.1.2"
     },
     "semaphore": {
-      "version": "v2.15.0",
-      "gitref": "refs/tags/v2.15.0",
-      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.15.0"
+      "version": "v2.15.4",
+      "gitref": "refs/tags/v2.15.4",
+      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.15.4"
     },
     "sentry": {
       "version": "25.7.0",
@@ -277,9 +277,9 @@
       "url": "https://pypi.org/project/tornado/6.5.1/"
     },
     "traefik": {
-      "version": "v3.4.5",
-      "gitref": "refs/tags/v3.4.5",
-      "url": "https://github.com/traefik/traefik/releases/tag/v3.4.5"
+      "version": "v3.5.0",
+      "gitref": "refs/tags/v3.5.0",
+      "url": "https://github.com/traefik/traefik/releases/tag/v3.5.0"
     },
     "uptime-kuma": {
       "version": "1.23.16",
