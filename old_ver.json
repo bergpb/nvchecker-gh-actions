@@ -94,9 +94,9 @@
       "url": "https://github.com/containers/buildah/releases/tag/v1.41.0"
     },
     "compose": {
-      "version": "v2.39.0",
-      "gitref": "refs/tags/v2.39.0",
-      "url": "https://github.com/docker/compose/releases/tag/v2.39.0"
+      "version": "v2.39.1",
+      "gitref": "refs/tags/v2.39.1",
+      "url": "https://github.com/docker/compose/releases/tag/v2.39.1"
     },
     "django": {
       "version": "5.2.4",
@@ -237,9 +237,9 @@
       "url": "https://github.com/prometheus/node_exporter/releases/tag/v1.9.1"
     },
     "pulumi": {
-      "version": "v3.185.0",
-      "gitref": "refs/tags/v3.185.0",
-      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.185.0"
+      "version": "v3.186.0",
+      "gitref": "refs/tags/v3.186.0",
+      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.186.0"
     },
     "qBittorrent": {
       "version": "release-5.1.2",
