@@ -287,9 +287,9 @@
       "url": "https://github.com/louislam/uptime-kuma/releases/tag/1.23.16"
     },
     "vaultwarden": {
-      "version": "1.34.2",
-      "gitref": "refs/tags/1.34.2",
-      "url": "https://github.com/dani-garcia/vaultwarden/releases/tag/1.34.2"
+      "version": "1.34.3",
+      "gitref": "refs/tags/1.34.3",
+      "url": "https://github.com/dani-garcia/vaultwarden/releases/tag/1.34.3"
     },
     "webhook": {
       "version": "2.8.2",
