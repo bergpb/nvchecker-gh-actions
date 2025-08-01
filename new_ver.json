@@ -35,9 +35,9 @@
       "url": "https://github.com/Sonarr/Sonarr/releases/tag/v4.0.15.2941"
     },
     "YOURLS": {
-      "version": "1.10.1",
-      "gitref": "refs/tags/1.10.1",
-      "url": "https://github.com/YOURLS/YOURLS/releases/tag/1.10.1"
+      "version": "1.10.2",
+      "gitref": "refs/tags/1.10.2",
+      "url": "https://github.com/YOURLS/YOURLS/releases/tag/1.10.2"
     },
     "ansible": {
       "version": "11.8.0",
@@ -237,9 +237,9 @@
       "url": "https://github.com/prometheus/node_exporter/releases/tag/v1.9.1"
     },
     "pulumi": {
-      "version": "v3.186.0",
-      "gitref": "refs/tags/v3.186.0",
-      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.186.0"
+      "version": "v3.187.0",
+      "gitref": "refs/tags/v3.187.0",
+      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.187.0"
     },
     "qBittorrent": {
       "version": "release-5.1.2",
@@ -263,9 +263,9 @@
       "url": "https://github.com/containers/skopeo/releases/tag/v1.19.0"
     },
     "speedtest-tracker": {
-      "version": "v1.6.5",
-      "gitref": "refs/tags/v1.6.5",
-      "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.6.5"
+      "version": "v1.6.6",
+      "gitref": "refs/tags/v1.6.6",
+      "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.6.6"
     },
     "terraform": {
       "version": "v1.12.2",
