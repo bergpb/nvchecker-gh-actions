@@ -157,9 +157,9 @@
       "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.31.0"
     },
     "home-assistant": {
-      "version": "2025.7.4",
-      "gitref": "refs/tags/2025.7.4",
-      "url": "https://github.com/home-assistant/core/releases/tag/2025.7.4"
+      "version": "2025.8.0",
+      "gitref": "refs/tags/2025.8.0",
+      "url": "https://github.com/home-assistant/core/releases/tag/2025.8.0"
     },
     "insomnia": {
       "version": "core@11.4.0",
