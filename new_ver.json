@@ -237,9 +237,9 @@
       "url": "https://github.com/prometheus/node_exporter/releases/tag/v1.9.1"
     },
     "pulumi": {
-      "version": "v3.187.0",
-      "gitref": "refs/tags/v3.187.0",
-      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.187.0"
+      "version": "v3.188.0",
+      "gitref": "refs/tags/v3.188.0",
+      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.188.0"
     },
     "qBittorrent": {
       "version": "release-5.1.2",
@@ -248,9 +248,9 @@
       "url": "https://github.com/qbittorrent/qBittorrent/releases/tag/release-5.1.2"
     },
     "semaphore": {
-      "version": "v2.15.5",
-      "gitref": "refs/tags/v2.15.5",
-      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.15.5"
+      "version": "v2.15.7",
+      "gitref": "refs/tags/v2.15.7",
+      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.15.7"
     },
     "sentry": {
       "version": "25.7.0",
