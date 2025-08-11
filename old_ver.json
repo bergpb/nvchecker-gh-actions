@@ -94,9 +94,9 @@
       "url": "https://github.com/containers/buildah/releases/tag/v1.41.0"
     },
     "compose": {
-      "version": "v2.39.1",
-      "gitref": "refs/tags/v2.39.1",
-      "url": "https://github.com/docker/compose/releases/tag/v2.39.1"
+      "version": "v2.39.2",
+      "gitref": "refs/tags/v2.39.2",
+      "url": "https://github.com/docker/compose/releases/tag/v2.39.2"
     },
     "django": {
       "version": "5.2.5",
@@ -152,9 +152,9 @@
       "url": "https://github.com/juanfont/headscale/releases/tag/v0.26.1"
     },
     "homarr": {
-      "version": "v1.31.0",
-      "gitref": "refs/tags/v1.31.0",
-      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.31.0"
+      "version": "v1.32.0",
+      "gitref": "refs/tags/v1.32.0",
+      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.32.0"
     },
     "home-assistant": {
       "version": "2025.8.0",
@@ -273,8 +273,8 @@
       "url": "https://github.com/hashicorp/terraform/releases/tag/v1.12.2"
     },
     "tornado": {
-      "version": "6.5.1",
-      "url": "https://pypi.org/project/tornado/6.5.1/"
+      "version": "6.5.2",
+      "url": "https://pypi.org/project/tornado/6.5.2/"
     },
     "traefik": {
       "version": "v3.5.0",
