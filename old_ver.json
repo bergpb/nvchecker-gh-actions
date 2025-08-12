@@ -127,9 +127,9 @@
       "url": "https://github.com/junegunn/fzf/releases/tag/v0.65.1"
     },
     "gatus": {
-      "version": "v5.21.0",
-      "gitref": "refs/tags/v5.21.0",
-      "url": "https://github.com/TwiN/gatus/releases/tag/v5.21.0"
+      "version": "v5.22.0",
+      "gitref": "refs/tags/v5.22.0",
+      "url": "https://github.com/TwiN/gatus/releases/tag/v5.22.0"
     },
     "gotify": {
       "version": "v2.6.3",
@@ -157,9 +157,9 @@
       "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.32.0"
     },
     "home-assistant": {
-      "version": "2025.8.0",
-      "gitref": "refs/tags/2025.8.0",
-      "url": "https://github.com/home-assistant/core/releases/tag/2025.8.0"
+      "version": "2025.8.1",
+      "gitref": "refs/tags/2025.8.1",
+      "url": "https://github.com/home-assistant/core/releases/tag/2025.8.1"
     },
     "insomnia": {
       "version": "core@11.4.0",
