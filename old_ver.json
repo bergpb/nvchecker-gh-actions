@@ -40,8 +40,8 @@
       "url": "https://github.com/YOURLS/YOURLS/releases/tag/1.10.2"
     },
     "ansible": {
-      "version": "11.8.0",
-      "url": "https://pypi.org/project/ansible/11.8.0/"
+      "version": "11.9.0",
+      "url": "https://pypi.org/project/ansible/11.9.0/"
     },
     "argocd": {
       "version": "v3.0.12",
@@ -248,9 +248,9 @@
       "url": "https://github.com/qbittorrent/qBittorrent/releases/tag/release-5.1.2"
     },
     "semaphore": {
-      "version": "v2.15.7",
-      "gitref": "refs/tags/v2.15.7",
-      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.15.7"
+      "version": "v2.16.10",
+      "gitref": "refs/tags/v2.16.10",
+      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.16.10"
     },
     "sentry": {
       "version": "25.7.0",
