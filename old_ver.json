@@ -44,9 +44,9 @@
       "url": "https://pypi.org/project/ansible/11.9.0/"
     },
     "argocd": {
-      "version": "v3.0.12",
-      "gitref": "refs/tags/v3.0.12",
-      "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.0.12"
+      "version": "v3.1.0",
+      "gitref": "refs/tags/v3.1.0",
+      "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.1.0"
     },
     "awx": {
       "version": "24.6.1",
@@ -237,9 +237,9 @@
       "url": "https://github.com/prometheus/node_exporter/releases/tag/v1.9.1"
     },
     "pulumi": {
-      "version": "v3.188.0",
-      "gitref": "refs/tags/v3.188.0",
-      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.188.0"
+      "version": "v3.189.0",
+      "gitref": "refs/tags/v3.189.0",
+      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.189.0"
     },
     "qBittorrent": {
       "version": "release-5.1.2",
