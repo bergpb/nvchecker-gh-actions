@@ -84,9 +84,9 @@
       "url": "https://pypi.org/project/borgbackup/1.4.1/"
     },
     "bottom": {
-      "version": "0.11.0",
-      "gitref": "refs/tags/0.11.0",
-      "url": "https://github.com/ClementTsang/bottom/releases/tag/0.11.0"
+      "version": "0.11.1",
+      "gitref": "refs/tags/0.11.1",
+      "url": "https://github.com/ClementTsang/bottom/releases/tag/0.11.1"
     },
     "buildah": {
       "version": "v1.41.0",
@@ -172,9 +172,9 @@
       "url": "https://github.com/jellyfin/jellyfin/releases/tag/v10.10.7"
     },
     "jellyseerr": {
-      "version": "v2.7.2",
-      "gitref": "refs/tags/v2.7.2",
-      "url": "https://github.com/fallenbagel/jellyseerr/releases/tag/v2.7.2"
+      "version": "v2.7.3",
+      "gitref": "refs/tags/v2.7.3",
+      "url": "https://github.com/fallenbagel/jellyseerr/releases/tag/v2.7.3"
     },
     "jq": {
       "version": "jq-1.8.1",
