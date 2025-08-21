@@ -237,9 +237,9 @@
       "url": "https://github.com/prometheus/node_exporter/releases/tag/v1.9.1"
     },
     "pulumi": {
-      "version": "v3.190.0",
-      "gitref": "refs/tags/v3.190.0",
-      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.190.0"
+      "version": "v3.191.0",
+      "gitref": "refs/tags/v3.191.0",
+      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.191.0"
     },
     "qBittorrent": {
       "version": "release-5.1.2",
@@ -248,9 +248,9 @@
       "url": "https://github.com/qbittorrent/qBittorrent/releases/tag/release-5.1.2"
     },
     "semaphore": {
-      "version": "v2.16.17",
-      "gitref": "refs/tags/v2.16.17",
-      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.16.17"
+      "version": "v2.16.18",
+      "gitref": "refs/tags/v2.16.18",
+      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.16.18"
     },
     "sentry": {
       "version": "25.8.0",
@@ -268,9 +268,9 @@
       "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.6.6"
     },
     "terraform": {
-      "version": "v1.12.2",
-      "gitref": "refs/tags/v1.12.2",
-      "url": "https://github.com/hashicorp/terraform/releases/tag/v1.12.2"
+      "version": "v1.13.0",
+      "gitref": "refs/tags/v1.13.0",
+      "url": "https://github.com/hashicorp/terraform/releases/tag/v1.13.0"
     },
     "tornado": {
       "version": "6.5.2",
