@@ -162,9 +162,9 @@
       "url": "https://github.com/home-assistant/core/releases/tag/2025.8.3"
     },
     "insomnia": {
-      "version": "core@11.4.0",
-      "gitref": "refs/tags/core@11.4.0",
-      "url": "https://github.com/Kong/insomnia/releases/tag/core%4011.4.0"
+      "version": "core@11.5.0",
+      "gitref": "refs/tags/core@11.5.0",
+      "url": "https://github.com/Kong/insomnia/releases/tag/core%4011.5.0"
     },
     "jellyfin": {
       "version": "v10.10.7",
@@ -217,9 +217,9 @@
       "url": "https://github.com/containers/podman-compose/releases/tag/v1.5.0"
     },
     "portainer": {
-      "version": "2.33.0",
-      "gitref": "refs/tags/2.33.0",
-      "url": "https://github.com/portainer/portainer/releases/tag/2.33.0"
+      "version": "2.33.1",
+      "gitref": "refs/tags/2.33.1",
+      "url": "https://github.com/portainer/portainer/releases/tag/2.33.1"
     },
     "prometheus": {
       "version": "v3.5.0",
@@ -268,18 +268,18 @@
       "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.6.6"
     },
     "terraform": {
-      "version": "v1.13.0",
-      "gitref": "refs/tags/v1.13.0",
-      "url": "https://github.com/hashicorp/terraform/releases/tag/v1.13.0"
+      "version": "v1.13.1",
+      "gitref": "refs/tags/v1.13.1",
+      "url": "https://github.com/hashicorp/terraform/releases/tag/v1.13.1"
     },
     "tornado": {
       "version": "6.5.2",
       "url": "https://pypi.org/project/tornado/6.5.2/"
     },
     "traefik": {
-      "version": "v3.5.0",
-      "gitref": "refs/tags/v3.5.0",
-      "url": "https://github.com/traefik/traefik/releases/tag/v3.5.0"
+      "version": "v3.5.1",
+      "gitref": "refs/tags/v3.5.1",
+      "url": "https://github.com/traefik/traefik/releases/tag/v3.5.1"
     },
     "uptime-kuma": {
       "version": "1.23.16",
