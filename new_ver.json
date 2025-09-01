@@ -44,9 +44,9 @@
       "url": "https://pypi.org/project/ansible/11.9.0/"
     },
     "argocd": {
-      "version": "v3.0.13",
-      "gitref": "refs/tags/v3.0.13",
-      "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.0.13"
+      "version": "v3.1.1",
+      "gitref": "refs/tags/v3.1.1",
+      "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.1.1"
     },
     "awx": {
       "version": "24.6.1",
@@ -103,10 +103,10 @@
       "url": "https://pypi.org/project/Django/5.2.5/"
     },
     "docker-cli": {
-      "version": "v28.3.3",
-      "gitref": "refs/tags/v28.3.3",
-      "revision": "b939728cb52a73ac60faf00894cdd03a6db6f105",
-      "url": "https://github.com/docker/cli/releases/tag/v28.3.3"
+      "version": "v28.4.0-rc.1",
+      "gitref": "refs/tags/v28.4.0-rc.1",
+      "revision": "a13a668c0e4cf10ee8b0bdb951c47720c8ceda37",
+      "url": "https://github.com/docker/cli/releases/tag/v28.4.0-rc.1"
     },
     "fastapi": {
       "version": "0.116.1",
@@ -122,9 +122,9 @@
       "url": "https://pypi.org/project/Flask/3.1.2/"
     },
     "fzf": {
-      "version": "v0.65.1",
-      "gitref": "refs/tags/v0.65.1",
-      "url": "https://github.com/junegunn/fzf/releases/tag/v0.65.1"
+      "version": "v0.65.2",
+      "gitref": "refs/tags/v0.65.2",
+      "url": "https://github.com/junegunn/fzf/releases/tag/v0.65.2"
     },
     "gatus": {
       "version": "v5.23.2",
@@ -152,9 +152,9 @@
       "url": "https://github.com/juanfont/headscale/releases/tag/v0.26.1"
     },
     "homarr": {
-      "version": "v1.34.0",
-      "gitref": "refs/tags/v1.34.0",
-      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.34.0"
+      "version": "v1.35.0",
+      "gitref": "refs/tags/v1.35.0",
+      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.35.0"
     },
     "home-assistant": {
       "version": "2025.8.3",
@@ -237,9 +237,9 @@
       "url": "https://github.com/prometheus/node_exporter/releases/tag/v1.9.1"
     },
     "pulumi": {
-      "version": "v3.191.0",
-      "gitref": "refs/tags/v3.191.0",
-      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.191.0"
+      "version": "v3.192.0",
+      "gitref": "refs/tags/v3.192.0",
+      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.192.0"
     },
     "qBittorrent": {
       "version": "release-5.1.2",
