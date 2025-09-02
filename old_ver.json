@@ -103,10 +103,10 @@
       "url": "https://pypi.org/project/Django/5.2.5/"
     },
     "docker-cli": {
-      "version": "v28.4.0-rc.1",
-      "gitref": "refs/tags/v28.4.0-rc.1",
-      "revision": "a13a668c0e4cf10ee8b0bdb951c47720c8ceda37",
-      "url": "https://github.com/docker/cli/releases/tag/v28.4.0-rc.1"
+      "version": "v28.4.0-rc.2",
+      "gitref": "refs/tags/v28.4.0-rc.2",
+      "revision": "fefefcb27875684b49ce48cd33be77102083c37f",
+      "url": "https://github.com/docker/cli/releases/tag/v28.4.0-rc.2"
     },
     "fastapi": {
       "version": "0.116.1",
