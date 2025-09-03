@@ -25,9 +25,9 @@
       "url": "https://github.com/Prowlarr/Prowlarr/releases/tag/v2.0.5.5160"
     },
     "Radarr": {
-      "version": "v5.26.2.10099",
-      "gitref": "refs/tags/v5.26.2.10099",
-      "url": "https://github.com/Radarr/Radarr/releases/tag/v5.26.2.10099"
+      "version": "v5.27.5.10198",
+      "gitref": "refs/tags/v5.27.5.10198",
+      "url": "https://github.com/Radarr/Radarr/releases/tag/v5.27.5.10198"
     },
     "Sonarr": {
       "version": "v4.0.15.2941",
