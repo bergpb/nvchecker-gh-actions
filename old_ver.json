@@ -99,14 +99,14 @@
       "url": "https://github.com/docker/compose/releases/tag/v2.39.2"
     },
     "django": {
-      "version": "5.2.5",
-      "url": "https://pypi.org/project/Django/5.2.5/"
+      "version": "5.2.6",
+      "url": "https://pypi.org/project/Django/5.2.6/"
     },
     "docker-cli": {
-      "version": "v28.4.0-rc.2",
-      "gitref": "refs/tags/v28.4.0-rc.2",
-      "revision": "fefefcb27875684b49ce48cd33be77102083c37f",
-      "url": "https://github.com/docker/cli/releases/tag/v28.4.0-rc.2"
+      "version": "v28.4.0",
+      "gitref": "refs/tags/v28.4.0",
+      "revision": "313ac5662df10a1a4c247903dac7441d54b7ddf6",
+      "url": "https://github.com/docker/cli/releases/tag/v28.4.0"
     },
     "fastapi": {
       "version": "0.116.1",
@@ -152,14 +152,14 @@
       "url": "https://github.com/juanfont/headscale/releases/tag/v0.26.1"
     },
     "homarr": {
-      "version": "v1.35.0",
-      "gitref": "refs/tags/v1.35.0",
-      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.35.0"
+      "version": "v1.35.1",
+      "gitref": "refs/tags/v1.35.1",
+      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.35.1"
     },
     "home-assistant": {
-      "version": "2025.8.3",
-      "gitref": "refs/tags/2025.8.3",
-      "url": "https://github.com/home-assistant/core/releases/tag/2025.8.3"
+      "version": "2025.9.0",
+      "gitref": "refs/tags/2025.9.0",
+      "url": "https://github.com/home-assistant/core/releases/tag/2025.9.0"
     },
     "insomnia": {
       "version": "core@11.5.0",
