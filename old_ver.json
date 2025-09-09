@@ -44,9 +44,9 @@
       "url": "https://pypi.org/project/ansible/11.9.0/"
     },
     "argocd": {
-      "version": "v3.0.16",
-      "gitref": "refs/tags/v3.0.16",
-      "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.0.16"
+      "version": "v2.12.13",
+      "gitref": "refs/tags/v2.12.13",
+      "url": "https://github.com/argoproj/argo-cd/releases/tag/v2.12.13"
     },
     "awx": {
       "version": "24.6.1",
@@ -94,9 +94,9 @@
       "url": "https://github.com/containers/buildah/releases/tag/v1.41.0"
     },
     "compose": {
-      "version": "v2.39.2",
-      "gitref": "refs/tags/v2.39.2",
-      "url": "https://github.com/docker/compose/releases/tag/v2.39.2"
+      "version": "v2.39.3",
+      "gitref": "refs/tags/v2.39.3",
+      "url": "https://github.com/docker/compose/releases/tag/v2.39.3"
     },
     "django": {
       "version": "5.2.6",
@@ -277,9 +277,9 @@
       "url": "https://pypi.org/project/tornado/6.5.2/"
     },
     "traefik": {
-      "version": "v3.5.1",
-      "gitref": "refs/tags/v3.5.1",
-      "url": "https://github.com/traefik/traefik/releases/tag/v3.5.1"
+      "version": "v3.5.2",
+      "gitref": "refs/tags/v3.5.2",
+      "url": "https://github.com/traefik/traefik/releases/tag/v3.5.2"
     },
     "uptime-kuma": {
       "version": "1.23.16",
