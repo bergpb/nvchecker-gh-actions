@@ -162,9 +162,9 @@
       "url": "https://github.com/home-assistant/core/releases/tag/2025.9.1"
     },
     "insomnia": {
-      "version": "core@11.5.0",
-      "gitref": "refs/tags/core@11.5.0",
-      "url": "https://github.com/Kong/insomnia/releases/tag/core%4011.5.0"
+      "version": "core@11.6.0",
+      "gitref": "refs/tags/core@11.6.0",
+      "url": "https://github.com/Kong/insomnia/releases/tag/core%4011.6.0"
     },
     "jellyfin": {
       "version": "v10.10.7",
@@ -237,9 +237,9 @@
       "url": "https://github.com/prometheus/node_exporter/releases/tag/v1.9.1"
     },
     "pulumi": {
-      "version": "v3.194.0",
-      "gitref": "refs/tags/v3.194.0",
-      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.194.0"
+      "version": "v3.195.0",
+      "gitref": "refs/tags/v3.195.0",
+      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.195.0"
     },
     "qBittorrent": {
       "version": "release-5.1.2",
