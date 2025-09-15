@@ -7,8 +7,8 @@
       "url": "https://github.com/antares-sql/antares/releases/tag/v0.7.35"
     },
     "Beancount": {
-      "version": "3.1.0",
-      "url": "https://pypi.org/project/beancount/3.1.0/"
+      "version": "3.2.0",
+      "url": "https://pypi.org/project/beancount/3.2.0/"
     },
     "Celery": {
       "version": "5.5.3",
@@ -132,9 +132,9 @@
       "url": "https://github.com/TwiN/gatus/releases/tag/v5.23.2"
     },
     "gotify": {
-      "version": "v2.6.3",
-      "gitref": "refs/tags/v2.6.3",
-      "url": "https://github.com/gotify/server/releases/tag/v2.6.3"
+      "version": "v2.7.2",
+      "gitref": "refs/tags/v2.7.2",
+      "url": "https://github.com/gotify/server/releases/tag/v2.7.2"
     },
     "grafana": {
       "version": "v12.1.0",
@@ -152,14 +152,14 @@
       "url": "https://github.com/juanfont/headscale/releases/tag/v0.26.1"
     },
     "homarr": {
-      "version": "v1.36.1",
-      "gitref": "refs/tags/v1.36.1",
-      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.36.1"
+      "version": "v1.37.0",
+      "gitref": "refs/tags/v1.37.0",
+      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.37.0"
     },
     "home-assistant": {
-      "version": "2025.9.1",
-      "gitref": "refs/tags/2025.9.1",
-      "url": "https://github.com/home-assistant/core/releases/tag/2025.9.1"
+      "version": "2025.9.3",
+      "gitref": "refs/tags/2025.9.3",
+      "url": "https://github.com/home-assistant/core/releases/tag/2025.9.3"
     },
     "insomnia": {
       "version": "core@11.6.0",
@@ -237,9 +237,9 @@
       "url": "https://github.com/prometheus/node_exporter/releases/tag/v1.9.1"
     },
     "pulumi": {
-      "version": "v3.195.0",
-      "gitref": "refs/tags/v3.195.0",
-      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.195.0"
+      "version": "v3.196.0",
+      "gitref": "refs/tags/v3.196.0",
+      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.196.0"
     },
     "qBittorrent": {
       "version": "release-5.1.2",
