@@ -44,9 +44,9 @@
       "url": "https://pypi.org/project/ansible/12.0.0/"
     },
     "argocd": {
-      "version": "v3.1.6",
-      "gitref": "refs/tags/v3.1.6",
-      "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.1.6"
+      "version": "v3.1.7",
+      "gitref": "refs/tags/v3.1.7",
+      "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.1.7"
     },
     "awx": {
       "version": "24.6.1",
