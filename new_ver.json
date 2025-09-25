@@ -137,9 +137,9 @@
       "url": "https://github.com/gotify/server/releases/tag/v2.7.3"
     },
     "grafana": {
-      "version": "v12.1.0",
-      "gitref": "refs/tags/v12.1.0",
-      "url": "https://github.com/grafana/grafana/releases/tag/v12.1.0"
+      "version": "v12.2.0",
+      "gitref": "refs/tags/v12.2.0",
+      "url": "https://github.com/grafana/grafana/releases/tag/v12.2.0"
     },
     "hatch": {
       "version": "hatch-v1.14.2",
@@ -217,9 +217,9 @@
       "url": "https://github.com/containers/podman-compose/releases/tag/v1.5.0"
     },
     "portainer": {
-      "version": "2.33.1",
-      "gitref": "refs/tags/2.33.1",
-      "url": "https://github.com/portainer/portainer/releases/tag/2.33.1"
+      "version": "2.33.2",
+      "gitref": "refs/tags/2.33.2",
+      "url": "https://github.com/portainer/portainer/releases/tag/2.33.2"
     },
     "prometheus": {
       "version": "v3.6.0",
@@ -263,9 +263,9 @@
       "url": "https://github.com/containers/skopeo/releases/tag/v1.20.0"
     },
     "speedtest-tracker": {
-      "version": "v1.6.7",
-      "gitref": "refs/tags/v1.6.7",
-      "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.6.7"
+      "version": "v1.6.8",
+      "gitref": "refs/tags/v1.6.8",
+      "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.6.8"
     },
     "terraform": {
       "version": "v1.13.3",
