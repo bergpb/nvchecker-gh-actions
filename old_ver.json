@@ -103,10 +103,10 @@
       "url": "https://pypi.org/project/Django/5.2.6/"
     },
     "docker-cli": {
-      "version": "v28.4.0",
-      "gitref": "refs/tags/v28.4.0",
-      "revision": "313ac5662df10a1a4c247903dac7441d54b7ddf6",
-      "url": "https://github.com/docker/cli/releases/tag/v28.4.0"
+      "version": "v28.5.0-rc.1",
+      "gitref": "refs/tags/v28.5.0-rc.1",
+      "revision": "957bfd9392cbd606b5a38638cd0cca2229d67e74",
+      "url": "https://github.com/docker/cli/releases/tag/v28.5.0-rc.1"
     },
     "fastapi": {
       "version": "0.117.1",
@@ -277,9 +277,9 @@
       "url": "https://pypi.org/project/tornado/6.5.2/"
     },
     "traefik": {
-      "version": "v3.5.2",
-      "gitref": "refs/tags/v3.5.2",
-      "url": "https://github.com/traefik/traefik/releases/tag/v3.5.2"
+      "version": "v3.5.3",
+      "gitref": "refs/tags/v3.5.3",
+      "url": "https://github.com/traefik/traefik/releases/tag/v3.5.3"
     },
     "uptime-kuma": {
       "version": "1.23.16",
