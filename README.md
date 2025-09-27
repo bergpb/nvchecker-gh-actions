@@ -1,6 +1,6 @@
 # nvchecker-github-actions
 
-![nvchecker](https://github.com/bergpb/nvchecker-github-actions/workflows/nvchecker/badge.svg) ![Build Docker Image](https://github.com/bergpb/nvchecker-github-actions/workflows/Build%20Docker%20Image/badge.svg)
+[![docker-publish](https://github.com/bergpb/nvchecker-gh-actions/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/bergpb/nvchecker-gh-actions/actions/workflows/docker-publish.yml)
 
 This repo is based on [sunlei/nvchecker](https://github.com/sunlei/nvchecker), thanks for it.
 
