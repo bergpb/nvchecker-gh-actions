@@ -127,9 +127,9 @@
       "url": "https://github.com/junegunn/fzf/releases/tag/v0.65.2"
     },
     "gatus": {
-      "version": "v5.25.0",
-      "gitref": "refs/tags/v5.25.0",
-      "url": "https://github.com/TwiN/gatus/releases/tag/v5.25.0"
+      "version": "v5.25.1",
+      "gitref": "refs/tags/v5.25.1",
+      "url": "https://github.com/TwiN/gatus/releases/tag/v5.25.1"
     },
     "gotify": {
       "version": "v2.7.3",
