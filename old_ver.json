@@ -44,9 +44,9 @@
       "url": "https://pypi.org/project/ansible/12.0.0/"
     },
     "argocd": {
-      "version": "v3.1.7",
-      "gitref": "refs/tags/v3.1.7",
-      "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.1.7"
+      "version": "v3.1.8",
+      "gitref": "refs/tags/v3.1.8",
+      "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.1.8"
     },
     "awx": {
       "version": "24.6.1",
@@ -127,9 +127,9 @@
       "url": "https://github.com/junegunn/fzf/releases/tag/v0.65.2"
     },
     "gatus": {
-      "version": "v5.25.1",
-      "gitref": "refs/tags/v5.25.1",
-      "url": "https://github.com/TwiN/gatus/releases/tag/v5.25.1"
+      "version": "v5.25.2",
+      "gitref": "refs/tags/v5.25.2",
+      "url": "https://github.com/TwiN/gatus/releases/tag/v5.25.2"
     },
     "gotify": {
       "version": "v2.7.3",
@@ -207,9 +207,9 @@
       "url": "https://github.com/pi-hole/pi-hole/releases/tag/v6.1.4"
     },
     "podman": {
-      "version": "v5.6.1",
-      "gitref": "refs/tags/v5.6.1",
-      "url": "https://github.com/containers/podman/releases/tag/v5.6.1"
+      "version": "v5.6.2",
+      "gitref": "refs/tags/v5.6.2",
+      "url": "https://github.com/containers/podman/releases/tag/v5.6.2"
     },
     "podman-compose": {
       "version": "v1.5.0",
