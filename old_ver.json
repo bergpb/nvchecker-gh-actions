@@ -99,8 +99,8 @@
       "url": "https://github.com/docker/compose/releases/tag/v2.39.4"
     },
     "django": {
-      "version": "5.2.6",
-      "url": "https://pypi.org/project/Django/5.2.6/"
+      "version": "5.2.7",
+      "url": "https://pypi.org/project/Django/5.2.7/"
     },
     "docker-cli": {
       "version": "v28.5.0-rc.1",
@@ -157,9 +157,9 @@
       "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.39.0"
     },
     "home-assistant": {
-      "version": "2025.9.4",
-      "gitref": "refs/tags/2025.9.4",
-      "url": "https://github.com/home-assistant/core/releases/tag/2025.9.4"
+      "version": "2025.10.0",
+      "gitref": "refs/tags/2025.10.0",
+      "url": "https://github.com/home-assistant/core/releases/tag/2025.10.0"
     },
     "insomnia": {
       "version": "core@11.6.1",
@@ -237,9 +237,9 @@
       "url": "https://github.com/prometheus/node_exporter/releases/tag/v1.9.1"
     },
     "pulumi": {
-      "version": "v3.198.0",
-      "gitref": "refs/tags/v3.198.0",
-      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.198.0"
+      "version": "v3.199.0",
+      "gitref": "refs/tags/v3.199.0",
+      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.199.0"
     },
     "qBittorrent": {
       "version": "release-5.1.2",
