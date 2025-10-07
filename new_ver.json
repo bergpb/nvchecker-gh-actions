@@ -25,9 +25,9 @@
       "url": "https://github.com/Prowlarr/Prowlarr/releases/tag/v2.0.5.5160"
     },
     "Radarr": {
-      "version": "v5.27.5.10198",
-      "gitref": "refs/tags/v5.27.5.10198",
-      "url": "https://github.com/Radarr/Radarr/releases/tag/v5.27.5.10198"
+      "version": "v5.28.0.10274",
+      "gitref": "refs/tags/v5.28.0.10274",
+      "url": "https://github.com/Radarr/Radarr/releases/tag/v5.28.0.10274"
     },
     "Sonarr": {
       "version": "v4.0.15.2941",
@@ -127,9 +127,9 @@
       "url": "https://github.com/junegunn/fzf/releases/tag/v0.65.2"
     },
     "gatus": {
-      "version": "v5.25.2",
-      "gitref": "refs/tags/v5.25.2",
-      "url": "https://github.com/TwiN/gatus/releases/tag/v5.25.2"
+      "version": "v5.26.0",
+      "gitref": "refs/tags/v5.26.0",
+      "url": "https://github.com/TwiN/gatus/releases/tag/v5.26.0"
     },
     "gotify": {
       "version": "v2.7.3",
@@ -174,7 +174,7 @@
     "jellyseerr": {
       "version": "v2.7.3",
       "gitref": "refs/tags/v2.7.3",
-      "url": "https://github.com/fallenbagel/jellyseerr/releases/tag/v2.7.3"
+      "url": "https://github.com/seerr-team/seerr/releases/tag/v2.7.3"
     },
     "jq": {
       "version": "jq-1.8.1",
@@ -182,9 +182,9 @@
       "url": "https://github.com/jqlang/jq/releases/tag/jq-1.8.1"
     },
     "k9s": {
-      "version": "v0.50.13",
-      "gitref": "refs/tags/v0.50.13",
-      "url": "https://github.com/derailed/k9s/releases/tag/v0.50.13"
+      "version": "v0.50.14",
+      "gitref": "refs/tags/v0.50.14",
+      "url": "https://github.com/derailed/k9s/releases/tag/v0.50.14"
     },
     "kombu": {
       "version": "5.5.4",
@@ -237,9 +237,9 @@
       "url": "https://github.com/prometheus/node_exporter/releases/tag/v1.9.1"
     },
     "pulumi": {
-      "version": "v3.200.0",
-      "gitref": "refs/tags/v3.200.0",
-      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.200.0"
+      "version": "v3.201.0",
+      "gitref": "refs/tags/v3.201.0",
+      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.201.0"
     },
     "qBittorrent": {
       "version": "release-5.1.2",
