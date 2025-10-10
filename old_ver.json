@@ -15,9 +15,9 @@
       "url": "https://pypi.org/project/celery/5.5.3/"
     },
     "FlareSolverr": {
-      "version": "v3.4.1",
-      "gitref": "refs/tags/v3.4.1",
-      "url": "https://github.com/FlareSolverr/FlareSolverr/releases/tag/v3.4.1"
+      "version": "v3.4.2",
+      "gitref": "refs/tags/v3.4.2",
+      "url": "https://github.com/FlareSolverr/FlareSolverr/releases/tag/v3.4.2"
     },
     "Prowlarr": {
       "version": "v2.0.5.5160",
@@ -109,8 +109,8 @@
       "url": "https://github.com/docker/cli/releases/tag/v28.5.1"
     },
     "fastapi": {
-      "version": "0.118.2",
-      "url": "https://pypi.org/project/fastapi/0.118.2/"
+      "version": "0.118.3",
+      "url": "https://pypi.org/project/fastapi/0.118.3/"
     },
     "fd": {
       "version": "v10.3.0",
@@ -248,9 +248,9 @@
       "url": "https://github.com/qbittorrent/qBittorrent/releases/tag/release-5.1.2"
     },
     "semaphore": {
-      "version": "v2.16.31",
-      "gitref": "refs/tags/v2.16.31",
-      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.16.31"
+      "version": "v2.16.32",
+      "gitref": "refs/tags/v2.16.32",
+      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.16.32"
     },
     "sentry": {
       "version": "25.9.0",
