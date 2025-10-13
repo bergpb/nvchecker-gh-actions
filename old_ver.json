@@ -109,8 +109,8 @@
       "url": "https://github.com/docker/cli/releases/tag/v28.5.1"
     },
     "fastapi": {
-      "version": "0.118.3",
-      "url": "https://pypi.org/project/fastapi/0.118.3/"
+      "version": "0.119.0",
+      "url": "https://pypi.org/project/fastapi/0.119.0/"
     },
     "fd": {
       "version": "v10.3.0",
@@ -122,9 +122,9 @@
       "url": "https://pypi.org/project/Flask/3.1.2/"
     },
     "fzf": {
-      "version": "v0.65.2",
-      "gitref": "refs/tags/v0.65.2",
-      "url": "https://github.com/junegunn/fzf/releases/tag/v0.65.2"
+      "version": "v0.66.0",
+      "gitref": "refs/tags/v0.66.0",
+      "url": "https://github.com/junegunn/fzf/releases/tag/v0.66.0"
     },
     "gatus": {
       "version": "v5.26.0",
@@ -152,14 +152,14 @@
       "url": "https://github.com/juanfont/headscale/releases/tag/v0.26.1"
     },
     "homarr": {
-      "version": "v1.40.0",
-      "gitref": "refs/tags/v1.40.0",
-      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.40.0"
+      "version": "v1.41.0",
+      "gitref": "refs/tags/v1.41.0",
+      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.41.0"
     },
     "home-assistant": {
-      "version": "2025.10.1",
-      "gitref": "refs/tags/2025.10.1",
-      "url": "https://github.com/home-assistant/core/releases/tag/2025.10.1"
+      "version": "2025.10.2",
+      "gitref": "refs/tags/2025.10.2",
+      "url": "https://github.com/home-assistant/core/releases/tag/2025.10.2"
     },
     "insomnia": {
       "version": "core@11.6.1",
@@ -237,9 +237,9 @@
       "url": "https://github.com/prometheus/node_exporter/releases/tag/v1.9.1"
     },
     "pulumi": {
-      "version": "v3.201.0",
-      "gitref": "refs/tags/v3.201.0",
-      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.201.0"
+      "version": "v3.202.0",
+      "gitref": "refs/tags/v3.202.0",
+      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.202.0"
     },
     "qBittorrent": {
       "version": "release-5.1.2",
