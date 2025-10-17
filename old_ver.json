@@ -142,9 +142,9 @@
       "url": "https://github.com/grafana/grafana/releases/tag/v12.2.0"
     },
     "hatch": {
-      "version": "hatch-v1.15.0",
-      "gitref": "refs/tags/hatch-v1.15.0",
-      "url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.15.0"
+      "version": "hatch-v1.15.1",
+      "gitref": "refs/tags/hatch-v1.15.1",
+      "url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.15.1"
     },
     "headscale": {
       "version": "v0.26.1",
@@ -222,9 +222,9 @@
       "url": "https://github.com/portainer/portainer/releases/tag/2.33.2"
     },
     "prometheus": {
-      "version": "v3.7.0",
-      "gitref": "refs/tags/v3.7.0",
-      "url": "https://github.com/prometheus/prometheus/releases/tag/v3.7.0"
+      "version": "v3.7.1",
+      "gitref": "refs/tags/v3.7.1",
+      "url": "https://github.com/prometheus/prometheus/releases/tag/v3.7.1"
     },
     "prometheus-blackbox_exporter": {
       "version": "v0.27.0",
