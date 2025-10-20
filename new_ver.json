@@ -44,9 +44,9 @@
       "url": "https://pypi.org/project/ansible/12.1.0/"
     },
     "argocd": {
-      "version": "v3.1.8",
-      "gitref": "refs/tags/v3.1.8",
-      "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.1.8"
+      "version": "v3.1.9",
+      "gitref": "refs/tags/v3.1.9",
+      "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.1.9"
     },
     "awx": {
       "version": "24.6.1",
@@ -60,9 +60,9 @@
       "url": "https://github.com/balena-os/balena-engine/releases/tag/v20.10.44"
     },
     "bat": {
-      "version": "v0.25.0",
-      "gitref": "refs/tags/v0.25.0",
-      "url": "https://github.com/sharkdp/bat/releases/tag/v0.25.0"
+      "version": "v0.26.0",
+      "gitref": "refs/tags/v0.26.0",
+      "url": "https://github.com/sharkdp/bat/releases/tag/v0.26.0"
     },
     "bazarr": {
       "version": "v1.5.3",
@@ -94,9 +94,9 @@
       "url": "https://github.com/containers/buildah/releases/tag/v1.41.0"
     },
     "compose": {
-      "version": "v2.40.0",
-      "gitref": "refs/tags/v2.40.0",
-      "url": "https://github.com/docker/compose/releases/tag/v2.40.0"
+      "version": "v2.40.1",
+      "gitref": "refs/tags/v2.40.1",
+      "url": "https://github.com/docker/compose/releases/tag/v2.40.1"
     },
     "django": {
       "version": "5.2.7",
@@ -109,8 +109,8 @@
       "url": "https://github.com/docker/cli/releases/tag/v29.0.0-rc.1"
     },
     "fastapi": {
-      "version": "0.119.0",
-      "url": "https://pypi.org/project/fastapi/0.119.0/"
+      "version": "0.119.1",
+      "url": "https://pypi.org/project/fastapi/0.119.1/"
     },
     "fd": {
       "version": "v10.3.0",
@@ -127,9 +127,9 @@
       "url": "https://github.com/junegunn/fzf/releases/tag/v0.66.0"
     },
     "gatus": {
-      "version": "v5.26.0",
-      "gitref": "refs/tags/v5.26.0",
-      "url": "https://github.com/TwiN/gatus/releases/tag/v5.26.0"
+      "version": "v5.27.0",
+      "gitref": "refs/tags/v5.27.0",
+      "url": "https://github.com/TwiN/gatus/releases/tag/v5.27.0"
     },
     "gotify": {
       "version": "v2.7.3",
@@ -152,14 +152,14 @@
       "url": "https://github.com/juanfont/headscale/releases/tag/v0.26.1"
     },
     "homarr": {
-      "version": "v1.41.0",
-      "gitref": "refs/tags/v1.41.0",
-      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.41.0"
+      "version": "v1.42.1",
+      "gitref": "refs/tags/v1.42.1",
+      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.42.1"
     },
     "home-assistant": {
-      "version": "2025.10.2",
-      "gitref": "refs/tags/2025.10.2",
-      "url": "https://github.com/home-assistant/core/releases/tag/2025.10.2"
+      "version": "2025.10.3",
+      "gitref": "refs/tags/2025.10.3",
+      "url": "https://github.com/home-assistant/core/releases/tag/2025.10.3"
     },
     "insomnia": {
       "version": "core@11.6.1",
@@ -167,9 +167,9 @@
       "url": "https://github.com/Kong/insomnia/releases/tag/core%4011.6.1"
     },
     "jellyfin": {
-      "version": "v10.10.7",
-      "gitref": "refs/tags/v10.10.7",
-      "url": "https://github.com/jellyfin/jellyfin/releases/tag/v10.10.7"
+      "version": "v10.11.0",
+      "gitref": "refs/tags/v10.11.0",
+      "url": "https://github.com/jellyfin/jellyfin/releases/tag/v10.11.0"
     },
     "jellyseerr": {
       "version": "v2.7.3",
@@ -182,9 +182,9 @@
       "url": "https://github.com/jqlang/jq/releases/tag/jq-1.8.1"
     },
     "k9s": {
-      "version": "v0.50.15",
-      "gitref": "refs/tags/v0.50.15",
-      "url": "https://github.com/derailed/k9s/releases/tag/v0.50.15"
+      "version": "v0.50.16",
+      "gitref": "refs/tags/v0.50.16",
+      "url": "https://github.com/derailed/k9s/releases/tag/v0.50.16"
     },
     "kombu": {
       "version": "5.5.4",
