@@ -127,9 +127,9 @@
       "url": "https://github.com/junegunn/fzf/releases/tag/v0.66.0"
     },
     "gatus": {
-      "version": "v5.27.0",
-      "gitref": "refs/tags/v5.27.0",
-      "url": "https://github.com/TwiN/gatus/releases/tag/v5.27.0"
+      "version": "v5.27.1",
+      "gitref": "refs/tags/v5.27.1",
+      "url": "https://github.com/TwiN/gatus/releases/tag/v5.27.1"
     },
     "gotify": {
       "version": "v2.7.3",
@@ -282,9 +282,9 @@
       "url": "https://github.com/traefik/traefik/releases/tag/v3.5.3"
     },
     "uptime-kuma": {
-      "version": "1.23.16",
-      "gitref": "refs/tags/1.23.16",
-      "url": "https://github.com/louislam/uptime-kuma/releases/tag/1.23.16"
+      "version": "2.0.1",
+      "gitref": "refs/tags/2.0.1",
+      "url": "https://github.com/louislam/uptime-kuma/releases/tag/2.0.1"
     },
     "vaultwarden": {
       "version": "1.34.3",
