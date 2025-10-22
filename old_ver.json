@@ -127,9 +127,9 @@
       "url": "https://github.com/junegunn/fzf/releases/tag/v0.66.0"
     },
     "gatus": {
-      "version": "v5.27.1",
-      "gitref": "refs/tags/v5.27.1",
-      "url": "https://github.com/TwiN/gatus/releases/tag/v5.27.1"
+      "version": "v5.27.2",
+      "gitref": "refs/tags/v5.27.2",
+      "url": "https://github.com/TwiN/gatus/releases/tag/v5.27.2"
     },
     "gotify": {
       "version": "v2.7.3",
@@ -162,9 +162,9 @@
       "url": "https://github.com/home-assistant/core/releases/tag/2025.10.3"
     },
     "insomnia": {
-      "version": "core@11.6.1",
-      "gitref": "refs/tags/core@11.6.1",
-      "url": "https://github.com/Kong/insomnia/releases/tag/core%4011.6.1"
+      "version": "core@11.6.2",
+      "gitref": "refs/tags/core@11.6.2",
+      "url": "https://github.com/Kong/insomnia/releases/tag/core%4011.6.2"
     },
     "jellyfin": {
       "version": "v10.11.0",
