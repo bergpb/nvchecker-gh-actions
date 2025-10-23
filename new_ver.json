@@ -89,14 +89,14 @@
       "url": "https://github.com/ClementTsang/bottom/releases/tag/0.11.2"
     },
     "buildah": {
-      "version": "v1.41.0",
-      "gitref": "refs/tags/v1.41.0",
-      "url": "https://github.com/containers/buildah/releases/tag/v1.41.0"
+      "version": "v1.42.0",
+      "gitref": "refs/tags/v1.42.0",
+      "url": "https://github.com/containers/buildah/releases/tag/v1.42.0"
     },
     "compose": {
-      "version": "v2.40.1",
-      "gitref": "refs/tags/v2.40.1",
-      "url": "https://github.com/docker/compose/releases/tag/v2.40.1"
+      "version": "v2.40.2",
+      "gitref": "refs/tags/v2.40.2",
+      "url": "https://github.com/docker/compose/releases/tag/v2.40.2"
     },
     "django": {
       "version": "5.2.7",
@@ -222,9 +222,9 @@
       "url": "https://github.com/portainer/portainer/releases/tag/2.33.2"
     },
     "prometheus": {
-      "version": "v3.7.1",
-      "gitref": "refs/tags/v3.7.1",
-      "url": "https://github.com/prometheus/prometheus/releases/tag/v3.7.1"
+      "version": "v3.7.2",
+      "gitref": "refs/tags/v3.7.2",
+      "url": "https://github.com/prometheus/prometheus/releases/tag/v3.7.2"
     },
     "prometheus-blackbox_exporter": {
       "version": "v0.27.0",
@@ -237,9 +237,9 @@
       "url": "https://github.com/prometheus/node_exporter/releases/tag/v1.9.1"
     },
     "pulumi": {
-      "version": "v3.203.0",
-      "gitref": "refs/tags/v3.203.0",
-      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.203.0"
+      "version": "v3.204.0",
+      "gitref": "refs/tags/v3.204.0",
+      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.204.0"
     },
     "qBittorrent": {
       "version": "release-5.1.2",
@@ -282,9 +282,9 @@
       "url": "https://github.com/traefik/traefik/releases/tag/v3.5.3"
     },
     "uptime-kuma": {
-      "version": "2.0.1",
-      "gitref": "refs/tags/2.0.1",
-      "url": "https://github.com/louislam/uptime-kuma/releases/tag/2.0.1"
+      "version": "2.0.2",
+      "gitref": "refs/tags/2.0.2",
+      "url": "https://github.com/louislam/uptime-kuma/releases/tag/2.0.2"
     },
     "vaultwarden": {
       "version": "1.34.3",
