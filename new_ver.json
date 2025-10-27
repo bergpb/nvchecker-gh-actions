@@ -20,9 +20,9 @@
       "url": "https://github.com/FlareSolverr/FlareSolverr/releases/tag/v3.4.2"
     },
     "Prowlarr": {
-      "version": "v2.0.5.5160",
-      "gitref": "refs/tags/v2.0.5.5160",
-      "url": "https://github.com/Prowlarr/Prowlarr/releases/tag/v2.0.5.5160"
+      "version": "v2.1.5.5216",
+      "gitref": "refs/tags/v2.1.5.5216",
+      "url": "https://github.com/Prowlarr/Prowlarr/releases/tag/v2.1.5.5216"
     },
     "Radarr": {
       "version": "v5.28.0.10274",
@@ -122,14 +122,14 @@
       "url": "https://pypi.org/project/Flask/3.1.2/"
     },
     "fzf": {
-      "version": "v0.66.0",
-      "gitref": "refs/tags/v0.66.0",
-      "url": "https://github.com/junegunn/fzf/releases/tag/v0.66.0"
+      "version": "v0.66.1",
+      "gitref": "refs/tags/v0.66.1",
+      "url": "https://github.com/junegunn/fzf/releases/tag/v0.66.1"
     },
     "gatus": {
-      "version": "v5.28.0",
-      "gitref": "refs/tags/v5.28.0",
-      "url": "https://github.com/TwiN/gatus/releases/tag/v5.28.0"
+      "version": "v5.29.0",
+      "gitref": "refs/tags/v5.29.0",
+      "url": "https://github.com/TwiN/gatus/releases/tag/v5.29.0"
     },
     "gotify": {
       "version": "v2.7.3",
@@ -147,19 +147,19 @@
       "url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.15.1"
     },
     "headscale": {
-      "version": "v0.26.1",
-      "gitref": "refs/tags/v0.26.1",
-      "url": "https://github.com/juanfont/headscale/releases/tag/v0.26.1"
+      "version": "v0.27.0",
+      "gitref": "refs/tags/v0.27.0",
+      "url": "https://github.com/juanfont/headscale/releases/tag/v0.27.0"
     },
     "homarr": {
-      "version": "v1.42.1",
-      "gitref": "refs/tags/v1.42.1",
-      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.42.1"
+      "version": "v1.43.0",
+      "gitref": "refs/tags/v1.43.0",
+      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.43.0"
     },
     "home-assistant": {
-      "version": "2025.10.3",
-      "gitref": "refs/tags/2025.10.3",
-      "url": "https://github.com/home-assistant/core/releases/tag/2025.10.3"
+      "version": "2025.10.4",
+      "gitref": "refs/tags/2025.10.4",
+      "url": "https://github.com/home-assistant/core/releases/tag/2025.10.4"
     },
     "insomnia": {
       "version": "core@11.6.2",
@@ -167,9 +167,9 @@
       "url": "https://github.com/Kong/insomnia/releases/tag/core%4011.6.2"
     },
     "jellyfin": {
-      "version": "v10.11.0",
-      "gitref": "refs/tags/v10.11.0",
-      "url": "https://github.com/jellyfin/jellyfin/releases/tag/v10.11.0"
+      "version": "v10.11.1",
+      "gitref": "refs/tags/v10.11.1",
+      "url": "https://github.com/jellyfin/jellyfin/releases/tag/v10.11.1"
     },
     "jellyseerr": {
       "version": "v2.7.3",
@@ -202,9 +202,9 @@
       "url": "https://github.com/lilydjwg/nvchecker/releases/tag/v2.19"
     },
     "pi-hole": {
-      "version": "v6.1.4",
-      "gitref": "refs/tags/v6.1.4",
-      "url": "https://github.com/pi-hole/pi-hole/releases/tag/v6.1.4"
+      "version": "v6.2.1",
+      "gitref": "refs/tags/v6.2.1",
+      "url": "https://github.com/pi-hole/pi-hole/releases/tag/v6.2.1"
     },
     "podman": {
       "version": "v5.6.2",
@@ -232,9 +232,9 @@
       "url": "https://github.com/prometheus/blackbox_exporter/releases/tag/v0.27.0"
     },
     "prometheus-node_exporter": {
-      "version": "v1.10.0",
-      "gitref": "refs/tags/v1.10.0",
-      "url": "https://github.com/prometheus/node_exporter/releases/tag/v1.10.0"
+      "version": "v1.10.2",
+      "gitref": "refs/tags/v1.10.2",
+      "url": "https://github.com/prometheus/node_exporter/releases/tag/v1.10.2"
     },
     "pulumi": {
       "version": "v3.204.0",
@@ -263,9 +263,9 @@
       "url": "https://github.com/containers/skopeo/releases/tag/v1.20.0"
     },
     "speedtest-tracker": {
-      "version": "v1.6.8",
-      "gitref": "refs/tags/v1.6.8",
-      "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.6.8"
+      "version": "v1.6.9",
+      "gitref": "refs/tags/v1.6.9",
+      "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.6.9"
     },
     "terraform": {
       "version": "v1.13.4",
