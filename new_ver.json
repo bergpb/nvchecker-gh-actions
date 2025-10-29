@@ -202,9 +202,9 @@
       "url": "https://github.com/lilydjwg/nvchecker/releases/tag/v2.19"
     },
     "pi-hole": {
-      "version": "v6.2.1",
-      "gitref": "refs/tags/v6.2.1",
-      "url": "https://github.com/pi-hole/pi-hole/releases/tag/v6.2.1"
+      "version": "v6.2.2",
+      "gitref": "refs/tags/v6.2.2",
+      "url": "https://github.com/pi-hole/pi-hole/releases/tag/v6.2.2"
     },
     "podman": {
       "version": "v5.6.2",
@@ -237,9 +237,9 @@
       "url": "https://github.com/prometheus/node_exporter/releases/tag/v1.10.2"
     },
     "pulumi": {
-      "version": "v3.204.0",
-      "gitref": "refs/tags/v3.204.0",
-      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.204.0"
+      "version": "v3.205.0",
+      "gitref": "refs/tags/v3.205.0",
+      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.205.0"
     },
     "qBittorrent": {
       "version": "release-5.1.2",
@@ -248,9 +248,9 @@
       "url": "https://github.com/qbittorrent/qBittorrent/releases/tag/release-5.1.2"
     },
     "semaphore": {
-      "version": "v2.16.32",
-      "gitref": "refs/tags/v2.16.32",
-      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.16.32"
+      "version": "v2.16.35",
+      "gitref": "refs/tags/v2.16.35",
+      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.16.35"
     },
     "sentry": {
       "version": "25.10.0",
