@@ -94,9 +94,9 @@
       "url": "https://github.com/containers/buildah/releases/tag/v1.42.0"
     },
     "compose": {
-      "version": "v2.40.2",
-      "gitref": "refs/tags/v2.40.2",
-      "url": "https://github.com/docker/compose/releases/tag/v2.40.2"
+      "version": "v2.40.3",
+      "gitref": "refs/tags/v2.40.3",
+      "url": "https://github.com/docker/compose/releases/tag/v2.40.3"
     },
     "django": {
       "version": "5.2.7",
@@ -109,8 +109,8 @@
       "url": "https://github.com/docker/cli/releases/tag/v29.0.0-rc.1"
     },
     "fastapi": {
-      "version": "0.120.1",
-      "url": "https://pypi.org/project/fastapi/0.120.1/"
+      "version": "0.120.2",
+      "url": "https://pypi.org/project/fastapi/0.120.2/"
     },
     "fd": {
       "version": "v10.3.0",
@@ -137,9 +137,9 @@
       "url": "https://github.com/gotify/server/releases/tag/v2.7.3"
     },
     "grafana": {
-      "version": "v12.2.0",
-      "gitref": "refs/tags/v12.2.0",
-      "url": "https://github.com/grafana/grafana/releases/tag/v12.2.0"
+      "version": "v12.2.1",
+      "gitref": "refs/tags/v12.2.1",
+      "url": "https://github.com/grafana/grafana/releases/tag/v12.2.1"
     },
     "hatch": {
       "version": "hatch-v1.15.1",
@@ -217,14 +217,14 @@
       "url": "https://github.com/containers/podman-compose/releases/tag/v1.5.0"
     },
     "portainer": {
-      "version": "2.33.2",
-      "gitref": "refs/tags/2.33.2",
-      "url": "https://github.com/portainer/portainer/releases/tag/2.33.2"
+      "version": "2.33.3",
+      "gitref": "refs/tags/2.33.3",
+      "url": "https://github.com/portainer/portainer/releases/tag/2.33.3"
     },
     "prometheus": {
-      "version": "v3.7.2",
-      "gitref": "refs/tags/v3.7.2",
-      "url": "https://github.com/prometheus/prometheus/releases/tag/v3.7.2"
+      "version": "v3.7.3",
+      "gitref": "refs/tags/v3.7.3",
+      "url": "https://github.com/prometheus/prometheus/releases/tag/v3.7.3"
     },
     "prometheus-blackbox_exporter": {
       "version": "v0.27.0",
@@ -248,9 +248,9 @@
       "url": "https://github.com/qbittorrent/qBittorrent/releases/tag/release-5.1.2"
     },
     "semaphore": {
-      "version": "v2.16.35",
-      "gitref": "refs/tags/v2.16.35",
-      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.16.35"
+      "version": "v2.16.37",
+      "gitref": "refs/tags/v2.16.37",
+      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.16.37"
     },
     "sentry": {
       "version": "25.10.0",
