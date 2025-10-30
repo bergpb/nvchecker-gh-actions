@@ -279,6 +279,11 @@ source = "github"
 github = "homarr-labs/homarr"
 use_latest_release = true
 
+[beszel]
+source = "github"
+github = "henrygd/beszel"
+use_latest_release = true
+
 # --------------------------------------------------
 # Python packages
 
