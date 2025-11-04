@@ -167,9 +167,9 @@
       "url": "https://github.com/home-assistant/core/releases/tag/2025.10.4"
     },
     "insomnia": {
-      "version": "core@11.6.2",
-      "gitref": "refs/tags/core@11.6.2",
-      "url": "https://github.com/Kong/insomnia/releases/tag/core%4011.6.2"
+      "version": "core@12.0.0",
+      "gitref": "refs/tags/core@12.0.0",
+      "url": "https://github.com/Kong/insomnia/releases/tag/core%4012.0.0"
     },
     "jellyfin": {
       "version": "v10.11.2",
