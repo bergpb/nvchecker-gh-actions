@@ -15,9 +15,9 @@
       "url": "https://pypi.org/project/celery/5.5.3/"
     },
     "FlareSolverr": {
-      "version": "v3.4.3",
-      "gitref": "refs/tags/v3.4.3",
-      "url": "https://github.com/FlareSolverr/FlareSolverr/releases/tag/v3.4.3"
+      "version": "v3.4.4",
+      "gitref": "refs/tags/v3.4.4",
+      "url": "https://github.com/FlareSolverr/FlareSolverr/releases/tag/v3.4.4"
     },
     "Prowlarr": {
       "version": "v2.1.5.5216",
@@ -30,9 +30,9 @@
       "url": "https://github.com/Radarr/Radarr/releases/tag/v5.28.0.10274"
     },
     "Sonarr": {
-      "version": "v4.0.15.2941",
-      "gitref": "refs/tags/v4.0.15.2941",
-      "url": "https://github.com/Sonarr/Sonarr/releases/tag/v4.0.15.2941"
+      "version": "v4.0.16.2944",
+      "gitref": "refs/tags/v4.0.16.2944",
+      "url": "https://github.com/Sonarr/Sonarr/releases/tag/v4.0.16.2944"
     },
     "YOURLS": {
       "version": "1.10.2",
@@ -44,9 +44,9 @@
       "url": "https://pypi.org/project/ansible/12.1.0/"
     },
     "argocd": {
-      "version": "v3.1.9",
-      "gitref": "refs/tags/v3.1.9",
-      "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.1.9"
+      "version": "v3.2.0",
+      "gitref": "refs/tags/v3.2.0",
+      "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.2.0"
     },
     "awx": {
       "version": "24.6.1",
@@ -70,9 +70,9 @@
       "url": "https://github.com/morpheus65535/bazarr/releases/tag/v1.5.3"
     },
     "beszel": {
-      "version": "v0.15.3",
-      "gitref": "refs/tags/v0.15.3",
-      "url": "https://github.com/henrygd/beszel/releases/tag/v0.15.3"
+      "version": "v0.15.4",
+      "gitref": "refs/tags/v0.15.4",
+      "url": "https://github.com/henrygd/beszel/releases/tag/v0.15.4"
     },
     "bitwarden-desktop": {
       "version": "v2022.5.1",
@@ -268,14 +268,14 @@
       "url": "https://github.com/containers/skopeo/releases/tag/v1.20.0"
     },
     "speedtest-tracker": {
-      "version": "v1.6.11",
-      "gitref": "refs/tags/v1.6.11",
-      "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.6.11"
+      "version": "v1.7.0",
+      "gitref": "refs/tags/v1.7.0",
+      "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.7.0"
     },
     "terraform": {
-      "version": "v1.13.4",
-      "gitref": "refs/tags/v1.13.4",
-      "url": "https://github.com/hashicorp/terraform/releases/tag/v1.13.4"
+      "version": "v1.13.5",
+      "gitref": "refs/tags/v1.13.5",
+      "url": "https://github.com/hashicorp/terraform/releases/tag/v1.13.5"
     },
     "tornado": {
       "version": "6.5.2",
