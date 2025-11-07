@@ -89,9 +89,9 @@
       "url": "https://pypi.org/project/borgbackup/1.4.2/"
     },
     "bottom": {
-      "version": "0.11.2",
-      "gitref": "refs/tags/0.11.2",
-      "url": "https://github.com/ClementTsang/bottom/releases/tag/0.11.2"
+      "version": "0.11.3",
+      "gitref": "refs/tags/0.11.3",
+      "url": "https://github.com/ClementTsang/bottom/releases/tag/0.11.3"
     },
     "buildah": {
       "version": "v1.42.0",
@@ -108,10 +108,10 @@
       "url": "https://pypi.org/project/Django/5.2.8/"
     },
     "docker-cli": {
-      "version": "v29.0.0-rc.2",
-      "gitref": "refs/tags/v29.0.0-rc.2",
-      "revision": "fd514d27ff2e243605b550a0898552e7f518d166",
-      "url": "https://github.com/docker/cli/releases/tag/v29.0.0-rc.2"
+      "version": "v29.0.0-rc.3",
+      "gitref": "refs/tags/v29.0.0-rc.3",
+      "revision": "34b26d22cef963a19fa90d18e316b66b0294f846",
+      "url": "https://github.com/docker/cli/releases/tag/v29.0.0-rc.3"
     },
     "fastapi": {
       "version": "0.121.0",
