@@ -15,9 +15,9 @@
       "url": "https://pypi.org/project/celery/5.5.3/"
     },
     "FlareSolverr": {
-      "version": "v3.4.4",
-      "gitref": "refs/tags/v3.4.4",
-      "url": "https://github.com/FlareSolverr/FlareSolverr/releases/tag/v3.4.4"
+      "version": "v3.4.5",
+      "gitref": "refs/tags/v3.4.5",
+      "url": "https://github.com/FlareSolverr/FlareSolverr/releases/tag/v3.4.5"
     },
     "Prowlarr": {
       "version": "v2.1.5.5216",
@@ -108,10 +108,10 @@
       "url": "https://pypi.org/project/Django/5.2.8/"
     },
     "docker-cli": {
-      "version": "v29.0.0-rc.3",
-      "gitref": "refs/tags/v29.0.0-rc.3",
-      "revision": "34b26d22cef963a19fa90d18e316b66b0294f846",
-      "url": "https://github.com/docker/cli/releases/tag/v29.0.0-rc.3"
+      "version": "v29.0.0",
+      "gitref": "refs/tags/v29.0.0",
+      "revision": "9b737bdc3dec80232a6ac51737365f182d1eeadc",
+      "url": "https://github.com/docker/cli/releases/tag/v29.0.0"
     },
     "fastapi": {
       "version": "0.121.1",
@@ -247,10 +247,10 @@
       "url": "https://github.com/pulumi/pulumi/releases/tag/v3.206.0"
     },
     "qBittorrent": {
-      "version": "release-5.1.2",
-      "gitref": "refs/tags/release-5.1.2",
-      "revision": "ee65e00351dece0075381ed8f0c91953a93f158f",
-      "url": "https://github.com/qbittorrent/qBittorrent/releases/tag/release-5.1.2"
+      "version": "release-5.1.3",
+      "gitref": "refs/tags/release-5.1.3",
+      "revision": "fc8282c511b6104027ad6d6f009331b6b73b4943",
+      "url": "https://github.com/qbittorrent/qBittorrent/releases/tag/release-5.1.3"
     },
     "semaphore": {
       "version": "v2.16.45",
@@ -268,9 +268,9 @@
       "url": "https://github.com/containers/skopeo/releases/tag/v1.20.0"
     },
     "speedtest-tracker": {
-      "version": "v1.7.1",
-      "gitref": "refs/tags/v1.7.1",
-      "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.7.1"
+      "version": "v1.7.2",
+      "gitref": "refs/tags/v1.7.2",
+      "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.7.2"
     },
     "terraform": {
       "version": "v1.13.5",
