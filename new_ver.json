@@ -94,9 +94,9 @@
       "url": "https://github.com/ClementTsang/bottom/releases/tag/0.11.3"
     },
     "buildah": {
-      "version": "v1.42.0",
-      "gitref": "refs/tags/v1.42.0",
-      "url": "https://github.com/containers/buildah/releases/tag/v1.42.0"
+      "version": "v1.42.1",
+      "gitref": "refs/tags/v1.42.1",
+      "url": "https://github.com/containers/buildah/releases/tag/v1.42.1"
     },
     "compose": {
       "version": "v2.40.3",
@@ -152,9 +152,9 @@
       "url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.15.1"
     },
     "headscale": {
-      "version": "v0.27.0",
-      "gitref": "refs/tags/v0.27.0",
-      "url": "https://github.com/juanfont/headscale/releases/tag/v0.27.0"
+      "version": "v0.27.1",
+      "gitref": "refs/tags/v0.27.1",
+      "url": "https://github.com/juanfont/headscale/releases/tag/v0.27.1"
     },
     "homarr": {
       "version": "v1.43.2",
@@ -212,9 +212,9 @@
       "url": "https://github.com/pi-hole/pi-hole/releases/tag/v6.2.2"
     },
     "podman": {
-      "version": "v5.6.2",
-      "gitref": "refs/tags/v5.6.2",
-      "url": "https://github.com/containers/podman/releases/tag/v5.6.2"
+      "version": "v5.7.0",
+      "gitref": "refs/tags/v5.7.0",
+      "url": "https://github.com/containers/podman/releases/tag/v5.7.0"
     },
     "podman-compose": {
       "version": "v1.5.0",
@@ -268,9 +268,9 @@
       "url": "https://github.com/containers/skopeo/releases/tag/v1.20.0"
     },
     "speedtest-tracker": {
-      "version": "v1.7.2",
-      "gitref": "refs/tags/v1.7.2",
-      "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.7.2"
+      "version": "v1.7.3",
+      "gitref": "refs/tags/v1.7.3",
+      "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.7.3"
     },
     "terraform": {
       "version": "v1.13.5",
