@@ -70,9 +70,9 @@
       "url": "https://github.com/morpheus65535/bazarr/releases/tag/v1.5.3"
     },
     "beszel": {
-      "version": "v0.15.4",
-      "gitref": "refs/tags/v0.15.4",
-      "url": "https://github.com/henrygd/beszel/releases/tag/v0.15.4"
+      "version": "v0.16.0",
+      "gitref": "refs/tags/v0.16.0",
+      "url": "https://github.com/henrygd/beszel/releases/tag/v0.16.0"
     },
     "bitwarden-desktop": {
       "version": "v2022.5.1",
@@ -242,9 +242,9 @@
       "url": "https://github.com/prometheus/node_exporter/releases/tag/v1.10.2"
     },
     "pulumi": {
-      "version": "v3.206.0",
-      "gitref": "refs/tags/v3.206.0",
-      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.206.0"
+      "version": "v3.207.0",
+      "gitref": "refs/tags/v3.207.0",
+      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.207.0"
     },
     "qBittorrent": {
       "version": "release-5.1.3",
