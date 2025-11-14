@@ -114,8 +114,8 @@
       "url": "https://github.com/docker/cli/releases/tag/v29.0.0"
     },
     "fastapi": {
-      "version": "0.121.1",
-      "url": "https://pypi.org/project/fastapi/0.121.1/"
+      "version": "0.121.2",
+      "url": "https://pypi.org/project/fastapi/0.121.2/"
     },
     "fd": {
       "version": "v10.3.0",
@@ -268,9 +268,9 @@
       "url": "https://github.com/containers/skopeo/releases/tag/v1.20.0"
     },
     "speedtest-tracker": {
-      "version": "v1.7.3",
-      "gitref": "refs/tags/v1.7.3",
-      "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.7.3"
+      "version": "v1.7.4",
+      "gitref": "refs/tags/v1.7.4",
+      "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.7.4"
     },
     "terraform": {
       "version": "v1.13.5",
@@ -282,9 +282,9 @@
       "url": "https://pypi.org/project/tornado/6.5.2/"
     },
     "traefik": {
-      "version": "v3.6.0",
-      "gitref": "refs/tags/v3.6.0",
-      "url": "https://github.com/traefik/traefik/releases/tag/v3.6.0"
+      "version": "v3.6.1",
+      "gitref": "refs/tags/v3.6.1",
+      "url": "https://github.com/traefik/traefik/releases/tag/v3.6.1"
     },
     "uptime-kuma": {
       "version": "2.0.2",
