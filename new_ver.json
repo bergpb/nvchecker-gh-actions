@@ -20,14 +20,14 @@
       "url": "https://github.com/FlareSolverr/FlareSolverr/releases/tag/v3.4.5"
     },
     "Prowlarr": {
-      "version": "v2.1.5.5216",
-      "gitref": "refs/tags/v2.1.5.5216",
-      "url": "https://github.com/Prowlarr/Prowlarr/releases/tag/v2.1.5.5216"
+      "version": "v2.3.0.5236",
+      "gitref": "refs/tags/v2.3.0.5236",
+      "url": "https://github.com/Prowlarr/Prowlarr/releases/tag/v2.3.0.5236"
     },
     "Radarr": {
-      "version": "v5.28.0.10274",
-      "gitref": "refs/tags/v5.28.0.10274",
-      "url": "https://github.com/Radarr/Radarr/releases/tag/v5.28.0.10274"
+      "version": "v6.0.4.10291",
+      "gitref": "refs/tags/v6.0.4.10291",
+      "url": "https://github.com/Radarr/Radarr/releases/tag/v6.0.4.10291"
     },
     "Sonarr": {
       "version": "v4.0.16.2944",
@@ -70,9 +70,9 @@
       "url": "https://github.com/morpheus65535/bazarr/releases/tag/v1.5.3"
     },
     "beszel": {
-      "version": "v0.16.0",
-      "gitref": "refs/tags/v0.16.0",
-      "url": "https://github.com/henrygd/beszel/releases/tag/v0.16.0"
+      "version": "v0.16.1",
+      "gitref": "refs/tags/v0.16.1",
+      "url": "https://github.com/henrygd/beszel/releases/tag/v0.16.1"
     },
     "bitwarden-desktop": {
       "version": "v2022.5.1",
@@ -89,9 +89,9 @@
       "url": "https://pypi.org/project/borgbackup/1.4.2/"
     },
     "bottom": {
-      "version": "0.11.3",
-      "gitref": "refs/tags/0.11.3",
-      "url": "https://github.com/ClementTsang/bottom/releases/tag/0.11.3"
+      "version": "0.11.4",
+      "gitref": "refs/tags/0.11.4",
+      "url": "https://github.com/ClementTsang/bottom/releases/tag/0.11.4"
     },
     "buildah": {
       "version": "v1.42.1",
@@ -108,10 +108,10 @@
       "url": "https://pypi.org/project/Django/5.2.8/"
     },
     "docker-cli": {
-      "version": "v29.0.0",
-      "gitref": "refs/tags/v29.0.0",
-      "revision": "9b737bdc3dec80232a6ac51737365f182d1eeadc",
-      "url": "https://github.com/docker/cli/releases/tag/v29.0.0"
+      "version": "v29.0.1",
+      "gitref": "refs/tags/v29.0.1",
+      "revision": "6922d6ad28873fc76b11b4078fe83936c24e4319",
+      "url": "https://github.com/docker/cli/releases/tag/v29.0.1"
     },
     "fastapi": {
       "version": "0.121.2",
@@ -127,14 +127,14 @@
       "url": "https://pypi.org/project/Flask/3.1.2/"
     },
     "fzf": {
-      "version": "v0.66.1",
-      "gitref": "refs/tags/v0.66.1",
-      "url": "https://github.com/junegunn/fzf/releases/tag/v0.66.1"
+      "version": "v0.67.0",
+      "gitref": "refs/tags/v0.67.0",
+      "url": "https://github.com/junegunn/fzf/releases/tag/v0.67.0"
     },
     "gatus": {
-      "version": "v5.31.0",
-      "gitref": "refs/tags/v5.31.0",
-      "url": "https://github.com/TwiN/gatus/releases/tag/v5.31.0"
+      "version": "v5.32.0",
+      "gitref": "refs/tags/v5.32.0",
+      "url": "https://github.com/TwiN/gatus/releases/tag/v5.32.0"
     },
     "gotify": {
       "version": "v2.7.3",
@@ -157,14 +157,14 @@
       "url": "https://github.com/juanfont/headscale/releases/tag/v0.27.1"
     },
     "homarr": {
-      "version": "v1.43.2",
-      "gitref": "refs/tags/v1.43.2",
-      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.43.2"
+      "version": "v1.43.3",
+      "gitref": "refs/tags/v1.43.3",
+      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.43.3"
     },
     "home-assistant": {
-      "version": "2025.11.1",
-      "gitref": "refs/tags/2025.11.1",
-      "url": "https://github.com/home-assistant/core/releases/tag/2025.11.1"
+      "version": "2025.11.2",
+      "gitref": "refs/tags/2025.11.2",
+      "url": "https://github.com/home-assistant/core/releases/tag/2025.11.2"
     },
     "insomnia": {
       "version": "core@12.0.0",
@@ -172,9 +172,9 @@
       "url": "https://github.com/Kong/insomnia/releases/tag/core%4012.0.0"
     },
     "jellyfin": {
-      "version": "v10.11.2",
-      "gitref": "refs/tags/v10.11.2",
-      "url": "https://github.com/jellyfin/jellyfin/releases/tag/v10.11.2"
+      "version": "v10.11.3",
+      "gitref": "refs/tags/v10.11.3",
+      "url": "https://github.com/jellyfin/jellyfin/releases/tag/v10.11.3"
     },
     "jellyseerr": {
       "version": "v2.7.3",
