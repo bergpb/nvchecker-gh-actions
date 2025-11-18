@@ -108,10 +108,10 @@
       "url": "https://pypi.org/project/Django/5.2.8/"
     },
     "docker-cli": {
-      "version": "v29.0.1",
-      "gitref": "refs/tags/v29.0.1",
-      "revision": "6922d6ad28873fc76b11b4078fe83936c24e4319",
-      "url": "https://github.com/docker/cli/releases/tag/v29.0.1"
+      "version": "v29.1.0-rc.1",
+      "gitref": "refs/tags/v29.1.0-rc.1",
+      "revision": "119619ca543f817722a7acc02bd6a3a5a3d01aea",
+      "url": "https://github.com/docker/cli/releases/tag/v29.1.0-rc.1"
     },
     "fastapi": {
       "version": "0.121.2",
@@ -268,9 +268,9 @@
       "url": "https://github.com/containers/skopeo/releases/tag/v1.20.0"
     },
     "speedtest-tracker": {
-      "version": "v1.7.4",
-      "gitref": "refs/tags/v1.7.4",
-      "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.7.4"
+      "version": "v1.8.0",
+      "gitref": "refs/tags/v1.8.0",
+      "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.8.0"
     },
     "terraform": {
       "version": "v1.13.5",
