@@ -147,9 +147,9 @@
       "url": "https://github.com/grafana/grafana/releases/tag/v12.3.0"
     },
     "hatch": {
-      "version": "hatch-v1.15.1",
-      "gitref": "refs/tags/hatch-v1.15.1",
-      "url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.15.1"
+      "version": "hatch-v1.16.0",
+      "gitref": "refs/tags/hatch-v1.16.0",
+      "url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.16.0"
     },
     "headscale": {
       "version": "v0.27.1",
@@ -222,9 +222,9 @@
       "url": "https://github.com/containers/podman-compose/releases/tag/v1.5.0"
     },
     "portainer": {
-      "version": "2.33.4",
-      "gitref": "refs/tags/2.33.4",
-      "url": "https://github.com/portainer/portainer/releases/tag/2.33.4"
+      "version": "2.33.5",
+      "gitref": "refs/tags/2.33.5",
+      "url": "https://github.com/portainer/portainer/releases/tag/2.33.5"
     },
     "prometheus": {
       "version": "v3.7.3",
@@ -242,9 +242,9 @@
       "url": "https://github.com/prometheus/node_exporter/releases/tag/v1.10.2"
     },
     "pulumi": {
-      "version": "v3.208.0",
-      "gitref": "refs/tags/v3.208.0",
-      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.208.0"
+      "version": "v3.209.0",
+      "gitref": "refs/tags/v3.209.0",
+      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.209.0"
     },
     "qBittorrent": {
       "version": "release-5.1.4",
