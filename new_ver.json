@@ -108,10 +108,10 @@
       "url": "https://pypi.org/project/Django/5.2.8/"
     },
     "docker-cli": {
-      "version": "v29.1.0-rc.1",
-      "gitref": "refs/tags/v29.1.0-rc.1",
-      "revision": "119619ca543f817722a7acc02bd6a3a5a3d01aea",
-      "url": "https://github.com/docker/cli/releases/tag/v29.1.0-rc.1"
+      "version": "v29.1.0",
+      "gitref": "refs/tags/v29.1.0",
+      "revision": "5fe5d1243946929b6a6aaca019019102df69d4d6",
+      "url": "https://github.com/docker/cli/releases/tag/v29.1.0"
     },
     "fastapi": {
       "version": "0.122.0",
@@ -147,9 +147,9 @@
       "url": "https://github.com/grafana/grafana/releases/tag/v12.3.0"
     },
     "hatch": {
-      "version": "hatch-v1.16.0",
-      "gitref": "refs/tags/hatch-v1.16.0",
-      "url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.16.0"
+      "version": "hatch-v1.16.1",
+      "gitref": "refs/tags/hatch-v1.16.1",
+      "url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.16.1"
     },
     "headscale": {
       "version": "v0.27.1",
@@ -207,9 +207,9 @@
       "url": "https://github.com/lilydjwg/nvchecker/releases/tag/v2.19"
     },
     "pi-hole": {
-      "version": "v6.2.2",
-      "gitref": "refs/tags/v6.2.2",
-      "url": "https://github.com/pi-hole/pi-hole/releases/tag/v6.2.2"
+      "version": "v6.3",
+      "gitref": "refs/tags/v6.3",
+      "url": "https://github.com/pi-hole/pi-hole/releases/tag/v6.3"
     },
     "podman": {
       "version": "v5.7.0",
@@ -268,9 +268,9 @@
       "url": "https://github.com/containers/skopeo/releases/tag/v1.20.0"
     },
     "speedtest-tracker": {
-      "version": "v1.9.0",
-      "gitref": "refs/tags/v1.9.0",
-      "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.9.0"
+      "version": "v1.10.1",
+      "gitref": "refs/tags/v1.10.1",
+      "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.10.1"
     },
     "terraform": {
       "version": "v1.14.0",
