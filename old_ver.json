@@ -60,9 +60,9 @@
       "url": "https://github.com/balena-os/balena-engine/releases/tag/v20.10.44"
     },
     "bat": {
-      "version": "v0.26.0",
-      "gitref": "refs/tags/v0.26.0",
-      "url": "https://github.com/sharkdp/bat/releases/tag/v0.26.0"
+      "version": "v0.26.1",
+      "gitref": "refs/tags/v0.26.1",
+      "url": "https://github.com/sharkdp/bat/releases/tag/v0.26.1"
     },
     "bazarr": {
       "version": "v1.5.3",
@@ -70,9 +70,9 @@
       "url": "https://github.com/morpheus65535/bazarr/releases/tag/v1.5.3"
     },
     "beszel": {
-      "version": "v0.16.1",
-      "gitref": "refs/tags/v0.16.1",
-      "url": "https://github.com/henrygd/beszel/releases/tag/v0.16.1"
+      "version": "v0.17.0",
+      "gitref": "refs/tags/v0.17.0",
+      "url": "https://github.com/henrygd/beszel/releases/tag/v0.17.0"
     },
     "bitwarden-desktop": {
       "version": "v2022.5.1",
@@ -94,9 +94,9 @@
       "url": "https://github.com/ClementTsang/bottom/releases/tag/0.11.4"
     },
     "buildah": {
-      "version": "v1.42.1",
-      "gitref": "refs/tags/v1.42.1",
-      "url": "https://github.com/containers/buildah/releases/tag/v1.42.1"
+      "version": "v1.42.2",
+      "gitref": "refs/tags/v1.42.2",
+      "url": "https://github.com/containers/buildah/releases/tag/v1.42.2"
     },
     "compose": {
       "version": "v5.0.0",
@@ -104,18 +104,18 @@
       "url": "https://github.com/docker/compose/releases/tag/v5.0.0"
     },
     "django": {
-      "version": "5.2.8",
-      "url": "https://pypi.org/project/Django/5.2.8/"
+      "version": "5.2.9",
+      "url": "https://pypi.org/project/Django/5.2.9/"
     },
     "docker-cli": {
-      "version": "v29.1.1",
-      "gitref": "refs/tags/v29.1.1",
-      "revision": "20f5f16934e9d54a73279c915a9ced777c3f45b8",
-      "url": "https://github.com/docker/cli/releases/tag/v29.1.1"
+      "version": "v29.1.2",
+      "gitref": "refs/tags/v29.1.2",
+      "revision": "c469e80aabef851d118ac7e170fe930ee1ff1631",
+      "url": "https://github.com/docker/cli/releases/tag/v29.1.2"
     },
     "fastapi": {
-      "version": "0.123.4",
-      "url": "https://pypi.org/project/fastapi/0.123.4/"
+      "version": "0.123.5",
+      "url": "https://pypi.org/project/fastapi/0.123.5/"
     },
     "fd": {
       "version": "v10.3.0",
@@ -273,9 +273,9 @@
       "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.10.3"
     },
     "terraform": {
-      "version": "v1.14.0",
-      "gitref": "refs/tags/v1.14.0",
-      "url": "https://github.com/hashicorp/terraform/releases/tag/v1.14.0"
+      "version": "v1.14.1",
+      "gitref": "refs/tags/v1.14.1",
+      "url": "https://github.com/hashicorp/terraform/releases/tag/v1.14.1"
     },
     "tornado": {
       "version": "6.5.2",
