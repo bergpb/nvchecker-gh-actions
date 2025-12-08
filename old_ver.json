@@ -114,8 +114,8 @@
       "url": "https://github.com/docker/cli/releases/tag/v29.1.2"
     },
     "fastapi": {
-      "version": "0.123.9",
-      "url": "https://pypi.org/project/fastapi/0.123.9/"
+      "version": "0.124.0",
+      "url": "https://pypi.org/project/fastapi/0.124.0/"
     },
     "fd": {
       "version": "v10.3.0",
@@ -147,9 +147,9 @@
       "url": "https://github.com/grafana/grafana/releases/tag/v12.3.0"
     },
     "hatch": {
-      "version": "hatch-v1.16.1",
-      "gitref": "refs/tags/hatch-v1.16.1",
-      "url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.16.1"
+      "version": "hatch-v1.16.2",
+      "gitref": "refs/tags/hatch-v1.16.2",
+      "url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.16.2"
     },
     "headscale": {
       "version": "v0.27.1",
@@ -157,14 +157,14 @@
       "url": "https://github.com/juanfont/headscale/releases/tag/v0.27.1"
     },
     "homarr": {
-      "version": "v1.45.1",
-      "gitref": "refs/tags/v1.45.1",
-      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.45.1"
+      "version": "v1.45.2",
+      "gitref": "refs/tags/v1.45.2",
+      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.45.2"
     },
     "home-assistant": {
-      "version": "2025.12.0",
-      "gitref": "refs/tags/2025.12.0",
-      "url": "https://github.com/home-assistant/core/releases/tag/2025.12.0"
+      "version": "2025.12.1",
+      "gitref": "refs/tags/2025.12.1",
+      "url": "https://github.com/home-assistant/core/releases/tag/2025.12.1"
     },
     "insomnia": {
       "version": "core@12.1.0",
@@ -232,9 +232,9 @@
       "url": "https://github.com/prometheus/prometheus/releases/tag/v3.8.0"
     },
     "prometheus-blackbox_exporter": {
-      "version": "v0.27.0",
-      "gitref": "refs/tags/v0.27.0",
-      "url": "https://github.com/prometheus/blackbox_exporter/releases/tag/v0.27.0"
+      "version": "v0.28.0",
+      "gitref": "refs/tags/v0.28.0",
+      "url": "https://github.com/prometheus/blackbox_exporter/releases/tag/v0.28.0"
     },
     "prometheus-node_exporter": {
       "version": "v1.10.2",
@@ -268,9 +268,9 @@
       "url": "https://github.com/containers/skopeo/releases/tag/v1.21.0"
     },
     "speedtest-tracker": {
-      "version": "v1.11.1",
-      "gitref": "refs/tags/v1.11.1",
-      "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.11.1"
+      "version": "v1.12.2",
+      "gitref": "refs/tags/v1.12.2",
+      "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.12.2"
     },
     "terraform": {
       "version": "v1.14.1",
