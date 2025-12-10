@@ -40,8 +40,8 @@
       "url": "https://github.com/YOURLS/YOURLS/releases/tag/1.10.2"
     },
     "ansible": {
-      "version": "13.0.0",
-      "url": "https://pypi.org/project/ansible/13.0.0/"
+      "version": "13.1.0",
+      "url": "https://pypi.org/project/ansible/13.1.0/"
     },
     "argocd": {
       "version": "v3.2.1",
@@ -114,8 +114,8 @@
       "url": "https://github.com/docker/cli/releases/tag/v29.1.2"
     },
     "fastapi": {
-      "version": "0.124.0",
-      "url": "https://pypi.org/project/fastapi/0.124.0/"
+      "version": "0.124.2",
+      "url": "https://pypi.org/project/fastapi/0.124.2/"
     },
     "fd": {
       "version": "v10.3.0",
