@@ -242,9 +242,9 @@
       "url": "https://github.com/prometheus/node_exporter/releases/tag/v1.10.2"
     },
     "pulumi": {
-      "version": "v3.210.0",
-      "gitref": "refs/tags/v3.210.0",
-      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.210.0"
+      "version": "v3.211.0",
+      "gitref": "refs/tags/v3.211.0",
+      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.211.0"
     },
     "qBittorrent": {
       "version": "release-5.1.4",
@@ -273,9 +273,9 @@
       "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.12.3"
     },
     "terraform": {
-      "version": "v1.14.1",
-      "gitref": "refs/tags/v1.14.1",
-      "url": "https://github.com/hashicorp/terraform/releases/tag/v1.14.1"
+      "version": "v1.14.2",
+      "gitref": "refs/tags/v1.14.2",
+      "url": "https://github.com/hashicorp/terraform/releases/tag/v1.14.2"
     },
     "tornado": {
       "version": "6.5.3",
