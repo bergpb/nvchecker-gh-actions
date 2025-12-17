@@ -142,9 +142,9 @@
       "url": "https://github.com/gotify/server/releases/tag/v2.7.3"
     },
     "grafana": {
-      "version": "v12.3.0",
-      "gitref": "refs/tags/v12.3.0",
-      "url": "https://github.com/grafana/grafana/releases/tag/v12.3.0"
+      "version": "v12.3.1",
+      "gitref": "refs/tags/v12.3.1",
+      "url": "https://github.com/grafana/grafana/releases/tag/v12.3.1"
     },
     "hatch": {
       "version": "hatch-v1.16.2",
@@ -222,9 +222,9 @@
       "url": "https://github.com/containers/podman-compose/releases/tag/v1.5.0"
     },
     "portainer": {
-      "version": "2.33.5",
-      "gitref": "refs/tags/2.33.5",
-      "url": "https://github.com/portainer/portainer/releases/tag/2.33.5"
+      "version": "2.33.6",
+      "gitref": "refs/tags/2.33.6",
+      "url": "https://github.com/portainer/portainer/releases/tag/2.33.6"
     },
     "prometheus": {
       "version": "v3.8.1",
@@ -258,9 +258,9 @@
       "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.16.46"
     },
     "sentry": {
-      "version": "25.11.1",
-      "gitref": "refs/tags/25.11.1",
-      "url": "https://github.com/getsentry/self-hosted/releases/tag/25.11.1"
+      "version": "25.12.0",
+      "gitref": "refs/tags/25.12.0",
+      "url": "https://github.com/getsentry/self-hosted/releases/tag/25.12.0"
     },
     "skopeo": {
       "version": "v1.21.0",
@@ -268,23 +268,23 @@
       "url": "https://github.com/containers/skopeo/releases/tag/v1.21.0"
     },
     "speedtest-tracker": {
-      "version": "v1.12.4",
-      "gitref": "refs/tags/v1.12.4",
-      "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.12.4"
+      "version": "v1.13.0",
+      "gitref": "refs/tags/v1.13.0",
+      "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.13.0"
     },
     "terraform": {
-      "version": "v1.14.2",
-      "gitref": "refs/tags/v1.14.2",
-      "url": "https://github.com/hashicorp/terraform/releases/tag/v1.14.2"
+      "version": "v1.14.3",
+      "gitref": "refs/tags/v1.14.3",
+      "url": "https://github.com/hashicorp/terraform/releases/tag/v1.14.3"
     },
     "tornado": {
       "version": "6.5.4",
       "url": "https://pypi.org/project/tornado/6.5.4/"
     },
     "traefik": {
-      "version": "v3.6.4",
-      "gitref": "refs/tags/v3.6.4",
-      "url": "https://github.com/traefik/traefik/releases/tag/v3.6.4"
+      "version": "v3.6.5",
+      "gitref": "refs/tags/v3.6.5",
+      "url": "https://github.com/traefik/traefik/releases/tag/v3.6.5"
     },
     "uptime-kuma": {
       "version": "2.0.2",
