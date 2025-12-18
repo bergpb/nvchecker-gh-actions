@@ -44,9 +44,9 @@
       "url": "https://pypi.org/project/ansible/13.1.0/"
     },
     "argocd": {
-      "version": "v3.2.1",
-      "gitref": "refs/tags/v3.2.1",
-      "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.2.1"
+      "version": "v3.2.2",
+      "gitref": "refs/tags/v3.2.2",
+      "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.2.2"
     },
     "awx": {
       "version": "24.6.1",
@@ -108,14 +108,14 @@
       "url": "https://pypi.org/project/Django/6.0/"
     },
     "docker-cli": {
-      "version": "v29.1.3",
-      "gitref": "refs/tags/v29.1.3",
-      "revision": "29937f8fb160e1bb43d25a564eb3f48c84997bd0",
-      "url": "https://github.com/docker/cli/releases/tag/v29.1.3"
+      "version": "v29.2.0-rc.1",
+      "gitref": "refs/tags/v29.2.0-rc.1",
+      "revision": "2922b9b643fab9dd1460c86ff34e449a167c9f7b",
+      "url": "https://github.com/docker/cli/releases/tag/v29.2.0-rc.1"
     },
     "fastapi": {
-      "version": "0.124.4",
-      "url": "https://pypi.org/project/fastapi/0.124.4/"
+      "version": "0.125.0",
+      "url": "https://pypi.org/project/fastapi/0.125.0/"
     },
     "fd": {
       "version": "v10.3.0",
@@ -242,9 +242,9 @@
       "url": "https://github.com/prometheus/node_exporter/releases/tag/v1.10.2"
     },
     "pulumi": {
-      "version": "v3.212.0",
-      "gitref": "refs/tags/v3.212.0",
-      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.212.0"
+      "version": "v3.213.0",
+      "gitref": "refs/tags/v3.213.0",
+      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.213.0"
     },
     "qBittorrent": {
       "version": "release-5.1.4",
@@ -253,9 +253,9 @@
       "url": "https://github.com/qbittorrent/qBittorrent/releases/tag/release-5.1.4"
     },
     "semaphore": {
-      "version": "v2.16.46",
-      "gitref": "refs/tags/v2.16.46",
-      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.16.46"
+      "version": "v2.16.47",
+      "gitref": "refs/tags/v2.16.47",
+      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.16.47"
     },
     "sentry": {
       "version": "25.12.0",
@@ -268,9 +268,9 @@
       "url": "https://github.com/containers/skopeo/releases/tag/v1.21.0"
     },
     "speedtest-tracker": {
-      "version": "v1.13.0",
-      "gitref": "refs/tags/v1.13.0",
-      "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.13.0"
+      "version": "v1.13.1",
+      "gitref": "refs/tags/v1.13.1",
+      "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.13.1"
     },
     "terraform": {
       "version": "v1.14.3",
