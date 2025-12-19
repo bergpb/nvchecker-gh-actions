@@ -99,9 +99,9 @@
       "url": "https://github.com/containers/buildah/releases/tag/v1.42.2"
     },
     "compose": {
-      "version": "v5.0.0",
-      "gitref": "refs/tags/v5.0.0",
-      "url": "https://github.com/docker/compose/releases/tag/v5.0.0"
+      "version": "v5.0.1",
+      "gitref": "refs/tags/v5.0.1",
+      "url": "https://github.com/docker/compose/releases/tag/v5.0.1"
     },
     "django": {
       "version": "6.0",
@@ -167,9 +167,9 @@
       "url": "https://github.com/home-assistant/core/releases/tag/2025.12.3"
     },
     "insomnia": {
-      "version": "core@12.1.0",
-      "gitref": "refs/tags/core@12.1.0",
-      "url": "https://github.com/Kong/insomnia/releases/tag/core%4012.1.0"
+      "version": "core@12.2.0",
+      "gitref": "refs/tags/core@12.2.0",
+      "url": "https://github.com/Kong/insomnia/releases/tag/core%4012.2.0"
     },
     "jellyfin": {
       "version": "v10.11.5",
@@ -268,9 +268,9 @@
       "url": "https://github.com/containers/skopeo/releases/tag/v1.21.0"
     },
     "speedtest-tracker": {
-      "version": "v1.13.1",
-      "gitref": "refs/tags/v1.13.1",
-      "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.13.1"
+      "version": "v1.13.2",
+      "gitref": "refs/tags/v1.13.2",
+      "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.13.2"
     },
     "terraform": {
       "version": "v1.14.3",
