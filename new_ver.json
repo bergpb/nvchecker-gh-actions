@@ -258,9 +258,9 @@
       "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.16.47"
     },
     "sentry": {
-      "version": "25.12.0",
-      "gitref": "refs/tags/25.12.0",
-      "url": "https://github.com/getsentry/self-hosted/releases/tag/25.12.0"
+      "version": "25.12.1",
+      "gitref": "refs/tags/25.12.1",
+      "url": "https://github.com/getsentry/self-hosted/releases/tag/25.12.1"
     },
     "skopeo": {
       "version": "v1.21.0",
