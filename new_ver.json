@@ -44,9 +44,9 @@
       "url": "https://pypi.org/project/ansible/13.1.0/"
     },
     "argocd": {
-      "version": "v3.2.2",
-      "gitref": "refs/tags/v3.2.2",
-      "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.2.2"
+      "version": "v3.2.3",
+      "gitref": "refs/tags/v3.2.3",
+      "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.2.3"
     },
     "awx": {
       "version": "24.6.1",
@@ -89,9 +89,9 @@
       "url": "https://pypi.org/project/borgbackup/1.4.3/"
     },
     "bottom": {
-      "version": "0.11.4",
-      "gitref": "refs/tags/0.11.4",
-      "url": "https://github.com/ClementTsang/bottom/releases/tag/0.11.4"
+      "version": "0.12.0",
+      "gitref": "refs/tags/0.12.0",
+      "url": "https://github.com/ClementTsang/bottom/releases/tag/0.12.0"
     },
     "buildah": {
       "version": "v1.42.2",
