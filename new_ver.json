@@ -11,8 +11,8 @@
       "url": "https://pypi.org/project/beancount/3.2.0/"
     },
     "Celery": {
-      "version": "5.6.0",
-      "url": "https://pypi.org/project/celery/5.6.0/"
+      "version": "5.6.1",
+      "url": "https://pypi.org/project/celery/5.6.1/"
     },
     "FlareSolverr": {
       "version": "v3.4.6",
@@ -162,9 +162,9 @@
       "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.48.0"
     },
     "home-assistant": {
-      "version": "2025.12.4",
-      "gitref": "refs/tags/2025.12.4",
-      "url": "https://github.com/home-assistant/core/releases/tag/2025.12.4"
+      "version": "2025.12.5",
+      "gitref": "refs/tags/2025.12.5",
+      "url": "https://github.com/home-assistant/core/releases/tag/2025.12.5"
     },
     "insomnia": {
       "version": "core@12.2.0",
@@ -192,8 +192,8 @@
       "url": "https://github.com/derailed/k9s/releases/tag/v0.50.16"
     },
     "kombu": {
-      "version": "5.6.1",
-      "url": "https://pypi.org/project/kombu/5.6.1/"
+      "version": "5.6.2",
+      "url": "https://pypi.org/project/kombu/5.6.2/"
     },
     "lunasea": {
       "version": "v11.0.0",
@@ -242,9 +242,9 @@
       "url": "https://github.com/prometheus/node_exporter/releases/tag/v1.10.2"
     },
     "pulumi": {
-      "version": "v3.213.0",
-      "gitref": "refs/tags/v3.213.0",
-      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.213.0"
+      "version": "v3.214.0",
+      "gitref": "refs/tags/v3.214.0",
+      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.214.0"
     },
     "qBittorrent": {
       "version": "release-5.1.4",
@@ -282,9 +282,9 @@
       "url": "https://pypi.org/project/tornado/6.5.4/"
     },
     "traefik": {
-      "version": "v3.6.5",
-      "gitref": "refs/tags/v3.6.5",
-      "url": "https://github.com/traefik/traefik/releases/tag/v3.6.5"
+      "version": "v3.6.6",
+      "gitref": "refs/tags/v3.6.6",
+      "url": "https://github.com/traefik/traefik/releases/tag/v3.6.6"
     },
     "uptime-kuma": {
       "version": "2.0.2",
