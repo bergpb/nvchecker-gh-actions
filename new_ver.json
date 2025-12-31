@@ -40,8 +40,8 @@
       "url": "https://github.com/YOURLS/YOURLS/releases/tag/1.10.2"
     },
     "ansible": {
-      "version": "13.1.0",
-      "url": "https://pypi.org/project/ansible/13.1.0/"
+      "version": "13.2.0",
+      "url": "https://pypi.org/project/ansible/13.2.0/"
     },
     "argocd": {
       "version": "v3.2.3",
@@ -292,9 +292,9 @@
       "url": "https://github.com/louislam/uptime-kuma/releases/tag/2.0.2"
     },
     "vaultwarden": {
-      "version": "1.35.0",
-      "gitref": "refs/tags/1.35.0",
-      "url": "https://github.com/dani-garcia/vaultwarden/releases/tag/1.35.0"
+      "version": "1.35.1",
+      "gitref": "refs/tags/1.35.1",
+      "url": "https://github.com/dani-garcia/vaultwarden/releases/tag/1.35.1"
     },
     "webhook": {
       "version": "2.8.2",
