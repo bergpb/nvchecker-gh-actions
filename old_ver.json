@@ -89,9 +89,9 @@
       "url": "https://pypi.org/project/borgbackup/1.4.3/"
     },
     "bottom": {
-      "version": "0.12.2",
-      "gitref": "refs/tags/0.12.2",
-      "url": "https://github.com/ClementTsang/bottom/releases/tag/0.12.2"
+      "version": "0.12.3",
+      "gitref": "refs/tags/0.12.3",
+      "url": "https://github.com/ClementTsang/bottom/releases/tag/0.12.3"
     },
     "buildah": {
       "version": "v1.42.2",
