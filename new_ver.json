@@ -137,9 +137,9 @@
       "url": "https://github.com/TwiN/gatus/releases/tag/v5.33.1"
     },
     "gotify": {
-      "version": "v2.7.3",
-      "gitref": "refs/tags/v2.7.3",
-      "url": "https://github.com/gotify/server/releases/tag/v2.7.3"
+      "version": "v2.8.0",
+      "gitref": "refs/tags/v2.8.0",
+      "url": "https://github.com/gotify/server/releases/tag/v2.8.0"
     },
     "grafana": {
       "version": "v12.3.1",
