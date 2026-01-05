@@ -11,8 +11,8 @@
       "url": "https://pypi.org/project/beancount/3.2.0/"
     },
     "Celery": {
-      "version": "5.6.1",
-      "url": "https://pypi.org/project/celery/5.6.1/"
+      "version": "5.6.2",
+      "url": "https://pypi.org/project/celery/5.6.2/"
     },
     "FlareSolverr": {
       "version": "v3.4.6",
@@ -65,9 +65,9 @@
       "url": "https://github.com/sharkdp/bat/releases/tag/v0.26.1"
     },
     "bazarr": {
-      "version": "v1.5.3",
-      "gitref": "refs/tags/v1.5.3",
-      "url": "https://github.com/morpheus65535/bazarr/releases/tag/v1.5.3"
+      "version": "v1.5.4",
+      "gitref": "refs/tags/v1.5.4",
+      "url": "https://github.com/morpheus65535/bazarr/releases/tag/v1.5.4"
     },
     "beszel": {
       "version": "v0.17.0",
@@ -132,9 +132,9 @@
       "url": "https://github.com/junegunn/fzf/releases/tag/v0.67.0"
     },
     "gatus": {
-      "version": "v5.33.1",
-      "gitref": "refs/tags/v5.33.1",
-      "url": "https://github.com/TwiN/gatus/releases/tag/v5.33.1"
+      "version": "v5.34.0",
+      "gitref": "refs/tags/v5.34.0",
+      "url": "https://github.com/TwiN/gatus/releases/tag/v5.34.0"
     },
     "gotify": {
       "version": "v2.8.0",
@@ -157,9 +157,9 @@
       "url": "https://github.com/juanfont/headscale/releases/tag/v0.27.1"
     },
     "homarr": {
-      "version": "v1.48.0",
-      "gitref": "refs/tags/v1.48.0",
-      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.48.0"
+      "version": "v1.49.1",
+      "gitref": "refs/tags/v1.49.1",
+      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.49.1"
     },
     "home-assistant": {
       "version": "2025.12.5",
@@ -242,9 +242,9 @@
       "url": "https://github.com/prometheus/node_exporter/releases/tag/v1.10.2"
     },
     "pulumi": {
-      "version": "v3.214.0",
-      "gitref": "refs/tags/v3.214.0",
-      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.214.0"
+      "version": "v3.214.1",
+      "gitref": "refs/tags/v3.214.1",
+      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.214.1"
     },
     "qBittorrent": {
       "version": "release-5.1.4",
