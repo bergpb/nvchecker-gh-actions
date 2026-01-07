@@ -104,8 +104,8 @@
       "url": "https://github.com/docker/compose/releases/tag/v5.0.1"
     },
     "django": {
-      "version": "6.0",
-      "url": "https://pypi.org/project/Django/6.0/"
+      "version": "6.0.1",
+      "url": "https://pypi.org/project/Django/6.0.1/"
     },
     "docker-cli": {
       "version": "v29.2.0-rc.1",
@@ -227,9 +227,9 @@
       "url": "https://github.com/portainer/portainer/releases/tag/2.33.6"
     },
     "prometheus": {
-      "version": "v3.8.1",
-      "gitref": "refs/tags/v3.8.1",
-      "url": "https://github.com/prometheus/prometheus/releases/tag/v3.8.1"
+      "version": "v3.9.0",
+      "gitref": "refs/tags/v3.9.0",
+      "url": "https://github.com/prometheus/prometheus/releases/tag/v3.9.0"
     },
     "prometheus-blackbox_exporter": {
       "version": "v0.28.0",
