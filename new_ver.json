@@ -268,9 +268,9 @@
       "url": "https://github.com/containers/skopeo/releases/tag/v1.21.0"
     },
     "speedtest-tracker": {
-      "version": "v1.13.4",
-      "gitref": "refs/tags/v1.13.4",
-      "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.13.4"
+      "version": "v1.13.5",
+      "gitref": "refs/tags/v1.13.5",
+      "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.13.5"
     },
     "terraform": {
       "version": "v1.14.3",
