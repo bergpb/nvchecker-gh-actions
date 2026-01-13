@@ -44,9 +44,9 @@
       "url": "https://pypi.org/project/ansible/13.2.0/"
     },
     "argocd": {
-      "version": "v3.2.3",
-      "gitref": "refs/tags/v3.2.3",
-      "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.2.3"
+      "version": "v3.0.21",
+      "gitref": "refs/tags/v3.0.21",
+      "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.0.21"
     },
     "awx": {
       "version": "24.6.1",
@@ -70,9 +70,9 @@
       "url": "https://github.com/morpheus65535/bazarr/releases/tag/v1.5.4"
     },
     "beszel": {
-      "version": "v0.18.1",
-      "gitref": "refs/tags/v0.18.1",
-      "url": "https://github.com/henrygd/beszel/releases/tag/v0.18.1"
+      "version": "v0.18.2",
+      "gitref": "refs/tags/v0.18.2",
+      "url": "https://github.com/henrygd/beszel/releases/tag/v0.18.2"
     },
     "bitwarden-desktop": {
       "version": "v2022.5.1",
@@ -253,9 +253,9 @@
       "url": "https://github.com/qbittorrent/qBittorrent/releases/tag/release-5.1.4"
     },
     "semaphore": {
-      "version": "v2.16.50",
-      "gitref": "refs/tags/v2.16.50",
-      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.16.50"
+      "version": "v2.16.51",
+      "gitref": "refs/tags/v2.16.51",
+      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.16.51"
     },
     "sentry": {
       "version": "25.12.1",
