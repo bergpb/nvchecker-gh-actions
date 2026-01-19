@@ -157,14 +157,14 @@
       "url": "https://github.com/juanfont/headscale/releases/tag/v0.27.1"
     },
     "homarr": {
-      "version": "v1.50.0",
-      "gitref": "refs/tags/v1.50.0",
-      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.50.0"
+      "version": "v1.50.1",
+      "gitref": "refs/tags/v1.50.1",
+      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.50.1"
     },
     "home-assistant": {
-      "version": "2026.1.1",
-      "gitref": "refs/tags/2026.1.1",
-      "url": "https://github.com/home-assistant/core/releases/tag/2026.1.1"
+      "version": "2026.1.2",
+      "gitref": "refs/tags/2026.1.2",
+      "url": "https://github.com/home-assistant/core/releases/tag/2026.1.2"
     },
     "insomnia": {
       "version": "core@12.3.0",
@@ -172,9 +172,9 @@
       "url": "https://github.com/Kong/insomnia/releases/tag/core%4012.3.0"
     },
     "jellyfin": {
-      "version": "v10.11.5",
-      "gitref": "refs/tags/v10.11.5",
-      "url": "https://github.com/jellyfin/jellyfin/releases/tag/v10.11.5"
+      "version": "v10.11.6",
+      "gitref": "refs/tags/v10.11.6",
+      "url": "https://github.com/jellyfin/jellyfin/releases/tag/v10.11.6"
     },
     "jellyseerr": {
       "version": "v2.7.3",
