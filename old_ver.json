@@ -99,9 +99,9 @@
       "url": "https://github.com/containers/buildah/releases/tag/v1.42.2"
     },
     "compose": {
-      "version": "v5.0.1",
-      "gitref": "refs/tags/v5.0.1",
-      "url": "https://github.com/docker/compose/releases/tag/v5.0.1"
+      "version": "v5.0.2",
+      "gitref": "refs/tags/v5.0.2",
+      "url": "https://github.com/docker/compose/releases/tag/v5.0.2"
     },
     "django": {
       "version": "6.0.1",
@@ -147,9 +147,9 @@
       "url": "https://github.com/grafana/grafana/releases/tag/v12.3.1"
     },
     "hatch": {
-      "version": "hatch-v1.16.2",
-      "gitref": "refs/tags/hatch-v1.16.2",
-      "url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.16.2"
+      "version": "hatch-v1.16.3",
+      "gitref": "refs/tags/hatch-v1.16.3",
+      "url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.16.3"
     },
     "headscale": {
       "version": "v0.27.1",
