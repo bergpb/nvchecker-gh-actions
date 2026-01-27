@@ -108,10 +108,10 @@
       "url": "https://pypi.org/project/Django/6.0.1/"
     },
     "docker-cli": {
-      "version": "v29.2.0-rc.2",
-      "gitref": "refs/tags/v29.2.0-rc.2",
-      "revision": "c9999b81f5702156095be2447eabbcf7ec59b8f2",
-      "url": "https://github.com/docker/cli/releases/tag/v29.2.0-rc.2"
+      "version": "v29.2.0",
+      "gitref": "refs/tags/v29.2.0",
+      "revision": "861c78fce6fa1c67006db8817032e3860a2297ea",
+      "url": "https://github.com/docker/cli/releases/tag/v29.2.0"
     },
     "fastapi": {
       "version": "0.128.0",
@@ -242,9 +242,9 @@
       "url": "https://github.com/prometheus/node_exporter/releases/tag/v1.10.2"
     },
     "pulumi": {
-      "version": "v3.216.0",
-      "gitref": "refs/tags/v3.216.0",
-      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.216.0"
+      "version": "v3.217.0",
+      "gitref": "refs/tags/v3.217.0",
+      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.217.0"
     },
     "qBittorrent": {
       "version": "release-5.1.4",
