@@ -142,9 +142,9 @@
       "url": "https://github.com/gotify/server/releases/tag/v2.8.0"
     },
     "grafana": {
-      "version": "v12.3.1",
-      "gitref": "refs/tags/v12.3.1",
-      "url": "https://github.com/grafana/grafana/releases/tag/v12.3.1"
+      "version": "v12.3.2",
+      "gitref": "refs/tags/v12.3.2",
+      "url": "https://github.com/grafana/grafana/releases/tag/v12.3.2"
     },
     "hatch": {
       "version": "hatch-v1.16.3",
