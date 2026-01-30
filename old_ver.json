@@ -40,8 +40,8 @@
       "url": "https://github.com/YOURLS/YOURLS/releases/tag/1.10.3"
     },
     "ansible": {
-      "version": "13.2.0",
-      "url": "https://pypi.org/project/ansible/13.2.0/"
+      "version": "13.3.0",
+      "url": "https://pypi.org/project/ansible/13.3.0/"
     },
     "argocd": {
       "version": "v3.2.6",
@@ -242,9 +242,9 @@
       "url": "https://github.com/prometheus/node_exporter/releases/tag/v1.10.2"
     },
     "pulumi": {
-      "version": "v3.217.1",
-      "gitref": "refs/tags/v3.217.1",
-      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.217.1"
+      "version": "v3.218.0",
+      "gitref": "refs/tags/v3.218.0",
+      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.218.0"
     },
     "qBittorrent": {
       "version": "release-5.1.4",
