@@ -108,10 +108,10 @@
       "url": "https://pypi.org/project/Django/6.0.1/"
     },
     "docker-cli": {
-      "version": "v29.2.0",
-      "gitref": "refs/tags/v29.2.0",
-      "revision": "861c78fce6fa1c67006db8817032e3860a2297ea",
-      "url": "https://github.com/docker/cli/releases/tag/v29.2.0"
+      "version": "v29.2.1",
+      "gitref": "refs/tags/v29.2.1",
+      "revision": "8546a6364295fb3bd2420a002543e71f91c7c698",
+      "url": "https://github.com/docker/cli/releases/tag/v29.2.1"
     },
     "fastapi": {
       "version": "0.128.0",
