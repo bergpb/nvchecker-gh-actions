@@ -104,8 +104,8 @@
       "url": "https://github.com/docker/compose/releases/tag/v5.0.2"
     },
     "django": {
-      "version": "6.0.1",
-      "url": "https://pypi.org/project/Django/6.0.1/"
+      "version": "6.0.2",
+      "url": "https://pypi.org/project/Django/6.0.2/"
     },
     "docker-cli": {
       "version": "v29.2.1",
@@ -268,9 +268,9 @@
       "url": "https://github.com/containers/skopeo/releases/tag/v1.21.0"
     },
     "speedtest-tracker": {
-      "version": "v1.13.5",
-      "gitref": "refs/tags/v1.13.5",
-      "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.13.5"
+      "version": "v1.13.6",
+      "gitref": "refs/tags/v1.13.6",
+      "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.13.6"
     },
     "terraform": {
       "version": "v1.14.4",
