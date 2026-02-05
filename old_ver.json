@@ -114,8 +114,8 @@
       "url": "https://github.com/docker/cli/releases/tag/v29.2.1"
     },
     "fastapi": {
-      "version": "0.128.0",
-      "url": "https://pypi.org/project/fastapi/0.128.0/"
+      "version": "0.128.1",
+      "url": "https://pypi.org/project/fastapi/0.128.1/"
     },
     "fd": {
       "version": "v10.3.0",
@@ -152,9 +152,9 @@
       "url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.16.3"
     },
     "headscale": {
-      "version": "v0.27.1",
-      "gitref": "refs/tags/v0.27.1",
-      "url": "https://github.com/juanfont/headscale/releases/tag/v0.27.1"
+      "version": "v0.28.0",
+      "gitref": "refs/tags/v0.28.0",
+      "url": "https://github.com/juanfont/headscale/releases/tag/v0.28.0"
     },
     "homarr": {
       "version": "v1.52.0",
@@ -162,14 +162,14 @@
       "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.52.0"
     },
     "home-assistant": {
-      "version": "2026.1.3",
-      "gitref": "refs/tags/2026.1.3",
-      "url": "https://github.com/home-assistant/core/releases/tag/2026.1.3"
+      "version": "2026.2.0",
+      "gitref": "refs/tags/2026.2.0",
+      "url": "https://github.com/home-assistant/core/releases/tag/2026.2.0"
     },
     "insomnia": {
-      "version": "core@12.3.0",
-      "gitref": "refs/tags/core@12.3.0",
-      "url": "https://github.com/Kong/insomnia/releases/tag/core%4012.3.0"
+      "version": "core@12.3.1",
+      "gitref": "refs/tags/core@12.3.1",
+      "url": "https://github.com/Kong/insomnia/releases/tag/core%4012.3.1"
     },
     "jellyfin": {
       "version": "v10.11.6",
@@ -268,9 +268,9 @@
       "url": "https://github.com/containers/skopeo/releases/tag/v1.21.0"
     },
     "speedtest-tracker": {
-      "version": "v1.13.6",
-      "gitref": "refs/tags/v1.13.6",
-      "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.13.6"
+      "version": "v1.13.8",
+      "gitref": "refs/tags/v1.13.8",
+      "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.13.8"
     },
     "terraform": {
       "version": "v1.14.4",
