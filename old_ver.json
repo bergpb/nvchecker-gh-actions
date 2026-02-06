@@ -114,8 +114,8 @@
       "url": "https://github.com/docker/cli/releases/tag/v29.2.1"
     },
     "fastapi": {
-      "version": "0.128.1",
-      "url": "https://pypi.org/project/fastapi/0.128.1/"
+      "version": "0.128.2",
+      "url": "https://pypi.org/project/fastapi/0.128.2/"
     },
     "fd": {
       "version": "v10.3.0",
@@ -242,9 +242,9 @@
       "url": "https://github.com/prometheus/node_exporter/releases/tag/v1.10.2"
     },
     "pulumi": {
-      "version": "v3.218.0",
-      "gitref": "refs/tags/v3.218.0",
-      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.218.0"
+      "version": "v3.219.0",
+      "gitref": "refs/tags/v3.219.0",
+      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.219.0"
     },
     "qBittorrent": {
       "version": "release-5.1.4",
