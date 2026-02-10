@@ -114,8 +114,8 @@
       "url": "https://github.com/docker/cli/releases/tag/v29.2.1"
     },
     "fastapi": {
-      "version": "0.128.5",
-      "url": "https://pypi.org/project/fastapi/0.128.5/"
+      "version": "0.128.7",
+      "url": "https://pypi.org/project/fastapi/0.128.7/"
     },
     "fd": {
       "version": "v10.3.0",
@@ -222,9 +222,9 @@
       "url": "https://github.com/containers/podman-compose/releases/tag/v1.5.0"
     },
     "portainer": {
-      "version": "2.33.6",
-      "gitref": "refs/tags/2.33.6",
-      "url": "https://github.com/portainer/portainer/releases/tag/2.33.6"
+      "version": "2.33.7",
+      "gitref": "refs/tags/2.33.7",
+      "url": "https://github.com/portainer/portainer/releases/tag/2.33.7"
     },
     "prometheus": {
       "version": "v3.9.1",
