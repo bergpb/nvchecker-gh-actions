@@ -242,9 +242,9 @@
       "url": "https://github.com/prometheus/node_exporter/releases/tag/v1.10.2"
     },
     "pulumi": {
-      "version": "v3.219.0",
-      "gitref": "refs/tags/v3.219.0",
-      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.219.0"
+      "version": "v3.220.0",
+      "gitref": "refs/tags/v3.220.0",
+      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.220.0"
     },
     "qBittorrent": {
       "version": "release-5.1.4",
@@ -292,9 +292,9 @@
       "url": "https://github.com/louislam/uptime-kuma/releases/tag/2.1.0"
     },
     "vaultwarden": {
-      "version": "1.35.2",
-      "gitref": "refs/tags/1.35.2",
-      "url": "https://github.com/dani-garcia/vaultwarden/releases/tag/1.35.2"
+      "version": "1.35.3",
+      "gitref": "refs/tags/1.35.3",
+      "url": "https://github.com/dani-garcia/vaultwarden/releases/tag/1.35.3"
     },
     "webhook": {
       "version": "2.8.2",
