@@ -114,8 +114,8 @@
       "url": "https://github.com/docker/cli/releases/tag/v29.2.1"
     },
     "fastapi": {
-      "version": "0.128.7",
-      "url": "https://pypi.org/project/fastapi/0.128.7/"
+      "version": "0.128.8",
+      "url": "https://pypi.org/project/fastapi/0.128.8/"
     },
     "fd": {
       "version": "v10.3.0",
@@ -142,9 +142,9 @@
       "url": "https://github.com/gotify/server/releases/tag/v2.8.0"
     },
     "grafana": {
-      "version": "v12.3.2",
-      "gitref": "refs/tags/v12.3.2",
-      "url": "https://github.com/grafana/grafana/releases/tag/v12.3.2"
+      "version": "v12.3.2+security-01",
+      "gitref": "refs/tags/v12.3.2+security-01",
+      "url": "https://github.com/grafana/grafana/releases/tag/v12.3.2%2Bsecurity-01"
     },
     "hatch": {
       "version": "hatch-v1.16.3",
@@ -263,9 +263,9 @@
       "url": "https://github.com/getsentry/self-hosted/releases/tag/26.1.0"
     },
     "skopeo": {
-      "version": "v1.21.0",
-      "gitref": "refs/tags/v1.21.0",
-      "url": "https://github.com/containers/skopeo/releases/tag/v1.21.0"
+      "version": "v1.22.0",
+      "gitref": "refs/tags/v1.22.0",
+      "url": "https://github.com/containers/skopeo/releases/tag/v1.22.0"
     },
     "speedtest-tracker": {
       "version": "v1.13.9",
@@ -273,18 +273,18 @@
       "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.13.9"
     },
     "terraform": {
-      "version": "v1.14.4",
-      "gitref": "refs/tags/v1.14.4",
-      "url": "https://github.com/hashicorp/terraform/releases/tag/v1.14.4"
+      "version": "v1.14.5",
+      "gitref": "refs/tags/v1.14.5",
+      "url": "https://github.com/hashicorp/terraform/releases/tag/v1.14.5"
     },
     "tornado": {
       "version": "6.5.4",
       "url": "https://pypi.org/project/tornado/6.5.4/"
     },
     "traefik": {
-      "version": "v3.6.7",
-      "gitref": "refs/tags/v3.6.7",
-      "url": "https://github.com/traefik/traefik/releases/tag/v3.6.7"
+      "version": "v3.6.8",
+      "gitref": "refs/tags/v3.6.8",
+      "url": "https://github.com/traefik/traefik/releases/tag/v3.6.8"
     },
     "uptime-kuma": {
       "version": "2.1.0",
