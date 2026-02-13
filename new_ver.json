@@ -114,8 +114,8 @@
       "url": "https://github.com/docker/cli/releases/tag/v29.2.1"
     },
     "fastapi": {
-      "version": "0.128.8",
-      "url": "https://pypi.org/project/fastapi/0.128.8/"
+      "version": "0.129.0",
+      "url": "https://pypi.org/project/fastapi/0.129.0/"
     },
     "fd": {
       "version": "v10.3.0",
@@ -212,9 +212,9 @@
       "url": "https://github.com/pi-hole/pi-hole/releases/tag/v6.3"
     },
     "podman": {
-      "version": "v5.7.1",
-      "gitref": "refs/tags/v5.7.1",
-      "url": "https://github.com/containers/podman/releases/tag/v5.7.1"
+      "version": "v5.8.0",
+      "gitref": "refs/tags/v5.8.0",
+      "url": "https://github.com/containers/podman/releases/tag/v5.8.0"
     },
     "podman-compose": {
       "version": "v1.5.0",
@@ -297,9 +297,9 @@
       "url": "https://github.com/dani-garcia/vaultwarden/releases/tag/1.35.3"
     },
     "webhook": {
-      "version": "2.8.2",
-      "gitref": "refs/tags/2.8.2",
-      "url": "https://github.com/adnanh/webhook/releases/tag/2.8.2"
+      "version": "2.8.3",
+      "gitref": "refs/tags/2.8.3",
+      "url": "https://github.com/adnanh/webhook/releases/tag/2.8.3"
     },
     "youtube-dl": {
       "version": "2021.12.17",
