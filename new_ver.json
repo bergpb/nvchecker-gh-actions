@@ -137,14 +137,14 @@
       "url": "https://github.com/TwiN/gatus/releases/tag/v5.34.0"
     },
     "gotify": {
-      "version": "v2.8.0",
-      "gitref": "refs/tags/v2.8.0",
-      "url": "https://github.com/gotify/server/releases/tag/v2.8.0"
+      "version": "v2.9.0",
+      "gitref": "refs/tags/v2.9.0",
+      "url": "https://github.com/gotify/server/releases/tag/v2.9.0"
     },
     "grafana": {
-      "version": "v12.3.2+security-01",
-      "gitref": "refs/tags/v12.3.2+security-01",
-      "url": "https://github.com/grafana/grafana/releases/tag/v12.3.2%2Bsecurity-01"
+      "version": "v12.3.3",
+      "gitref": "refs/tags/v12.3.3",
+      "url": "https://github.com/grafana/grafana/releases/tag/v12.3.3"
     },
     "hatch": {
       "version": "hatch-v1.16.3",
@@ -157,14 +157,14 @@
       "url": "https://github.com/juanfont/headscale/releases/tag/v0.28.0"
     },
     "homarr": {
-      "version": "v1.53.0",
-      "gitref": "refs/tags/v1.53.0",
-      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.53.0"
+      "version": "v1.53.1",
+      "gitref": "refs/tags/v1.53.1",
+      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.53.1"
     },
     "home-assistant": {
-      "version": "2026.2.1",
-      "gitref": "refs/tags/2026.2.1",
-      "url": "https://github.com/home-assistant/core/releases/tag/2026.2.1"
+      "version": "2026.2.2",
+      "gitref": "refs/tags/2026.2.2",
+      "url": "https://github.com/home-assistant/core/releases/tag/2026.2.2"
     },
     "insomnia": {
       "version": "core@12.3.1",
@@ -177,9 +177,9 @@
       "url": "https://github.com/jellyfin/jellyfin/releases/tag/v10.11.6"
     },
     "jellyseerr": {
-      "version": "v2.7.3",
-      "gitref": "refs/tags/v2.7.3",
-      "url": "https://github.com/seerr-team/seerr/releases/tag/v2.7.3"
+      "version": "v3.0.1",
+      "gitref": "refs/tags/v3.0.1",
+      "url": "https://github.com/seerr-team/seerr/releases/tag/v3.0.1"
     },
     "jq": {
       "version": "jq-1.8.1",
@@ -253,9 +253,9 @@
       "url": "https://github.com/qbittorrent/qBittorrent/releases/tag/release-5.1.4"
     },
     "semaphore": {
-      "version": "v2.16.51",
-      "gitref": "refs/tags/v2.16.51",
-      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.16.51"
+      "version": "v2.17.2",
+      "gitref": "refs/tags/v2.17.2",
+      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.17.2"
     },
     "sentry": {
       "version": "26.1.0",
@@ -287,9 +287,9 @@
       "url": "https://github.com/traefik/traefik/releases/tag/v3.6.8"
     },
     "uptime-kuma": {
-      "version": "2.1.0",
-      "gitref": "refs/tags/2.1.0",
-      "url": "https://github.com/louislam/uptime-kuma/releases/tag/2.1.0"
+      "version": "2.1.1",
+      "gitref": "refs/tags/2.1.1",
+      "url": "https://github.com/louislam/uptime-kuma/releases/tag/2.1.1"
     },
     "vaultwarden": {
       "version": "1.35.3",
