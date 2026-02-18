@@ -44,9 +44,9 @@
       "url": "https://pypi.org/project/ansible/13.3.0/"
     },
     "argocd": {
-      "version": "v3.3.0",
-      "gitref": "refs/tags/v3.3.0",
-      "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.3.0"
+      "version": "v3.3.1",
+      "gitref": "refs/tags/v3.3.1",
+      "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.3.1"
     },
     "awx": {
       "version": "24.6.1",
@@ -207,9 +207,9 @@
       "url": "https://github.com/lilydjwg/nvchecker/releases/tag/v2.20"
     },
     "pi-hole": {
-      "version": "v6.3",
-      "gitref": "refs/tags/v6.3",
-      "url": "https://github.com/pi-hole/pi-hole/releases/tag/v6.3"
+      "version": "v6.4",
+      "gitref": "refs/tags/v6.4",
+      "url": "https://github.com/pi-hole/pi-hole/releases/tag/v6.4"
     },
     "podman": {
       "version": "v5.8.0",
@@ -242,9 +242,9 @@
       "url": "https://github.com/prometheus/node_exporter/releases/tag/v1.10.2"
     },
     "pulumi": {
-      "version": "v3.220.0",
-      "gitref": "refs/tags/v3.220.0",
-      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.220.0"
+      "version": "v3.221.0",
+      "gitref": "refs/tags/v3.221.0",
+      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.221.0"
     },
     "qBittorrent": {
       "version": "release-5.1.4",
@@ -253,9 +253,9 @@
       "url": "https://github.com/qbittorrent/qBittorrent/releases/tag/release-5.1.4"
     },
     "semaphore": {
-      "version": "v2.17.2",
-      "gitref": "refs/tags/v2.17.2",
-      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.17.2"
+      "version": "v2.17.7",
+      "gitref": "refs/tags/v2.17.7",
+      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.17.7"
     },
     "sentry": {
       "version": "26.1.0",
