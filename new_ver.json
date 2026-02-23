@@ -44,9 +44,9 @@
       "url": "https://pypi.org/project/ansible/13.3.0/"
     },
     "argocd": {
-      "version": "v3.3.1",
-      "gitref": "refs/tags/v3.3.1",
-      "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.3.1"
+      "version": "v3.3.2",
+      "gitref": "refs/tags/v3.3.2",
+      "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.3.2"
     },
     "awx": {
       "version": "24.6.1",
@@ -70,9 +70,9 @@
       "url": "https://github.com/morpheus65535/bazarr/releases/tag/v1.5.5"
     },
     "beszel": {
-      "version": "v0.18.3",
-      "gitref": "refs/tags/v0.18.3",
-      "url": "https://github.com/henrygd/beszel/releases/tag/v0.18.3"
+      "version": "v0.18.4",
+      "gitref": "refs/tags/v0.18.4",
+      "url": "https://github.com/henrygd/beszel/releases/tag/v0.18.4"
     },
     "bitwarden-desktop": {
       "version": "v2022.5.1",
@@ -114,8 +114,8 @@
       "url": "https://github.com/docker/cli/releases/tag/v29.2.1"
     },
     "fastapi": {
-      "version": "0.129.0",
-      "url": "https://pypi.org/project/fastapi/0.129.0/"
+      "version": "0.131.0",
+      "url": "https://pypi.org/project/fastapi/0.131.0/"
     },
     "fd": {
       "version": "v10.3.0",
@@ -132,9 +132,9 @@
       "url": "https://github.com/junegunn/fzf/releases/tag/v0.68.0"
     },
     "gatus": {
-      "version": "v5.34.0",
-      "gitref": "refs/tags/v5.34.0",
-      "url": "https://github.com/TwiN/gatus/releases/tag/v5.34.0"
+      "version": "v5.35.0",
+      "gitref": "refs/tags/v5.35.0",
+      "url": "https://github.com/TwiN/gatus/releases/tag/v5.35.0"
     },
     "gotify": {
       "version": "v2.9.0",
@@ -157,14 +157,14 @@
       "url": "https://github.com/juanfont/headscale/releases/tag/v0.28.0"
     },
     "homarr": {
-      "version": "v1.53.1",
-      "gitref": "refs/tags/v1.53.1",
-      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.53.1"
+      "version": "v1.53.2",
+      "gitref": "refs/tags/v1.53.2",
+      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.53.2"
     },
     "home-assistant": {
-      "version": "2026.2.2",
-      "gitref": "refs/tags/2026.2.2",
-      "url": "https://github.com/home-assistant/core/releases/tag/2026.2.2"
+      "version": "2026.2.3",
+      "gitref": "refs/tags/2026.2.3",
+      "url": "https://github.com/home-assistant/core/releases/tag/2026.2.3"
     },
     "insomnia": {
       "version": "core@12.3.1",
