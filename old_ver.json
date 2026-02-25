@@ -40,8 +40,8 @@
       "url": "https://github.com/YOURLS/YOURLS/releases/tag/1.10.3"
     },
     "ansible": {
-      "version": "13.3.0",
-      "url": "https://pypi.org/project/ansible/13.3.0/"
+      "version": "13.4.0",
+      "url": "https://pypi.org/project/ansible/13.4.0/"
     },
     "argocd": {
       "version": "v3.3.2",
@@ -99,9 +99,9 @@
       "url": "https://github.com/containers/buildah/releases/tag/v1.43.0"
     },
     "compose": {
-      "version": "v5.0.2",
-      "gitref": "refs/tags/v5.0.2",
-      "url": "https://github.com/docker/compose/releases/tag/v5.0.2"
+      "version": "v5.1.0",
+      "gitref": "refs/tags/v5.1.0",
+      "url": "https://github.com/docker/compose/releases/tag/v5.1.0"
     },
     "django": {
       "version": "6.0.2",
@@ -142,9 +142,9 @@
       "url": "https://github.com/gotify/server/releases/tag/v2.9.0"
     },
     "grafana": {
-      "version": "v12.3.3",
-      "gitref": "refs/tags/v12.3.3",
-      "url": "https://github.com/grafana/grafana/releases/tag/v12.3.3"
+      "version": "v12.4.0",
+      "gitref": "refs/tags/v12.4.0",
+      "url": "https://github.com/grafana/grafana/releases/tag/v12.4.0"
     },
     "hatch": {
       "version": "hatch-v1.16.4",
@@ -253,9 +253,9 @@
       "url": "https://github.com/qbittorrent/qBittorrent/releases/tag/release-5.1.4"
     },
     "semaphore": {
-      "version": "v2.17.12",
-      "gitref": "refs/tags/v2.17.12",
-      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.17.12"
+      "version": "v2.17.14",
+      "gitref": "refs/tags/v2.17.14",
+      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.17.14"
     },
     "sentry": {
       "version": "26.2.0",
