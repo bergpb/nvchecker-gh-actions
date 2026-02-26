@@ -65,9 +65,9 @@
       "url": "https://github.com/sharkdp/bat/releases/tag/v0.26.1"
     },
     "bazarr": {
-      "version": "v1.5.5",
-      "gitref": "refs/tags/v1.5.5",
-      "url": "https://github.com/morpheus65535/bazarr/releases/tag/v1.5.5"
+      "version": "v1.5.6",
+      "gitref": "refs/tags/v1.5.6",
+      "url": "https://github.com/morpheus65535/bazarr/releases/tag/v1.5.6"
     },
     "beszel": {
       "version": "v0.18.4",
@@ -114,8 +114,8 @@
       "url": "https://github.com/docker/cli/releases/tag/v29.2.1"
     },
     "fastapi": {
-      "version": "0.133.0",
-      "url": "https://pypi.org/project/fastapi/0.133.0/"
+      "version": "0.133.1",
+      "url": "https://pypi.org/project/fastapi/0.133.1/"
     },
     "fd": {
       "version": "v10.3.0",
@@ -222,14 +222,14 @@
       "url": "https://github.com/containers/podman-compose/releases/tag/v1.5.0"
     },
     "portainer": {
-      "version": "2.33.7",
-      "gitref": "refs/tags/2.33.7",
-      "url": "https://github.com/portainer/portainer/releases/tag/2.33.7"
+      "version": "2.39.0",
+      "gitref": "refs/tags/2.39.0",
+      "url": "https://github.com/portainer/portainer/releases/tag/2.39.0"
     },
     "prometheus": {
-      "version": "v3.9.1",
-      "gitref": "refs/tags/v3.9.1",
-      "url": "https://github.com/prometheus/prometheus/releases/tag/v3.9.1"
+      "version": "v3.10.0",
+      "gitref": "refs/tags/v3.10.0",
+      "url": "https://github.com/prometheus/prometheus/releases/tag/v3.10.0"
     },
     "prometheus-blackbox_exporter": {
       "version": "v0.28.0",
@@ -258,9 +258,9 @@
       "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.17.14"
     },
     "sentry": {
-      "version": "26.2.0",
-      "gitref": "refs/tags/26.2.0",
-      "url": "https://github.com/getsentry/self-hosted/releases/tag/26.2.0"
+      "version": "26.2.1",
+      "gitref": "refs/tags/26.2.1",
+      "url": "https://github.com/getsentry/self-hosted/releases/tag/26.2.1"
     },
     "skopeo": {
       "version": "v1.22.0",
@@ -273,9 +273,9 @@
       "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.13.10"
     },
     "terraform": {
-      "version": "v1.14.5",
-      "gitref": "refs/tags/v1.14.5",
-      "url": "https://github.com/hashicorp/terraform/releases/tag/v1.14.5"
+      "version": "v1.14.6",
+      "gitref": "refs/tags/v1.14.6",
+      "url": "https://github.com/hashicorp/terraform/releases/tag/v1.14.6"
     },
     "tornado": {
       "version": "6.5.4",
