@@ -104,8 +104,8 @@
       "url": "https://github.com/docker/compose/releases/tag/v5.1.0"
     },
     "django": {
-      "version": "6.0.2",
-      "url": "https://pypi.org/project/Django/6.0.2/"
+      "version": "6.0.3",
+      "url": "https://pypi.org/project/Django/6.0.3/"
     },
     "docker-cli": {
       "version": "v29.3.0-rc.1",
