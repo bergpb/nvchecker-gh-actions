@@ -291,7 +291,7 @@ use_latest_release = true
 
 [dockhand]
 source = "github"
-github = "fnsys/dockhand"
+github = "Finsys/dockhand"
 use_latest_release = true
 
 [minio]
