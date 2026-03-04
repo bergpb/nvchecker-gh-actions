@@ -116,6 +116,11 @@ source = "github"
 github = "derailed/k9s"
 use_latest_release = true
 
+[lazydocker]
+source = "github"
+github = "jesseduffield/lazydocker"
+use_latest_release = true
+
 # --------------------------------------------------
 # Self-Hosted tools
 
@@ -282,6 +287,51 @@ use_latest_release = true
 [beszel]
 source = "github"
 github = "henrygd/beszel"
+use_latest_release = true
+
+[dockhand]
+source = "github"
+github = "fnsys/dockhand"
+use_latest_release = true
+
+[minio]
+source = "github"
+github = "minio/minio"
+use_latest_release = true
+
+[freshrss]
+source = "github"
+github = "FreshRSS/FreshRSS"
+use_latest_release = true
+
+[tinyauth]
+source = "github"
+github = "steveiliop56/tinyauth"
+use_latest_release = true
+
+[homepage]
+source = "github"
+github = "gethomepage/homepage"
+use_latest_release = true
+
+[umami]
+source = "github"
+github = "umami-software/umami"
+use_latest_release = true
+
+[swarm-cronjob]
+source = "github"
+github = "crazy-max/swarm-cronjob"
+use_latest_release = true
+
+[linkwarden]
+source = "github"
+github = "linkwarden/linkwarden"
+use_latest_release = true
+
+[meilisearch]
+source = "github"
+github = "meilisearch/meilisearch"
 use_latest_release = true
 
 # --------------------------------------------------
