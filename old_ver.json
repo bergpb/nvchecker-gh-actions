@@ -226,9 +226,9 @@
       "url": "https://github.com/jagandeepbrar/lunasea/releases/tag/v11.0.0"
     },
     "meilisearch": {
-      "version": "v1.38.0",
-      "gitref": "refs/tags/v1.38.0",
-      "url": "https://github.com/meilisearch/meilisearch/releases/tag/v1.38.0"
+      "version": "v1.38.2",
+      "gitref": "refs/tags/v1.38.2",
+      "url": "https://github.com/meilisearch/meilisearch/releases/tag/v1.38.2"
     },
     "minio": {
       "version": "RELEASE.2025-10-15T17-29-55Z",
@@ -323,8 +323,8 @@
       "url": "https://github.com/steveiliop56/tinyauth/releases/tag/v5.0.2"
     },
     "tornado": {
-      "version": "6.5.4",
-      "url": "https://pypi.org/project/tornado/6.5.4/"
+      "version": "6.5.5",
+      "url": "https://pypi.org/project/tornado/6.5.5/"
     },
     "traefik": {
       "version": "v3.6.10",
