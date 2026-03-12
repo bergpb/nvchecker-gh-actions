@@ -247,9 +247,9 @@
       "url": "https://github.com/pi-hole/pi-hole/releases/tag/v6.4"
     },
     "podman": {
-      "version": "v5.8.0",
-      "gitref": "refs/tags/v5.8.0",
-      "url": "https://github.com/containers/podman/releases/tag/v5.8.0"
+      "version": "v5.8.1",
+      "gitref": "refs/tags/v5.8.1",
+      "url": "https://github.com/containers/podman/releases/tag/v5.8.1"
     },
     "podman-compose": {
       "version": "v1.5.0",
@@ -303,9 +303,9 @@
       "url": "https://github.com/containers/skopeo/releases/tag/v1.22.0"
     },
     "speedtest-tracker": {
-      "version": "v1.13.10",
-      "gitref": "refs/tags/v1.13.10",
-      "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.13.10"
+      "version": "v1.13.11",
+      "gitref": "refs/tags/v1.13.11",
+      "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.13.11"
     },
     "swarm-cronjob": {
       "version": "v1.15.0",
@@ -313,14 +313,14 @@
       "url": "https://github.com/crazy-max/swarm-cronjob/releases/tag/v1.15.0"
     },
     "terraform": {
-      "version": "v1.14.6",
-      "gitref": "refs/tags/v1.14.6",
-      "url": "https://github.com/hashicorp/terraform/releases/tag/v1.14.6"
+      "version": "v1.14.7",
+      "gitref": "refs/tags/v1.14.7",
+      "url": "https://github.com/hashicorp/terraform/releases/tag/v1.14.7"
     },
     "tinyauth": {
-      "version": "v5.0.2",
-      "gitref": "refs/tags/v5.0.2",
-      "url": "https://github.com/steveiliop56/tinyauth/releases/tag/v5.0.2"
+      "version": "v5.0.3",
+      "gitref": "refs/tags/v5.0.3",
+      "url": "https://github.com/steveiliop56/tinyauth/releases/tag/v5.0.3"
     },
     "tornado": {
       "version": "6.5.5",
