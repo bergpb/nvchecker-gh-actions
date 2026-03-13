@@ -114,9 +114,9 @@
       "url": "https://github.com/docker/cli/releases/tag/v29.3.0"
     },
     "dockhand": {
-      "version": "v1.0.20",
-      "gitref": "refs/tags/v1.0.20",
-      "url": "https://github.com/Finsys/dockhand/releases/tag/v1.0.20"
+      "version": "v1.0.21",
+      "gitref": "refs/tags/v1.0.21",
+      "url": "https://github.com/Finsys/dockhand/releases/tag/v1.0.21"
     },
     "fastapi": {
       "version": "0.135.1",
@@ -277,9 +277,9 @@
       "url": "https://github.com/prometheus/node_exporter/releases/tag/v1.10.2"
     },
     "pulumi": {
-      "version": "v3.225.1",
-      "gitref": "refs/tags/v3.225.1",
-      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.225.1"
+      "version": "v3.226.0",
+      "gitref": "refs/tags/v3.226.0",
+      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.226.0"
     },
     "qBittorrent": {
       "version": "release-5.1.4",
@@ -288,9 +288,9 @@
       "url": "https://github.com/qbittorrent/qBittorrent/releases/tag/release-5.1.4"
     },
     "semaphore": {
-      "version": "v2.17.21",
-      "gitref": "refs/tags/v2.17.21",
-      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.17.21"
+      "version": "v2.17.22",
+      "gitref": "refs/tags/v2.17.22",
+      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.17.22"
     },
     "sentry": {
       "version": "26.2.1",
@@ -318,9 +318,9 @@
       "url": "https://github.com/hashicorp/terraform/releases/tag/v1.14.7"
     },
     "tinyauth": {
-      "version": "v5.0.3",
-      "gitref": "refs/tags/v5.0.3",
-      "url": "https://github.com/steveiliop56/tinyauth/releases/tag/v5.0.3"
+      "version": "v5.0.4",
+      "gitref": "refs/tags/v5.0.4",
+      "url": "https://github.com/steveiliop56/tinyauth/releases/tag/v5.0.4"
     },
     "tornado": {
       "version": "6.5.5",
