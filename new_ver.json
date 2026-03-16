@@ -44,9 +44,9 @@
       "url": "https://pypi.org/project/ansible/13.4.0/"
     },
     "argocd": {
-      "version": "v3.3.3",
-      "gitref": "refs/tags/v3.3.3",
-      "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.3.3"
+      "version": "v3.3.4",
+      "gitref": "refs/tags/v3.3.4",
+      "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.3.4"
     },
     "awx": {
       "version": "24.6.1",
@@ -167,19 +167,19 @@
       "url": "https://github.com/juanfont/headscale/releases/tag/v0.28.0"
     },
     "homarr": {
-      "version": "v1.55.0",
-      "gitref": "refs/tags/v1.55.0",
-      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.55.0"
+      "version": "v1.56.0",
+      "gitref": "refs/tags/v1.56.0",
+      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.56.0"
     },
     "home-assistant": {
-      "version": "2026.3.1",
-      "gitref": "refs/tags/2026.3.1",
-      "url": "https://github.com/home-assistant/core/releases/tag/2026.3.1"
+      "version": "2026.3.2",
+      "gitref": "refs/tags/2026.3.2",
+      "url": "https://github.com/home-assistant/core/releases/tag/2026.3.2"
     },
     "homepage": {
-      "version": "v1.10.1",
-      "gitref": "refs/tags/v1.10.1",
-      "url": "https://github.com/gethomepage/homepage/releases/tag/v1.10.1"
+      "version": "v1.11.0",
+      "gitref": "refs/tags/v1.11.0",
+      "url": "https://github.com/gethomepage/homepage/releases/tag/v1.11.0"
     },
     "insomnia": {
       "version": "core@12.4.0",
@@ -211,9 +211,9 @@
       "url": "https://pypi.org/project/kombu/5.6.2/"
     },
     "lazydocker": {
-      "version": "v0.24.4",
-      "gitref": "refs/tags/v0.24.4",
-      "url": "https://github.com/jesseduffield/lazydocker/releases/tag/v0.24.4"
+      "version": "v0.25.0",
+      "gitref": "refs/tags/v0.25.0",
+      "url": "https://github.com/jesseduffield/lazydocker/releases/tag/v0.25.0"
     },
     "linkwarden": {
       "version": "v2.13.5",
@@ -288,9 +288,9 @@
       "url": "https://github.com/qbittorrent/qBittorrent/releases/tag/release-5.1.4"
     },
     "semaphore": {
-      "version": "v2.17.22",
-      "gitref": "refs/tags/v2.17.22",
-      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.17.22"
+      "version": "v2.17.26",
+      "gitref": "refs/tags/v2.17.26",
+      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.17.26"
     },
     "sentry": {
       "version": "26.2.1",
