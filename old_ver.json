@@ -226,9 +226,9 @@
       "url": "https://github.com/jagandeepbrar/lunasea/releases/tag/v11.0.0"
     },
     "meilisearch": {
-      "version": "v1.38.2",
-      "gitref": "refs/tags/v1.38.2",
-      "url": "https://github.com/meilisearch/meilisearch/releases/tag/v1.38.2"
+      "version": "v1.39.0",
+      "gitref": "refs/tags/v1.39.0",
+      "url": "https://github.com/meilisearch/meilisearch/releases/tag/v1.39.0"
     },
     "minio": {
       "version": "RELEASE.2025-10-15T17-29-55Z",
@@ -293,9 +293,9 @@
       "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.17.26"
     },
     "sentry": {
-      "version": "26.2.1",
-      "gitref": "refs/tags/26.2.1",
-      "url": "https://github.com/getsentry/self-hosted/releases/tag/26.2.1"
+      "version": "26.3.0",
+      "gitref": "refs/tags/26.3.0",
+      "url": "https://github.com/getsentry/self-hosted/releases/tag/26.3.0"
     },
     "skopeo": {
       "version": "v1.22.0",
