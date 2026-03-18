@@ -293,9 +293,9 @@
       "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.17.26"
     },
     "sentry": {
-      "version": "26.3.0",
-      "gitref": "refs/tags/26.3.0",
-      "url": "https://github.com/getsentry/self-hosted/releases/tag/26.3.0"
+      "version": "26.3.1",
+      "gitref": "refs/tags/26.3.1",
+      "url": "https://github.com/getsentry/self-hosted/releases/tag/26.3.1"
     },
     "skopeo": {
       "version": "v1.22.0",
