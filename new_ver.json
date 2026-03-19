@@ -85,8 +85,8 @@
       "url": "https://github.com/bitwarden/mobile/releases/tag/v2024.10.0"
     },
     "borgbackup": {
-      "version": "1.4.3",
-      "url": "https://pypi.org/project/borgbackup/1.4.3/"
+      "version": "1.4.4",
+      "url": "https://pypi.org/project/borgbackup/1.4.4/"
     },
     "bottom": {
       "version": "0.12.3",
@@ -327,9 +327,9 @@
       "url": "https://pypi.org/project/tornado/6.5.5/"
     },
     "traefik": {
-      "version": "v3.6.10",
-      "gitref": "refs/tags/v3.6.10",
-      "url": "https://github.com/traefik/traefik/releases/tag/v3.6.10"
+      "version": "v3.6.11",
+      "gitref": "refs/tags/v3.6.11",
+      "url": "https://github.com/traefik/traefik/releases/tag/v3.6.11"
     },
     "umami": {
       "version": "v3.0.3",
