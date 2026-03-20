@@ -30,9 +30,9 @@
       "url": "https://github.com/Radarr/Radarr/releases/tag/v6.0.4.10291"
     },
     "Sonarr": {
-      "version": "v4.0.16.2944",
-      "gitref": "refs/tags/v4.0.16.2944",
-      "url": "https://github.com/Sonarr/Sonarr/releases/tag/v4.0.16.2944"
+      "version": "v4.0.17.2952",
+      "gitref": "refs/tags/v4.0.17.2952",
+      "url": "https://github.com/Sonarr/Sonarr/releases/tag/v4.0.17.2952"
     },
     "YOURLS": {
       "version": "1.10.3",
@@ -99,9 +99,9 @@
       "url": "https://github.com/containers/buildah/releases/tag/v1.43.0"
     },
     "compose": {
-      "version": "v5.1.0",
-      "gitref": "refs/tags/v5.1.0",
-      "url": "https://github.com/docker/compose/releases/tag/v5.1.0"
+      "version": "v5.1.1",
+      "gitref": "refs/tags/v5.1.1",
+      "url": "https://github.com/docker/compose/releases/tag/v5.1.1"
     },
     "django": {
       "version": "6.0.3",
@@ -257,9 +257,9 @@
       "url": "https://github.com/containers/podman-compose/releases/tag/v1.5.0"
     },
     "portainer": {
-      "version": "2.39.0",
-      "gitref": "refs/tags/2.39.0",
-      "url": "https://github.com/portainer/portainer/releases/tag/2.39.0"
+      "version": "2.39.1",
+      "gitref": "refs/tags/2.39.1",
+      "url": "https://github.com/portainer/portainer/releases/tag/2.39.1"
     },
     "prometheus": {
       "version": "v3.10.0",
@@ -277,9 +277,9 @@
       "url": "https://github.com/prometheus/node_exporter/releases/tag/v1.10.2"
     },
     "pulumi": {
-      "version": "v3.226.0",
-      "gitref": "refs/tags/v3.226.0",
-      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.226.0"
+      "version": "v3.227.0",
+      "gitref": "refs/tags/v3.227.0",
+      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.227.0"
     },
     "qBittorrent": {
       "version": "release-5.1.4",
@@ -288,9 +288,9 @@
       "url": "https://github.com/qbittorrent/qBittorrent/releases/tag/release-5.1.4"
     },
     "semaphore": {
-      "version": "v2.17.26",
-      "gitref": "refs/tags/v2.17.26",
-      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.17.26"
+      "version": "v2.17.27",
+      "gitref": "refs/tags/v2.17.27",
+      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.17.27"
     },
     "sentry": {
       "version": "26.3.1",
