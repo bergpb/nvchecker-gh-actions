@@ -114,9 +114,9 @@
       "url": "https://github.com/docker/cli/releases/tag/v29.3.0"
     },
     "dockhand": {
-      "version": "v1.0.21",
-      "gitref": "refs/tags/v1.0.21",
-      "url": "https://github.com/Finsys/dockhand/releases/tag/v1.0.21"
+      "version": "v1.0.22",
+      "gitref": "refs/tags/v1.0.22",
+      "url": "https://github.com/Finsys/dockhand/releases/tag/v1.0.22"
     },
     "fastapi": {
       "version": "0.135.1",
@@ -167,14 +167,14 @@
       "url": "https://github.com/juanfont/headscale/releases/tag/v0.28.0"
     },
     "homarr": {
-      "version": "v1.56.0",
-      "gitref": "refs/tags/v1.56.0",
-      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.56.0"
+      "version": "v1.56.1",
+      "gitref": "refs/tags/v1.56.1",
+      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.56.1"
     },
     "home-assistant": {
-      "version": "2026.3.2",
-      "gitref": "refs/tags/2026.3.2",
-      "url": "https://github.com/home-assistant/core/releases/tag/2026.3.2"
+      "version": "2026.3.3",
+      "gitref": "refs/tags/2026.3.3",
+      "url": "https://github.com/home-assistant/core/releases/tag/2026.3.3"
     },
     "homepage": {
       "version": "v1.11.0",
@@ -288,9 +288,9 @@
       "url": "https://github.com/qbittorrent/qBittorrent/releases/tag/release-5.1.4"
     },
     "semaphore": {
-      "version": "v2.17.27",
-      "gitref": "refs/tags/v2.17.27",
-      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.17.27"
+      "version": "v2.17.28",
+      "gitref": "refs/tags/v2.17.28",
+      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.17.28"
     },
     "sentry": {
       "version": "26.3.1",
