@@ -119,8 +119,8 @@
       "url": "https://github.com/Finsys/dockhand/releases/tag/v1.0.22"
     },
     "fastapi": {
-      "version": "0.135.1",
-      "url": "https://pypi.org/project/fastapi/0.135.1/"
+      "version": "0.135.2",
+      "url": "https://pypi.org/project/fastapi/0.135.2/"
     },
     "fd": {
       "version": "v10.4.2",
@@ -172,9 +172,9 @@
       "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.56.1"
     },
     "home-assistant": {
-      "version": "2026.3.3",
-      "gitref": "refs/tags/2026.3.3",
-      "url": "https://github.com/home-assistant/core/releases/tag/2026.3.3"
+      "version": "2026.3.4",
+      "gitref": "refs/tags/2026.3.4",
+      "url": "https://github.com/home-assistant/core/releases/tag/2026.3.4"
     },
     "homepage": {
       "version": "v1.11.0",
@@ -226,9 +226,9 @@
       "url": "https://github.com/jagandeepbrar/lunasea/releases/tag/v11.0.0"
     },
     "meilisearch": {
-      "version": "v1.39.0",
-      "gitref": "refs/tags/v1.39.0",
-      "url": "https://github.com/meilisearch/meilisearch/releases/tag/v1.39.0"
+      "version": "v1.40.0",
+      "gitref": "refs/tags/v1.40.0",
+      "url": "https://github.com/meilisearch/meilisearch/releases/tag/v1.40.0"
     },
     "minio": {
       "version": "RELEASE.2025-10-15T17-29-55Z",
