@@ -25,9 +25,9 @@
       "url": "https://github.com/Prowlarr/Prowlarr/releases/tag/v2.3.0.5236"
     },
     "Radarr": {
-      "version": "v6.0.4.10291",
-      "gitref": "refs/tags/v6.0.4.10291",
-      "url": "https://github.com/Radarr/Radarr/releases/tag/v6.0.4.10291"
+      "version": "v6.1.1.10360",
+      "gitref": "refs/tags/v6.1.1.10360",
+      "url": "https://github.com/Radarr/Radarr/releases/tag/v6.1.1.10360"
     },
     "Sonarr": {
       "version": "v4.0.17.2952",
@@ -303,9 +303,9 @@
       "url": "https://github.com/containers/skopeo/releases/tag/v1.22.0"
     },
     "speedtest-tracker": {
-      "version": "v1.13.11",
-      "gitref": "refs/tags/v1.13.11",
-      "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.13.11"
+      "version": "v1.13.12",
+      "gitref": "refs/tags/v1.13.12",
+      "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.13.12"
     },
     "swarm-cronjob": {
       "version": "v1.15.0",
