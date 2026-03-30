@@ -44,9 +44,9 @@
       "url": "https://pypi.org/project/ansible/13.5.0/"
     },
     "argocd": {
-      "version": "v3.3.5",
-      "gitref": "refs/tags/v3.3.5",
-      "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.3.5"
+      "version": "v3.3.6",
+      "gitref": "refs/tags/v3.3.6",
+      "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.3.6"
     },
     "awx": {
       "version": "24.6.1",
@@ -70,9 +70,9 @@
       "url": "https://github.com/morpheus65535/bazarr/releases/tag/v1.5.6"
     },
     "beszel": {
-      "version": "v0.18.4",
-      "gitref": "refs/tags/v0.18.4",
-      "url": "https://github.com/henrygd/beszel/releases/tag/v0.18.4"
+      "version": "v0.18.6",
+      "gitref": "refs/tags/v0.18.6",
+      "url": "https://github.com/henrygd/beszel/releases/tag/v0.18.6"
     },
     "bitwarden-desktop": {
       "version": "v2022.5.1",
@@ -167,9 +167,9 @@
       "url": "https://github.com/juanfont/headscale/releases/tag/v0.28.0"
     },
     "homarr": {
-      "version": "v1.56.1",
-      "gitref": "refs/tags/v1.56.1",
-      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.56.1"
+      "version": "v1.57.1",
+      "gitref": "refs/tags/v1.57.1",
+      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.57.1"
     },
     "home-assistant": {
       "version": "2026.3.4",
@@ -177,9 +177,9 @@
       "url": "https://github.com/home-assistant/core/releases/tag/2026.3.4"
     },
     "homepage": {
-      "version": "v1.11.0",
-      "gitref": "refs/tags/v1.11.0",
-      "url": "https://github.com/gethomepage/homepage/releases/tag/v1.11.0"
+      "version": "v1.12.1",
+      "gitref": "refs/tags/v1.12.1",
+      "url": "https://github.com/gethomepage/homepage/releases/tag/v1.12.1"
     },
     "insomnia": {
       "version": "core@12.4.0",
@@ -288,9 +288,9 @@
       "url": "https://github.com/qbittorrent/qBittorrent/releases/tag/release-5.1.4"
     },
     "semaphore": {
-      "version": "v2.17.30",
-      "gitref": "refs/tags/v2.17.30",
-      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.17.30"
+      "version": "v2.17.31",
+      "gitref": "refs/tags/v2.17.31",
+      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.17.31"
     },
     "sentry": {
       "version": "26.3.1",
