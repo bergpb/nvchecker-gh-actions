@@ -172,14 +172,14 @@
       "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.57.1"
     },
     "home-assistant": {
-      "version": "2026.3.4",
-      "gitref": "refs/tags/2026.3.4",
-      "url": "https://github.com/home-assistant/core/releases/tag/2026.3.4"
+      "version": "2026.4.0",
+      "gitref": "refs/tags/2026.4.0",
+      "url": "https://github.com/home-assistant/core/releases/tag/2026.4.0"
     },
     "homepage": {
-      "version": "v1.12.1",
-      "gitref": "refs/tags/v1.12.1",
-      "url": "https://github.com/gethomepage/homepage/releases/tag/v1.12.1"
+      "version": "v1.12.2",
+      "gitref": "refs/tags/v1.12.2",
+      "url": "https://github.com/gethomepage/homepage/releases/tag/v1.12.2"
     },
     "insomnia": {
       "version": "core@12.4.0",
@@ -187,9 +187,9 @@
       "url": "https://github.com/Kong/insomnia/releases/tag/core%4012.4.0"
     },
     "jellyfin": {
-      "version": "v10.11.6",
-      "gitref": "refs/tags/v10.11.6",
-      "url": "https://github.com/jellyfin/jellyfin/releases/tag/v10.11.6"
+      "version": "v10.11.7",
+      "gitref": "refs/tags/v10.11.7",
+      "url": "https://github.com/jellyfin/jellyfin/releases/tag/v10.11.7"
     },
     "jellyseerr": {
       "version": "v3.1.0",
@@ -288,9 +288,9 @@
       "url": "https://github.com/qbittorrent/qBittorrent/releases/tag/release-5.1.4"
     },
     "semaphore": {
-      "version": "v2.17.31",
-      "gitref": "refs/tags/v2.17.31",
-      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.17.31"
+      "version": "v2.17.32",
+      "gitref": "refs/tags/v2.17.32",
+      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.17.32"
     },
     "sentry": {
       "version": "26.3.1",
