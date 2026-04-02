@@ -119,8 +119,8 @@
       "url": "https://github.com/Finsys/dockhand/releases/tag/v1.0.22"
     },
     "fastapi": {
-      "version": "0.135.2",
-      "url": "https://pypi.org/project/fastapi/0.135.2/"
+      "version": "0.135.3",
+      "url": "https://pypi.org/project/fastapi/0.135.3/"
     },
     "fd": {
       "version": "v10.4.2",
@@ -177,14 +177,14 @@
       "url": "https://github.com/home-assistant/core/releases/tag/2026.4.0"
     },
     "homepage": {
-      "version": "v1.12.2",
-      "gitref": "refs/tags/v1.12.2",
-      "url": "https://github.com/gethomepage/homepage/releases/tag/v1.12.2"
+      "version": "v1.12.3",
+      "gitref": "refs/tags/v1.12.3",
+      "url": "https://github.com/gethomepage/homepage/releases/tag/v1.12.3"
     },
     "insomnia": {
-      "version": "core@12.4.0",
-      "gitref": "refs/tags/core@12.4.0",
-      "url": "https://github.com/Kong/insomnia/releases/tag/core%4012.4.0"
+      "version": "core@12.5.0",
+      "gitref": "refs/tags/core@12.5.0",
+      "url": "https://github.com/Kong/insomnia/releases/tag/core%4012.5.0"
     },
     "jellyfin": {
       "version": "v10.11.7",
@@ -262,9 +262,9 @@
       "url": "https://github.com/portainer/portainer/releases/tag/2.39.1"
     },
     "prometheus": {
-      "version": "v3.10.0",
-      "gitref": "refs/tags/v3.10.0",
-      "url": "https://github.com/prometheus/prometheus/releases/tag/v3.10.0"
+      "version": "v3.11.0",
+      "gitref": "refs/tags/v3.11.0",
+      "url": "https://github.com/prometheus/prometheus/releases/tag/v3.11.0"
     },
     "prometheus-blackbox_exporter": {
       "version": "v0.28.0",
@@ -288,9 +288,9 @@
       "url": "https://github.com/qbittorrent/qBittorrent/releases/tag/release-5.1.4"
     },
     "semaphore": {
-      "version": "v2.17.32",
-      "gitref": "refs/tags/v2.17.32",
-      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.17.32"
+      "version": "v2.17.33",
+      "gitref": "refs/tags/v2.17.33",
+      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.17.33"
     },
     "sentry": {
       "version": "26.3.1",
@@ -318,9 +318,9 @@
       "url": "https://github.com/hashicorp/terraform/releases/tag/v1.14.8"
     },
     "tinyauth": {
-      "version": "v5.0.4",
-      "gitref": "refs/tags/v5.0.4",
-      "url": "https://github.com/steveiliop56/tinyauth/releases/tag/v5.0.4"
+      "version": "v5.0.5",
+      "gitref": "refs/tags/v5.0.5",
+      "url": "https://github.com/steveiliop56/tinyauth/releases/tag/v5.0.5"
     },
     "tornado": {
       "version": "6.5.5",
