@@ -114,9 +114,9 @@
       "url": "https://github.com/docker/cli/releases/tag/v29.3.1"
     },
     "dockhand": {
-      "version": "v1.0.22",
-      "gitref": "refs/tags/v1.0.22",
-      "url": "https://github.com/Finsys/dockhand/releases/tag/v1.0.22"
+      "version": "1.0.23",
+      "gitref": "refs/tags/1.0.23",
+      "url": "https://github.com/Finsys/dockhand/releases/tag/1.0.23"
     },
     "fastapi": {
       "version": "0.135.3",
@@ -277,9 +277,9 @@
       "url": "https://github.com/prometheus/node_exporter/releases/tag/v1.10.2"
     },
     "pulumi": {
-      "version": "v3.228.0",
-      "gitref": "refs/tags/v3.228.0",
-      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.228.0"
+      "version": "v3.229.0",
+      "gitref": "refs/tags/v3.229.0",
+      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.229.0"
     },
     "qBittorrent": {
       "version": "release-5.1.4",
@@ -318,9 +318,9 @@
       "url": "https://github.com/hashicorp/terraform/releases/tag/v1.14.8"
     },
     "tinyauth": {
-      "version": "v5.0.5",
-      "gitref": "refs/tags/v5.0.5",
-      "url": "https://github.com/steveiliop56/tinyauth/releases/tag/v5.0.5"
+      "version": "v5.0.6",
+      "gitref": "refs/tags/v5.0.6",
+      "url": "https://github.com/steveiliop56/tinyauth/releases/tag/v5.0.6"
     },
     "tornado": {
       "version": "6.5.5",
