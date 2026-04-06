@@ -20,9 +20,9 @@
       "url": "https://github.com/FlareSolverr/FlareSolverr/releases/tag/v3.4.6"
     },
     "Prowlarr": {
-      "version": "v2.3.0.5236",
-      "gitref": "refs/tags/v2.3.0.5236",
-      "url": "https://github.com/Prowlarr/Prowlarr/releases/tag/v2.3.0.5236"
+      "version": "v2.3.5.5327",
+      "gitref": "refs/tags/v2.3.5.5327",
+      "url": "https://github.com/Prowlarr/Prowlarr/releases/tag/v2.3.5.5327"
     },
     "Radarr": {
       "version": "v6.1.1.10360",
@@ -70,9 +70,9 @@
       "url": "https://github.com/morpheus65535/bazarr/releases/tag/v1.5.6"
     },
     "beszel": {
-      "version": "v0.18.6",
-      "gitref": "refs/tags/v0.18.6",
-      "url": "https://github.com/henrygd/beszel/releases/tag/v0.18.6"
+      "version": "v0.18.7",
+      "gitref": "refs/tags/v0.18.7",
+      "url": "https://github.com/henrygd/beszel/releases/tag/v0.18.7"
     },
     "bitwarden-desktop": {
       "version": "v2022.5.1",
@@ -108,15 +108,15 @@
       "url": "https://pypi.org/project/Django/6.0.3/"
     },
     "docker-cli": {
-      "version": "v29.3.1",
-      "gitref": "refs/tags/v29.3.1",
-      "revision": "1217c5f84d79514e107a3b0bcb20ace290c83841",
-      "url": "https://github.com/docker/cli/releases/tag/v29.3.1"
+      "version": "v29.4.0-rc.1",
+      "gitref": "refs/tags/v29.4.0-rc.1",
+      "revision": "8c8967dcaf2992e459a4793cd2bb017d95b9cac9",
+      "url": "https://github.com/docker/cli/releases/tag/v29.4.0-rc.1"
     },
     "dockhand": {
-      "version": "1.0.23",
-      "gitref": "refs/tags/1.0.23",
-      "url": "https://github.com/Finsys/dockhand/releases/tag/1.0.23"
+      "version": "v1.0.24",
+      "gitref": "refs/tags/v1.0.24",
+      "url": "https://github.com/Finsys/dockhand/releases/tag/v1.0.24"
     },
     "fastapi": {
       "version": "0.135.3",
@@ -137,9 +137,9 @@
       "url": "https://github.com/FreshRSS/FreshRSS/releases/tag/1.28.1"
     },
     "fzf": {
-      "version": "v0.70.0",
-      "gitref": "refs/tags/v0.70.0",
-      "url": "https://github.com/junegunn/fzf/releases/tag/v0.70.0"
+      "version": "v0.71.0",
+      "gitref": "refs/tags/v0.71.0",
+      "url": "https://github.com/junegunn/fzf/releases/tag/v0.71.0"
     },
     "gatus": {
       "version": "v5.35.0",
@@ -167,14 +167,14 @@
       "url": "https://github.com/juanfont/headscale/releases/tag/v0.28.0"
     },
     "homarr": {
-      "version": "v1.57.1",
-      "gitref": "refs/tags/v1.57.1",
-      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.57.1"
+      "version": "v1.58.1",
+      "gitref": "refs/tags/v1.58.1",
+      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.58.1"
     },
     "home-assistant": {
-      "version": "2026.4.0",
-      "gitref": "refs/tags/2026.4.0",
-      "url": "https://github.com/home-assistant/core/releases/tag/2026.4.0"
+      "version": "2026.4.1",
+      "gitref": "refs/tags/2026.4.1",
+      "url": "https://github.com/home-assistant/core/releases/tag/2026.4.1"
     },
     "homepage": {
       "version": "v1.12.3",
@@ -187,9 +187,9 @@
       "url": "https://github.com/Kong/insomnia/releases/tag/core%4012.5.0"
     },
     "jellyfin": {
-      "version": "v10.11.7",
-      "gitref": "refs/tags/v10.11.7",
-      "url": "https://github.com/jellyfin/jellyfin/releases/tag/v10.11.7"
+      "version": "v10.11.8",
+      "gitref": "refs/tags/v10.11.8",
+      "url": "https://github.com/jellyfin/jellyfin/releases/tag/v10.11.8"
     },
     "jellyseerr": {
       "version": "v3.1.0",
@@ -242,9 +242,9 @@
       "url": "https://github.com/lilydjwg/nvchecker/releases/tag/v2.20"
     },
     "pi-hole": {
-      "version": "v6.4",
-      "gitref": "refs/tags/v6.4",
-      "url": "https://github.com/pi-hole/pi-hole/releases/tag/v6.4"
+      "version": "v6.4.1",
+      "gitref": "refs/tags/v6.4.1",
+      "url": "https://github.com/pi-hole/pi-hole/releases/tag/v6.4.1"
     },
     "podman": {
       "version": "v5.8.1",
@@ -272,9 +272,9 @@
       "url": "https://github.com/prometheus/blackbox_exporter/releases/tag/v0.28.0"
     },
     "prometheus-node_exporter": {
-      "version": "v1.10.2",
-      "gitref": "refs/tags/v1.10.2",
-      "url": "https://github.com/prometheus/node_exporter/releases/tag/v1.10.2"
+      "version": "v1.11.0",
+      "gitref": "refs/tags/v1.11.0",
+      "url": "https://github.com/prometheus/node_exporter/releases/tag/v1.11.0"
     },
     "pulumi": {
       "version": "v3.229.0",
