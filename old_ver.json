@@ -108,10 +108,10 @@
       "url": "https://pypi.org/project/Django/6.0.3/"
     },
     "docker-cli": {
-      "version": "v29.4.0-rc.1",
-      "gitref": "refs/tags/v29.4.0-rc.1",
-      "revision": "8c8967dcaf2992e459a4793cd2bb017d95b9cac9",
-      "url": "https://github.com/docker/cli/releases/tag/v29.4.0-rc.1"
+      "version": "v29.4.0",
+      "gitref": "refs/tags/v29.4.0",
+      "revision": "2a467421f79600f9f80f07bebdf1077cd04ca6af",
+      "url": "https://github.com/docker/cli/releases/tag/v29.4.0"
     },
     "dockhand": {
       "version": "v1.0.24",
@@ -327,9 +327,9 @@
       "url": "https://pypi.org/project/tornado/6.5.5/"
     },
     "traefik": {
-      "version": "v3.6.12",
-      "gitref": "refs/tags/v3.6.12",
-      "url": "https://github.com/traefik/traefik/releases/tag/v3.6.12"
+      "version": "v3.6.13",
+      "gitref": "refs/tags/v3.6.13",
+      "url": "https://github.com/traefik/traefik/releases/tag/v3.6.13"
     },
     "umami": {
       "version": "v3.0.3",
