@@ -298,9 +298,9 @@
       "url": "https://github.com/getsentry/self-hosted/releases/tag/26.3.1"
     },
     "skopeo": {
-      "version": "v1.22.0",
-      "gitref": "refs/tags/v1.22.0",
-      "url": "https://github.com/containers/skopeo/releases/tag/v1.22.0"
+      "version": "v1.22.1",
+      "gitref": "refs/tags/v1.22.1",
+      "url": "https://github.com/containers/skopeo/releases/tag/v1.22.1"
     },
     "speedtest-tracker": {
       "version": "v1.13.12",
