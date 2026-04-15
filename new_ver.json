@@ -226,9 +226,9 @@
       "url": "https://github.com/jagandeepbrar/lunasea/releases/tag/v11.0.0"
     },
     "meilisearch": {
-      "version": "v1.42.0",
-      "gitref": "refs/tags/v1.42.0",
-      "url": "https://github.com/meilisearch/meilisearch/releases/tag/v1.42.0"
+      "version": "v1.42.1",
+      "gitref": "refs/tags/v1.42.1",
+      "url": "https://github.com/meilisearch/meilisearch/releases/tag/v1.42.1"
     },
     "minio": {
       "version": "RELEASE.2025-10-15T17-29-55Z",
@@ -247,9 +247,9 @@
       "url": "https://github.com/pi-hole/pi-hole/releases/tag/v6.4.1"
     },
     "podman": {
-      "version": "v5.8.1",
-      "gitref": "refs/tags/v5.8.1",
-      "url": "https://github.com/containers/podman/releases/tag/v5.8.1"
+      "version": "v5.8.2",
+      "gitref": "refs/tags/v5.8.2",
+      "url": "https://github.com/containers/podman/releases/tag/v5.8.2"
     },
     "podman-compose": {
       "version": "v1.5.0",
@@ -298,9 +298,9 @@
       "url": "https://github.com/getsentry/self-hosted/releases/tag/26.3.1"
     },
     "skopeo": {
-      "version": "v1.22.1",
-      "gitref": "refs/tags/v1.22.1",
-      "url": "https://github.com/containers/skopeo/releases/tag/v1.22.1"
+      "version": "v1.22.2",
+      "gitref": "refs/tags/v1.22.2",
+      "url": "https://github.com/containers/skopeo/releases/tag/v1.22.2"
     },
     "speedtest-tracker": {
       "version": "v1.13.12",
