@@ -99,9 +99,9 @@
       "url": "https://github.com/containers/buildah/releases/tag/v1.43.1"
     },
     "compose": {
-      "version": "v5.1.2",
-      "gitref": "refs/tags/v5.1.2",
-      "url": "https://github.com/docker/compose/releases/tag/v5.1.2"
+      "version": "v5.1.3",
+      "gitref": "refs/tags/v5.1.3",
+      "url": "https://github.com/docker/compose/releases/tag/v5.1.3"
     },
     "django": {
       "version": "6.0.4",
@@ -119,8 +119,8 @@
       "url": "https://github.com/Finsys/dockhand/releases/tag/v1.0.24"
     },
     "fastapi": {
-      "version": "0.135.3",
-      "url": "https://pypi.org/project/fastapi/0.135.3/"
+      "version": "0.136.0",
+      "url": "https://pypi.org/project/fastapi/0.136.0/"
     },
     "fd": {
       "version": "v10.4.2",
@@ -192,9 +192,9 @@
       "url": "https://github.com/jellyfin/jellyfin/releases/tag/v10.11.8"
     },
     "jellyseerr": {
-      "version": "v3.1.1",
-      "gitref": "refs/tags/v3.1.1",
-      "url": "https://github.com/seerr-team/seerr/releases/tag/v3.1.1"
+      "version": "v3.2.0",
+      "gitref": "refs/tags/v3.2.0",
+      "url": "https://github.com/seerr-team/seerr/releases/tag/v3.2.0"
     },
     "jq": {
       "version": "jq-1.8.1",
