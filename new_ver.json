@@ -44,9 +44,9 @@
       "url": "https://pypi.org/project/ansible/13.5.0/"
     },
     "argocd": {
-      "version": "v3.3.6",
-      "gitref": "refs/tags/v3.3.6",
-      "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.3.6"
+      "version": "v3.3.7",
+      "gitref": "refs/tags/v3.3.7",
+      "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.3.7"
     },
     "awx": {
       "version": "24.6.1",
@@ -152,9 +152,9 @@
       "url": "https://github.com/gotify/server/releases/tag/v2.9.1"
     },
     "grafana": {
-      "version": "v13.0.0",
-      "gitref": "refs/tags/v13.0.0",
-      "url": "https://github.com/grafana/grafana/releases/tag/v13.0.0"
+      "version": "v13.0.1",
+      "gitref": "refs/tags/v13.0.1",
+      "url": "https://github.com/grafana/grafana/releases/tag/v13.0.1"
     },
     "hatch": {
       "version": "hatch-v1.16.5",
@@ -277,9 +277,9 @@
       "url": "https://github.com/prometheus/node_exporter/releases/tag/v1.11.1"
     },
     "pulumi": {
-      "version": "v3.230.0",
-      "gitref": "refs/tags/v3.230.0",
-      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.230.0"
+      "version": "v3.231.0",
+      "gitref": "refs/tags/v3.231.0",
+      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.231.0"
     },
     "qBittorrent": {
       "version": "release-5.1.4",
@@ -293,9 +293,9 @@
       "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.17.36"
     },
     "sentry": {
-      "version": "26.3.1",
-      "gitref": "refs/tags/26.3.1",
-      "url": "https://github.com/getsentry/self-hosted/releases/tag/26.3.1"
+      "version": "26.4.0",
+      "gitref": "refs/tags/26.4.0",
+      "url": "https://github.com/getsentry/self-hosted/releases/tag/26.4.0"
     },
     "skopeo": {
       "version": "v1.22.2",
@@ -318,9 +318,9 @@
       "url": "https://github.com/hashicorp/terraform/releases/tag/v1.14.8"
     },
     "tinyauth": {
-      "version": "v5.0.6",
-      "gitref": "refs/tags/v5.0.6",
-      "url": "https://github.com/steveiliop56/tinyauth/releases/tag/v5.0.6"
+      "version": "v5.0.7",
+      "gitref": "refs/tags/v5.0.7",
+      "url": "https://github.com/steveiliop56/tinyauth/releases/tag/v5.0.7"
     },
     "tornado": {
       "version": "6.5.5",
@@ -332,9 +332,9 @@
       "url": "https://github.com/traefik/traefik/releases/tag/v3.6.13"
     },
     "umami": {
-      "version": "v3.0.3",
-      "gitref": "refs/tags/v3.0.3",
-      "url": "https://github.com/umami-software/umami/releases/tag/v3.0.3"
+      "version": "v3.1.0",
+      "gitref": "refs/tags/v3.1.0",
+      "url": "https://github.com/umami-software/umami/releases/tag/v3.1.0"
     },
     "uptime-kuma": {
       "version": "2.2.1",
