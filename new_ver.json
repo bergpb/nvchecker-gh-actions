@@ -114,9 +114,9 @@
       "url": "https://github.com/docker/cli/releases/tag/v29.4.0"
     },
     "dockhand": {
-      "version": "v1.0.24",
-      "gitref": "refs/tags/v1.0.24",
-      "url": "https://github.com/Finsys/dockhand/releases/tag/v1.0.24"
+      "version": "v1.0.26",
+      "gitref": "refs/tags/v1.0.26",
+      "url": "https://github.com/Finsys/dockhand/releases/tag/v1.0.26"
     },
     "fastapi": {
       "version": "0.136.0",
@@ -167,14 +167,14 @@
       "url": "https://github.com/juanfont/headscale/releases/tag/v0.28.0"
     },
     "homarr": {
-      "version": "v1.59.1",
-      "gitref": "refs/tags/v1.59.1",
-      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.59.1"
+      "version": "v1.59.2",
+      "gitref": "refs/tags/v1.59.2",
+      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.59.2"
     },
     "home-assistant": {
-      "version": "2026.4.2",
-      "gitref": "refs/tags/2026.4.2",
-      "url": "https://github.com/home-assistant/core/releases/tag/2026.4.2"
+      "version": "2026.4.3",
+      "gitref": "refs/tags/2026.4.3",
+      "url": "https://github.com/home-assistant/core/releases/tag/2026.4.3"
     },
     "homepage": {
       "version": "v1.12.3",
@@ -211,9 +211,9 @@
       "url": "https://pypi.org/project/kombu/5.6.2/"
     },
     "lazydocker": {
-      "version": "v0.25.0",
-      "gitref": "refs/tags/v0.25.0",
-      "url": "https://github.com/jesseduffield/lazydocker/releases/tag/v0.25.0"
+      "version": "v0.25.2",
+      "gitref": "refs/tags/v0.25.2",
+      "url": "https://github.com/jesseduffield/lazydocker/releases/tag/v0.25.2"
     },
     "linkwarden": {
       "version": "v2.14.0",
@@ -303,9 +303,9 @@
       "url": "https://github.com/containers/skopeo/releases/tag/v1.22.2"
     },
     "speedtest-tracker": {
-      "version": "v1.13.12",
-      "gitref": "refs/tags/v1.13.12",
-      "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.13.12"
+      "version": "v1.14.0",
+      "gitref": "refs/tags/v1.14.0",
+      "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.14.0"
     },
     "swarm-cronjob": {
       "version": "v1.15.0",
