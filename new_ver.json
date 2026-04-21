@@ -108,10 +108,10 @@
       "url": "https://pypi.org/project/Django/6.0.4/"
     },
     "docker-cli": {
-      "version": "v29.4.0",
-      "gitref": "refs/tags/v29.4.0",
-      "revision": "2a467421f79600f9f80f07bebdf1077cd04ca6af",
-      "url": "https://github.com/docker/cli/releases/tag/v29.4.0"
+      "version": "v29.4.1",
+      "gitref": "refs/tags/v29.4.1",
+      "revision": "407f3428e5c5a3a4088f9268bc7159f5e0f95bea",
+      "url": "https://github.com/docker/cli/releases/tag/v29.4.1"
     },
     "dockhand": {
       "version": "v1.0.26",
@@ -313,9 +313,9 @@
       "url": "https://github.com/crazy-max/swarm-cronjob/releases/tag/v1.15.0"
     },
     "terraform": {
-      "version": "v1.14.8",
-      "gitref": "refs/tags/v1.14.8",
-      "url": "https://github.com/hashicorp/terraform/releases/tag/v1.14.8"
+      "version": "v1.14.9",
+      "gitref": "refs/tags/v1.14.9",
+      "url": "https://github.com/hashicorp/terraform/releases/tag/v1.14.9"
     },
     "tinyauth": {
       "version": "v5.0.7",
