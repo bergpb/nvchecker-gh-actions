@@ -40,13 +40,13 @@
       "url": "https://github.com/YOURLS/YOURLS/releases/tag/1.10.3"
     },
     "ansible": {
-      "version": "13.5.0",
-      "url": "https://pypi.org/project/ansible/13.5.0/"
+      "version": "13.6.0",
+      "url": "https://pypi.org/project/ansible/13.6.0/"
     },
     "argocd": {
-      "version": "v3.3.7",
-      "gitref": "refs/tags/v3.3.7",
-      "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.3.7"
+      "version": "v3.3.8",
+      "gitref": "refs/tags/v3.3.8",
+      "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.3.8"
     },
     "awx": {
       "version": "24.6.1",
@@ -288,9 +288,9 @@
       "url": "https://github.com/qbittorrent/qBittorrent/releases/tag/release-5.1.4"
     },
     "semaphore": {
-      "version": "v2.17.36",
-      "gitref": "refs/tags/v2.17.36",
-      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.17.36"
+      "version": "v2.17.38",
+      "gitref": "refs/tags/v2.17.38",
+      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.17.38"
     },
     "sentry": {
       "version": "26.4.0",
@@ -327,9 +327,9 @@
       "url": "https://pypi.org/project/tornado/6.5.5/"
     },
     "traefik": {
-      "version": "v3.6.13",
-      "gitref": "refs/tags/v3.6.13",
-      "url": "https://github.com/traefik/traefik/releases/tag/v3.6.13"
+      "version": "v3.6.14",
+      "gitref": "refs/tags/v3.6.14",
+      "url": "https://github.com/traefik/traefik/releases/tag/v3.6.14"
     },
     "umami": {
       "version": "v3.1.0",
