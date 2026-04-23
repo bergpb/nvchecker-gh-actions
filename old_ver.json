@@ -216,9 +216,9 @@
       "url": "https://github.com/jesseduffield/lazydocker/releases/tag/v0.25.2"
     },
     "linkwarden": {
-      "version": "v2.14.0",
-      "gitref": "refs/tags/v2.14.0",
-      "url": "https://github.com/linkwarden/linkwarden/releases/tag/v2.14.0"
+      "version": "v2.14.1",
+      "gitref": "refs/tags/v2.14.1",
+      "url": "https://github.com/linkwarden/linkwarden/releases/tag/v2.14.1"
     },
     "lunasea": {
       "version": "v11.0.0",
@@ -277,9 +277,9 @@
       "url": "https://github.com/prometheus/node_exporter/releases/tag/v1.11.1"
     },
     "pulumi": {
-      "version": "v3.231.0",
-      "gitref": "refs/tags/v3.231.0",
-      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.231.0"
+      "version": "v3.232.0",
+      "gitref": "refs/tags/v3.232.0",
+      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.232.0"
     },
     "qBittorrent": {
       "version": "release-5.1.4",
@@ -293,9 +293,9 @@
       "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.17.38"
     },
     "sentry": {
-      "version": "26.4.0",
-      "gitref": "refs/tags/26.4.0",
-      "url": "https://github.com/getsentry/self-hosted/releases/tag/26.4.0"
+      "version": "26.4.1",
+      "gitref": "refs/tags/26.4.1",
+      "url": "https://github.com/getsentry/self-hosted/releases/tag/26.4.1"
     },
     "skopeo": {
       "version": "v1.22.2",
