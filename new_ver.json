@@ -119,8 +119,8 @@
       "url": "https://github.com/Finsys/dockhand/releases/tag/v1.0.26"
     },
     "fastapi": {
-      "version": "0.136.0",
-      "url": "https://pypi.org/project/fastapi/0.136.0/"
+      "version": "0.136.1",
+      "url": "https://pypi.org/project/fastapi/0.136.1/"
     },
     "fd": {
       "version": "v10.4.2",
@@ -308,9 +308,9 @@
       "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.14.0"
     },
     "swarm-cronjob": {
-      "version": "v1.15.0",
-      "gitref": "refs/tags/v1.15.0",
-      "url": "https://github.com/crazy-max/swarm-cronjob/releases/tag/v1.15.0"
+      "version": "v1.16.0",
+      "gitref": "refs/tags/v1.16.0",
+      "url": "https://github.com/crazy-max/swarm-cronjob/releases/tag/v1.16.0"
     },
     "terraform": {
       "version": "v1.14.9",
