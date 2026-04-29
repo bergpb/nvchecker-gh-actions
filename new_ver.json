@@ -7,8 +7,8 @@
       "url": "https://github.com/antares-sql/antares/releases/tag/v0.7.35"
     },
     "Beancount": {
-      "version": "3.2.0",
-      "url": "https://pypi.org/project/beancount/3.2.0/"
+      "version": "3.2.1",
+      "url": "https://pypi.org/project/beancount/3.2.1/"
     },
     "Celery": {
       "version": "5.6.3",
@@ -262,9 +262,9 @@
       "url": "https://github.com/portainer/portainer/releases/tag/2.39.1"
     },
     "prometheus": {
-      "version": "v3.11.2",
-      "gitref": "refs/tags/v3.11.2",
-      "url": "https://github.com/prometheus/prometheus/releases/tag/v3.11.2"
+      "version": "v3.11.3",
+      "gitref": "refs/tags/v3.11.3",
+      "url": "https://github.com/prometheus/prometheus/releases/tag/v3.11.3"
     },
     "prometheus-blackbox_exporter": {
       "version": "v0.28.0",
@@ -327,9 +327,9 @@
       "url": "https://pypi.org/project/tornado/6.5.5/"
     },
     "traefik": {
-      "version": "v3.6.14",
-      "gitref": "refs/tags/v3.6.14",
-      "url": "https://github.com/traefik/traefik/releases/tag/v3.6.14"
+      "version": "v3.6.15",
+      "gitref": "refs/tags/v3.6.15",
+      "url": "https://github.com/traefik/traefik/releases/tag/v3.6.15"
     },
     "umami": {
       "version": "v3.1.0",
