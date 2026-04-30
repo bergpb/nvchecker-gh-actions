@@ -7,8 +7,8 @@
       "url": "https://github.com/antares-sql/antares/releases/tag/v0.7.35"
     },
     "Beancount": {
-      "version": "3.2.1",
-      "url": "https://pypi.org/project/beancount/3.2.1/"
+      "version": "3.2.2",
+      "url": "https://pypi.org/project/beancount/3.2.2/"
     },
     "Celery": {
       "version": "5.6.3",
@@ -288,9 +288,9 @@
       "url": "https://github.com/qbittorrent/qBittorrent/releases/tag/release-5.1.4"
     },
     "semaphore": {
-      "version": "v2.17.38",
-      "gitref": "refs/tags/v2.17.38",
-      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.17.38"
+      "version": "v2.17.39",
+      "gitref": "refs/tags/v2.17.39",
+      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.17.39"
     },
     "sentry": {
       "version": "26.4.1",
@@ -313,9 +313,9 @@
       "url": "https://github.com/crazy-max/swarm-cronjob/releases/tag/v1.16.0"
     },
     "terraform": {
-      "version": "v1.14.9",
-      "gitref": "refs/tags/v1.14.9",
-      "url": "https://github.com/hashicorp/terraform/releases/tag/v1.14.9"
+      "version": "v1.15.0",
+      "gitref": "refs/tags/v1.15.0",
+      "url": "https://github.com/hashicorp/terraform/releases/tag/v1.15.0"
     },
     "tinyauth": {
       "version": "v5.0.7",
