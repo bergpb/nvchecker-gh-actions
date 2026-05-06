@@ -7,8 +7,8 @@
       "url": "https://github.com/antares-sql/antares/releases/tag/v0.7.35"
     },
     "Beancount": {
-      "version": "3.2.2",
-      "url": "https://pypi.org/project/beancount/3.2.2/"
+      "version": "3.2.3",
+      "url": "https://pypi.org/project/beancount/3.2.3/"
     },
     "Celery": {
       "version": "5.6.3",
@@ -44,9 +44,9 @@
       "url": "https://pypi.org/project/ansible/13.6.0/"
     },
     "argocd": {
-      "version": "v3.3.9",
-      "gitref": "refs/tags/v3.3.9",
-      "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.3.9"
+      "version": "v3.4.1",
+      "gitref": "refs/tags/v3.4.1",
+      "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.4.1"
     },
     "awx": {
       "version": "24.6.1",
@@ -104,8 +104,8 @@
       "url": "https://github.com/docker/compose/releases/tag/v5.1.3"
     },
     "django": {
-      "version": "6.0.4",
-      "url": "https://pypi.org/project/Django/6.0.4/"
+      "version": "6.0.5",
+      "url": "https://pypi.org/project/Django/6.0.5/"
     },
     "docker-cli": {
       "version": "v29.4.2",
@@ -277,9 +277,9 @@
       "url": "https://github.com/prometheus/node_exporter/releases/tag/v1.11.1"
     },
     "pulumi": {
-      "version": "v3.234.0",
-      "gitref": "refs/tags/v3.234.0",
-      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.234.0"
+      "version": "v3.235.0",
+      "gitref": "refs/tags/v3.235.0",
+      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.235.0"
     },
     "qBittorrent": {
       "version": "release-5.2.0",
@@ -293,9 +293,9 @@
       "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.18.1"
     },
     "sentry": {
-      "version": "26.4.1",
-      "gitref": "refs/tags/26.4.1",
-      "url": "https://github.com/getsentry/self-hosted/releases/tag/26.4.1"
+      "version": "26.4.2",
+      "gitref": "refs/tags/26.4.2",
+      "url": "https://github.com/getsentry/self-hosted/releases/tag/26.4.2"
     },
     "skopeo": {
       "version": "v1.22.2",
@@ -327,9 +327,9 @@
       "url": "https://pypi.org/project/tornado/6.5.5/"
     },
     "traefik": {
-      "version": "v3.6.15",
-      "gitref": "refs/tags/v3.6.15",
-      "url": "https://github.com/traefik/traefik/releases/tag/v3.6.15"
+      "version": "v3.7.0",
+      "gitref": "refs/tags/v3.7.0",
+      "url": "https://github.com/traefik/traefik/releases/tag/v3.7.0"
     },
     "umami": {
       "version": "v3.1.0",
