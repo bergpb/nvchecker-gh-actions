@@ -108,10 +108,10 @@
       "url": "https://pypi.org/project/Django/6.0.5/"
     },
     "docker-cli": {
-      "version": "v29.4.3",
-      "gitref": "refs/tags/v29.4.3",
-      "revision": "055a478ea9010a19d0d4674c0d0e87ade37a4223",
-      "url": "https://github.com/docker/cli/releases/tag/v29.4.3"
+      "version": "v29.5.0-rc.1",
+      "gitref": "refs/tags/v29.5.0-rc.1",
+      "revision": "c3d3e43e5c9469c774017144fcaf3f5377bc4838",
+      "url": "https://github.com/docker/cli/releases/tag/v29.5.0-rc.1"
     },
     "dockhand": {
       "version": "v1.0.28",
@@ -152,9 +152,9 @@
       "url": "https://github.com/gotify/server/releases/tag/v2.9.1"
     },
     "grafana": {
-      "version": "v13.0.1",
-      "gitref": "refs/tags/v13.0.1",
-      "url": "https://github.com/grafana/grafana/releases/tag/v13.0.1"
+      "version": "v13.0.1+security-01",
+      "gitref": "refs/tags/v13.0.1+security-01",
+      "url": "https://github.com/grafana/grafana/releases/tag/v13.0.1%2Bsecurity-01"
     },
     "hatch": {
       "version": "hatch-v1.16.5",
@@ -177,9 +177,9 @@
       "url": "https://github.com/home-assistant/core/releases/tag/2026.5.1"
     },
     "homepage": {
-      "version": "v1.13.0",
-      "gitref": "refs/tags/v1.13.0",
-      "url": "https://github.com/gethomepage/homepage/releases/tag/v1.13.0"
+      "version": "v1.13.1",
+      "gitref": "refs/tags/v1.13.1",
+      "url": "https://github.com/gethomepage/homepage/releases/tag/v1.13.1"
     },
     "insomnia": {
       "version": "core@12.5.0",
@@ -226,9 +226,9 @@
       "url": "https://github.com/jagandeepbrar/lunasea/releases/tag/v11.0.0"
     },
     "meilisearch": {
-      "version": "v1.43.0",
-      "gitref": "refs/tags/v1.43.0",
-      "url": "https://github.com/meilisearch/meilisearch/releases/tag/v1.43.0"
+      "version": "v1.43.1",
+      "gitref": "refs/tags/v1.43.1",
+      "url": "https://github.com/meilisearch/meilisearch/releases/tag/v1.43.1"
     },
     "minio": {
       "version": "RELEASE.2025-10-15T17-29-55Z",
@@ -303,9 +303,9 @@
       "url": "https://github.com/containers/skopeo/releases/tag/v1.22.2"
     },
     "speedtest-tracker": {
-      "version": "v1.14.0",
-      "gitref": "refs/tags/v1.14.0",
-      "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.14.0"
+      "version": "v1.14.1",
+      "gitref": "refs/tags/v1.14.1",
+      "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.14.1"
     },
     "swarm-cronjob": {
       "version": "v1.16.0",
