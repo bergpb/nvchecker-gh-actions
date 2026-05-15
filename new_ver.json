@@ -108,10 +108,10 @@
       "url": "https://pypi.org/project/Django/6.0.5/"
     },
     "docker-cli": {
-      "version": "v29.5.0-rc.1",
-      "gitref": "refs/tags/v29.5.0-rc.1",
-      "revision": "c3d3e43e5c9469c774017144fcaf3f5377bc4838",
-      "url": "https://github.com/docker/cli/releases/tag/v29.5.0-rc.1"
+      "version": "v29.5.0",
+      "gitref": "refs/tags/v29.5.0",
+      "revision": "c2287431b4e54e9b3b1cc5d4d5302d425dad9367",
+      "url": "https://github.com/docker/cli/releases/tag/v29.5.0"
     },
     "dockhand": {
       "version": "v1.0.28",
