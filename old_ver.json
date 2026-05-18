@@ -114,9 +114,9 @@
       "url": "https://github.com/docker/cli/releases/tag/v29.5.0"
     },
     "dockhand": {
-      "version": "v1.0.28",
-      "gitref": "refs/tags/v1.0.28",
-      "url": "https://github.com/Finsys/dockhand/releases/tag/v1.0.28"
+      "version": "v1.0.29",
+      "gitref": "refs/tags/v1.0.29",
+      "url": "https://github.com/Finsys/dockhand/releases/tag/v1.0.29"
     },
     "fastapi": {
       "version": "0.136.1",
@@ -172,9 +172,9 @@
       "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.61.0"
     },
     "home-assistant": {
-      "version": "2026.5.1",
-      "gitref": "refs/tags/2026.5.1",
-      "url": "https://github.com/home-assistant/core/releases/tag/2026.5.1"
+      "version": "2026.5.2",
+      "gitref": "refs/tags/2026.5.2",
+      "url": "https://github.com/home-assistant/core/releases/tag/2026.5.2"
     },
     "homepage": {
       "version": "v1.13.1",
@@ -226,9 +226,9 @@
       "url": "https://github.com/jagandeepbrar/lunasea/releases/tag/v11.0.0"
     },
     "meilisearch": {
-      "version": "v1.43.1",
-      "gitref": "refs/tags/v1.43.1",
-      "url": "https://github.com/meilisearch/meilisearch/releases/tag/v1.43.1"
+      "version": "v1.44.0",
+      "gitref": "refs/tags/v1.44.0",
+      "url": "https://github.com/meilisearch/meilisearch/releases/tag/v1.44.0"
     },
     "minio": {
       "version": "RELEASE.2025-10-15T17-29-55Z",
@@ -293,9 +293,9 @@
       "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.18.2"
     },
     "sentry": {
-      "version": "26.4.2",
-      "gitref": "refs/tags/26.4.2",
-      "url": "https://github.com/getsentry/self-hosted/releases/tag/26.4.2"
+      "version": "26.5.0",
+      "gitref": "refs/tags/26.5.0",
+      "url": "https://github.com/getsentry/self-hosted/releases/tag/26.5.0"
     },
     "skopeo": {
       "version": "v1.22.2",
