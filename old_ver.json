@@ -108,10 +108,10 @@
       "url": "https://pypi.org/project/Django/6.0.5/"
     },
     "docker-cli": {
-      "version": "v29.5.0",
-      "gitref": "refs/tags/v29.5.0",
-      "revision": "c2287431b4e54e9b3b1cc5d4d5302d425dad9367",
-      "url": "https://github.com/docker/cli/releases/tag/v29.5.0"
+      "version": "v29.5.1",
+      "gitref": "refs/tags/v29.5.1",
+      "revision": "b2f3201fec4654e8d7fbaee96dcda35f7d11e1a3",
+      "url": "https://github.com/docker/cli/releases/tag/v29.5.1"
     },
     "dockhand": {
       "version": "v1.0.29",
@@ -172,9 +172,9 @@
       "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.61.0"
     },
     "home-assistant": {
-      "version": "2026.5.2",
-      "gitref": "refs/tags/2026.5.2",
-      "url": "https://github.com/home-assistant/core/releases/tag/2026.5.2"
+      "version": "2026.5.3",
+      "gitref": "refs/tags/2026.5.3",
+      "url": "https://github.com/home-assistant/core/releases/tag/2026.5.3"
     },
     "homepage": {
       "version": "v1.13.1",
@@ -277,9 +277,9 @@
       "url": "https://github.com/prometheus/node_exporter/releases/tag/v1.11.1"
     },
     "pulumi": {
-      "version": "v3.239.0",
-      "gitref": "refs/tags/v3.239.0",
-      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.239.0"
+      "version": "v3.242.0",
+      "gitref": "refs/tags/v3.242.0",
+      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.242.0"
     },
     "qBittorrent": {
       "version": "release-5.2.0",
@@ -288,9 +288,9 @@
       "url": "https://github.com/qbittorrent/qBittorrent/releases/tag/release-5.2.0"
     },
     "semaphore": {
-      "version": "v2.18.2",
-      "gitref": "refs/tags/v2.18.2",
-      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.18.2"
+      "version": "v2.18.4",
+      "gitref": "refs/tags/v2.18.4",
+      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.18.4"
     },
     "sentry": {
       "version": "26.5.0",
