@@ -40,8 +40,8 @@
       "url": "https://github.com/YOURLS/YOURLS/releases/tag/1.10.3"
     },
     "ansible": {
-      "version": "13.6.0",
-      "url": "https://pypi.org/project/ansible/13.6.0/"
+      "version": "13.7.0",
+      "url": "https://pypi.org/project/ansible/13.7.0/"
     },
     "argocd": {
       "version": "v3.4.2",
@@ -142,9 +142,9 @@
       "url": "https://github.com/junegunn/fzf/releases/tag/v0.72.0"
     },
     "gatus": {
-      "version": "v5.35.0",
-      "gitref": "refs/tags/v5.35.0",
-      "url": "https://github.com/TwiN/gatus/releases/tag/v5.35.0"
+      "version": "v5.36.0",
+      "gitref": "refs/tags/v5.36.0",
+      "url": "https://github.com/TwiN/gatus/releases/tag/v5.36.0"
     },
     "gotify": {
       "version": "v2.9.1",
