@@ -99,19 +99,19 @@
       "url": "https://github.com/containers/buildah/releases/tag/v1.43.1"
     },
     "compose": {
-      "version": "v5.1.3",
-      "gitref": "refs/tags/v5.1.3",
-      "url": "https://github.com/docker/compose/releases/tag/v5.1.3"
+      "version": "v5.1.4",
+      "gitref": "refs/tags/v5.1.4",
+      "url": "https://github.com/docker/compose/releases/tag/v5.1.4"
     },
     "django": {
       "version": "6.0.5",
       "url": "https://pypi.org/project/Django/6.0.5/"
     },
     "docker-cli": {
-      "version": "v29.5.1",
-      "gitref": "refs/tags/v29.5.1",
-      "revision": "b2f3201fec4654e8d7fbaee96dcda35f7d11e1a3",
-      "url": "https://github.com/docker/cli/releases/tag/v29.5.1"
+      "version": "v29.5.2",
+      "gitref": "refs/tags/v29.5.2",
+      "revision": "5d09770b99773044bd81142de1fd80f209c94844",
+      "url": "https://github.com/docker/cli/releases/tag/v29.5.2"
     },
     "dockhand": {
       "version": "v1.0.29",
@@ -132,9 +132,9 @@
       "url": "https://pypi.org/project/Flask/3.1.3/"
     },
     "freshrss": {
-      "version": "1.29.0",
-      "gitref": "refs/tags/1.29.0",
-      "url": "https://github.com/FreshRSS/FreshRSS/releases/tag/1.29.0"
+      "version": "1.29.1",
+      "gitref": "refs/tags/1.29.1",
+      "url": "https://github.com/FreshRSS/FreshRSS/releases/tag/1.29.1"
     },
     "fzf": {
       "version": "v0.72.0",
@@ -187,9 +187,9 @@
       "url": "https://github.com/Kong/insomnia/releases/tag/core%4012.5.0"
     },
     "jellyfin": {
-      "version": "v10.11.8",
-      "gitref": "refs/tags/v10.11.8",
-      "url": "https://github.com/jellyfin/jellyfin/releases/tag/v10.11.8"
+      "version": "v10.11.9",
+      "gitref": "refs/tags/v10.11.9",
+      "url": "https://github.com/jellyfin/jellyfin/releases/tag/v10.11.9"
     },
     "jellyseerr": {
       "version": "v3.2.0",
@@ -303,9 +303,9 @@
       "url": "https://github.com/containers/skopeo/releases/tag/v1.22.2"
     },
     "speedtest-tracker": {
-      "version": "v1.14.1",
-      "gitref": "refs/tags/v1.14.1",
-      "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.14.1"
+      "version": "v1.14.2",
+      "gitref": "refs/tags/v1.14.2",
+      "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.14.2"
     },
     "swarm-cronjob": {
       "version": "v1.16.0",
@@ -313,9 +313,9 @@
       "url": "https://github.com/crazy-max/swarm-cronjob/releases/tag/v1.16.0"
     },
     "terraform": {
-      "version": "v1.15.3",
-      "gitref": "refs/tags/v1.15.3",
-      "url": "https://github.com/hashicorp/terraform/releases/tag/v1.15.3"
+      "version": "v1.15.4",
+      "gitref": "refs/tags/v1.15.4",
+      "url": "https://github.com/hashicorp/terraform/releases/tag/v1.15.4"
     },
     "tinyauth": {
       "version": "v5.0.7",
