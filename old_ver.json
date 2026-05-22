@@ -182,9 +182,9 @@
       "url": "https://github.com/gethomepage/homepage/releases/tag/v1.13.1"
     },
     "insomnia": {
-      "version": "core@12.5.0",
-      "gitref": "refs/tags/core@12.5.0",
-      "url": "https://github.com/Kong/insomnia/releases/tag/core%4012.5.0"
+      "version": "core@12.6.0",
+      "gitref": "refs/tags/core@12.6.0",
+      "url": "https://github.com/Kong/insomnia/releases/tag/core%4012.6.0"
     },
     "jellyfin": {
       "version": "v10.11.9",
