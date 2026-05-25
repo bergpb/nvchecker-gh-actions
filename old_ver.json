@@ -35,9 +35,9 @@
       "url": "https://github.com/Sonarr/Sonarr/releases/tag/v4.0.17.2952"
     },
     "YOURLS": {
-      "version": "1.10.3",
-      "gitref": "refs/tags/1.10.3",
-      "url": "https://github.com/YOURLS/YOURLS/releases/tag/1.10.3"
+      "version": "1.10.4",
+      "gitref": "refs/tags/1.10.4",
+      "url": "https://github.com/YOURLS/YOURLS/releases/tag/1.10.4"
     },
     "ansible": {
       "version": "13.7.0",
@@ -119,8 +119,8 @@
       "url": "https://github.com/Finsys/dockhand/releases/tag/v1.0.29"
     },
     "fastapi": {
-      "version": "0.136.1",
-      "url": "https://pypi.org/project/fastapi/0.136.1/"
+      "version": "0.136.3",
+      "url": "https://pypi.org/project/fastapi/0.136.3/"
     },
     "fd": {
       "version": "v10.4.2",
@@ -137,9 +137,9 @@
       "url": "https://github.com/FreshRSS/FreshRSS/releases/tag/1.29.1"
     },
     "fzf": {
-      "version": "v0.72.0",
-      "gitref": "refs/tags/v0.72.0",
-      "url": "https://github.com/junegunn/fzf/releases/tag/v0.72.0"
+      "version": "v0.73.1",
+      "gitref": "refs/tags/v0.73.1",
+      "url": "https://github.com/junegunn/fzf/releases/tag/v0.73.1"
     },
     "gatus": {
       "version": "v5.36.0",
@@ -167,14 +167,14 @@
       "url": "https://github.com/juanfont/headscale/releases/tag/v0.28.0"
     },
     "homarr": {
-      "version": "v1.61.0",
-      "gitref": "refs/tags/v1.61.0",
-      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.61.0"
+      "version": "v1.62.0",
+      "gitref": "refs/tags/v1.62.0",
+      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.62.0"
     },
     "home-assistant": {
-      "version": "2026.5.3",
-      "gitref": "refs/tags/2026.5.3",
-      "url": "https://github.com/home-assistant/core/releases/tag/2026.5.3"
+      "version": "2026.5.4",
+      "gitref": "refs/tags/2026.5.4",
+      "url": "https://github.com/home-assistant/core/releases/tag/2026.5.4"
     },
     "homepage": {
       "version": "v1.13.1",
@@ -187,9 +187,9 @@
       "url": "https://github.com/Kong/insomnia/releases/tag/core%4012.6.0"
     },
     "jellyfin": {
-      "version": "v10.11.9",
-      "gitref": "refs/tags/v10.11.9",
-      "url": "https://github.com/jellyfin/jellyfin/releases/tag/v10.11.9"
+      "version": "v10.11.10",
+      "gitref": "refs/tags/v10.11.10",
+      "url": "https://github.com/jellyfin/jellyfin/releases/tag/v10.11.10"
     },
     "jellyseerr": {
       "version": "v3.2.0",
@@ -277,9 +277,9 @@
       "url": "https://github.com/prometheus/node_exporter/releases/tag/v1.11.1"
     },
     "pulumi": {
-      "version": "v3.242.0",
-      "gitref": "refs/tags/v3.242.0",
-      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.242.0"
+      "version": "v3.243.0",
+      "gitref": "refs/tags/v3.243.0",
+      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.243.0"
     },
     "qBittorrent": {
       "version": "release-5.2.0",
