@@ -15,9 +15,9 @@
       "url": "https://pypi.org/project/celery/5.6.3/"
     },
     "FlareSolverr": {
-      "version": "v3.4.6",
-      "gitref": "refs/tags/v3.4.6",
-      "url": "https://github.com/FlareSolverr/FlareSolverr/releases/tag/v3.4.6"
+      "version": "v3.5.0",
+      "gitref": "refs/tags/v3.5.0",
+      "url": "https://github.com/FlareSolverr/FlareSolverr/releases/tag/v3.5.0"
     },
     "Prowlarr": {
       "version": "v2.3.5.5327",
@@ -226,9 +226,9 @@
       "url": "https://github.com/jagandeepbrar/lunasea/releases/tag/v11.0.0"
     },
     "meilisearch": {
-      "version": "v1.44.0",
-      "gitref": "refs/tags/v1.44.0",
-      "url": "https://github.com/meilisearch/meilisearch/releases/tag/v1.44.0"
+      "version": "v1.45.0",
+      "gitref": "refs/tags/v1.45.0",
+      "url": "https://github.com/meilisearch/meilisearch/releases/tag/v1.45.0"
     },
     "minio": {
       "version": "RELEASE.2025-10-15T17-29-55Z",
@@ -282,10 +282,10 @@
       "url": "https://github.com/pulumi/pulumi/releases/tag/v3.243.0"
     },
     "qBittorrent": {
-      "version": "release-5.2.0",
-      "gitref": "refs/tags/release-5.2.0",
-      "revision": "fb64e9b53a8b7d82a827407fac84209b91f88aa1",
-      "url": "https://github.com/qbittorrent/qBittorrent/releases/tag/release-5.2.0"
+      "version": "release-5.2.1",
+      "gitref": "refs/tags/release-5.2.1",
+      "revision": "4369244ca87e78db844dcda502d544a7cda5d441",
+      "url": "https://github.com/qbittorrent/qBittorrent/releases/tag/release-5.2.1"
     },
     "semaphore": {
       "version": "v2.18.4",
@@ -303,9 +303,9 @@
       "url": "https://github.com/containers/skopeo/releases/tag/v1.22.2"
     },
     "speedtest-tracker": {
-      "version": "v1.14.2",
-      "gitref": "refs/tags/v1.14.2",
-      "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.14.2"
+      "version": "v1.14.3",
+      "gitref": "refs/tags/v1.14.3",
+      "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.14.3"
     },
     "swarm-cronjob": {
       "version": "v1.16.0",
