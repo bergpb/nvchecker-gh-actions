@@ -298,9 +298,9 @@
       "url": "https://github.com/getsentry/self-hosted/releases/tag/26.5.0"
     },
     "skopeo": {
-      "version": "v1.22.2",
-      "gitref": "refs/tags/v1.22.2",
-      "url": "https://github.com/containers/skopeo/releases/tag/v1.22.2"
+      "version": "v1.23.0",
+      "gitref": "refs/tags/v1.23.0",
+      "url": "https://github.com/containers/skopeo/releases/tag/v1.23.0"
     },
     "speedtest-tracker": {
       "version": "v1.14.3",
@@ -313,9 +313,9 @@
       "url": "https://github.com/crazy-max/swarm-cronjob/releases/tag/v1.16.0"
     },
     "terraform": {
-      "version": "v1.15.4",
-      "gitref": "refs/tags/v1.15.4",
-      "url": "https://github.com/hashicorp/terraform/releases/tag/v1.15.4"
+      "version": "v1.15.5",
+      "gitref": "refs/tags/v1.15.5",
+      "url": "https://github.com/hashicorp/terraform/releases/tag/v1.15.5"
     },
     "tinyauth": {
       "version": "v5.0.7",
