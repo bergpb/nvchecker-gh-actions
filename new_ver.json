@@ -96,7 +96,7 @@
     "buildah": {
       "version": "v1.44.0",
       "gitref": "refs/tags/v1.44.0",
-      "url": "https://github.com/containers/buildah/releases/tag/v1.44.0"
+      "url": "https://github.com/podman-container-tools/buildah/releases/tag/v1.44.0"
     },
     "compose": {
       "version": "v5.1.4",
@@ -114,9 +114,9 @@
       "url": "https://github.com/docker/cli/releases/tag/v29.5.2"
     },
     "dockhand": {
-      "version": "v1.0.29",
-      "gitref": "refs/tags/v1.0.29",
-      "url": "https://github.com/Finsys/dockhand/releases/tag/v1.0.29"
+      "version": "v1.0.31",
+      "gitref": "refs/tags/v1.0.31",
+      "url": "https://github.com/Finsys/dockhand/releases/tag/v1.0.31"
     },
     "fastapi": {
       "version": "0.136.3",
@@ -167,9 +167,9 @@
       "url": "https://github.com/juanfont/headscale/releases/tag/v0.28.0"
     },
     "homarr": {
-      "version": "v1.62.0",
-      "gitref": "refs/tags/v1.62.0",
-      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.62.0"
+      "version": "v1.63.0",
+      "gitref": "refs/tags/v1.63.0",
+      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.63.0"
     },
     "home-assistant": {
       "version": "2026.5.4",
@@ -249,7 +249,7 @@
     "podman": {
       "version": "v5.8.2",
       "gitref": "refs/tags/v5.8.2",
-      "url": "https://github.com/containers/podman/releases/tag/v5.8.2"
+      "url": "https://github.com/podman-container-tools/podman/releases/tag/v5.8.2"
     },
     "podman-compose": {
       "version": "v1.5.0",
@@ -300,7 +300,7 @@
     "skopeo": {
       "version": "v1.23.0",
       "gitref": "refs/tags/v1.23.0",
-      "url": "https://github.com/containers/skopeo/releases/tag/v1.23.0"
+      "url": "https://github.com/podman-container-tools/skopeo/releases/tag/v1.23.0"
     },
     "speedtest-tracker": {
       "version": "v1.14.3",
@@ -337,9 +337,9 @@
       "url": "https://github.com/umami-software/umami/releases/tag/v3.1.0"
     },
     "uptime-kuma": {
-      "version": "2.3.2",
-      "gitref": "refs/tags/2.3.2",
-      "url": "https://github.com/louislam/uptime-kuma/releases/tag/2.3.2"
+      "version": "2.4.0",
+      "gitref": "refs/tags/2.4.0",
+      "url": "https://github.com/louislam/uptime-kuma/releases/tag/2.4.0"
     },
     "vaultwarden": {
       "version": "1.36.0",
