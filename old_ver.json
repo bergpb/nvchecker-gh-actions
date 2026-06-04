@@ -108,10 +108,10 @@
       "url": "https://pypi.org/project/Django/6.0.6/"
     },
     "docker-cli": {
-      "version": "v29.5.2",
-      "gitref": "refs/tags/v29.5.2",
-      "revision": "5d09770b99773044bd81142de1fd80f209c94844",
-      "url": "https://github.com/docker/cli/releases/tag/v29.5.2"
+      "version": "v29.5.3",
+      "gitref": "refs/tags/v29.5.3",
+      "revision": "399dafa7297616617513c2d99efc92842b0fd7e2",
+      "url": "https://github.com/docker/cli/releases/tag/v29.5.3"
     },
     "dockhand": {
       "version": "v1.0.31",
@@ -172,9 +172,9 @@
       "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.63.0"
     },
     "home-assistant": {
-      "version": "2026.5.4",
-      "gitref": "refs/tags/2026.5.4",
-      "url": "https://github.com/home-assistant/core/releases/tag/2026.5.4"
+      "version": "2026.6.0",
+      "gitref": "refs/tags/2026.6.0",
+      "url": "https://github.com/home-assistant/core/releases/tag/2026.6.0"
     },
     "homepage": {
       "version": "v1.13.1",
@@ -252,14 +252,14 @@
       "url": "https://github.com/podman-container-tools/podman/releases/tag/v5.8.2"
     },
     "podman-compose": {
-      "version": "v1.5.0",
-      "gitref": "refs/tags/v1.5.0",
-      "url": "https://github.com/containers/podman-compose/releases/tag/v1.5.0"
+      "version": "v1.6.0",
+      "gitref": "refs/tags/v1.6.0",
+      "url": "https://github.com/containers/podman-compose/releases/tag/v1.6.0"
     },
     "portainer": {
-      "version": "2.39.2",
-      "gitref": "refs/tags/2.39.2",
-      "url": "https://github.com/portainer/portainer/releases/tag/2.39.2"
+      "version": "2.39.3",
+      "gitref": "refs/tags/2.39.3",
+      "url": "https://github.com/portainer/portainer/releases/tag/2.39.3"
     },
     "prometheus": {
       "version": "v3.12.0",
@@ -277,9 +277,9 @@
       "url": "https://github.com/prometheus/node_exporter/releases/tag/v1.11.1"
     },
     "pulumi": {
-      "version": "v3.244.0",
-      "gitref": "refs/tags/v3.244.0",
-      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.244.0"
+      "version": "v3.245.0",
+      "gitref": "refs/tags/v3.245.0",
+      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.245.0"
     },
     "qBittorrent": {
       "version": "release-5.2.1",
@@ -327,9 +327,9 @@
       "url": "https://pypi.org/project/tornado/6.5.6/"
     },
     "traefik": {
-      "version": "v3.7.1",
-      "gitref": "refs/tags/v3.7.1",
-      "url": "https://github.com/traefik/traefik/releases/tag/v3.7.1"
+      "version": "v3.7.3",
+      "gitref": "refs/tags/v3.7.3",
+      "url": "https://github.com/traefik/traefik/releases/tag/v3.7.3"
     },
     "umami": {
       "version": "v3.1.0",
