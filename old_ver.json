@@ -114,9 +114,9 @@
       "url": "https://github.com/docker/cli/releases/tag/v29.5.3"
     },
     "dockhand": {
-      "version": "v1.0.31",
-      "gitref": "refs/tags/v1.0.31",
-      "url": "https://github.com/Finsys/dockhand/releases/tag/v1.0.31"
+      "version": "v1.0.32",
+      "gitref": "refs/tags/v1.0.32",
+      "url": "https://github.com/Finsys/dockhand/releases/tag/v1.0.32"
     },
     "fastapi": {
       "version": "0.136.3",
@@ -167,14 +167,14 @@
       "url": "https://github.com/juanfont/headscale/releases/tag/v0.28.0"
     },
     "homarr": {
-      "version": "v1.63.0",
-      "gitref": "refs/tags/v1.63.0",
-      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.63.0"
+      "version": "v1.64.0",
+      "gitref": "refs/tags/v1.64.0",
+      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.64.0"
     },
     "home-assistant": {
-      "version": "2026.6.0",
-      "gitref": "refs/tags/2026.6.0",
-      "url": "https://github.com/home-assistant/core/releases/tag/2026.6.0"
+      "version": "2026.6.1",
+      "gitref": "refs/tags/2026.6.1",
+      "url": "https://github.com/home-assistant/core/releases/tag/2026.6.1"
     },
     "homepage": {
       "version": "v1.13.1",
@@ -187,9 +187,9 @@
       "url": "https://github.com/Kong/insomnia/releases/tag/core%4012.6.0"
     },
     "jellyfin": {
-      "version": "v10.11.10",
-      "gitref": "refs/tags/v10.11.10",
-      "url": "https://github.com/jellyfin/jellyfin/releases/tag/v10.11.10"
+      "version": "v10.11.11",
+      "gitref": "refs/tags/v10.11.11",
+      "url": "https://github.com/jellyfin/jellyfin/releases/tag/v10.11.11"
     },
     "jellyseerr": {
       "version": "v3.3.0",
@@ -202,9 +202,9 @@
       "url": "https://github.com/jqlang/jq/releases/tag/jq-1.8.1"
     },
     "k9s": {
-      "version": "v0.50.18",
-      "gitref": "refs/tags/v0.50.18",
-      "url": "https://github.com/derailed/k9s/releases/tag/v0.50.18"
+      "version": "v0.51.0",
+      "gitref": "refs/tags/v0.51.0",
+      "url": "https://github.com/derailed/k9s/releases/tag/v0.51.0"
     },
     "kombu": {
       "version": "5.6.2",
@@ -226,9 +226,9 @@
       "url": "https://github.com/jagandeepbrar/lunasea/releases/tag/v11.0.0"
     },
     "meilisearch": {
-      "version": "v1.45.2",
-      "gitref": "refs/tags/v1.45.2",
-      "url": "https://github.com/meilisearch/meilisearch/releases/tag/v1.45.2"
+      "version": "v1.46.0",
+      "gitref": "refs/tags/v1.46.0",
+      "url": "https://github.com/meilisearch/meilisearch/releases/tag/v1.46.0"
     },
     "minio": {
       "version": "RELEASE.2025-10-15T17-29-55Z",
