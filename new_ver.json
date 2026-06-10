@@ -20,14 +20,14 @@
       "url": "https://github.com/FlareSolverr/FlareSolverr/releases/tag/v3.5.0"
     },
     "Prowlarr": {
-      "version": "v2.3.5.5327",
-      "gitref": "refs/tags/v2.3.5.5327",
-      "url": "https://github.com/Prowlarr/Prowlarr/releases/tag/v2.3.5.5327"
+      "version": "v2.4.0.5397",
+      "gitref": "refs/tags/v2.4.0.5397",
+      "url": "https://github.com/Prowlarr/Prowlarr/releases/tag/v2.4.0.5397"
     },
     "Radarr": {
-      "version": "v6.1.1.10360",
-      "gitref": "refs/tags/v6.1.1.10360",
-      "url": "https://github.com/Radarr/Radarr/releases/tag/v6.1.1.10360"
+      "version": "v6.2.1.10461",
+      "gitref": "refs/tags/v6.2.1.10461",
+      "url": "https://github.com/Radarr/Radarr/releases/tag/v6.2.1.10461"
     },
     "Sonarr": {
       "version": "v4.0.17.2952",
@@ -172,14 +172,14 @@
       "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.64.0"
     },
     "home-assistant": {
-      "version": "2026.6.1",
-      "gitref": "refs/tags/2026.6.1",
-      "url": "https://github.com/home-assistant/core/releases/tag/2026.6.1"
+      "version": "2026.6.2",
+      "gitref": "refs/tags/2026.6.2",
+      "url": "https://github.com/home-assistant/core/releases/tag/2026.6.2"
     },
     "homepage": {
-      "version": "v1.13.1",
-      "gitref": "refs/tags/v1.13.1",
-      "url": "https://github.com/gethomepage/homepage/releases/tag/v1.13.1"
+      "version": "v1.13.2",
+      "gitref": "refs/tags/v1.13.2",
+      "url": "https://github.com/gethomepage/homepage/releases/tag/v1.13.2"
     },
     "insomnia": {
       "version": "core@12.6.0",
@@ -313,9 +313,9 @@
       "url": "https://github.com/crazy-max/swarm-cronjob/releases/tag/v1.16.0"
     },
     "terraform": {
-      "version": "v1.15.5",
-      "gitref": "refs/tags/v1.15.5",
-      "url": "https://github.com/hashicorp/terraform/releases/tag/v1.15.5"
+      "version": "v1.15.6",
+      "gitref": "refs/tags/v1.15.6",
+      "url": "https://github.com/hashicorp/terraform/releases/tag/v1.15.6"
     },
     "tinyauth": {
       "version": "v5.0.7",
