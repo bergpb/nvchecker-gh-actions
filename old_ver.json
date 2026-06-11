@@ -327,9 +327,9 @@
       "url": "https://pypi.org/project/tornado/6.5.7/"
     },
     "traefik": {
-      "version": "v3.7.4",
-      "gitref": "refs/tags/v3.7.4",
-      "url": "https://github.com/traefik/traefik/releases/tag/v3.7.4"
+      "version": "v3.7.5",
+      "gitref": "refs/tags/v3.7.5",
+      "url": "https://github.com/traefik/traefik/releases/tag/v3.7.5"
     },
     "umami": {
       "version": "v3.1.0",
