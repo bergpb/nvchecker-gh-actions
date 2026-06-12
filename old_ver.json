@@ -167,9 +167,9 @@
       "url": "https://github.com/juanfont/headscale/releases/tag/v0.28.0"
     },
     "homarr": {
-      "version": "v1.64.0",
-      "gitref": "refs/tags/v1.64.0",
-      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.64.0"
+      "version": "v1.65.0",
+      "gitref": "refs/tags/v1.65.0",
+      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.65.0"
     },
     "home-assistant": {
       "version": "2026.6.2",
@@ -277,9 +277,9 @@
       "url": "https://github.com/prometheus/node_exporter/releases/tag/v1.11.1"
     },
     "pulumi": {
-      "version": "v3.245.0",
-      "gitref": "refs/tags/v3.245.0",
-      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.245.0"
+      "version": "v3.246.0",
+      "gitref": "refs/tags/v3.246.0",
+      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.246.0"
     },
     "qBittorrent": {
       "version": "release-5.2.1",
