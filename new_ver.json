@@ -182,9 +182,9 @@
       "url": "https://github.com/gethomepage/homepage/releases/tag/v1.13.2"
     },
     "insomnia": {
-      "version": "core@12.6.0",
-      "gitref": "refs/tags/core@12.6.0",
-      "url": "https://github.com/Kong/insomnia/releases/tag/core%4012.6.0"
+      "version": "core@13.0.0",
+      "gitref": "refs/tags/core@13.0.0",
+      "url": "https://github.com/Kong/insomnia/releases/tag/core%4013.0.0"
     },
     "jellyfin": {
       "version": "v10.11.11",
@@ -282,10 +282,10 @@
       "url": "https://github.com/pulumi/pulumi/releases/tag/v3.246.0"
     },
     "qBittorrent": {
-      "version": "release-5.2.1",
-      "gitref": "refs/tags/release-5.2.1",
-      "revision": "4369244ca87e78db844dcda502d544a7cda5d441",
-      "url": "https://github.com/qbittorrent/qBittorrent/releases/tag/release-5.2.1"
+      "version": "release-5.2.2",
+      "gitref": "refs/tags/release-5.2.2",
+      "revision": "63525c6347f9de3d8e2df07ff740c90c1ba93be0",
+      "url": "https://github.com/qbittorrent/qBittorrent/releases/tag/release-5.2.2"
     },
     "semaphore": {
       "version": "v2.18.12",
@@ -293,9 +293,9 @@
       "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.18.12"
     },
     "sentry": {
-      "version": "26.5.2",
-      "gitref": "refs/tags/26.5.2",
-      "url": "https://github.com/getsentry/self-hosted/releases/tag/26.5.2"
+      "version": "26.6.0",
+      "gitref": "refs/tags/26.6.0",
+      "url": "https://github.com/getsentry/self-hosted/releases/tag/26.6.0"
     },
     "skopeo": {
       "version": "v1.23.0",
