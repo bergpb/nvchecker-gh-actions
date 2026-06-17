@@ -114,9 +114,9 @@
       "url": "https://github.com/docker/cli/releases/tag/v29.6.0-rc.1"
     },
     "dockhand": {
-      "version": "v1.0.33",
-      "gitref": "refs/tags/v1.0.33",
-      "url": "https://github.com/Finsys/dockhand/releases/tag/v1.0.33"
+      "version": "v1.0.34",
+      "gitref": "refs/tags/v1.0.34",
+      "url": "https://github.com/Finsys/dockhand/releases/tag/v1.0.34"
     },
     "fastapi": {
       "version": "0.137.1",
@@ -162,9 +162,9 @@
       "url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.17.0"
     },
     "headscale": {
-      "version": "v0.28.0",
-      "gitref": "refs/tags/v0.28.0",
-      "url": "https://github.com/juanfont/headscale/releases/tag/v0.28.0"
+      "version": "v0.29.0",
+      "gitref": "refs/tags/v0.29.0",
+      "url": "https://github.com/juanfont/headscale/releases/tag/v0.29.0"
     },
     "homarr": {
       "version": "v1.65.0",
