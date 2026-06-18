@@ -44,9 +44,9 @@
       "url": "https://pypi.org/project/ansible/14.0.0/"
     },
     "argocd": {
-      "version": "v3.4.3",
-      "gitref": "refs/tags/v3.4.3",
-      "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.4.3"
+      "version": "v3.4.4",
+      "gitref": "refs/tags/v3.4.4",
+      "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.4.4"
     },
     "awx": {
       "version": "24.6.1",
@@ -119,8 +119,8 @@
       "url": "https://github.com/Finsys/dockhand/releases/tag/v1.0.34"
     },
     "fastapi": {
-      "version": "0.137.1",
-      "url": "https://pypi.org/project/fastapi/0.137.1/"
+      "version": "0.137.2",
+      "url": "https://pypi.org/project/fastapi/0.137.2/"
     },
     "fd": {
       "version": "v10.4.2",
@@ -162,14 +162,14 @@
       "url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.17.0"
     },
     "headscale": {
-      "version": "v0.29.0",
-      "gitref": "refs/tags/v0.29.0",
-      "url": "https://github.com/juanfont/headscale/releases/tag/v0.29.0"
+      "version": "v0.29.1",
+      "gitref": "refs/tags/v0.29.1",
+      "url": "https://github.com/juanfont/headscale/releases/tag/v0.29.1"
     },
     "homarr": {
-      "version": "v1.65.0",
-      "gitref": "refs/tags/v1.65.0",
-      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.65.0"
+      "version": "v1.66.1",
+      "gitref": "refs/tags/v1.66.1",
+      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.66.1"
     },
     "home-assistant": {
       "version": "2026.6.3",
@@ -182,9 +182,9 @@
       "url": "https://github.com/gethomepage/homepage/releases/tag/v1.13.2"
     },
     "insomnia": {
-      "version": "core@13.0.0",
-      "gitref": "refs/tags/core@13.0.0",
-      "url": "https://github.com/Kong/insomnia/releases/tag/core%4013.0.0"
+      "version": "core@13.0.1",
+      "gitref": "refs/tags/core@13.0.1",
+      "url": "https://github.com/Kong/insomnia/releases/tag/core%4013.0.1"
     },
     "jellyfin": {
       "version": "v10.11.11",
@@ -277,9 +277,9 @@
       "url": "https://github.com/prometheus/node_exporter/releases/tag/v1.11.1"
     },
     "pulumi": {
-      "version": "v3.246.0",
-      "gitref": "refs/tags/v3.246.0",
-      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.246.0"
+      "version": "v3.247.0",
+      "gitref": "refs/tags/v3.247.0",
+      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.247.0"
     },
     "qBittorrent": {
       "version": "release-5.2.2",
