@@ -40,8 +40,8 @@
       "url": "https://github.com/YOURLS/YOURLS/releases/tag/1.10.4"
     },
     "ansible": {
-      "version": "14.0.0",
-      "url": "https://pypi.org/project/ansible/14.0.0/"
+      "version": "14.1.0",
+      "url": "https://pypi.org/project/ansible/14.1.0/"
     },
     "argocd": {
       "version": "v3.4.4",
@@ -108,15 +108,15 @@
       "url": "https://pypi.org/project/Django/6.0.6/"
     },
     "docker-cli": {
-      "version": "v29.6.0-rc.1",
-      "gitref": "refs/tags/v29.6.0-rc.1",
-      "revision": "d4c3556d03fc14d483482ccf5102e1525e3a8a6d",
-      "url": "https://github.com/docker/cli/releases/tag/v29.6.0-rc.1"
+      "version": "v29.6.0",
+      "gitref": "refs/tags/v29.6.0",
+      "revision": "743e88881fe03e3f65b6d6cf1cdea37ab81eae5f",
+      "url": "https://github.com/docker/cli/releases/tag/v29.6.0"
     },
     "dockhand": {
-      "version": "v1.0.34",
-      "gitref": "refs/tags/v1.0.34",
-      "url": "https://github.com/Finsys/dockhand/releases/tag/v1.0.34"
+      "version": "v1.0.35",
+      "gitref": "refs/tags/v1.0.35",
+      "url": "https://github.com/Finsys/dockhand/releases/tag/v1.0.35"
     },
     "fastapi": {
       "version": "0.137.2",
