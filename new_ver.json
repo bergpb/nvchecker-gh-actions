@@ -303,9 +303,9 @@
       "url": "https://github.com/podman-container-tools/skopeo/releases/tag/v1.23.0"
     },
     "speedtest-tracker": {
-      "version": "v1.14.4",
-      "gitref": "refs/tags/v1.14.4",
-      "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.14.4"
+      "version": "v1.14.5",
+      "gitref": "refs/tags/v1.14.5",
+      "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.14.5"
     },
     "swarm-cronjob": {
       "version": "v1.16.0",
