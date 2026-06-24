@@ -99,9 +99,9 @@
       "url": "https://github.com/podman-container-tools/buildah/releases/tag/v1.44.0"
     },
     "compose": {
-      "version": "v5.1.4",
-      "gitref": "refs/tags/v5.1.4",
-      "url": "https://github.com/docker/compose/releases/tag/v5.1.4"
+      "version": "v5.2.0",
+      "gitref": "refs/tags/v5.2.0",
+      "url": "https://github.com/docker/compose/releases/tag/v5.2.0"
     },
     "django": {
       "version": "6.0.6",
@@ -226,9 +226,9 @@
       "url": "https://github.com/jagandeepbrar/lunasea/releases/tag/v11.0.0"
     },
     "meilisearch": {
-      "version": "v1.48.1",
-      "gitref": "refs/tags/v1.48.1",
-      "url": "https://github.com/meilisearch/meilisearch/releases/tag/v1.48.1"
+      "version": "v1.48.2",
+      "gitref": "refs/tags/v1.48.2",
+      "url": "https://github.com/meilisearch/meilisearch/releases/tag/v1.48.2"
     },
     "minio": {
       "version": "RELEASE.2025-10-15T17-29-55Z",
