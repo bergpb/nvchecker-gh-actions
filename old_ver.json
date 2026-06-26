@@ -108,10 +108,10 @@
       "url": "https://pypi.org/project/Django/6.0.6/"
     },
     "docker-cli": {
-      "version": "v29.6.0",
-      "gitref": "refs/tags/v29.6.0",
-      "revision": "743e88881fe03e3f65b6d6cf1cdea37ab81eae5f",
-      "url": "https://github.com/docker/cli/releases/tag/v29.6.0"
+      "version": "v29.6.1",
+      "gitref": "refs/tags/v29.6.1",
+      "revision": "54ef6288d2fdf057c6eb58419d9a8f8587f532e4",
+      "url": "https://github.com/docker/cli/releases/tag/v29.6.1"
     },
     "dockhand": {
       "version": "v1.0.35",
@@ -119,8 +119,8 @@
       "url": "https://github.com/Finsys/dockhand/releases/tag/v1.0.35"
     },
     "fastapi": {
-      "version": "0.138.0",
-      "url": "https://pypi.org/project/fastapi/0.138.0/"
+      "version": "0.138.1",
+      "url": "https://pypi.org/project/fastapi/0.138.1/"
     },
     "fd": {
       "version": "v10.4.2",
@@ -288,9 +288,9 @@
       "url": "https://github.com/qbittorrent/qBittorrent/releases/tag/release-5.2.2"
     },
     "semaphore": {
-      "version": "v2.18.12",
-      "gitref": "refs/tags/v2.18.12",
-      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.18.12"
+      "version": "v2.18.13",
+      "gitref": "refs/tags/v2.18.13",
+      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.18.13"
     },
     "sentry": {
       "version": "26.6.0",
