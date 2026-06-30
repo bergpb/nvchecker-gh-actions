@@ -152,9 +152,9 @@
       "url": "https://github.com/gotify/server/releases/tag/v2.9.1"
     },
     "grafana": {
-      "version": "v13.0.2",
-      "gitref": "refs/tags/v13.0.2",
-      "url": "https://github.com/grafana/grafana/releases/tag/v13.0.2"
+      "version": "v13.0.3",
+      "gitref": "refs/tags/v13.0.3",
+      "url": "https://github.com/grafana/grafana/releases/tag/v13.0.3"
     },
     "hatch": {
       "version": "hatch-v1.17.0",
@@ -167,9 +167,9 @@
       "url": "https://github.com/juanfont/headscale/releases/tag/v0.29.1"
     },
     "homarr": {
-      "version": "v1.68.0",
-      "gitref": "refs/tags/v1.68.0",
-      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.68.0"
+      "version": "v1.68.1",
+      "gitref": "refs/tags/v1.68.1",
+      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.68.1"
     },
     "home-assistant": {
       "version": "2026.6.4",
@@ -327,9 +327,9 @@
       "url": "https://pypi.org/project/tornado/6.5.7/"
     },
     "traefik": {
-      "version": "v3.7.5",
-      "gitref": "refs/tags/v3.7.5",
-      "url": "https://github.com/traefik/traefik/releases/tag/v3.7.5"
+      "version": "v3.7.6",
+      "gitref": "refs/tags/v3.7.6",
+      "url": "https://github.com/traefik/traefik/releases/tag/v3.7.6"
     },
     "umami": {
       "version": "v3.2.0",
