@@ -65,9 +65,9 @@
       "url": "https://github.com/sharkdp/bat/releases/tag/v0.26.1"
     },
     "bazarr": {
-      "version": "v1.5.6",
-      "gitref": "refs/tags/v1.5.6",
-      "url": "https://github.com/morpheus65535/bazarr/releases/tag/v1.5.6"
+      "version": "v1.6.0",
+      "gitref": "refs/tags/v1.6.0",
+      "url": "https://github.com/morpheus65535/bazarr/releases/tag/v1.6.0"
     },
     "beszel": {
       "version": "v0.18.7",
@@ -137,9 +137,9 @@
       "url": "https://github.com/FreshRSS/FreshRSS/releases/tag/1.29.1"
     },
     "fzf": {
-      "version": "v0.73.1",
-      "gitref": "refs/tags/v0.73.1",
-      "url": "https://github.com/junegunn/fzf/releases/tag/v0.73.1"
+      "version": "v0.74.0",
+      "gitref": "refs/tags/v0.74.0",
+      "url": "https://github.com/junegunn/fzf/releases/tag/v0.74.0"
     },
     "gatus": {
       "version": "v5.36.0",
@@ -167,14 +167,14 @@
       "url": "https://github.com/juanfont/headscale/releases/tag/v0.29.2"
     },
     "homarr": {
-      "version": "v1.68.1",
-      "gitref": "refs/tags/v1.68.1",
-      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.68.1"
+      "version": "v1.69.2",
+      "gitref": "refs/tags/v1.69.2",
+      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.69.2"
     },
     "home-assistant": {
-      "version": "2026.7.0",
-      "gitref": "refs/tags/2026.7.0",
-      "url": "https://github.com/home-assistant/core/releases/tag/2026.7.0"
+      "version": "2026.7.1",
+      "gitref": "refs/tags/2026.7.1",
+      "url": "https://github.com/home-assistant/core/releases/tag/2026.7.1"
     },
     "homepage": {
       "version": "v1.13.2",
@@ -226,9 +226,9 @@
       "url": "https://github.com/jagandeepbrar/lunasea/releases/tag/v11.0.0"
     },
     "meilisearch": {
-      "version": "v1.48.3",
-      "gitref": "refs/tags/v1.48.3",
-      "url": "https://github.com/meilisearch/meilisearch/releases/tag/v1.48.3"
+      "version": "v1.49.0",
+      "gitref": "refs/tags/v1.49.0",
+      "url": "https://github.com/meilisearch/meilisearch/releases/tag/v1.49.0"
     },
     "minio": {
       "version": "RELEASE.2025-10-15T17-29-55Z",
@@ -288,9 +288,9 @@
       "url": "https://github.com/qbittorrent/qBittorrent/releases/tag/release-5.2.2"
     },
     "semaphore": {
-      "version": "v2.18.13",
-      "gitref": "refs/tags/v2.18.13",
-      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.18.13"
+      "version": "v2.18.20",
+      "gitref": "refs/tags/v2.18.20",
+      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.18.20"
     },
     "sentry": {
       "version": "26.6.0",
@@ -357,9 +357,9 @@
       "url": "https://github.com/ytdl-org/youtube-dl/releases/tag/2021.12.17"
     },
     "zoxide": {
-      "version": "v0.9.9",
-      "gitref": "refs/tags/v0.9.9",
-      "url": "https://github.com/ajeetdsouza/zoxide/releases/tag/v0.9.9"
+      "version": "v0.10.0",
+      "gitref": "refs/tags/v0.10.0",
+      "url": "https://github.com/ajeetdsouza/zoxide/releases/tag/v0.10.0"
     },
     "zsh": {
       "version": "5.4.1",
