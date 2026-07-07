@@ -99,13 +99,13 @@
       "url": "https://github.com/podman-container-tools/buildah/releases/tag/v1.44.0"
     },
     "compose": {
-      "version": "v5.3.0",
-      "gitref": "refs/tags/v5.3.0",
-      "url": "https://github.com/docker/compose/releases/tag/v5.3.0"
+      "version": "v5.3.1",
+      "gitref": "refs/tags/v5.3.1",
+      "url": "https://github.com/docker/compose/releases/tag/v5.3.1"
     },
     "django": {
-      "version": "6.0.6",
-      "url": "https://pypi.org/project/Django/6.0.6/"
+      "version": "6.0.7",
+      "url": "https://pypi.org/project/Django/6.0.7/"
     },
     "docker-cli": {
       "version": "v29.6.1",
@@ -242,9 +242,9 @@
       "url": "https://github.com/lilydjwg/nvchecker/releases/tag/v2.20"
     },
     "pi-hole": {
-      "version": "v6.4.2",
-      "gitref": "refs/tags/v6.4.2",
-      "url": "https://github.com/pi-hole/pi-hole/releases/tag/v6.4.2"
+      "version": "v6.4.3",
+      "gitref": "refs/tags/v6.4.3",
+      "url": "https://github.com/pi-hole/pi-hole/releases/tag/v6.4.3"
     },
     "podman": {
       "version": "v6.0.0",
