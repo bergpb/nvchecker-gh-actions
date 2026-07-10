@@ -44,9 +44,9 @@
       "url": "https://pypi.org/project/ansible/14.1.0/"
     },
     "argocd": {
-      "version": "v3.4.4",
-      "gitref": "refs/tags/v3.4.4",
-      "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.4.4"
+      "version": "v3.4.5",
+      "gitref": "refs/tags/v3.4.5",
+      "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.4.5"
     },
     "awx": {
       "version": "24.6.1",
@@ -89,9 +89,9 @@
       "url": "https://pypi.org/project/borgbackup/1.4.4/"
     },
     "bottom": {
-      "version": "0.14.3",
-      "gitref": "refs/tags/0.14.3",
-      "url": "https://github.com/ClementTsang/bottom/releases/tag/0.14.3"
+      "version": "0.14.4",
+      "gitref": "refs/tags/0.14.4",
+      "url": "https://github.com/ClementTsang/bottom/releases/tag/0.14.4"
     },
     "buildah": {
       "version": "v1.44.0",
@@ -262,9 +262,9 @@
       "url": "https://github.com/portainer/portainer/releases/tag/2.39.4"
     },
     "prometheus": {
-      "version": "v3.13.0",
-      "gitref": "refs/tags/v3.13.0",
-      "url": "https://github.com/prometheus/prometheus/releases/tag/v3.13.0"
+      "version": "v3.13.1",
+      "gitref": "refs/tags/v3.13.1",
+      "url": "https://github.com/prometheus/prometheus/releases/tag/v3.13.1"
     },
     "prometheus-blackbox_exporter": {
       "version": "v0.28.0",
@@ -288,9 +288,9 @@
       "url": "https://github.com/qbittorrent/qBittorrent/releases/tag/release-5.2.3"
     },
     "semaphore": {
-      "version": "v2.18.23",
-      "gitref": "refs/tags/v2.18.23",
-      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.18.23"
+      "version": "v2.18.25",
+      "gitref": "refs/tags/v2.18.25",
+      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.18.25"
     },
     "sentry": {
       "version": "26.6.0",
