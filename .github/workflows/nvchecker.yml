@@ -15,7 +15,7 @@ on:
       - "config.toml"
       - ".github/workflows/nvchecker.yml"
   schedule:
-    - cron: "0 9 * * 1-5"
+    - cron: "17 9 * * 1-5"
       timezone: "America/Fortaleza"
 
 env:
