@@ -25,9 +25,9 @@
       "url": "https://github.com/Prowlarr/Prowlarr/releases/tag/v2.4.0.5397"
     },
     "Radarr": {
-      "version": "v6.2.1.10461",
-      "gitref": "refs/tags/v6.2.1.10461",
-      "url": "https://github.com/Radarr/Radarr/releases/tag/v6.2.1.10461"
+      "version": "v6.3.0.10514",
+      "gitref": "refs/tags/v6.3.0.10514",
+      "url": "https://github.com/Radarr/Radarr/releases/tag/v6.3.0.10514"
     },
     "Sonarr": {
       "version": "v4.0.19.2979",
@@ -114,9 +114,9 @@
       "url": "https://github.com/docker/cli/releases/tag/v29.6.1"
     },
     "dockhand": {
-      "version": "v1.0.36",
-      "gitref": "refs/tags/v1.0.36",
-      "url": "https://github.com/Finsys/dockhand/releases/tag/v1.0.36"
+      "version": "v1.0.37",
+      "gitref": "refs/tags/v1.0.37",
+      "url": "https://github.com/Finsys/dockhand/releases/tag/v1.0.37"
     },
     "fastapi": {
       "version": "0.139.0",
@@ -167,14 +167,14 @@
       "url": "https://github.com/juanfont/headscale/releases/tag/v0.29.2"
     },
     "homarr": {
-      "version": "v1.69.2",
-      "gitref": "refs/tags/v1.69.2",
-      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.69.2"
+      "version": "v1.70.0",
+      "gitref": "refs/tags/v1.70.0",
+      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.70.0"
     },
     "home-assistant": {
-      "version": "2026.7.1",
-      "gitref": "refs/tags/2026.7.1",
-      "url": "https://github.com/home-assistant/core/releases/tag/2026.7.1"
+      "version": "2026.7.2",
+      "gitref": "refs/tags/2026.7.2",
+      "url": "https://github.com/home-assistant/core/releases/tag/2026.7.2"
     },
     "homepage": {
       "version": "v1.13.2",
@@ -216,9 +216,9 @@
       "url": "https://github.com/jesseduffield/lazydocker/releases/tag/v0.25.2"
     },
     "linkwarden": {
-      "version": "v2.14.1",
-      "gitref": "refs/tags/v2.14.1",
-      "url": "https://github.com/linkwarden/linkwarden/releases/tag/v2.14.1"
+      "version": "v2.15.1",
+      "gitref": "refs/tags/v2.15.1",
+      "url": "https://github.com/linkwarden/linkwarden/releases/tag/v2.15.1"
     },
     "lunasea": {
       "version": "v11.0.0",
@@ -272,14 +272,14 @@
       "url": "https://github.com/prometheus/blackbox_exporter/releases/tag/v0.28.0"
     },
     "prometheus-node_exporter": {
-      "version": "v1.11.1",
-      "gitref": "refs/tags/v1.11.1",
-      "url": "https://github.com/prometheus/node_exporter/releases/tag/v1.11.1"
+      "version": "v1.12.0",
+      "gitref": "refs/tags/v1.12.0",
+      "url": "https://github.com/prometheus/node_exporter/releases/tag/v1.12.0"
     },
     "pulumi": {
-      "version": "v3.251.0",
-      "gitref": "refs/tags/v3.251.0",
-      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.251.0"
+      "version": "v3.252.0",
+      "gitref": "refs/tags/v3.252.0",
+      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.252.0"
     },
     "qBittorrent": {
       "version": "release-5.2.3",
