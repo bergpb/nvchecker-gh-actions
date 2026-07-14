@@ -257,9 +257,9 @@
       "url": "https://github.com/containers/podman-compose/releases/tag/v1.6.0"
     },
     "portainer": {
-      "version": "2.39.4",
-      "gitref": "refs/tags/2.39.4",
-      "url": "https://github.com/portainer/portainer/releases/tag/2.39.4"
+      "version": "2.39.5",
+      "gitref": "refs/tags/2.39.5",
+      "url": "https://github.com/portainer/portainer/releases/tag/2.39.5"
     },
     "prometheus": {
       "version": "v3.13.1",
@@ -272,14 +272,14 @@
       "url": "https://github.com/prometheus/blackbox_exporter/releases/tag/v0.28.0"
     },
     "prometheus-node_exporter": {
-      "version": "v1.12.0",
-      "gitref": "refs/tags/v1.12.0",
-      "url": "https://github.com/prometheus/node_exporter/releases/tag/v1.12.0"
+      "version": "v1.12.1",
+      "gitref": "refs/tags/v1.12.1",
+      "url": "https://github.com/prometheus/node_exporter/releases/tag/v1.12.1"
     },
     "pulumi": {
-      "version": "v3.252.0",
-      "gitref": "refs/tags/v3.252.0",
-      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.252.0"
+      "version": "v3.253.0",
+      "gitref": "refs/tags/v3.253.0",
+      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.253.0"
     },
     "qBittorrent": {
       "version": "release-5.2.3",
@@ -288,9 +288,9 @@
       "url": "https://github.com/qbittorrent/qBittorrent/releases/tag/release-5.2.3"
     },
     "semaphore": {
-      "version": "v2.18.25",
-      "gitref": "refs/tags/v2.18.25",
-      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.18.25"
+      "version": "v2.18.27",
+      "gitref": "refs/tags/v2.18.27",
+      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.18.27"
     },
     "sentry": {
       "version": "26.6.0",
