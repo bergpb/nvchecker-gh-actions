@@ -334,7 +334,7 @@ source = "github"
 github = "meilisearch/meilisearch"
 use_latest_release = true
 
-[meilisearch]
+[omni-tools]
 source = "github"
 github = "iib0011/omni-tools"
 use_latest_release = true
