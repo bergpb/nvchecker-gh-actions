@@ -334,6 +334,11 @@ source = "github"
 github = "meilisearch/meilisearch"
 use_latest_release = true
 
+[meilisearch]
+source = "github"
+github = "iib0011/omni-tools"
+use_latest_release = true
+
 # --------------------------------------------------
 # Python packages
 
