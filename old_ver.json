@@ -241,6 +241,11 @@
       "revision": "5d6831b78ec4524b3cc1d6a45d846c13f854f80e",
       "url": "https://github.com/lilydjwg/nvchecker/releases/tag/v2.20"
     },
+    "omni-tools": {
+      "version": "v0.6.0",
+      "gitref": "refs/tags/v0.6.0",
+      "url": "https://github.com/iib0011/omni-tools/releases/tag/v0.6.0"
+    },
     "pi-hole": {
       "version": "v6.4.3",
       "gitref": "refs/tags/v6.4.3",
