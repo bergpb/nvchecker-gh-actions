@@ -85,13 +85,13 @@
       "url": "https://github.com/bitwarden/mobile/releases/tag/v2024.10.0"
     },
     "borgbackup": {
-      "version": "1.4.4",
-      "url": "https://pypi.org/project/borgbackup/1.4.4/"
+      "version": "1.4.5",
+      "url": "https://pypi.org/project/borgbackup/1.4.5/"
     },
     "bottom": {
-      "version": "0.14.4",
-      "gitref": "refs/tags/0.14.4",
-      "url": "https://github.com/ClementTsang/bottom/releases/tag/0.14.4"
+      "version": "0.14.6",
+      "gitref": "refs/tags/0.14.6",
+      "url": "https://github.com/ClementTsang/bottom/releases/tag/0.14.6"
     },
     "buildah": {
       "version": "v1.44.0",
@@ -137,9 +137,9 @@
       "url": "https://github.com/FreshRSS/FreshRSS/releases/tag/1.29.1"
     },
     "fzf": {
-      "version": "v0.74.0",
-      "gitref": "refs/tags/v0.74.0",
-      "url": "https://github.com/junegunn/fzf/releases/tag/v0.74.0"
+      "version": "v0.74.1",
+      "gitref": "refs/tags/v0.74.1",
+      "url": "https://github.com/junegunn/fzf/releases/tag/v0.74.1"
     },
     "gatus": {
       "version": "v5.36.0",
@@ -147,9 +147,9 @@
       "url": "https://github.com/TwiN/gatus/releases/tag/v5.36.0"
     },
     "gotify": {
-      "version": "v2.9.1",
-      "gitref": "refs/tags/v2.9.1",
-      "url": "https://github.com/gotify/server/releases/tag/v2.9.1"
+      "version": "v3.0.0",
+      "gitref": "refs/tags/v3.0.0",
+      "url": "https://github.com/gotify/server/releases/tag/v3.0.0"
     },
     "grafana": {
       "version": "v13.1.0",
@@ -167,9 +167,9 @@
       "url": "https://github.com/juanfont/headscale/releases/tag/v0.29.2"
     },
     "homarr": {
-      "version": "v1.70.0",
-      "gitref": "refs/tags/v1.70.0",
-      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.70.0"
+      "version": "v1.71.0",
+      "gitref": "refs/tags/v1.71.0",
+      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.71.0"
     },
     "home-assistant": {
       "version": "2026.7.2",
@@ -226,9 +226,9 @@
       "url": "https://github.com/jagandeepbrar/lunasea/releases/tag/v11.0.0"
     },
     "meilisearch": {
-      "version": "v1.49.0",
-      "gitref": "refs/tags/v1.49.0",
-      "url": "https://github.com/meilisearch/meilisearch/releases/tag/v1.49.0"
+      "version": "v1.50.0",
+      "gitref": "refs/tags/v1.50.0",
+      "url": "https://github.com/meilisearch/meilisearch/releases/tag/v1.50.0"
     },
     "minio": {
       "version": "RELEASE.2025-10-15T17-29-55Z",
