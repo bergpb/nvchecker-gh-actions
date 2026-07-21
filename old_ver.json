@@ -152,9 +152,9 @@
       "url": "https://github.com/gotify/server/releases/tag/v3.0.0"
     },
     "grafana": {
-      "version": "v13.1.0",
-      "gitref": "refs/tags/v13.1.0",
-      "url": "https://github.com/grafana/grafana/releases/tag/v13.1.0"
+      "version": "v13.1.1",
+      "gitref": "refs/tags/v13.1.1",
+      "url": "https://github.com/grafana/grafana/releases/tag/v13.1.1"
     },
     "hatch": {
       "version": "hatch-v1.17.1",
@@ -323,9 +323,9 @@
       "url": "https://github.com/hashicorp/terraform/releases/tag/v1.15.8"
     },
     "tinyauth": {
-      "version": "v5.1.1",
-      "gitref": "refs/tags/v5.1.1",
-      "url": "https://github.com/tinyauthapp/tinyauth/releases/tag/v5.1.1"
+      "version": "v5.1.2",
+      "gitref": "refs/tags/v5.1.2",
+      "url": "https://github.com/tinyauthapp/tinyauth/releases/tag/v5.1.2"
     },
     "tornado": {
       "version": "6.5.7",
