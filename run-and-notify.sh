@@ -8,6 +8,7 @@ set -euo pipefail
 GIT_REPO="${GIT_REPO:-github.com/bergpb/nvchecker-gh-actions.git}"
 GIT_BRANCH="${GIT_BRANCH:-main}"
 REPO_DIR="$(mktemp -d)"
+trap 'rm -rf "$REPO_DIR"' EXIT
 
 git clone --depth 1 --branch "$GIT_BRANCH" \
     "https://x-access-token:${GITHUB_TOKEN}@${GIT_REPO}" "$REPO_DIR"
@@ -21,6 +22,12 @@ sed -i -e "s/__GITHUB_ACCESS_TOKEN__/${GITHUB_TOKEN}/g" keyfile.toml
 LOG_FILE="nvchecker_$(date +'%Y-%m-%d_%H-%M-%S').log"
 
 nvchecker --file config.toml --keyfile keyfile.toml 2>&1 | tee "$LOG_FILE"
+
+if grep -q '^\[E ' "$LOG_FILE"; then
+    echo "nvchecker reported errors, skipping version commit and notification" >&2
+    exit 1
+fi
+
 nvcmp --file config.toml > result.tmp
 nvtake --file config.toml --all
 
@@ -42,6 +49,3 @@ if ! git diff --quiet -- '*.json'; then
     git commit -m "chore: apply version record files changes"
     git push origin "$GIT_BRANCH"
 fi
-
-cd /
-rm -rf "$REPO_DIR"
