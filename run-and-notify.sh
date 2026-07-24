@@ -45,10 +45,16 @@ nvtake --file config.toml --all
 RESULT="$(cat result.tmp)"
 
 if [[ -n "$RESULT" ]]; then
-    curl -s "${GOTIFY_SERVER}/message?token=${GOTIFY_TOKEN}" \
+    GOTIFY_RESPONSE="$(mktemp)"
+    HTTP_STATUS="$(curl -s -o "$GOTIFY_RESPONSE" -w '%{http_code}' \
+        "${GOTIFY_SERVER}/message?token=${GOTIFY_TOKEN}" \
         -F "title=nvchecker Updates" \
         -F "message=${RESULT}" \
-        -F "priority=5" > /dev/null
+        -F "priority=5")" || HTTP_STATUS="curl_error"
+    if [[ "$HTTP_STATUS" != 2* ]]; then
+        echo "Gotify notification failed (HTTP $HTTP_STATUS): $(cat "$GOTIFY_RESPONSE")" >&2
+    fi
+    rm -f "$GOTIFY_RESPONSE"
 else
     echo "No new versions"
 fi
