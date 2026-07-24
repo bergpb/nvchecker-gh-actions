@@ -1,9 +1,20 @@
 #!/bin/bash
 set -euo pipefail
 
-: "${GITHUB_TOKEN:?GITHUB_TOKEN env var required}"
-: "${GOTIFY_SERVER:?GOTIFY_SERVER env var required}"
-: "${GOTIFY_TOKEN:?GOTIFY_TOKEN env var required}"
+read_secret() {
+    local var_name="$1" secret_file="/run/secrets/$2"
+    if [[ -z "${!var_name:-}" && -r "$secret_file" ]]; then
+        printf -v "$var_name" '%s' "$(cat "$secret_file")"
+    fi
+}
+
+read_secret GITHUB_TOKEN github_token
+read_secret GOTIFY_SERVER gotify_server
+read_secret GOTIFY_TOKEN gotify_token
+
+: "${GITHUB_TOKEN:?GITHUB_TOKEN env var or /run/secrets/github_token required}"
+: "${GOTIFY_SERVER:?GOTIFY_SERVER env var or /run/secrets/gotify_server required}"
+: "${GOTIFY_TOKEN:?GOTIFY_TOKEN env var or /run/secrets/gotify_token required}"
 
 GIT_REPO="${GIT_REPO:-github.com/bergpb/nvchecker-gh-actions.git}"
 GIT_BRANCH="${GIT_BRANCH:-main}"
