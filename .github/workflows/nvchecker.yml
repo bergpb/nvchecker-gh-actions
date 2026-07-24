@@ -14,9 +14,6 @@ on:
     paths:
       - "config.toml"
       - ".github/workflows/nvchecker.yml"
-  schedule:
-    - cron: "17 9 * * 1-5"
-      timezone: "America/Fortaleza"
 
 env:
   REGISTRY: ghcr.io
