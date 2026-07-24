@@ -1,4 +1,4 @@
-FROM python:3.12-alpine3.19 AS base
+FROM python:3.14-alpine3.24 AS base
 
 RUN apk update \
     && apk add \
@@ -23,3 +23,6 @@ RUN apk add \
 COPY --from=base /opt/venv /opt/venv
 
 ENV PATH="/opt/venv/bin:$PATH"
+
+COPY run-and-notify.sh /run-and-notify.sh
+RUN chmod +x /run-and-notify.sh

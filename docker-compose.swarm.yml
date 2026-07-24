@@ -1,0 +1,17 @@
+services:
+  nvchecker:
+    image: ghcr.io/bergpb/nvchecker-gh-actions:latest
+    entrypoint: ["/run-and-notify.sh"]
+    environment:
+      - GITHUB_TOKEN
+      - GOTIFY_SERVER
+      - GOTIFY_TOKEN
+    deploy:
+      mode: replicated
+      replicas: 0
+      restart_policy:
+        condition: none
+      labels:
+        swarm.cronjob.enable: "true"
+        swarm.cronjob.schedule: "0 9 * * 1-5"
+        swarm.cronjob.skip-running: "true"
