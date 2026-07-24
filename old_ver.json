@@ -172,9 +172,9 @@
       "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.71.0"
     },
     "home-assistant": {
-      "version": "2026.7.4",
-      "gitref": "refs/tags/2026.7.4",
-      "url": "https://github.com/home-assistant/core/releases/tag/2026.7.4"
+      "version": "2026.7.3",
+      "gitref": "refs/tags/2026.7.3",
+      "url": "https://github.com/home-assistant/core/releases/tag/2026.7.3"
     },
     "homepage": {
       "version": "v1.13.2",
@@ -182,9 +182,9 @@
       "url": "https://github.com/gethomepage/homepage/releases/tag/v1.13.2"
     },
     "insomnia": {
-      "version": "core@13.1.0",
-      "gitref": "refs/tags/core@13.1.0",
-      "url": "https://github.com/Kong/insomnia/releases/tag/core%4013.1.0"
+      "version": "core@13.0.2",
+      "gitref": "refs/tags/core@13.0.2",
+      "url": "https://github.com/Kong/insomnia/releases/tag/core%4013.0.2"
     },
     "jellyfin": {
       "version": "v10.11.11",
@@ -282,9 +282,9 @@
       "url": "https://github.com/prometheus/node_exporter/releases/tag/v1.12.1"
     },
     "pulumi": {
-      "version": "v3.254.0",
-      "gitref": "refs/tags/v3.254.0",
-      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.254.0"
+      "version": "v3.253.0",
+      "gitref": "refs/tags/v3.253.0",
+      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.253.0"
     },
     "qBittorrent": {
       "version": "release-5.2.3",
