@@ -119,8 +119,8 @@
       "url": "https://github.com/Finsys/dockhand/releases/tag/v1.0.39"
     },
     "fastapi": {
-      "version": "0.140.5",
-      "url": "https://pypi.org/project/fastapi/0.140.5/"
+      "version": "0.140.6",
+      "url": "https://pypi.org/project/fastapi/0.140.6/"
     },
     "fd": {
       "version": "v10.4.2",
