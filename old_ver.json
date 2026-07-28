@@ -192,9 +192,9 @@
       "url": "https://github.com/jellyfin/jellyfin/releases/tag/v10.11.11"
     },
     "jellyseerr": {
-      "version": "v3.3.0",
-      "gitref": "refs/tags/v3.3.0",
-      "url": "https://github.com/seerr-team/seerr/releases/tag/v3.3.0"
+      "version": "v3.4.0",
+      "gitref": "refs/tags/v3.4.0",
+      "url": "https://github.com/seerr-team/seerr/releases/tag/v3.4.0"
     },
     "jq": {
       "version": "jq-1.8.2",
