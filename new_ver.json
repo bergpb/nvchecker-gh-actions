@@ -119,8 +119,8 @@
       "url": "https://github.com/Finsys/dockhand/releases/tag/v1.0.39"
     },
     "fastapi": {
-      "version": "0.140.7",
-      "url": "https://pypi.org/project/fastapi/0.140.7/"
+      "version": "0.140.9",
+      "url": "https://pypi.org/project/fastapi/0.140.9/"
     },
     "fd": {
       "version": "v10.4.2",
@@ -216,9 +216,9 @@
       "url": "https://github.com/jesseduffield/lazydocker/releases/tag/v0.25.2"
     },
     "linkwarden": {
-      "version": "v2.15.1",
-      "gitref": "refs/tags/v2.15.1",
-      "url": "https://github.com/linkwarden/linkwarden/releases/tag/v2.15.1"
+      "version": "v2.16.0",
+      "gitref": "refs/tags/v2.16.0",
+      "url": "https://github.com/linkwarden/linkwarden/releases/tag/v2.16.0"
     },
     "lunasea": {
       "version": "v11.0.0",
@@ -293,9 +293,9 @@
       "url": "https://github.com/qbittorrent/qBittorrent/releases/tag/release-5.2.3"
     },
     "semaphore": {
-      "version": "v2.18.28",
-      "gitref": "refs/tags/v2.18.28",
-      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.18.28"
+      "version": "v2.18.29",
+      "gitref": "refs/tags/v2.18.29",
+      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.18.29"
     },
     "sentry": {
       "version": "26.7.1",
