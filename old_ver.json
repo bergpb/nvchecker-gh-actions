@@ -44,9 +44,9 @@
       "url": "https://pypi.org/project/ansible/14.2.0/"
     },
     "argocd": {
-      "version": "v3.4.5",
-      "gitref": "refs/tags/v3.4.5",
-      "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.4.5"
+      "version": "v3.5.0",
+      "gitref": "refs/tags/v3.5.0",
+      "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.5.0"
     },
     "awx": {
       "version": "24.6.1",
@@ -99,19 +99,19 @@
       "url": "https://github.com/podman-container-tools/buildah/releases/tag/v1.45.0"
     },
     "compose": {
-      "version": "v5.3.1",
-      "gitref": "refs/tags/v5.3.1",
-      "url": "https://github.com/docker/compose/releases/tag/v5.3.1"
+      "version": "v5.4.0",
+      "gitref": "refs/tags/v5.4.0",
+      "url": "https://github.com/docker/compose/releases/tag/v5.4.0"
     },
     "django": {
-      "version": "6.0.7",
-      "url": "https://pypi.org/project/Django/6.0.7/"
+      "version": "6.0.8",
+      "url": "https://pypi.org/project/Django/6.0.8/"
     },
     "docker-cli": {
-      "version": "v29.7.0",
-      "gitref": "refs/tags/v29.7.0",
-      "revision": "0036e6c8d3849a7573326e9ca07dcee379aabfa6",
-      "url": "https://github.com/docker/cli/releases/tag/v29.7.0"
+      "version": "v29.7.1",
+      "gitref": "refs/tags/v29.7.1",
+      "revision": "77a09850fca3dbd7ece75b3cee57dd50b6623618",
+      "url": "https://github.com/docker/cli/releases/tag/v29.7.1"
     },
     "dockhand": {
       "version": "v1.0.40",
@@ -137,9 +137,9 @@
       "url": "https://github.com/FreshRSS/FreshRSS/releases/tag/1.29.1"
     },
     "fzf": {
-      "version": "v0.74.1",
-      "gitref": "refs/tags/v0.74.1",
-      "url": "https://github.com/junegunn/fzf/releases/tag/v0.74.1"
+      "version": "v0.74.2",
+      "gitref": "refs/tags/v0.74.2",
+      "url": "https://github.com/junegunn/fzf/releases/tag/v0.74.2"
     },
     "gatus": {
       "version": "v5.36.0",
@@ -152,9 +152,9 @@
       "url": "https://github.com/gotify/server/releases/tag/v3.0.0"
     },
     "grafana": {
-      "version": "v13.1.1",
-      "gitref": "refs/tags/v13.1.1",
-      "url": "https://github.com/grafana/grafana/releases/tag/v13.1.1"
+      "version": "v13.1.2",
+      "gitref": "refs/tags/v13.1.2",
+      "url": "https://github.com/grafana/grafana/releases/tag/v13.1.2"
     },
     "hatch": {
       "version": "hatch-v1.17.1",
@@ -167,9 +167,9 @@
       "url": "https://github.com/juanfont/headscale/releases/tag/v0.29.3"
     },
     "homarr": {
-      "version": "v1.72.0",
-      "gitref": "refs/tags/v1.72.0",
-      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.72.0"
+      "version": "v1.73.0",
+      "gitref": "refs/tags/v1.73.0",
+      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.73.0"
     },
     "home-assistant": {
       "version": "2026.7.4",
@@ -226,9 +226,9 @@
       "url": "https://github.com/jagandeepbrar/lunasea/releases/tag/v11.0.0"
     },
     "meilisearch": {
-      "version": "v1.51.0",
-      "gitref": "refs/tags/v1.51.0",
-      "url": "https://github.com/meilisearch/meilisearch/releases/tag/v1.51.0"
+      "version": "v1.52.0",
+      "gitref": "refs/tags/v1.52.0",
+      "url": "https://github.com/meilisearch/meilisearch/releases/tag/v1.52.0"
     },
     "minio": {
       "version": "RELEASE.2025-10-15T17-29-55Z",
@@ -282,9 +282,9 @@
       "url": "https://github.com/prometheus/node_exporter/releases/tag/v1.12.1"
     },
     "pulumi": {
-      "version": "v3.255.0",
-      "gitref": "refs/tags/v3.255.0",
-      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.255.0"
+      "version": "v3.256.0",
+      "gitref": "refs/tags/v3.256.0",
+      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.256.0"
     },
     "qBittorrent": {
       "version": "release-5.2.3",
@@ -308,9 +308,9 @@
       "url": "https://github.com/podman-container-tools/skopeo/releases/tag/v1.24.0"
     },
     "speedtest-tracker": {
-      "version": "v1.14.6",
-      "gitref": "refs/tags/v1.14.6",
-      "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.14.6"
+      "version": "v1.14.7",
+      "gitref": "refs/tags/v1.14.7",
+      "url": "https://github.com/alexjustesen/speedtest-tracker/releases/tag/v1.14.7"
     },
     "swarm-cronjob": {
       "version": "v1.16.0",
@@ -332,9 +332,9 @@
       "url": "https://pypi.org/project/tornado/6.5.7/"
     },
     "traefik": {
-      "version": "v3.7.9",
-      "gitref": "refs/tags/v3.7.9",
-      "url": "https://github.com/traefik/traefik/releases/tag/v3.7.9"
+      "version": "v3.7.10",
+      "gitref": "refs/tags/v3.7.10",
+      "url": "https://github.com/traefik/traefik/releases/tag/v3.7.10"
     },
     "umami": {
       "version": "v3.2.0",
@@ -342,9 +342,9 @@
       "url": "https://github.com/umami-software/umami/releases/tag/v3.2.0"
     },
     "uptime-kuma": {
-      "version": "2.4.0",
-      "gitref": "refs/tags/2.4.0",
-      "url": "https://github.com/louislam/uptime-kuma/releases/tag/2.4.0"
+      "version": "2.5.0",
+      "gitref": "refs/tags/2.5.0",
+      "url": "https://github.com/louislam/uptime-kuma/releases/tag/2.5.0"
     },
     "vaultwarden": {
       "version": "1.37.1",
