@@ -114,9 +114,9 @@
       "url": "https://github.com/docker/cli/releases/tag/v29.7.2"
     },
     "dockhand": {
-      "version": "v1.0.40",
-      "gitref": "refs/tags/v1.0.40",
-      "url": "https://github.com/Finsys/dockhand/releases/tag/v1.0.40"
+      "version": "v1.0.41",
+      "gitref": "refs/tags/v1.0.41",
+      "url": "https://github.com/Finsys/dockhand/releases/tag/v1.0.41"
     },
     "fastapi": {
       "version": "0.141.1",
@@ -167,14 +167,14 @@
       "url": "https://github.com/juanfont/headscale/releases/tag/v0.29.3"
     },
     "homarr": {
-      "version": "v1.73.0",
-      "gitref": "refs/tags/v1.73.0",
-      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.73.0"
+      "version": "v1.74.0",
+      "gitref": "refs/tags/v1.74.0",
+      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.74.0"
     },
     "home-assistant": {
-      "version": "2026.8.0",
-      "gitref": "refs/tags/2026.8.0",
-      "url": "https://github.com/home-assistant/core/releases/tag/2026.8.0"
+      "version": "2026.8.1",
+      "gitref": "refs/tags/2026.8.1",
+      "url": "https://github.com/home-assistant/core/releases/tag/2026.8.1"
     },
     "homepage": {
       "version": "v1.13.2",
@@ -226,9 +226,9 @@
       "url": "https://github.com/jagandeepbrar/lunasea/releases/tag/v11.0.0"
     },
     "meilisearch": {
-      "version": "v1.52.0",
-      "gitref": "refs/tags/v1.52.0",
-      "url": "https://github.com/meilisearch/meilisearch/releases/tag/v1.52.0"
+      "version": "v1.53.0",
+      "gitref": "refs/tags/v1.53.0",
+      "url": "https://github.com/meilisearch/meilisearch/releases/tag/v1.53.0"
     },
     "minio": {
       "version": "RELEASE.2025-10-15T17-29-55Z",
