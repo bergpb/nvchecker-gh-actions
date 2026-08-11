@@ -40,8 +40,8 @@
       "url": "https://github.com/YOURLS/YOURLS/releases/tag/1.10.4"
     },
     "ansible": {
-      "version": "14.2.0",
-      "url": "https://pypi.org/project/ansible/14.2.0/"
+      "version": "14.3.0",
+      "url": "https://pypi.org/project/ansible/14.3.0/"
     },
     "argocd": {
       "version": "v3.5.0",
@@ -157,9 +157,9 @@
       "url": "https://github.com/grafana/grafana/releases/tag/v13.1.3"
     },
     "hatch": {
-      "version": "hatch-v1.17.1",
-      "gitref": "refs/tags/hatch-v1.17.1",
-      "url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.17.1"
+      "version": "hatch-v1.18.0",
+      "gitref": "refs/tags/hatch-v1.18.0",
+      "url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.18.0"
     },
     "headscale": {
       "version": "v0.29.3",
