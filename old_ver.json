@@ -44,9 +44,9 @@
       "url": "https://pypi.org/project/ansible/14.3.0/"
     },
     "argocd": {
-      "version": "v3.5.0",
-      "gitref": "refs/tags/v3.5.0",
-      "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.5.0"
+      "version": "v3.5.1",
+      "gitref": "refs/tags/v3.5.1",
+      "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.5.1"
     },
     "awx": {
       "version": "24.6.1",
@@ -252,9 +252,9 @@
       "url": "https://github.com/pi-hole/pi-hole/releases/tag/v6.4.3"
     },
     "podman": {
-      "version": "v6.0.2",
-      "gitref": "refs/tags/v6.0.2",
-      "url": "https://github.com/podman-container-tools/podman/releases/tag/v6.0.2"
+      "version": "v6.1.0",
+      "gitref": "refs/tags/v6.1.0",
+      "url": "https://github.com/podman-container-tools/podman/releases/tag/v6.1.0"
     },
     "podman-compose": {
       "version": "v1.6.0",
@@ -262,9 +262,9 @@
       "url": "https://github.com/containers/podman-compose/releases/tag/v1.6.0"
     },
     "portainer": {
-      "version": "2.39.5",
-      "gitref": "refs/tags/2.39.5",
-      "url": "https://github.com/portainer/portainer/releases/tag/2.39.5"
+      "version": "2.39.6",
+      "gitref": "refs/tags/2.39.6",
+      "url": "https://github.com/portainer/portainer/releases/tag/2.39.6"
     },
     "prometheus": {
       "version": "v3.13.2",
@@ -337,9 +337,9 @@
       "url": "https://github.com/traefik/traefik/releases/tag/v3.7.10"
     },
     "umami": {
-      "version": "v3.2.0",
-      "gitref": "refs/tags/v3.2.0",
-      "url": "https://github.com/umami-software/umami/releases/tag/v3.2.0"
+      "version": "v3.3.0",
+      "gitref": "refs/tags/v3.3.0",
+      "url": "https://github.com/umami-software/umami/releases/tag/v3.3.0"
     },
     "uptime-kuma": {
       "version": "2.5.0",
