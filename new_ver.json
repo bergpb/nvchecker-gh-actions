@@ -89,9 +89,9 @@
       "url": "https://pypi.org/project/borgbackup/1.4.5/"
     },
     "bottom": {
-      "version": "0.14.7",
-      "gitref": "refs/tags/0.14.7",
-      "url": "https://github.com/ClementTsang/bottom/releases/tag/0.14.7"
+      "version": "0.14.8",
+      "gitref": "refs/tags/0.14.8",
+      "url": "https://github.com/ClementTsang/bottom/releases/tag/0.14.8"
     },
     "buildah": {
       "version": "v1.45.0",
@@ -226,9 +226,9 @@
       "url": "https://github.com/jagandeepbrar/lunasea/releases/tag/v11.0.0"
     },
     "meilisearch": {
-      "version": "v1.53.0",
-      "gitref": "refs/tags/v1.53.0",
-      "url": "https://github.com/meilisearch/meilisearch/releases/tag/v1.53.0"
+      "version": "v1.53.1",
+      "gitref": "refs/tags/v1.53.1",
+      "url": "https://github.com/meilisearch/meilisearch/releases/tag/v1.53.1"
     },
     "minio": {
       "version": "RELEASE.2025-10-15T17-29-55Z",
@@ -282,9 +282,9 @@
       "url": "https://github.com/prometheus/node_exporter/releases/tag/v1.12.1"
     },
     "pulumi": {
-      "version": "v3.256.0",
-      "gitref": "refs/tags/v3.256.0",
-      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.256.0"
+      "version": "v3.257.0",
+      "gitref": "refs/tags/v3.257.0",
+      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.257.0"
     },
     "qBittorrent": {
       "version": "release-5.2.3",
