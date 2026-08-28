@@ -147,9 +147,9 @@
       "url": "https://github.com/TwiN/gatus/releases/tag/v5.36.0"
     },
     "gotify": {
-      "version": "v3.0.0",
-      "gitref": "refs/tags/v3.0.0",
-      "url": "https://github.com/gotify/server/releases/tag/v3.0.0"
+      "version": "v3.1.0",
+      "gitref": "refs/tags/v3.1.0",
+      "url": "https://github.com/gotify/server/releases/tag/v3.1.0"
     },
     "grafana": {
       "version": "v13.2.0",
@@ -167,9 +167,9 @@
       "url": "https://github.com/juanfont/headscale/releases/tag/v0.29.3"
     },
     "homarr": {
-      "version": "v1.76.1",
-      "gitref": "refs/tags/v1.76.1",
-      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.76.1"
+      "version": "v1.76.2",
+      "gitref": "refs/tags/v1.76.2",
+      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.76.2"
     },
     "home-assistant": {
       "version": "2026.8.3",
@@ -282,9 +282,9 @@
       "url": "https://github.com/prometheus/node_exporter/releases/tag/v1.12.1"
     },
     "pulumi": {
-      "version": "v3.259.0",
-      "gitref": "refs/tags/v3.259.0",
-      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.259.0"
+      "version": "v3.260.0",
+      "gitref": "refs/tags/v3.260.0",
+      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.260.0"
     },
     "qBittorrent": {
       "version": "release-5.2.3",
