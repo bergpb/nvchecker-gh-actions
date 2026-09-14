@@ -15,9 +15,9 @@
       "url": "https://pypi.org/project/celery/5.6.3/"
     },
     "FlareSolverr": {
-      "version": "v3.5.0",
-      "gitref": "refs/tags/v3.5.0",
-      "url": "https://github.com/FlareSolverr/FlareSolverr/releases/tag/v3.5.0"
+      "version": "v3.5.2",
+      "gitref": "refs/tags/v3.5.2",
+      "url": "https://github.com/FlareSolverr/FlareSolverr/releases/tag/v3.5.2"
     },
     "Prowlarr": {
       "version": "v2.5.2.5491",
@@ -44,9 +44,9 @@
       "url": "https://pypi.org/project/ansible/14.4.0/"
     },
     "argocd": {
-      "version": "v3.5.2",
-      "gitref": "refs/tags/v3.5.2",
-      "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.5.2"
+      "version": "v3.5.3",
+      "gitref": "refs/tags/v3.5.3",
+      "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.5.3"
     },
     "awx": {
       "version": "24.6.1",
@@ -114,9 +114,9 @@
       "url": "https://github.com/docker/cli/releases/tag/v29.8.0"
     },
     "dockhand": {
-      "version": "v1.0.46",
-      "gitref": "refs/tags/v1.0.46",
-      "url": "https://github.com/Finsys/dockhand/releases/tag/v1.0.46"
+      "version": "v1.0.48",
+      "gitref": "refs/tags/v1.0.48",
+      "url": "https://github.com/Finsys/dockhand/releases/tag/v1.0.48"
     },
     "fastapi": {
       "version": "0.141.1",
@@ -137,9 +137,9 @@
       "url": "https://github.com/FreshRSS/FreshRSS/releases/tag/1.30.0"
     },
     "fzf": {
-      "version": "v0.74.3",
-      "gitref": "refs/tags/v0.74.3",
-      "url": "https://github.com/junegunn/fzf/releases/tag/v0.74.3"
+      "version": "v0.74.4",
+      "gitref": "refs/tags/v0.74.4",
+      "url": "https://github.com/junegunn/fzf/releases/tag/v0.74.4"
     },
     "gatus": {
       "version": "v5.36.0",
@@ -167,14 +167,14 @@
       "url": "https://github.com/juanfont/headscale/releases/tag/v0.29.3"
     },
     "homarr": {
-      "version": "v1.77.0",
-      "gitref": "refs/tags/v1.77.0",
-      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.77.0"
+      "version": "v1.77.1",
+      "gitref": "refs/tags/v1.77.1",
+      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.77.1"
     },
     "home-assistant": {
-      "version": "2026.9.1",
-      "gitref": "refs/tags/2026.9.1",
-      "url": "https://github.com/home-assistant/core/releases/tag/2026.9.1"
+      "version": "2026.9.2",
+      "gitref": "refs/tags/2026.9.2",
+      "url": "https://github.com/home-assistant/core/releases/tag/2026.9.2"
     },
     "homepage": {
       "version": "v2.3.0",
@@ -347,9 +347,9 @@
       "url": "https://github.com/louislam/uptime-kuma/releases/tag/2.5.4"
     },
     "vaultwarden": {
-      "version": "1.37.2",
-      "gitref": "refs/tags/1.37.2",
-      "url": "https://github.com/dani-garcia/vaultwarden/releases/tag/1.37.2"
+      "version": "1.37.3",
+      "gitref": "refs/tags/1.37.3",
+      "url": "https://github.com/dani-garcia/vaultwarden/releases/tag/1.37.3"
     },
     "webhook": {
       "version": "2.8.3",
