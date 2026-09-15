@@ -65,9 +65,9 @@
       "url": "https://github.com/sharkdp/bat/releases/tag/v0.26.1"
     },
     "bazarr": {
-      "version": "v1.6.0",
-      "gitref": "refs/tags/v1.6.0",
-      "url": "https://github.com/morpheus65535/bazarr/releases/tag/v1.6.0"
+      "version": "v1.6.1",
+      "gitref": "refs/tags/v1.6.1",
+      "url": "https://github.com/morpheus65535/bazarr/releases/tag/v1.6.1"
     },
     "beszel": {
       "version": "v0.19.0",
@@ -187,9 +187,9 @@
       "url": "https://github.com/Kong/insomnia/releases/tag/core%4013.2.0"
     },
     "jellyfin": {
-      "version": "v12.0",
-      "gitref": "refs/tags/v12.0",
-      "url": "https://github.com/jellyfin/jellyfin/releases/tag/v12.0"
+      "version": "v12.1",
+      "gitref": "refs/tags/v12.1",
+      "url": "https://github.com/jellyfin/jellyfin/releases/tag/v12.1"
     },
     "jellyseerr": {
       "version": "v3.4.1",
@@ -328,8 +328,8 @@
       "url": "https://github.com/tinyauthapp/tinyauth/releases/tag/v5.2.0"
     },
     "tornado": {
-      "version": "6.5.8",
-      "url": "https://pypi.org/project/tornado/6.5.8/"
+      "version": "6.5.9",
+      "url": "https://pypi.org/project/tornado/6.5.9/"
     },
     "traefik": {
       "version": "v3.7.13",
