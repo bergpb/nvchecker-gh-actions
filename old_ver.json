@@ -94,9 +94,9 @@
       "url": "https://github.com/ClementTsang/bottom/releases/tag/0.14.9"
     },
     "buildah": {
-      "version": "v1.45.0",
-      "gitref": "refs/tags/v1.45.0",
-      "url": "https://github.com/podman-container-tools/buildah/releases/tag/v1.45.0"
+      "version": "v1.45.1",
+      "gitref": "refs/tags/v1.45.1",
+      "url": "https://github.com/podman-container-tools/buildah/releases/tag/v1.45.1"
     },
     "compose": {
       "version": "v5.5.1",
@@ -108,10 +108,10 @@
       "url": "https://pypi.org/project/Django/6.1.1/"
     },
     "docker-cli": {
-      "version": "v29.8.0",
-      "gitref": "refs/tags/v29.8.0",
-      "revision": "8da707ec5708e71f8daee7b555bebb54013d6ac9",
-      "url": "https://github.com/docker/cli/releases/tag/v29.8.0"
+      "version": "v29.8.1",
+      "gitref": "refs/tags/v29.8.1",
+      "revision": "477f1252f2391a2b34fdce2e7bd03a0eee660005",
+      "url": "https://github.com/docker/cli/releases/tag/v29.8.1"
     },
     "dockhand": {
       "version": "v1.0.48",
@@ -147,14 +147,14 @@
       "url": "https://github.com/TwiN/gatus/releases/tag/v5.36.0"
     },
     "gotify": {
-      "version": "v3.1.0",
-      "gitref": "refs/tags/v3.1.0",
-      "url": "https://github.com/gotify/server/releases/tag/v3.1.0"
+      "version": "v3.1.1",
+      "gitref": "refs/tags/v3.1.1",
+      "url": "https://github.com/gotify/server/releases/tag/v3.1.1"
     },
     "grafana": {
-      "version": "v13.2.1",
-      "gitref": "refs/tags/v13.2.1",
-      "url": "https://github.com/grafana/grafana/releases/tag/v13.2.1"
+      "version": "v13.2.2",
+      "gitref": "refs/tags/v13.2.2",
+      "url": "https://github.com/grafana/grafana/releases/tag/v13.2.2"
     },
     "hatch": {
       "version": "hatch-v1.18.0",
@@ -252,9 +252,9 @@
       "url": "https://github.com/pi-hole/pi-hole/releases/tag/v6.4.3"
     },
     "podman": {
-      "version": "v6.1.1",
-      "gitref": "refs/tags/v6.1.1",
-      "url": "https://github.com/podman-container-tools/podman/releases/tag/v6.1.1"
+      "version": "v6.1.2",
+      "gitref": "refs/tags/v6.1.2",
+      "url": "https://github.com/podman-container-tools/podman/releases/tag/v6.1.2"
     },
     "podman-compose": {
       "version": "v1.6.0",
@@ -282,9 +282,9 @@
       "url": "https://github.com/prometheus/node_exporter/releases/tag/v1.12.1"
     },
     "pulumi": {
-      "version": "v3.262.0",
-      "gitref": "refs/tags/v3.262.0",
-      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.262.0"
+      "version": "v3.263.0",
+      "gitref": "refs/tags/v3.263.0",
+      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.263.0"
     },
     "qBittorrent": {
       "version": "release-5.3.0beta1",
@@ -298,9 +298,9 @@
       "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.19.12"
     },
     "sentry": {
-      "version": "26.8.0",
-      "gitref": "refs/tags/26.8.0",
-      "url": "https://github.com/getsentry/self-hosted/releases/tag/26.8.0"
+      "version": "26.9.0",
+      "gitref": "refs/tags/26.9.0",
+      "url": "https://github.com/getsentry/self-hosted/releases/tag/26.9.0"
     },
     "skopeo": {
       "version": "v1.24.0",
@@ -328,8 +328,8 @@
       "url": "https://github.com/tinyauthapp/tinyauth/releases/tag/v5.2.0"
     },
     "tornado": {
-      "version": "6.5.9",
-      "url": "https://pypi.org/project/tornado/6.5.9/"
+      "version": "6.5.10",
+      "url": "https://pypi.org/project/tornado/6.5.10/"
     },
     "traefik": {
       "version": "v3.7.13",
