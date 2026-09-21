@@ -70,9 +70,9 @@
       "url": "https://github.com/morpheus65535/bazarr/releases/tag/v1.6.1"
     },
     "beszel": {
-      "version": "v0.19.0",
-      "gitref": "refs/tags/v0.19.0",
-      "url": "https://github.com/henrygd/beszel/releases/tag/v0.19.0"
+      "version": "v0.20.0",
+      "gitref": "refs/tags/v0.20.0",
+      "url": "https://github.com/henrygd/beszel/releases/tag/v0.20.0"
     },
     "bitwarden-desktop": {
       "version": "v2022.5.1",
@@ -167,14 +167,14 @@
       "url": "https://github.com/juanfont/headscale/releases/tag/v0.29.3"
     },
     "homarr": {
-      "version": "v1.77.1",
-      "gitref": "refs/tags/v1.77.1",
-      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.77.1"
+      "version": "v1.77.2",
+      "gitref": "refs/tags/v1.77.2",
+      "url": "https://github.com/homarr-labs/homarr/releases/tag/v1.77.2"
     },
     "home-assistant": {
-      "version": "2026.9.2",
-      "gitref": "refs/tags/2026.9.2",
-      "url": "https://github.com/home-assistant/core/releases/tag/2026.9.2"
+      "version": "2026.9.3",
+      "gitref": "refs/tags/2026.9.3",
+      "url": "https://github.com/home-assistant/core/releases/tag/2026.9.3"
     },
     "homepage": {
       "version": "v2.4.0",
@@ -226,9 +226,9 @@
       "url": "https://github.com/jagandeepbrar/lunasea/releases/tag/v11.0.0"
     },
     "meilisearch": {
-      "version": "v1.53.2",
-      "gitref": "refs/tags/v1.53.2",
-      "url": "https://github.com/meilisearch/meilisearch/releases/tag/v1.53.2"
+      "version": "v1.54.0",
+      "gitref": "refs/tags/v1.54.0",
+      "url": "https://github.com/meilisearch/meilisearch/releases/tag/v1.54.0"
     },
     "minio": {
       "version": "RELEASE.2025-10-15T17-29-55Z",
