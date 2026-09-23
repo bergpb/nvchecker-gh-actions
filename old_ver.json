@@ -182,9 +182,9 @@
       "url": "https://github.com/gethomepage/homepage/releases/tag/v2.4.0"
     },
     "insomnia": {
-      "version": "core@13.2.0",
-      "gitref": "refs/tags/core@13.2.0",
-      "url": "https://github.com/Kong/insomnia/releases/tag/core%4013.2.0"
+      "version": "core@13.3.0",
+      "gitref": "refs/tags/core@13.3.0",
+      "url": "https://github.com/Kong/insomnia/releases/tag/core%4013.3.0"
     },
     "jellyfin": {
       "version": "v12.1",
@@ -282,9 +282,9 @@
       "url": "https://github.com/prometheus/node_exporter/releases/tag/v1.12.1"
     },
     "pulumi": {
-      "version": "v3.263.0",
-      "gitref": "refs/tags/v3.263.0",
-      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.263.0"
+      "version": "v3.264.0",
+      "gitref": "refs/tags/v3.264.0",
+      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.264.0"
     },
     "qBittorrent": {
       "version": "release-5.3.0beta1",
