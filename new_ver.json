@@ -114,9 +114,9 @@
       "url": "https://github.com/docker/cli/releases/tag/v29.8.1"
     },
     "dockhand": {
-      "version": "v1.0.48",
-      "gitref": "refs/tags/v1.0.48",
-      "url": "https://github.com/Finsys/dockhand/releases/tag/v1.0.48"
+      "version": "v1.0.49",
+      "gitref": "refs/tags/v1.0.49",
+      "url": "https://github.com/Finsys/dockhand/releases/tag/v1.0.49"
     },
     "fastapi": {
       "version": "0.141.1",
@@ -142,9 +142,9 @@
       "url": "https://github.com/junegunn/fzf/releases/tag/v0.74.4"
     },
     "gatus": {
-      "version": "v5.36.0",
-      "gitref": "refs/tags/v5.36.0",
-      "url": "https://github.com/TwiN/gatus/releases/tag/v5.36.0"
+      "version": "v5.37.0",
+      "gitref": "refs/tags/v5.37.0",
+      "url": "https://github.com/TwiN/gatus/releases/tag/v5.37.0"
     },
     "gotify": {
       "version": "v3.1.1",
@@ -162,9 +162,9 @@
       "url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.18.1"
     },
     "headscale": {
-      "version": "v0.29.3",
-      "gitref": "refs/tags/v0.29.3",
-      "url": "https://github.com/juanfont/headscale/releases/tag/v0.29.3"
+      "version": "v0.29.4",
+      "gitref": "refs/tags/v0.29.4",
+      "url": "https://github.com/juanfont/headscale/releases/tag/v0.29.4"
     },
     "homarr": {
       "version": "v1.77.2",
@@ -318,9 +318,9 @@
       "url": "https://github.com/crazy-max/swarm-cronjob/releases/tag/v1.16.0"
     },
     "terraform": {
-      "version": "v1.16.3",
-      "gitref": "refs/tags/v1.16.3",
-      "url": "https://github.com/hashicorp/terraform/releases/tag/v1.16.3"
+      "version": "v1.16.4",
+      "gitref": "refs/tags/v1.16.4",
+      "url": "https://github.com/hashicorp/terraform/releases/tag/v1.16.4"
     },
     "tinyauth": {
       "version": "v5.2.0",
