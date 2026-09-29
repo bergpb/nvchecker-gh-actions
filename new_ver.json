@@ -152,9 +152,9 @@
       "url": "https://github.com/gotify/server/releases/tag/v3.1.1"
     },
     "grafana": {
-      "version": "v13.2.2",
-      "gitref": "refs/tags/v13.2.2",
-      "url": "https://github.com/grafana/grafana/releases/tag/v13.2.2"
+      "version": "v13.2.3",
+      "gitref": "refs/tags/v13.2.3",
+      "url": "https://github.com/grafana/grafana/releases/tag/v13.2.3"
     },
     "hatch": {
       "version": "hatch-v1.18.1",
@@ -287,10 +287,10 @@
       "url": "https://github.com/pulumi/pulumi/releases/tag/v3.265.0"
     },
     "qBittorrent": {
-      "version": "release-5.3.0beta1",
-      "gitref": "refs/tags/release-5.3.0beta1",
-      "revision": "99a508c62d15b25a5499ecaad72163ec1ed35a52",
-      "url": "https://github.com/qbittorrent/qBittorrent/releases/tag/release-5.3.0beta1"
+      "version": "release-5.3.0rc1",
+      "gitref": "refs/tags/release-5.3.0rc1",
+      "revision": "6ed6f8d53170b7cae6c7a692ded95fc3f9d715a7",
+      "url": "https://github.com/qbittorrent/qBittorrent/releases/tag/release-5.3.0rc1"
     },
     "semaphore": {
       "version": "v2.19.12",
