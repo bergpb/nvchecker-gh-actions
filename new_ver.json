@@ -162,14 +162,14 @@
       "url": "https://github.com/pypa/hatch/releases/tag/hatch-v1.18.1"
     },
     "headscale": {
-      "version": "v0.29.4",
-      "gitref": "refs/tags/v0.29.4",
-      "url": "https://github.com/juanfont/headscale/releases/tag/v0.29.4"
+      "version": "v0.29.5",
+      "gitref": "refs/tags/v0.29.5",
+      "url": "https://github.com/juanfont/headscale/releases/tag/v0.29.5"
     },
     "homarr": {
-      "version": "v2.4.1",
-      "gitref": "refs/tags/v2.4.1",
-      "url": "https://github.com/homarr-labs/homarr/releases/tag/v2.4.1"
+      "version": "v2.5.2",
+      "gitref": "refs/tags/v2.5.2",
+      "url": "https://github.com/homarr-labs/homarr/releases/tag/v2.5.2"
     },
     "home-assistant": {
       "version": "2026.10.1",
@@ -318,9 +318,9 @@
       "url": "https://github.com/crazy-max/swarm-cronjob/releases/tag/v1.16.0"
     },
     "terraform": {
-      "version": "v1.16.5",
-      "gitref": "refs/tags/v1.16.5",
-      "url": "https://github.com/hashicorp/terraform/releases/tag/v1.16.5"
+      "version": "v1.16.6",
+      "gitref": "refs/tags/v1.16.6",
+      "url": "https://github.com/hashicorp/terraform/releases/tag/v1.16.6"
     },
     "tinyauth": {
       "version": "v5.2.0",
