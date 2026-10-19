@@ -135,15 +135,15 @@
       "url": "https://github.com/docker/cli/releases/tag/v29.9.1"
     },
     "dockhand": {
-      "version": "v1.0.53",
-      "gitref": "refs/tags/v1.0.53",
-      "url": "https://github.com/Finsys/dockhand/releases/tag/v1.0.53",
-      "creation_time": "2026-10-10T11:00:55Z"
+      "version": "v1.0.54",
+      "gitref": "refs/tags/v1.0.54",
+      "url": "https://github.com/Finsys/dockhand/releases/tag/v1.0.54",
+      "creation_time": "2026-10-17T07:39:57Z"
     },
     "fastapi": {
-      "version": "0.143.3",
-      "url": "https://pypi.org/project/fastapi/0.143.3/",
-      "creation_time": "2026-10-16T14:14:11.763072Z"
+      "version": "0.147.0",
+      "url": "https://pypi.org/project/fastapi/0.147.0/",
+      "creation_time": "2026-10-19T09:48:53.747096Z"
     },
     "fd": {
       "version": "v10.5.0",
@@ -205,16 +205,16 @@
       "creation_time": "2026-10-15T16:42:41Z"
     },
     "home-assistant": {
-      "version": "2026.10.1",
-      "gitref": "refs/tags/2026.10.1",
-      "url": "https://github.com/home-assistant/core/releases/tag/2026.10.1",
-      "creation_time": "2026-10-10T16:14:23Z"
+      "version": "2026.10.2",
+      "gitref": "refs/tags/2026.10.2",
+      "url": "https://github.com/home-assistant/core/releases/tag/2026.10.2",
+      "creation_time": "2026-10-16T20:04:09Z"
     },
     "homepage": {
-      "version": "v2.5.0",
-      "gitref": "refs/tags/v2.5.0",
-      "url": "https://github.com/gethomepage/homepage/releases/tag/v2.5.0",
-      "creation_time": "2026-10-10T18:31:45Z"
+      "version": "v2.6.0",
+      "gitref": "refs/tags/v2.6.0",
+      "url": "https://github.com/gethomepage/homepage/releases/tag/v2.6.0",
+      "creation_time": "2026-10-17T05:33:51Z"
     },
     "insomnia": {
       "version": "core@13.3.1",
@@ -294,10 +294,10 @@
       "creation_time": "2025-10-02T23:08:44Z"
     },
     "pi-hole": {
-      "version": "v6.4.3",
-      "gitref": "refs/tags/v6.4.3",
-      "url": "https://github.com/pi-hole/pi-hole/releases/tag/v6.4.3",
-      "creation_time": "2026-07-06T20:42:05Z"
+      "version": "v6.5",
+      "gitref": "refs/tags/v6.5",
+      "url": "https://github.com/pi-hole/pi-hole/releases/tag/v6.5",
+      "creation_time": "2026-10-17T11:28:24Z"
     },
     "podman": {
       "version": "v6.1.4",
@@ -336,10 +336,10 @@
       "creation_time": "2026-07-14T12:34:45Z"
     },
     "pulumi": {
-      "version": "v3.269.0",
-      "gitref": "refs/tags/v3.269.0",
-      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.269.0",
-      "creation_time": "2026-10-16T14:58:00Z"
+      "version": "v3.270.0",
+      "gitref": "refs/tags/v3.270.0",
+      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.270.0",
+      "creation_time": "2026-10-16T20:28:10Z"
     },
     "qBittorrent": {
       "version": "release-5.3.0rc1",
