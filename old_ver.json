@@ -141,9 +141,9 @@
       "creation_time": "2026-10-17T07:39:57Z"
     },
     "fastapi": {
-      "version": "0.148.0",
-      "url": "https://pypi.org/project/fastapi/0.148.0/",
-      "creation_time": "2026-10-19T12:26:03.900747Z"
+      "version": "0.151.0",
+      "url": "https://pypi.org/project/fastapi/0.151.0/",
+      "creation_time": "2026-10-20T08:11:48.152151Z"
     },
     "fd": {
       "version": "v10.5.0",
@@ -157,10 +157,10 @@
       "creation_time": "2026-02-19T05:00:56.027585Z"
     },
     "freshrss": {
-      "version": "1.30.1",
-      "gitref": "refs/tags/1.30.1",
-      "url": "https://github.com/FreshRSS/FreshRSS/releases/tag/1.30.1",
-      "creation_time": "2026-10-05T19:40:00Z"
+      "version": "1.30.2",
+      "gitref": "refs/tags/1.30.2",
+      "url": "https://github.com/FreshRSS/FreshRSS/releases/tag/1.30.2",
+      "creation_time": "2026-10-19T20:57:49Z"
     },
     "fzf": {
       "version": "v0.74.5",
@@ -348,10 +348,10 @@
       "url": "https://github.com/qbittorrent/qBittorrent/releases/tag/release-5.3.0rc1"
     },
     "semaphore": {
-      "version": "v2.19.16",
-      "gitref": "refs/tags/v2.19.16",
-      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.19.16",
-      "creation_time": "2026-10-07T10:01:55Z"
+      "version": "v2.19.17",
+      "gitref": "refs/tags/v2.19.17",
+      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.19.17",
+      "creation_time": "2026-10-20T07:52:57Z"
     },
     "sentry": {
       "version": "26.10.0",
