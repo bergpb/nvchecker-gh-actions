@@ -141,9 +141,9 @@
       "creation_time": "2026-10-17T07:39:57Z"
     },
     "fastapi": {
-      "version": "0.151.0",
-      "url": "https://pypi.org/project/fastapi/0.151.0/",
-      "creation_time": "2026-10-20T08:11:48.152151Z"
+      "version": "0.154.0",
+      "url": "https://pypi.org/project/fastapi/0.154.0/",
+      "creation_time": "2026-10-20T15:47:48.852781Z"
     },
     "fd": {
       "version": "v10.5.0",
@@ -199,10 +199,10 @@
       "creation_time": "2026-10-13T13:05:15Z"
     },
     "homarr": {
-      "version": "v2.6.0",
-      "gitref": "refs/tags/v2.6.0",
-      "url": "https://github.com/homarr-labs/homarr/releases/tag/v2.6.0",
-      "creation_time": "2026-10-15T16:42:41Z"
+      "version": "v2.7.0",
+      "gitref": "refs/tags/v2.7.0",
+      "url": "https://github.com/homarr-labs/homarr/releases/tag/v2.7.0",
+      "creation_time": "2026-10-20T15:50:03Z"
     },
     "home-assistant": {
       "version": "2026.10.2",
@@ -288,10 +288,10 @@
       "url": "https://github.com/lilydjwg/nvchecker/releases/tag/v2.22"
     },
     "omni-tools": {
-      "version": "v0.6.0",
-      "gitref": "refs/tags/v0.6.0",
-      "url": "https://github.com/iib0011/omni-tools/releases/tag/v0.6.0",
-      "creation_time": "2025-10-02T23:08:44Z"
+      "version": "v0.7.0",
+      "gitref": "refs/tags/v0.7.0",
+      "url": "https://github.com/iib0011/omni-tools/releases/tag/v0.7.0",
+      "creation_time": "2026-10-20T13:37:22Z"
     },
     "pi-hole": {
       "version": "v6.5",
@@ -342,10 +342,10 @@
       "creation_time": "2026-10-16T20:28:10Z"
     },
     "qBittorrent": {
-      "version": "release-5.3.0rc1",
-      "gitref": "refs/tags/release-5.3.0rc1",
-      "revision": "6ed6f8d53170b7cae6c7a692ded95fc3f9d715a7",
-      "url": "https://github.com/qbittorrent/qBittorrent/releases/tag/release-5.3.0rc1"
+      "version": "release-5.3.0",
+      "gitref": "refs/tags/release-5.3.0",
+      "revision": "05fcaa8f505f0657d5cd7b7c377282b63855e8ae",
+      "url": "https://github.com/qbittorrent/qBittorrent/releases/tag/release-5.3.0"
     },
     "semaphore": {
       "version": "v2.19.17",
