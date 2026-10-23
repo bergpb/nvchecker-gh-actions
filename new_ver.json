@@ -211,10 +211,10 @@
       "creation_time": "2026-10-16T20:04:09Z"
     },
     "homepage": {
-      "version": "v2.6.0",
-      "gitref": "refs/tags/v2.6.0",
-      "url": "https://github.com/gethomepage/homepage/releases/tag/v2.6.0",
-      "creation_time": "2026-10-17T05:33:51Z"
+      "version": "v2.7.0",
+      "gitref": "refs/tags/v2.7.0",
+      "url": "https://github.com/gethomepage/homepage/releases/tag/v2.7.0",
+      "creation_time": "2026-10-23T15:10:35Z"
     },
     "insomnia": {
       "version": "core@13.3.1",
