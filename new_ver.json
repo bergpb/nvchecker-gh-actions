@@ -83,10 +83,10 @@
       "creation_time": "2026-09-26T01:37:28Z"
     },
     "beszel": {
-      "version": "v0.21.0",
-      "gitref": "refs/tags/v0.21.0",
-      "url": "https://github.com/henrygd/beszel/releases/tag/v0.21.0",
-      "creation_time": "2026-10-02T17:34:33Z"
+      "version": "v0.21.1",
+      "gitref": "refs/tags/v0.21.1",
+      "url": "https://github.com/henrygd/beszel/releases/tag/v0.21.1",
+      "creation_time": "2026-10-22T17:24:08Z"
     },
     "bitwarden-desktop": {
       "version": "v2022.5.1",
@@ -135,15 +135,15 @@
       "url": "https://github.com/docker/cli/releases/tag/v29.9.2"
     },
     "dockhand": {
-      "version": "v1.0.54",
-      "gitref": "refs/tags/v1.0.54",
-      "url": "https://github.com/Finsys/dockhand/releases/tag/v1.0.54",
-      "creation_time": "2026-10-17T07:39:57Z"
+      "version": "v1.0.55",
+      "gitref": "refs/tags/v1.0.55",
+      "url": "https://github.com/Finsys/dockhand/releases/tag/v1.0.55",
+      "creation_time": "2026-10-23T08:28:55Z"
     },
     "fastapi": {
-      "version": "0.159.1",
-      "url": "https://pypi.org/project/fastapi/0.159.1/",
-      "creation_time": "2026-10-21T20:59:27.580381Z"
+      "version": "0.161.1",
+      "url": "https://pypi.org/project/fastapi/0.161.1/",
+      "creation_time": "2026-10-22T22:22:06.139305Z"
     },
     "fd": {
       "version": "v10.5.0",
@@ -199,10 +199,10 @@
       "creation_time": "2026-10-13T13:05:15Z"
     },
     "homarr": {
-      "version": "v2.7.0",
-      "gitref": "refs/tags/v2.7.0",
-      "url": "https://github.com/homarr-labs/homarr/releases/tag/v2.7.0",
-      "creation_time": "2026-10-20T15:50:03Z"
+      "version": "v2.8.1",
+      "gitref": "refs/tags/v2.8.1",
+      "url": "https://github.com/homarr-labs/homarr/releases/tag/v2.8.1",
+      "creation_time": "2026-10-23T07:28:20Z"
     },
     "home-assistant": {
       "version": "2026.10.2",
@@ -223,10 +223,10 @@
       "creation_time": "2026-10-09T07:35:39Z"
     },
     "jellyfin": {
-      "version": "v12.2",
-      "gitref": "refs/tags/v12.2",
-      "url": "https://github.com/jellyfin/jellyfin/releases/tag/v12.2",
-      "creation_time": "2026-10-05T23:07:59Z"
+      "version": "v12.3",
+      "gitref": "refs/tags/v12.3",
+      "url": "https://github.com/jellyfin/jellyfin/releases/tag/v12.3",
+      "creation_time": "2026-10-23T00:30:06Z"
     },
     "jellyseerr": {
       "version": "v3.5.1",
@@ -336,10 +336,10 @@
       "creation_time": "2026-07-14T12:34:45Z"
     },
     "pulumi": {
-      "version": "v3.271.0",
-      "gitref": "refs/tags/v3.271.0",
-      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.271.0",
-      "creation_time": "2026-10-21T17:20:09Z"
+      "version": "v3.272.0",
+      "gitref": "refs/tags/v3.272.0",
+      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.272.0",
+      "creation_time": "2026-10-22T21:29:34Z"
     },
     "qBittorrent": {
       "version": "release-5.3.0",
@@ -401,16 +401,16 @@
       "creation_time": "2026-10-20T15:19:30Z"
     },
     "umami": {
-      "version": "v3.4.0",
-      "gitref": "refs/tags/v3.4.0",
-      "url": "https://github.com/umami-software/umami/releases/tag/v3.4.0",
-      "creation_time": "2026-09-17T04:21:49Z"
+      "version": "v3.4.1",
+      "gitref": "refs/tags/v3.4.1",
+      "url": "https://github.com/umami-software/umami/releases/tag/v3.4.1",
+      "creation_time": "2026-10-23T08:26:44Z"
     },
     "uptime-kuma": {
-      "version": "2.5.6",
-      "gitref": "refs/tags/2.5.6",
-      "url": "https://github.com/louislam/uptime-kuma/releases/tag/2.5.6",
-      "creation_time": "2026-10-09T15:46:26Z"
+      "version": "2.5.7",
+      "gitref": "refs/tags/2.5.7",
+      "url": "https://github.com/louislam/uptime-kuma/releases/tag/2.5.7",
+      "creation_time": "2026-10-23T05:16:17Z"
     },
     "vaultwarden": {
       "version": "1.37.4",
