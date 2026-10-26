@@ -141,9 +141,9 @@
       "creation_time": "2026-10-23T08:28:55Z"
     },
     "fastapi": {
-      "version": "0.161.1",
-      "url": "https://pypi.org/project/fastapi/0.161.1/",
-      "creation_time": "2026-10-22T22:22:06.139305Z"
+      "version": "0.162.0",
+      "url": "https://pypi.org/project/fastapi/0.162.0/",
+      "creation_time": "2026-10-23T18:47:31.734776Z"
     },
     "fd": {
       "version": "v10.5.0",
@@ -193,22 +193,22 @@
       "creation_time": "2026-09-16T18:34:56Z"
     },
     "headscale": {
-      "version": "v0.29.5",
-      "gitref": "refs/tags/v0.29.5",
-      "url": "https://github.com/juanfont/headscale/releases/tag/v0.29.5",
-      "creation_time": "2026-10-13T13:05:15Z"
+      "version": "v0.29.6",
+      "gitref": "refs/tags/v0.29.6",
+      "url": "https://github.com/juanfont/headscale/releases/tag/v0.29.6",
+      "creation_time": "2026-10-24T10:29:04Z"
     },
     "homarr": {
-      "version": "v2.8.1",
-      "gitref": "refs/tags/v2.8.1",
-      "url": "https://github.com/homarr-labs/homarr/releases/tag/v2.8.1",
-      "creation_time": "2026-10-23T07:28:20Z"
+      "version": "v2.9.1",
+      "gitref": "refs/tags/v2.9.1",
+      "url": "https://github.com/homarr-labs/homarr/releases/tag/v2.9.1",
+      "creation_time": "2026-10-25T07:29:19Z"
     },
     "home-assistant": {
-      "version": "2026.10.2",
-      "gitref": "refs/tags/2026.10.2",
-      "url": "https://github.com/home-assistant/core/releases/tag/2026.10.2",
-      "creation_time": "2026-10-16T20:04:09Z"
+      "version": "2026.10.4",
+      "gitref": "refs/tags/2026.10.4",
+      "url": "https://github.com/home-assistant/core/releases/tag/2026.10.4",
+      "creation_time": "2026-10-24T20:03:14Z"
     },
     "homepage": {
       "version": "v2.7.0",
@@ -270,10 +270,10 @@
       "creation_time": "2025-04-03T02:05:00Z"
     },
     "meilisearch": {
-      "version": "v1.55.0",
-      "gitref": "refs/tags/v1.55.0",
-      "url": "https://github.com/meilisearch/meilisearch/releases/tag/v1.55.0",
-      "creation_time": "2026-10-12T09:21:50Z"
+      "version": "v1.56.0",
+      "gitref": "refs/tags/v1.56.0",
+      "url": "https://github.com/meilisearch/meilisearch/releases/tag/v1.56.0",
+      "creation_time": "2026-10-26T09:51:16Z"
     },
     "minio": {
       "version": "RELEASE.2025-10-15T17-29-55Z",
@@ -372,10 +372,10 @@
       "creation_time": "2026-10-22T10:50:26Z"
     },
     "swarm-cronjob": {
-      "version": "v1.16.0",
-      "gitref": "refs/tags/v1.16.0",
-      "url": "https://github.com/crazy-max/swarm-cronjob/releases/tag/v1.16.0",
-      "creation_time": "2026-04-23T20:21:46Z"
+      "version": "v1.16.1",
+      "gitref": "refs/tags/v1.16.1",
+      "url": "https://github.com/crazy-max/swarm-cronjob/releases/tag/v1.16.1",
+      "creation_time": "2026-10-24T15:21:17Z"
     },
     "terraform": {
       "version": "v1.17.0",
