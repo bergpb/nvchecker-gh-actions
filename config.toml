@@ -43,6 +43,21 @@ source = "github"
 github = "containers/skopeo"
 use_latest_release = true
 
+[free-my-tv]
+source = "github"
+github = "simbasjungles/free-my-tv"
+use_latest_release = true
+
+[simpleui]
+source = "github"
+github = "doctorhetfield-cmd/simpleui.koplugin"
+use_latest_release = true
+
+[cleanyourtv]
+source = "github"
+github = "Gathin23/cleanyourtv"
+use_latest_release = true
+
 # --------------------------------------------------
 # CLI tools
 
