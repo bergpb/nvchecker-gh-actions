@@ -193,10 +193,10 @@
       "creation_time": "2026-09-15T18:20:20Z"
     },
     "grafana": {
-      "version": "v13.2.4",
-      "gitref": "refs/tags/v13.2.4",
-      "url": "https://github.com/grafana/grafana/releases/tag/v13.2.4",
-      "creation_time": "2026-10-13T11:41:03Z"
+      "version": "v13.3.0",
+      "gitref": "refs/tags/v13.3.0",
+      "url": "https://github.com/grafana/grafana/releases/tag/v13.3.0",
+      "creation_time": "2026-10-27T11:08:50Z"
     },
     "hatch": {
       "version": "hatch-v1.18.1",
@@ -235,10 +235,10 @@
       "creation_time": "2026-10-09T07:35:39Z"
     },
     "jellyfin": {
-      "version": "v12.3",
-      "gitref": "refs/tags/v12.3",
-      "url": "https://github.com/jellyfin/jellyfin/releases/tag/v12.3",
-      "creation_time": "2026-10-23T00:30:06Z"
+      "version": "v12.4",
+      "gitref": "refs/tags/v12.4",
+      "url": "https://github.com/jellyfin/jellyfin/releases/tag/v12.4",
+      "creation_time": "2026-10-26T21:30:17Z"
     },
     "jellyseerr": {
       "version": "v3.5.1",
@@ -425,10 +425,10 @@
       "creation_time": "2026-10-23T08:26:44Z"
     },
     "uptime-kuma": {
-      "version": "2.5.7",
-      "gitref": "refs/tags/2.5.7",
-      "url": "https://github.com/louislam/uptime-kuma/releases/tag/2.5.7",
-      "creation_time": "2026-10-23T05:16:17Z"
+      "version": "2.5.8",
+      "gitref": "refs/tags/2.5.8",
+      "url": "https://github.com/louislam/uptime-kuma/releases/tag/2.5.8",
+      "creation_time": "2026-10-26T17:12:57Z"
     },
     "vaultwarden": {
       "version": "1.37.4",
