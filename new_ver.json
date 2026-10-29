@@ -118,10 +118,10 @@
       "creation_time": "2026-10-21T14:43:03Z"
     },
     "cleanyourtv": {
-      "version": "v3.1.0",
-      "gitref": "refs/tags/v3.1.0",
-      "url": "https://github.com/Gathin23/cleanyourtv/releases/tag/v3.1.0",
-      "creation_time": "2026-10-27T14:27:24Z"
+      "version": "v3.2.0",
+      "gitref": "refs/tags/v3.2.0",
+      "url": "https://github.com/Gathin23/cleanyourtv/releases/tag/v3.2.0",
+      "creation_time": "2026-10-29T13:25:00Z"
     },
     "compose": {
       "version": "v5.6.1",
