@@ -141,10 +141,10 @@
       "url": "https://github.com/docker/cli/releases/tag/v29.9.2"
     },
     "dockhand": {
-      "version": "v1.0.55",
-      "gitref": "refs/tags/v1.0.55",
-      "url": "https://github.com/Finsys/dockhand/releases/tag/v1.0.55",
-      "creation_time": "2026-10-23T08:28:55Z"
+      "version": "v1.0.56",
+      "gitref": "refs/tags/v1.0.56",
+      "url": "https://github.com/Finsys/dockhand/releases/tag/v1.0.56",
+      "creation_time": "2026-10-30T09:36:36Z"
     },
     "fastapi": {
       "version": "0.162.0",
@@ -205,10 +205,10 @@
       "creation_time": "2026-10-28T02:40:34Z"
     },
     "headscale": {
-      "version": "v0.29.6",
-      "gitref": "refs/tags/v0.29.6",
-      "url": "https://github.com/juanfont/headscale/releases/tag/v0.29.6",
-      "creation_time": "2026-10-24T10:29:04Z"
+      "version": "v0.29.7",
+      "gitref": "refs/tags/v0.29.7",
+      "url": "https://github.com/juanfont/headscale/releases/tag/v0.29.7",
+      "creation_time": "2026-10-30T09:55:40Z"
     },
     "homarr": {
       "version": "v2.9.1",
@@ -413,10 +413,10 @@
       "creation_time": "2026-10-21T15:30:05.528285Z"
     },
     "traefik": {
-      "version": "v3.7.16",
-      "gitref": "refs/tags/v3.7.16",
-      "url": "https://github.com/traefik/traefik/releases/tag/v3.7.16",
-      "creation_time": "2026-10-20T15:19:30Z"
+      "version": "v3.7.17",
+      "gitref": "refs/tags/v3.7.17",
+      "url": "https://github.com/traefik/traefik/releases/tag/v3.7.17",
+      "creation_time": "2026-10-30T08:32:41Z"
     },
     "umami": {
       "version": "v3.4.1",
