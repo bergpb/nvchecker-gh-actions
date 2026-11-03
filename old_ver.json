@@ -53,10 +53,10 @@
       "creation_time": "2026-10-06T18:51:32.421715Z"
     },
     "argocd": {
-      "version": "v3.5.6",
-      "gitref": "refs/tags/v3.5.6",
-      "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.5.6",
-      "creation_time": "2026-10-20T19:26:34Z"
+      "version": "v3.5.7",
+      "gitref": "refs/tags/v3.5.7",
+      "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.5.7",
+      "creation_time": "2026-11-02T20:14:51Z"
     },
     "awx": {
       "version": "24.6.1",
@@ -259,9 +259,9 @@
       "creation_time": "2026-06-06T14:13:12Z"
     },
     "kombu": {
-      "version": "5.6.2",
-      "url": "https://pypi.org/project/kombu/5.6.2/",
-      "creation_time": "2025-12-29T20:30:05.740303Z"
+      "version": "5.7.0",
+      "url": "https://pypi.org/project/kombu/5.7.0/",
+      "creation_time": "2026-11-03T05:58:31.475156Z"
     },
     "lazydocker": {
       "version": "v0.25.2",
@@ -360,10 +360,10 @@
       "url": "https://github.com/qbittorrent/qBittorrent/releases/tag/release-5.3.0"
     },
     "semaphore": {
-      "version": "v2.19.17",
-      "gitref": "refs/tags/v2.19.17",
-      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.19.17",
-      "creation_time": "2026-10-20T07:52:57Z"
+      "version": "v2.19.18",
+      "gitref": "refs/tags/v2.19.18",
+      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.19.18",
+      "creation_time": "2026-11-02T20:50:30Z"
     },
     "sentry": {
       "version": "26.10.1",
