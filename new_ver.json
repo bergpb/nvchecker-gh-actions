@@ -53,10 +53,10 @@
       "creation_time": "2026-10-06T18:51:32.421715Z"
     },
     "argocd": {
-      "version": "v3.5.7",
-      "gitref": "refs/tags/v3.5.7",
-      "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.5.7",
-      "creation_time": "2026-11-02T20:14:51Z"
+      "version": "v3.6.0",
+      "gitref": "refs/tags/v3.6.0",
+      "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.6.0",
+      "creation_time": "2026-11-03T22:29:38Z"
     },
     "awx": {
       "version": "24.6.1",
@@ -135,16 +135,16 @@
       "creation_time": "2026-11-03T15:21:19.640897Z"
     },
     "docker-cli": {
-      "version": "v29.9.2",
-      "gitref": "refs/tags/v29.9.2",
-      "revision": "0cc0fc64632a9ee9cab5884b99fee3b43f08a3e2",
-      "url": "https://github.com/docker/cli/releases/tag/v29.9.2"
+      "version": "v29.9.3",
+      "gitref": "refs/tags/v29.9.3",
+      "revision": "5e262e04a65822eb2673011d866b422c8ce62595",
+      "url": "https://github.com/docker/cli/releases/tag/v29.9.3"
     },
     "dockhand": {
-      "version": "v1.0.56",
-      "gitref": "refs/tags/v1.0.56",
-      "url": "https://github.com/Finsys/dockhand/releases/tag/v1.0.56",
-      "creation_time": "2026-10-30T09:36:36Z"
+      "version": "v1.0.57",
+      "gitref": "refs/tags/v1.0.57",
+      "url": "https://github.com/Finsys/dockhand/releases/tag/v1.0.57",
+      "creation_time": "2026-11-04T06:57:02Z"
     },
     "fastapi": {
       "version": "0.162.0",
@@ -152,10 +152,10 @@
       "creation_time": "2026-10-23T18:47:31.734776Z"
     },
     "fd": {
-      "version": "v10.5.0",
-      "gitref": "refs/tags/v10.5.0",
-      "url": "https://github.com/sharkdp/fd/releases/tag/v10.5.0",
-      "creation_time": "2026-08-26T07:59:09Z"
+      "version": "v10.5.1",
+      "gitref": "refs/tags/v10.5.1",
+      "url": "https://github.com/sharkdp/fd/releases/tag/v10.5.1",
+      "creation_time": "2026-11-04T09:10:35Z"
     },
     "flask": {
       "version": "3.1.3",
