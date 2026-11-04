@@ -53,10 +53,10 @@
       "creation_time": "2026-10-06T18:51:32.421715Z"
     },
     "argocd": {
-      "version": "v3.6.0",
-      "gitref": "refs/tags/v3.6.0",
-      "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.6.0",
-      "creation_time": "2026-11-03T22:29:38Z"
+      "version": "v3.6.1",
+      "gitref": "refs/tags/v3.6.1",
+      "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.6.1",
+      "creation_time": "2026-11-04T14:20:31Z"
     },
     "awx": {
       "version": "24.6.1",
@@ -348,10 +348,10 @@
       "creation_time": "2026-07-14T12:34:45Z"
     },
     "pulumi": {
-      "version": "v3.273.0",
-      "gitref": "refs/tags/v3.273.0",
-      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.273.0",
-      "creation_time": "2026-10-28T19:51:35Z"
+      "version": "v3.274.0",
+      "gitref": "refs/tags/v3.274.0",
+      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.274.0",
+      "creation_time": "2026-11-04T12:04:08Z"
     },
     "qBittorrent": {
       "version": "release-5.3.0",
