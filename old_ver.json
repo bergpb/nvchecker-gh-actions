@@ -48,9 +48,9 @@
       "creation_time": "2026-08-30T08:24:15Z"
     },
     "ansible": {
-      "version": "14.5.0",
-      "url": "https://pypi.org/project/ansible/14.5.0/",
-      "creation_time": "2026-10-06T18:51:32.421715Z"
+      "version": "14.6.0",
+      "url": "https://pypi.org/project/ansible/14.6.0/",
+      "creation_time": "2026-11-04T20:12:10.583526Z"
     },
     "argocd": {
       "version": "v3.6.1",
@@ -211,16 +211,16 @@
       "creation_time": "2026-10-30T09:55:40Z"
     },
     "homarr": {
-      "version": "v2.10.1",
-      "gitref": "refs/tags/v2.10.1",
-      "url": "https://github.com/homarr-labs/homarr/releases/tag/v2.10.1",
-      "creation_time": "2026-10-30T22:17:01Z"
+      "version": "v2.11.1",
+      "gitref": "refs/tags/v2.11.1",
+      "url": "https://github.com/homarr-labs/homarr/releases/tag/v2.11.1",
+      "creation_time": "2026-11-05T06:53:04Z"
     },
     "home-assistant": {
-      "version": "2026.10.4",
-      "gitref": "refs/tags/2026.10.4",
-      "url": "https://github.com/home-assistant/core/releases/tag/2026.10.4",
-      "creation_time": "2026-10-24T20:03:14Z"
+      "version": "2026.11.0",
+      "gitref": "refs/tags/2026.11.0",
+      "url": "https://github.com/home-assistant/core/releases/tag/2026.11.0",
+      "creation_time": "2026-11-04T17:32:55Z"
     },
     "homepage": {
       "version": "v2.7.0",
