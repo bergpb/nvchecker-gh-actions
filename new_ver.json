@@ -13,9 +13,9 @@
       "creation_time": "2026-05-05T23:08:24.707665Z"
     },
     "Celery": {
-      "version": "5.6.3",
-      "url": "https://pypi.org/project/celery/5.6.3/",
-      "creation_time": "2026-03-26T12:14:49.491474Z"
+      "version": "5.7.0",
+      "url": "https://pypi.org/project/celery/5.7.0/",
+      "creation_time": "2026-11-05T15:14:17.649322Z"
     },
     "FlareSolverr": {
       "version": "v3.5.2",
@@ -118,10 +118,10 @@
       "creation_time": "2026-10-21T14:43:03Z"
     },
     "cleanyourtv": {
-      "version": "v3.3.0",
-      "gitref": "refs/tags/v3.3.0",
-      "url": "https://github.com/Gathin23/cleanyourtv/releases/tag/v3.3.0",
-      "creation_time": "2026-11-01T14:08:21Z"
+      "version": "v3.4.0",
+      "gitref": "refs/tags/v3.4.0",
+      "url": "https://github.com/Gathin23/cleanyourtv/releases/tag/v3.4.0",
+      "creation_time": "2026-11-05T14:36:13Z"
     },
     "compose": {
       "version": "v5.7.0",
