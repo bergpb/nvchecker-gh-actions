@@ -135,10 +135,10 @@
       "creation_time": "2026-11-03T15:21:19.640897Z"
     },
     "docker-cli": {
-      "version": "v29.9.3",
-      "gitref": "refs/tags/v29.9.3",
-      "revision": "5e262e04a65822eb2673011d866b422c8ce62595",
-      "url": "https://github.com/docker/cli/releases/tag/v29.9.3"
+      "version": "v29.10.0-rc.1",
+      "gitref": "refs/tags/v29.10.0-rc.1",
+      "revision": "93e8b7ff0d7ff8abf03dafadde8c755983d13243",
+      "url": "https://github.com/docker/cli/releases/tag/v29.10.0-rc.1"
     },
     "dockhand": {
       "version": "v1.0.57",
@@ -330,10 +330,10 @@
       "creation_time": "2026-10-21T23:20:29Z"
     },
     "prometheus": {
-      "version": "v3.15.1",
-      "gitref": "refs/tags/v3.15.1",
-      "url": "https://github.com/prometheus/prometheus/releases/tag/v3.15.1",
-      "creation_time": "2026-10-21T16:15:57Z"
+      "version": "v3.16.0",
+      "gitref": "refs/tags/v3.16.0",
+      "url": "https://github.com/prometheus/prometheus/releases/tag/v3.16.0",
+      "creation_time": "2026-11-05T16:06:52Z"
     },
     "prometheus-blackbox_exporter": {
       "version": "v0.29.1",
@@ -348,10 +348,10 @@
       "creation_time": "2026-07-14T12:34:45Z"
     },
     "pulumi": {
-      "version": "v3.274.0",
-      "gitref": "refs/tags/v3.274.0",
-      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.274.0",
-      "creation_time": "2026-11-04T12:04:08Z"
+      "version": "v3.274.1",
+      "gitref": "refs/tags/v3.274.1",
+      "url": "https://github.com/pulumi/pulumi/releases/tag/v3.274.1",
+      "creation_time": "2026-11-05T16:58:45Z"
     },
     "qBittorrent": {
       "version": "release-5.3.0",
