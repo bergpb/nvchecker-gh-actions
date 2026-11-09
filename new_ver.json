@@ -147,15 +147,15 @@
       "creation_time": "2026-11-04T06:57:02Z"
     },
     "fastapi": {
-      "version": "0.162.0",
-      "url": "https://pypi.org/project/fastapi/0.162.0/",
-      "creation_time": "2026-10-23T18:47:31.734776Z"
+      "version": "0.162.2",
+      "url": "https://pypi.org/project/fastapi/0.162.2/",
+      "creation_time": "2026-11-07T15:41:38.509078Z"
     },
     "fd": {
-      "version": "v10.5.1",
-      "gitref": "refs/tags/v10.5.1",
-      "url": "https://github.com/sharkdp/fd/releases/tag/v10.5.1",
-      "creation_time": "2026-11-04T09:10:35Z"
+      "version": "v10.5.2",
+      "gitref": "refs/tags/v10.5.2",
+      "url": "https://github.com/sharkdp/fd/releases/tag/v10.5.2",
+      "creation_time": "2026-11-07T07:23:35Z"
     },
     "flask": {
       "version": "3.1.3",
@@ -175,10 +175,10 @@
       "creation_time": "2026-10-21T20:45:47Z"
     },
     "fzf": {
-      "version": "v0.74.5",
-      "gitref": "refs/tags/v0.74.5",
-      "url": "https://github.com/junegunn/fzf/releases/tag/v0.74.5",
-      "creation_time": "2026-10-11T02:39:32Z"
+      "version": "v0.75.0",
+      "gitref": "refs/tags/v0.75.0",
+      "url": "https://github.com/junegunn/fzf/releases/tag/v0.75.0",
+      "creation_time": "2026-11-07T12:03:59Z"
     },
     "gatus": {
       "version": "v5.38.0",
@@ -211,10 +211,10 @@
       "creation_time": "2026-10-30T09:55:40Z"
     },
     "homarr": {
-      "version": "v2.11.1",
-      "gitref": "refs/tags/v2.11.1",
-      "url": "https://github.com/homarr-labs/homarr/releases/tag/v2.11.1",
-      "creation_time": "2026-11-05T06:53:04Z"
+      "version": "v2.12.0",
+      "gitref": "refs/tags/v2.12.0",
+      "url": "https://github.com/homarr-labs/homarr/releases/tag/v2.12.0",
+      "creation_time": "2026-11-06T23:03:49Z"
     },
     "home-assistant": {
       "version": "2026.11.0",
@@ -372,10 +372,10 @@
       "creation_time": "2026-10-29T00:46:59Z"
     },
     "simpleui": {
-      "version": "3.0.2",
-      "gitref": "refs/tags/3.0.2",
-      "url": "https://github.com/doctorhetfield-cmd/simpleui.koplugin/releases/tag/3.0.2",
-      "creation_time": "2026-10-30T15:18:48Z"
+      "version": "3.0.3",
+      "gitref": "refs/tags/3.0.3",
+      "url": "https://github.com/doctorhetfield-cmd/simpleui.koplugin/releases/tag/3.0.3",
+      "creation_time": "2026-11-07T11:54:32Z"
     },
     "skopeo": {
       "version": "v1.24.1",
