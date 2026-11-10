@@ -147,9 +147,9 @@
       "creation_time": "2026-11-04T06:57:02Z"
     },
     "fastapi": {
-      "version": "0.162.2",
-      "url": "https://pypi.org/project/fastapi/0.162.2/",
-      "creation_time": "2026-11-07T15:41:38.509078Z"
+      "version": "0.162.3",
+      "url": "https://pypi.org/project/fastapi/0.162.3/",
+      "creation_time": "2026-11-10T14:23:09.796336Z"
     },
     "fd": {
       "version": "v10.5.2",
