@@ -163,10 +163,10 @@
       "creation_time": "2026-02-19T05:00:56.027585Z"
     },
     "free-my-tv": {
-      "version": "v1.3.0",
-      "gitref": "refs/tags/v1.3.0",
-      "url": "https://github.com/simbasjungles/free-my-tv/releases/tag/v1.3.0",
-      "creation_time": "2026-10-28T21:59:06Z"
+      "version": "v1.4.0",
+      "gitref": "refs/tags/v1.4.0",
+      "url": "https://github.com/simbasjungles/free-my-tv/releases/tag/v1.4.0",
+      "creation_time": "2026-11-10T01:42:31Z"
     },
     "freshrss": {
       "version": "1.30.4",
@@ -217,10 +217,10 @@
       "creation_time": "2026-11-06T23:03:49Z"
     },
     "home-assistant": {
-      "version": "2026.11.0",
-      "gitref": "refs/tags/2026.11.0",
-      "url": "https://github.com/home-assistant/core/releases/tag/2026.11.0",
-      "creation_time": "2026-11-04T17:32:55Z"
+      "version": "2026.11.1",
+      "gitref": "refs/tags/2026.11.1",
+      "url": "https://github.com/home-assistant/core/releases/tag/2026.11.1",
+      "creation_time": "2026-11-09T18:52:28Z"
     },
     "homepage": {
       "version": "v2.7.0",
@@ -360,10 +360,10 @@
       "url": "https://github.com/qbittorrent/qBittorrent/releases/tag/release-5.3.0"
     },
     "semaphore": {
-      "version": "v2.19.18",
-      "gitref": "refs/tags/v2.19.18",
-      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.19.18",
-      "creation_time": "2026-11-02T20:50:30Z"
+      "version": "v2.20.23",
+      "gitref": "refs/tags/v2.20.23",
+      "url": "https://github.com/semaphoreui/semaphore/releases/tag/v2.20.23",
+      "creation_time": "2026-11-10T08:04:07Z"
     },
     "sentry": {
       "version": "26.10.1",
@@ -408,15 +408,15 @@
       "creation_time": "2026-09-07T17:15:01Z"
     },
     "tornado": {
-      "version": "6.6",
-      "url": "https://pypi.org/project/tornado/6.6/",
-      "creation_time": "2026-10-21T15:30:05.528285Z"
+      "version": "6.6.1",
+      "url": "https://pypi.org/project/tornado/6.6.1/",
+      "creation_time": "2026-11-09T21:08:22.475723Z"
     },
     "traefik": {
-      "version": "v3.7.17",
-      "gitref": "refs/tags/v3.7.17",
-      "url": "https://github.com/traefik/traefik/releases/tag/v3.7.17",
-      "creation_time": "2026-10-30T08:32:41Z"
+      "version": "v3.7.18",
+      "gitref": "refs/tags/v3.7.18",
+      "url": "https://github.com/traefik/traefik/releases/tag/v3.7.18",
+      "creation_time": "2026-11-10T08:23:37Z"
     },
     "umami": {
       "version": "v3.4.1",
