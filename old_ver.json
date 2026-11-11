@@ -124,10 +124,10 @@
       "creation_time": "2026-11-05T14:36:13Z"
     },
     "compose": {
-      "version": "v5.7.0",
-      "gitref": "refs/tags/v5.7.0",
-      "url": "https://github.com/docker/compose/releases/tag/v5.7.0",
-      "creation_time": "2026-11-02T15:01:54Z"
+      "version": "v5.7.1",
+      "gitref": "refs/tags/v5.7.1",
+      "url": "https://github.com/docker/compose/releases/tag/v5.7.1",
+      "creation_time": "2026-11-11T08:06:10Z"
     },
     "django": {
       "version": "6.1.3",
@@ -147,9 +147,9 @@
       "creation_time": "2026-11-04T06:57:02Z"
     },
     "fastapi": {
-      "version": "0.162.3",
-      "url": "https://pypi.org/project/fastapi/0.162.3/",
-      "creation_time": "2026-11-10T14:23:09.796336Z"
+      "version": "0.162.4",
+      "url": "https://pypi.org/project/fastapi/0.162.4/",
+      "creation_time": "2026-11-10T17:51:16.562878Z"
     },
     "fd": {
       "version": "v10.5.2",
@@ -193,10 +193,10 @@
       "creation_time": "2026-09-15T18:20:20Z"
     },
     "grafana": {
-      "version": "v13.3.0",
-      "gitref": "refs/tags/v13.3.0",
-      "url": "https://github.com/grafana/grafana/releases/tag/v13.3.0",
-      "creation_time": "2026-10-27T11:08:50Z"
+      "version": "v13.3.1",
+      "gitref": "refs/tags/v13.3.1",
+      "url": "https://github.com/grafana/grafana/releases/tag/v13.3.1",
+      "creation_time": "2026-11-10T21:31:44Z"
     },
     "hatch": {
       "version": "hatch-v1.18.2",
@@ -270,10 +270,10 @@
       "creation_time": "2026-04-19T02:54:16Z"
     },
     "linkwarden": {
-      "version": "v2.16.3",
-      "gitref": "refs/tags/v2.16.3",
-      "url": "https://github.com/linkwarden/linkwarden/releases/tag/v2.16.3",
-      "creation_time": "2026-09-09T21:34:39Z"
+      "version": "v2.17.0",
+      "gitref": "refs/tags/v2.17.0",
+      "url": "https://github.com/linkwarden/linkwarden/releases/tag/v2.17.0",
+      "creation_time": "2026-11-10T18:30:29Z"
     },
     "lunasea": {
       "version": "v11.0.0",
@@ -312,10 +312,10 @@
       "creation_time": "2026-10-17T11:28:24Z"
     },
     "podman": {
-      "version": "v6.1.4",
-      "gitref": "refs/tags/v6.1.4",
-      "url": "https://github.com/podman-container-tools/podman/releases/tag/v6.1.4",
-      "creation_time": "2026-10-12T20:59:46Z"
+      "version": "v6.2.0",
+      "gitref": "refs/tags/v6.2.0",
+      "url": "https://github.com/podman-container-tools/podman/releases/tag/v6.2.0",
+      "creation_time": "2026-11-10T20:01:54Z"
     },
     "podman-compose": {
       "version": "v1.6.0",
@@ -378,10 +378,10 @@
       "creation_time": "2026-11-07T11:54:32Z"
     },
     "skopeo": {
-      "version": "v1.24.1",
-      "gitref": "refs/tags/v1.24.1",
-      "url": "https://github.com/podman-container-tools/skopeo/releases/tag/v1.24.1",
-      "creation_time": "2026-09-16T14:23:31Z"
+      "version": "v1.25.1",
+      "gitref": "refs/tags/v1.25.1",
+      "url": "https://github.com/podman-container-tools/skopeo/releases/tag/v1.25.1",
+      "creation_time": "2026-11-10T18:28:24Z"
     },
     "speedtest-tracker": {
       "version": "v1.15.1",
@@ -396,10 +396,10 @@
       "creation_time": "2026-10-24T15:21:17Z"
     },
     "terraform": {
-      "version": "v1.17.1",
-      "gitref": "refs/tags/v1.17.1",
-      "url": "https://github.com/hashicorp/terraform/releases/tag/v1.17.1",
-      "creation_time": "2026-10-28T18:02:22Z"
+      "version": "v1.17.2",
+      "gitref": "refs/tags/v1.17.2",
+      "url": "https://github.com/hashicorp/terraform/releases/tag/v1.17.2",
+      "creation_time": "2026-11-11T11:56:51Z"
     },
     "tinyauth": {
       "version": "v5.2.0",
