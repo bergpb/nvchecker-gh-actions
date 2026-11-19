@@ -53,10 +53,10 @@
       "creation_time": "2026-11-17T17:42:04.303898Z"
     },
     "argocd": {
-      "version": "v3.6.1",
-      "gitref": "refs/tags/v3.6.1",
-      "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.6.1",
-      "creation_time": "2026-11-04T14:20:31Z"
+      "version": "v3.6.2",
+      "gitref": "refs/tags/v3.6.2",
+      "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.6.2",
+      "creation_time": "2026-11-18T19:55:54Z"
     },
     "awx": {
       "version": "24.6.1",
@@ -147,9 +147,9 @@
       "creation_time": "2026-11-16T09:24:46Z"
     },
     "fastapi": {
-      "version": "0.164.0",
-      "url": "https://pypi.org/project/fastapi/0.164.0/",
-      "creation_time": "2026-11-18T13:09:07.796215Z"
+      "version": "0.165.0",
+      "url": "https://pypi.org/project/fastapi/0.165.0/",
+      "creation_time": "2026-11-18T19:15:35.345110Z"
     },
     "fd": {
       "version": "v10.5.2",
@@ -324,10 +324,10 @@
       "creation_time": "2026-06-03T21:34:15Z"
     },
     "portainer": {
-      "version": "2.45.3",
-      "gitref": "refs/tags/2.45.3",
-      "url": "https://github.com/portainer/portainer/releases/tag/2.45.3",
-      "creation_time": "2026-10-21T23:20:29Z"
+      "version": "2.45.4",
+      "gitref": "refs/tags/2.45.4",
+      "url": "https://github.com/portainer/portainer/releases/tag/2.45.4",
+      "creation_time": "2026-11-18T20:13:36Z"
     },
     "prometheus": {
       "version": "v3.16.0",
