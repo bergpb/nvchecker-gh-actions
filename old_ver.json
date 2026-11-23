@@ -118,10 +118,10 @@
       "creation_time": "2026-11-11T16:23:39Z"
     },
     "cleanyourtv": {
-      "version": "v3.5.0",
-      "gitref": "refs/tags/v3.5.0",
-      "url": "https://github.com/Gathin23/cleanyourtv/releases/tag/v3.5.0",
-      "creation_time": "2026-11-14T12:41:45Z"
+      "version": "v3.6.0",
+      "gitref": "refs/tags/v3.6.0",
+      "url": "https://github.com/Gathin23/cleanyourtv/releases/tag/v3.6.0",
+      "creation_time": "2026-11-20T12:55:09Z"
     },
     "compose": {
       "version": "v5.8.0",
@@ -141,10 +141,10 @@
       "url": "https://github.com/docker/cli/releases/tag/v29.10.0"
     },
     "dockhand": {
-      "version": "v1.0.58",
-      "gitref": "refs/tags/v1.0.58",
-      "url": "https://github.com/Finsys/dockhand/releases/tag/v1.0.58",
-      "creation_time": "2026-11-16T09:24:46Z"
+      "version": "v1.0.59",
+      "gitref": "refs/tags/v1.0.59",
+      "url": "https://github.com/Finsys/dockhand/releases/tag/v1.0.59",
+      "creation_time": "2026-11-22T09:50:25Z"
     },
     "fastapi": {
       "version": "0.165.0",
@@ -169,10 +169,10 @@
       "creation_time": "2026-11-13T02:31:41Z"
     },
     "freshrss": {
-      "version": "1.30.4",
-      "gitref": "refs/tags/1.30.4",
-      "url": "https://github.com/FreshRSS/FreshRSS/releases/tag/1.30.4",
-      "creation_time": "2026-10-21T20:45:47Z"
+      "version": "1.31.0",
+      "gitref": "refs/tags/1.31.0",
+      "url": "https://github.com/FreshRSS/FreshRSS/releases/tag/1.31.0",
+      "creation_time": "2026-11-23T08:27:04Z"
     },
     "fzf": {
       "version": "v0.75.0",
@@ -211,10 +211,10 @@
       "creation_time": "2026-10-30T09:55:40Z"
     },
     "homarr": {
-      "version": "v2.13.1",
-      "gitref": "refs/tags/v2.13.1",
-      "url": "https://github.com/homarr-labs/homarr/releases/tag/v2.13.1",
-      "creation_time": "2026-11-14T10:47:11Z"
+      "version": "v2.14.0",
+      "gitref": "refs/tags/v2.14.0",
+      "url": "https://github.com/homarr-labs/homarr/releases/tag/v2.14.0",
+      "creation_time": "2026-11-20T17:55:26Z"
     },
     "home-assistant": {
       "version": "2026.11.2",
@@ -282,10 +282,10 @@
       "creation_time": "2025-04-03T02:05:00Z"
     },
     "meilisearch": {
-      "version": "v1.57.0",
-      "gitref": "refs/tags/v1.57.0",
-      "url": "https://github.com/meilisearch/meilisearch/releases/tag/v1.57.0",
-      "creation_time": "2026-11-16T09:22:49Z"
+      "version": "v1.58.0",
+      "gitref": "refs/tags/v1.58.0",
+      "url": "https://github.com/meilisearch/meilisearch/releases/tag/v1.58.0",
+      "creation_time": "2026-11-23T10:24:52Z"
     },
     "minio": {
       "version": "RELEASE.2025-10-15T17-29-55Z",
@@ -342,10 +342,10 @@
       "creation_time": "2026-10-21T18:44:19Z"
     },
     "prometheus-node_exporter": {
-      "version": "v1.13.0",
-      "gitref": "refs/tags/v1.13.0",
-      "url": "https://github.com/prometheus/node_exporter/releases/tag/v1.13.0",
-      "creation_time": "2026-11-18T12:16:52Z"
+      "version": "v1.13.1",
+      "gitref": "refs/tags/v1.13.1",
+      "url": "https://github.com/prometheus/node_exporter/releases/tag/v1.13.1",
+      "creation_time": "2026-11-19T20:29:54Z"
     },
     "pulumi": {
       "version": "v3.277.0",
