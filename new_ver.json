@@ -24,10 +24,10 @@
       "creation_time": "2026-09-12T01:23:38Z"
     },
     "Prowlarr": {
-      "version": "v3.0.2.5780",
-      "gitref": "refs/tags/v3.0.2.5780",
-      "url": "https://github.com/Prowlarr/Prowlarr/releases/tag/v3.0.2.5780",
-      "creation_time": "2026-11-16T18:25:56Z"
+      "version": "v3.1.0.5799",
+      "gitref": "refs/tags/v3.1.0.5799",
+      "url": "https://github.com/Prowlarr/Prowlarr/releases/tag/v3.1.0.5799",
+      "creation_time": "2026-11-23T20:17:35Z"
     },
     "Radarr": {
       "version": "v7.0.3.10918",
@@ -217,10 +217,10 @@
       "creation_time": "2026-11-20T17:55:26Z"
     },
     "home-assistant": {
-      "version": "2026.11.2",
-      "gitref": "refs/tags/2026.11.2",
-      "url": "https://github.com/home-assistant/core/releases/tag/2026.11.2",
-      "creation_time": "2026-11-16T20:03:59Z"
+      "version": "2026.11.3",
+      "gitref": "refs/tags/2026.11.3",
+      "url": "https://github.com/home-assistant/core/releases/tag/2026.11.3",
+      "creation_time": "2026-11-23T20:48:39Z"
     },
     "homepage": {
       "version": "v2.8.0",
@@ -354,10 +354,10 @@
       "creation_time": "2026-11-18T13:02:51Z"
     },
     "qBittorrent": {
-      "version": "release-5.3.0",
-      "gitref": "refs/tags/release-5.3.0",
-      "revision": "05fcaa8f505f0657d5cd7b7c377282b63855e8ae",
-      "url": "https://github.com/qbittorrent/qBittorrent/releases/tag/release-5.3.0"
+      "version": "release-5.3.1",
+      "gitref": "refs/tags/release-5.3.1",
+      "revision": "a9c7d3a041c82b86d54e11a80f9ad481a1d8756d",
+      "url": "https://github.com/qbittorrent/qBittorrent/releases/tag/release-5.3.1"
     },
     "semaphore": {
       "version": "v2.20.23",
