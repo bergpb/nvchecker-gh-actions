@@ -53,10 +53,10 @@
       "creation_time": "2026-11-17T17:42:04.303898Z"
     },
     "argocd": {
-      "version": "v3.6.2",
-      "gitref": "refs/tags/v3.6.2",
-      "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.6.2",
-      "creation_time": "2026-11-18T19:55:54Z"
+      "version": "v3.6.3",
+      "gitref": "refs/tags/v3.6.3",
+      "url": "https://github.com/argoproj/argo-cd/releases/tag/v3.6.3",
+      "creation_time": "2026-11-24T16:53:09Z"
     },
     "awx": {
       "version": "24.6.1",
@@ -135,10 +135,10 @@
       "creation_time": "2026-11-03T15:21:19.640897Z"
     },
     "docker-cli": {
-      "version": "v29.10.0",
-      "gitref": "refs/tags/v29.10.0",
-      "revision": "3a3b27796d0bf005766f65091bf927cf8c33b41f",
-      "url": "https://github.com/docker/cli/releases/tag/v29.10.0"
+      "version": "v29.10.1",
+      "gitref": "refs/tags/v29.10.1",
+      "revision": "b7c63747a1eab0165313e0c51c25afd82b3e0409",
+      "url": "https://github.com/docker/cli/releases/tag/v29.10.1"
     },
     "dockhand": {
       "version": "v1.0.59",
@@ -193,10 +193,10 @@
       "creation_time": "2026-09-15T18:20:20Z"
     },
     "grafana": {
-      "version": "v13.3.1",
-      "gitref": "refs/tags/v13.3.1",
-      "url": "https://github.com/grafana/grafana/releases/tag/v13.3.1",
-      "creation_time": "2026-11-10T21:31:44Z"
+      "version": "v13.3.2",
+      "gitref": "refs/tags/v13.3.2",
+      "url": "https://github.com/grafana/grafana/releases/tag/v13.3.2",
+      "creation_time": "2026-11-24T17:58:42Z"
     },
     "hatch": {
       "version": "hatch-v1.18.2",
@@ -229,10 +229,10 @@
       "creation_time": "2026-11-11T22:13:34Z"
     },
     "insomnia": {
-      "version": "core@13.4.0",
-      "gitref": "refs/tags/core@13.4.0",
-      "url": "https://github.com/Kong/insomnia/releases/tag/core%4013.4.0",
-      "creation_time": "2026-10-29T11:54:41Z"
+      "version": "core@13.5.0",
+      "gitref": "refs/tags/core@13.5.0",
+      "url": "https://github.com/Kong/insomnia/releases/tag/core%4013.5.0",
+      "creation_time": "2026-11-25T08:35:45Z"
     },
     "jellyfin": {
       "version": "v12.4",
@@ -312,10 +312,10 @@
       "creation_time": "2026-11-11T19:20:58Z"
     },
     "podman": {
-      "version": "v6.2.0",
-      "gitref": "refs/tags/v6.2.0",
-      "url": "https://github.com/podman-container-tools/podman/releases/tag/v6.2.0",
-      "creation_time": "2026-11-10T20:01:54Z"
+      "version": "v6.2.1",
+      "gitref": "refs/tags/v6.2.1",
+      "url": "https://github.com/podman-container-tools/podman/releases/tag/v6.2.1",
+      "creation_time": "2026-11-24T17:00:07Z"
     },
     "podman-compose": {
       "version": "v1.6.0",
